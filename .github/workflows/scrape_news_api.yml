@@ -1,0 +1,37 @@
+name: Scrape and Update News
+
+on:
+- workflow_dispatch
+  #schedule:
+    #- cron: '*/30 * * * *'  # Runs every 30 minutes
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Scrape news and update README
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: python ./scripts/scrape_news_api.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'arya-zs'
+          git config --global user.email 'arya.shah@zs.com'
+          git add README.md
+          git commit -m "Update news README"
+          git push
