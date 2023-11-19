@@ -1,11 +1,5 @@
 ## News for ZS Associates
 
-
-## News for Pharma
-
-
-## News for ZS Associates
-
 * [Stockbrokers to review global market trends at annual conference](https://punchng.com/stockbrokers-to-review-global-market-trends-at-annual-conference/)
 * [Demystifying AI: HSMAI’s Curate Preview](https://www.hospitalitynet.org/opinion/4118852.html)
 * [United Capital Management of KS Inc. Purchases 1,388 Shares of Zscaler, Inc. (NASDAQ:ZS)](https://www.etfdailynews.com/2023/10/30/united-capital-management-of-ks-inc-purchases-1388-shares-of-zscaler-inc-nasdaqzs/)
