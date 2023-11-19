@@ -1,8 +1,9 @@
 name: Scrape and Update News
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+ - workflow_dispatch
+  #schedule:
+    #- cron: '*/30 * * * *'  # Runs every 30 minutes
 
 jobs:
   scrape_and_update:
