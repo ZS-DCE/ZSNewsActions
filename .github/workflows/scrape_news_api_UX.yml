@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'arya-zs'
-          git config --global user.email 'arya.shah@zs.com'
+          git config --global user.name 'aryashah2k'
+          git config --global user.email 'arya.shah82@nmims.edu.in'
           git add README.md
           git commit -m "Update news README"
           git push
