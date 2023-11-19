@@ -22,7 +22,7 @@ api_key = os.environ.get('NEWS_API_KEY')  # Get API key from environment variabl
 if not api_key:
     raise Exception("No API key found. Set the NEWS_API_KEY environment variable.")
 
-keywords = ["ZS Associates", "Another Keyword"]
+keywords = ["Pharmaceutical Industry", "Life Sciences", "Medical Devices", "Healthcare Sector", "Pharma Market Trends", "FDA Regulations"]
 
 for keyword in keywords:
     articles = fetch_news(api_key, keyword)
