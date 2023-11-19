@@ -1,4 +1,4 @@
-name: [ARCHIVED]Scrape and Update News 
+name: ARCHIVED Scrape and Update News 
 
 on:
  - workflow_dispatch
