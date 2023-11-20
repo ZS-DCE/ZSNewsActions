@@ -4,8 +4,13 @@ import requests
 def fetch_news(api_key, keyword):
     url = f'https://newsapi.org/v2/everything?q={keyword}&pageSize=25&apiKey={api_key}'
     response = requests.get(url)
-    if response.status_code != 200:
+    
+    if response.status_code == 429:
+        print("Rate limit exceeded. Skipping this run.")
+        return []
+    elif response.status_code != 200:
         raise Exception(f"Error fetching news: {response.status_code}")
+
     data = response.json()
     return data['articles']
 
