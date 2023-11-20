@@ -1,32 +1,12 @@
 # Latest News
 
-## News for Pharmaceutical Industry
+## News for Pharmaceutical
 
-| Title | Source | Published |
-| ----- | ------ | --------- |
+| Title | Link |
+| ----- | ---- |
 
-## News for Life Sciences
+## News for Biotechnology
 
-| Title | Source | Published |
-| ----- | ------ | --------- |
-
-## News for Medical Devices
-
-| Title | Source | Published |
-| ----- | ------ | --------- |
-
-## News for Healthcare Sector
-
-| Title | Source | Published |
-| ----- | ------ | --------- |
-
-## News for Pharma Market Trends
-
-| Title | Source | Published |
-| ----- | ------ | --------- |
-
-## News for FDA Regulations
-
-| Title | Source | Published |
-| ----- | ------ | --------- |
+| Title | Link |
+| ----- | ---- |
 
