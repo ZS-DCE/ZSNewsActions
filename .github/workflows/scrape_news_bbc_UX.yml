@@ -1,0 +1,39 @@
+name: Scrape and Update News BBC
+
+on:
+- workflow_dispatch
+  #schedule:
+    #- cron: '*/30 * * * *'  # Runs every 30 minutes
+#on:
+  #schedule:
+    #- cron: '0 */4 * * *'  # Runs every 4 hours
+
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Scrape news and update README
+        run: python ./scripts/scrape_news_bbc.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'aryashah2k'
+          git config --global user.email 'arya.shah82@nmims.edu.in'
+          git add README.md
+          git commit -m "Update news README"
+          git push
