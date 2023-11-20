@@ -28,7 +28,7 @@ if not api_key:
 # Open the README.md file in write mode to refresh its content
 with open('README.md', 'w') as file:
     file.write('# Latest News\n\n')
-    keywords = ["Pharmaceutical Industry","New Drug Approvals","FDA Approval","Clinical Trials","Drug Development","Pharma Mergers & Acquisitions","Pharmaceutical Regulation","Drug Safety","Pharma Patent","Life Sciences","Biotechnology","Genomics","CRISPR","Bioinformatics","Molecular Biology","Cell Therapy","Precision Medicine","Life Science Research","Medical Devices","Medical Device Innovation","FDA Device Approval","Wearable Health Tech","Medical Imaging Technology","Surgical Instruments","Diagnostic Equipment","Healthcare Sector","Digital Health","Telemedicine","Healthcare Policy","Patient Care Innovation","Health Insurance","Public Health","Specific Therapeutic Areas","Oncology","Neurology","Cardiology","Immunology","Diabetes","Rare Diseases","Business and Market Trends","Pharma Market Trends","Biotech Startups","Healthcare Investment","Biopharma Partnerships","Pharmaceutical Marketing","Emerging Technologies","AI in Pharma","Machine Learning in Drug Discovery","Blockchain in Healthcare","3D Printing in Medicine","Regulatory and Compliance","FDA Regulations","EMA Guidelines","Clinical Trial Regulation","Healthcare Compliance"]  # Example keywords
+    keywords = ["Pharmaceutical Industry","New Drug Approvals","FDA Approval","Clinical Trials","Drug Development"]  # Example keywords
 
     for keyword in keywords:
         articles = fetch_news(api_key, keyword)
