@@ -28,7 +28,7 @@ if not api_key:
 # Open the README.md file in write mode to refresh its content
 with open('README.md', 'w') as file:
     file.write('# Latest News\n\n')
-    keywords = ["Pharmaceutical Industry","New Drug Approvals","FDA Approval","Clinical Trials","Drug Development"]  # Example keywords
+    keywords = ["Pharmaceutical Industry", "Life Sciences", "Medical Devices", "Healthcare Sector", "Pharma Market Trends", "FDA Regulations"]  # Example keywords
 
     for keyword in keywords:
         articles = fetch_news(api_key, keyword)
