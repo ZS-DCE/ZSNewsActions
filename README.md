@@ -37,6 +37,7 @@
 | [How Singapore is helping 'future-food' companies scale up](https://www.businessinsider.com/singapore-is-investing-in-the-food-tech-sector) | Business Insider | 2023-11-01 |
 | [The Youngest Daughter of the Sciences](https://www.laphamsquarterly.org/roundtable/youngest-daughter-sciences) | Laphamsquarterly.org | 2023-11-01 |
 | [French letters from Seven Years' War opened 250 years later](https://www.bbc.co.uk/news/world-europe-67341309) | BBC News | 2023-11-07 |
+| [How Nobel economists spend their $1 million winnings](https://www.businessinsider.com/how-nobel-prize-winner-economists-spend-winnings-2023-11) | Business Insider | 2023-11-20 |
 | [Mouse Mummies Show Life Persists in Mars-like Environment](https://www.scientificamerican.com/article/mouse-mummies-show-life-persists-in-mars-like-environment1/) | Scientific American | 2023-10-23 |
 | [Mouse Mummies Show Life Persists in Mars-like Environment](https://www.scientificamerican.com/article/mouse-mummies-show-life-persists-in-mars-like-environment/) | Scientific American | 2023-10-23 |
 | [F5: Mischa Couvrette’s Pandemic Project, Love of the Ocean + More](https://design-milk.com/f5-mischa-couvrettes-pandemic-project-love-of-the-ocean-more/) | Design-milk.com | 2023-11-03 |
@@ -48,8 +49,8 @@
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
 | [Indiana University To Invest $250 Million In Bioscience And Technology Initiatives](https://www.forbes.com/sites/michaeltnietzel/2023/11/03/indiana-university-will-invest-250-million-in-biosciences-and-technology-initiatives/) | Forbes | 2023-11-03 |
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
-| [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
 | [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
+| [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
 | [This teacher shortage solution has gone viral. But does it work?](https://www.npr.org/2023/10/26/1207073068/grow-your-own-teacher-solution-research) | NPR | 2023-10-26 |
 | [Is diabetes at an early age cutting your life short? Lancet study tracks risk through decades of a lifetime](https://indianexpress.com/article/health-wellness/diabetes-early-age-lancet-study-8991856/) | The Indian Express | 2023-10-20 |
 | [Q&A: Do we need a new approach to prevent bird window strikes?](https://phys.org/news/2023-10-qa-approach-bird-window.html) | Phys.Org | 2023-10-23 |
@@ -58,7 +59,6 @@
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
-| [Observation of a virus attaching to another virus](https://www.sciencedaily.com/releases/2023/11/231102135214.htm) | Science Daily | 2023-11-02 |
 
 ## News for Medical Devices
 
