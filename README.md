@@ -49,8 +49,8 @@
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
 | [Indiana University To Invest $250 Million In Bioscience And Technology Initiatives](https://www.forbes.com/sites/michaeltnietzel/2023/11/03/indiana-university-will-invest-250-million-in-biosciences-and-technology-initiatives/) | Forbes | 2023-11-03 |
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
-| [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
 | [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
+| [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
 | [This teacher shortage solution has gone viral. But does it work?](https://www.npr.org/2023/10/26/1207073068/grow-your-own-teacher-solution-research) | NPR | 2023-10-26 |
 | [Is diabetes at an early age cutting your life short? Lancet study tracks risk through decades of a lifetime](https://indianexpress.com/article/health-wellness/diabetes-early-age-lancet-study-8991856/) | The Indian Express | 2023-10-20 |
 | [Q&A: Do we need a new approach to prevent bird window strikes?](https://phys.org/news/2023-10-qa-approach-bird-window.html) | Phys.Org | 2023-10-23 |
@@ -107,8 +107,8 @@
 | [I moved to Denver and regretted it because it was freezing, expensive, and hard to make friends. I'm much happier now living in Spain.](https://www.businessinsider.com/moved-to-denver-colorado-and-regretted-it-2023-11) | Business Insider | 2023-11-01 |
 | [BlackCat plays with malvertising traps to lure corporate victims](https://www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/) | Theregister.com | 2023-11-16 |
 | [HealthTech's Role In Self-Care In The Era Of Google And AI](https://www.forbes.com/sites/forbestechcouncil/2023/11/06/healthtechs-role-in-self-care-in-the-era-of-google-and-ai/) | Forbes | 2023-11-06 |
-| [One in four Americans have had their health data compromised this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235) | Quartz India | 2023-10-20 |
 | [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
+| [One in four Americans have had their health data compromised this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235) | Quartz India | 2023-10-20 |
 | [Ransomware attacks are devastating healthcare - and things are only getting worse](https://www.techradar.com/pro/security/ransomware-attacks-are-devastating-healthcare-and-things-are-only-getting-worse) | TechRadar | 2023-11-03 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
