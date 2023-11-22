@@ -28,7 +28,7 @@
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [A promising target to fight inflammatory bowel diseases](https://www.sciencedaily.com/releases/2023/10/231026131554.htm) | Science Daily | 2023-10-26 |
 | [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
-| [UNC3T and INTERPOL Awarded for Taking Down Piracy Group EVO](https://torrentfreak.com/unc3t-and-interpol-awarded-for-taking-down-piracy-group-evo-231021/) | Torrentfreak.com | 2023-10-21 |
+| [Financial Integration And Industry Collaboration Essential For Moving Sustainability Initiatives Forward](https://www.forbes.com/sites/jonchorley/2023/10/30/financial-integration-and-industry-collaboration-essential-for-moving-sustainability-initiatives-forward/) | Forbes | 2023-10-30 |
 
 ## News for Life Sciences
 
@@ -52,13 +52,13 @@
 | [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
 | [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
 | [This teacher shortage solution has gone viral. But does it work?](https://www.npr.org/2023/10/26/1207073068/grow-your-own-teacher-solution-research) | NPR | 2023-10-26 |
-| [Is diabetes at an early age cutting your life short? Lancet study tracks risk through decades of a lifetime](https://indianexpress.com/article/health-wellness/diabetes-early-age-lancet-study-8991856/) | The Indian Express | 2023-10-20 |
 | [Q&A: Do we need a new approach to prevent bird window strikes?](https://phys.org/news/2023-10-qa-approach-bird-window.html) | Phys.Org | 2023-10-23 |
-| [Perilous Joy: George Eliot and the marriage question](https://thepointmag.com/criticism/perilous-joy/) | Thepointmag.com | 2023-10-21 |
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
+| [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
+| [Observation of a virus attaching to another virus](https://www.sciencedaily.com/releases/2023/11/231102135214.htm) | Science Daily | 2023-11-02 |
 
 ## News for Medical Devices
 
@@ -71,7 +71,6 @@
 | [The unfulfilled promise of Apple’s healthcare efforts](https://readwrite.com/the-unfulfilled-promise-of-apples-healthcare-efforts/) | ReadWrite | 2023-11-02 |
 | [How Drug Makers Manipulate Patents to Keep Insulin Prices High](https://time.com/6336840/patent-manipulation-insulin-prices/) | Time | 2023-11-17 |
 | [Why the hospital pager withstood the test of time](https://healthtechmagazine.net/article/2019/06/why-hospital-pager-withstood-test-time) | Healthtechmagazine.net | 2023-10-21 |
-| [The Role of IoT in Providing Healthcare to the Aging Population](https://readwrite.com/the-role-of-iot-in-providing-healthcare-to-the-aging-population/) | ReadWrite | 2023-10-20 |
 | [Poison Specialist Accused Of Poisoning His Wife](https://www.huffpost.com/entry/poison-specialist-charged_n_6538f4e1e4b0c85561036ed6) | HuffPost | 2023-10-25 |
 | [I'm a cruise-ship doctor. My schedule is intense but it's worth it to see the world — and I get to bring my wife and son along.](https://www.businessinsider.com/working-on-cruise-ship-doctor-what-its-like-2023-11) | Business Insider | 2023-11-11 |
 | [A poison specialist is accused of killing his wife — by poisoning her](https://boingboing.net/2023/10/25/a-poison-specialist-is-accused-of-killing-his-wife-by-poisoning-her.html) | Boing Boing | 2023-10-25 |
@@ -89,6 +88,7 @@
 | [Wildfire detection concept wins Dezeen and Samsung's Re:Create Design Challenge](https://www.dezeen.com/2023/10/25/recreate-design-challenge-samsung-winners/) | Dezeen | 2023-10-25 |
 | [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [Judge rules in Prince Harry, Elton John's lawsuit against Daily Mail publisher](https://abcnews.go.com/GMA/Culture/judge-rules-prince-harry-elton-johns-lawsuit-daily/story?id=104771770) | ABC News | 2023-11-10 |
+| [Apple Watch making 'unmistakeable progress' in identifying Parkinson's disease](https://appleinsider.com/articles/23/10/25/apple-watch-making-unmistakeable-progress-in-identifying-parkinsons-disease) | AppleInsider | 2023-10-25 |
 
 ## News for Healthcare Sector
 
@@ -108,7 +108,6 @@
 | [BlackCat plays with malvertising traps to lure corporate victims](https://www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/) | Theregister.com | 2023-11-16 |
 | [HealthTech's Role In Self-Care In The Era Of Google And AI](https://www.forbes.com/sites/forbestechcouncil/2023/11/06/healthtechs-role-in-self-care-in-the-era-of-google-and-ai/) | Forbes | 2023-11-06 |
 | [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
-| [One in four Americans have had their health data compromised this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235) | Quartz India | 2023-10-20 |
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
 | [Ransomware attacks are devastating healthcare - and things are only getting worse](https://www.techradar.com/pro/security/ransomware-attacks-are-devastating-healthcare-and-things-are-only-getting-worse) | TechRadar | 2023-11-03 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
@@ -119,6 +118,7 @@
 | [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
 | [Remote access tool hacked by criminals to access healthcare providers](https://www.techradar.com/pro/security/remote-access-tool-hacked-by-criminals-to-access-healthcare-providers) | TechRadar | 2023-11-13 |
 | [CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector) | Cisa.gov | 2023-11-17 |
+| [AI In Healthcare: Four Key Directives From The Biden Administration](https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/) | Forbes | 2023-11-07 |
 
 ## News for Pharma Market Trends
 
@@ -154,11 +154,9 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [CVS removing decongestant from shelves after FDA panel says it's ineffective](https://abcnews.go.com/Health/cvs-removing-decongestant-shelves-after-fda-panel-ineffective/story?id=104176415) | ABC News | 2023-10-20 |
 | [Hair Straighteners and Relaxers May Be Harmful to Health. Here's How to Make Them Better](https://www.scientificamerican.com/article/hair-straighteners-and-relaxers-may-be-harmful-to-health-heres-how-to-make-them-better/) | Scientific American | 2023-11-14 |
 | [5 Foods That Don’t Legally Qualify As Foods At All](https://www.cracked.com/article_39928_5-foods-that-dont-legally-qualify-as-foods-at-all.html) | Cracked.com | 2023-10-22 |
 | [Even the Smartest VCs Sometimes Get it Wrong – Bill Gurley and Regulated Markets](https://steveblank.com/2023/11/07/even-the-smartest-vcs-sometimes-get-it-wrong-bill-gurley-and-regulated-markets/) | Steveblank.com | 2023-11-07 |
-| [These Decongestants Apparently Don’t Work. So Why Haven't Most Drugstores Removed Them Yet?](https://www.forbes.com/sites/conormurray/2023/10/20/these-decongestants-apparently-dont-work-so-why-havent-most-drugstores-removed-them-yet/) | Forbes | 2023-10-20 |
 | [Why Banning Menthol Cigarettes Could Do More Harm Than Good](https://www.forbes.com/sites/steveforbes/2023/11/17/why-banning-menthol-cigarettes-could-do-more-harm-than-good/) | Forbes | 2023-11-17 |
 | [3 Key Takeaways 12 Months On From Over-The-Counter Hearing Aids Becoming Available](https://www.forbes.com/sites/gusalexiou/2023/10/24/3-key-takeaways-12-months-on-from-over-the-counter-hearing-aids-becoming-available/) | Forbes | 2023-10-24 |
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
@@ -179,4 +177,6 @@
 | [Logan Paul and KSI are coming to Toronto](https://www.blogto.com/sports_play/2023/10/logan-paul-ksi-toronto/) | blogTO | 2023-10-27 |
 | [Federal Judge Enters Consent Decrees Against Utah-Based Dietary Supplement Distributor and Manufacturer of Balance of Nature Products](https://www.fda.gov/news-events/press-announcements/federal-judge-enters-consent-decrees-against-utah-based-dietary-supplement-distributor-and) | FDA.gov | 2023-11-16 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
+| [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 
