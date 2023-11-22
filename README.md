@@ -154,6 +154,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Say Goodbye to Those Absurd Side-Effects Readouts in Drug Commercials](https://gizmodo.com/fda-rule-prescription-drug-commercials-ads-side-effects-1851038494) | Gizmodo.com | 2023-11-21 |
 | [Hair Straighteners and Relaxers May Be Harmful to Health. Here's How to Make Them Better](https://www.scientificamerican.com/article/hair-straighteners-and-relaxers-may-be-harmful-to-health-heres-how-to-make-them-better/) | Scientific American | 2023-11-14 |
 | [5 Foods That Don’t Legally Qualify As Foods At All](https://www.cracked.com/article_39928_5-foods-that-dont-legally-qualify-as-foods-at-all.html) | Cracked.com | 2023-10-22 |
 | [Even the Smartest VCs Sometimes Get it Wrong – Bill Gurley and Regulated Markets](https://steveblank.com/2023/11/07/even-the-smartest-vcs-sometimes-get-it-wrong-bill-gurley-and-regulated-markets/) | Steveblank.com | 2023-11-07 |
@@ -178,5 +179,4 @@
 | [Federal Judge Enters Consent Decrees Against Utah-Based Dietary Supplement Distributor and Manufacturer of Balance of Nature Products](https://www.fda.gov/news-events/press-announcements/federal-judge-enters-consent-decrees-against-utah-based-dietary-supplement-distributor-and) | FDA.gov | 2023-11-16 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
-| [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 
