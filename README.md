@@ -40,6 +40,7 @@
 | [How Nobel economists spend their $1 million winnings](https://www.businessinsider.com/how-nobel-prize-winner-economists-spend-winnings-2023-11) | Business Insider | 2023-11-20 |
 | [Mouse Mummies Show Life Persists in Mars-like Environment](https://www.scientificamerican.com/article/mouse-mummies-show-life-persists-in-mars-like-environment1/) | Scientific American | 2023-10-23 |
 | [Mouse Mummies Show Life Persists in Mars-like Environment](https://www.scientificamerican.com/article/mouse-mummies-show-life-persists-in-mars-like-environment/) | Scientific American | 2023-10-23 |
+| [UK universities urged to reduce equity stakes in their spinouts](https://thenextweb.com/news/uk-universities-urged-reduce-equity-stakes-spinouts) | The Next Web | 2023-11-22 |
 | [F5: Mischa Couvrette’s Pandemic Project, Love of the Ocean + More](https://design-milk.com/f5-mischa-couvrettes-pandemic-project-love-of-the-ocean-more/) | Design-milk.com | 2023-11-03 |
 | [If Venus had plate tectonics, could it have had life?](https://www.futurity.org/venus-plate-tectonics-life-2992242-2/) | Futurity: Research News | 2023-10-27 |
 | [Danaher: Die kleine Berkshire Hathaway mit Fokus Gesundheit](https://www.faz.net/aktuell/finanzen/danaher-die-kleine-berkshire-hathaway-mit-fokus-gesundheit-19272410.html) | Faz.net | 2023-10-27 |
@@ -58,7 +59,6 @@
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
-| [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
 
 ## News for Medical Devices
 
@@ -98,6 +98,7 @@
 | [Amazon Expands Healthcare Push With One Medical Benefits For Prime Members](https://science.slashdot.org/story/23/11/09/0636221/amazon-expands-healthcare-push-with-one-medical-benefits-for-prime-members) | Slashdot.org | 2023-11-09 |
 | [Why strikes are working and which industries could be next](https://www.businessinsider.com/uaw-sagaftra-union-strikes-impact-pay-benefits-economy-healthcare-teachers-2023-11) | Business Insider | 2023-11-11 |
 | [Schools, hospitals, and construction: These are the jobs with labor shortages that could stick around for years](https://www.businessinsider.com/teacher-shortage-schools-nurses-daycare-costs-inflation-rate-retail-workers-2023-10) | Business Insider | 2023-10-28 |
+| [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
 | [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
@@ -118,7 +119,6 @@
 | [How To Cut Healthcare Costs](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/01/how-to-cut-healthcare-costs/) | Forbes | 2023-11-01 |
 | [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
 | [Remote access tool hacked by criminals to access healthcare providers](https://www.techradar.com/pro/security/remote-access-tool-hacked-by-criminals-to-access-healthcare-providers) | TechRadar | 2023-11-13 |
-| [CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector) | Cisa.gov | 2023-11-17 |
 
 ## News for Pharma Market Trends
 
