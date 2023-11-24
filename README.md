@@ -37,6 +37,7 @@
 | [How Singapore is helping 'future-food' companies scale up](https://www.businessinsider.com/singapore-is-investing-in-the-food-tech-sector) | Business Insider | 2023-11-01 |
 | [The Youngest Daughter of the Sciences](https://www.laphamsquarterly.org/roundtable/youngest-daughter-sciences) | Laphamsquarterly.org | 2023-11-01 |
 | [French letters from Seven Years' War opened 250 years later](https://www.bbc.co.uk/news/world-europe-67341309) | BBC News | 2023-11-07 |
+| [What to Expect from Virgin Galactic's Upgraded Spaceplane](https://gizmodo.com/virgin-galactic-delta-spaceplane-upgrade-profitability-1851042915) | Gizmodo.com | 2023-11-22 |
 | [How Nobel economists spend their $1 million winnings](https://www.businessinsider.com/how-nobel-prize-winner-economists-spend-winnings-2023-11) | Business Insider | 2023-11-20 |
 | [Mouse Mummies Show Life Persists in Mars-like Environment](https://www.scientificamerican.com/article/mouse-mummies-show-life-persists-in-mars-like-environment1/) | Scientific American | 2023-10-23 |
 | [Mouse Mummies Show Life Persists in Mars-like Environment](https://www.scientificamerican.com/article/mouse-mummies-show-life-persists-in-mars-like-environment/) | Scientific American | 2023-10-23 |
@@ -58,7 +59,6 @@
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
-| [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 
 ## News for Medical Devices
 
@@ -146,8 +146,8 @@
 | [Trade setup for Monday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-monday-15-things-to-know-before-opening-bell-5-11667381.html) | Moneycontrol | 2023-11-05 |
 | [Medical Cold Storage Market - Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030](https://www.globenewswire.com/news-release/2023/10/23/2764454/28124/en/Medical-Cold-Storage-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030.html) | GlobeNewswire | 2023-10-23 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
-| [Share Market Highlights 03 November 2023: Sensex gains 283 pts, Nifty closes above 19,200 on positive global trends](https://www.thehindubusinessline.com/markets/stock-market-highlights-03-november-2023/article67490339.ece) | BusinessLine | 2023-11-03 |
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
+| [Share Market Highlights 03 November 2023: Sensex gains 283 pts, Nifty closes above 19,200 on positive global trends](https://www.thehindubusinessline.com/markets/stock-market-highlights-03-november-2023/article67490339.ece) | BusinessLine | 2023-11-03 |
 | [Global Acetazolamide Market and Competition Analysis, 2023-2028, Featuring Accord Healthcare, Heritage Pharma, Nostrum Labs, and Taro Pharma Industries](https://www.globenewswire.com/news-release/2023/11/01/2771049/28124/en/Global-Acetazolamide-Market-and-Competition-Analysis-2023-2028-Featuring-Accord-Healthcare-Heritage-Pharma-Nostrum-Labs-and-Taro-Pharma-Industries.html) | GlobeNewswire | 2023-11-01 |
 
 ## News for FDA Regulations
