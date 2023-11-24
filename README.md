@@ -25,10 +25,10 @@
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
+| [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [A promising target to fight inflammatory bowel diseases](https://www.sciencedaily.com/releases/2023/10/231026131554.htm) | Science Daily | 2023-10-26 |
 | [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
-| [Financial Integration And Industry Collaboration Essential For Moving Sustainability Initiatives Forward](https://www.forbes.com/sites/jonchorley/2023/10/30/financial-integration-and-industry-collaboration-essential-for-moving-sustainability-initiatives-forward/) | Forbes | 2023-10-30 |
 
 ## News for Life Sciences
 
@@ -75,6 +75,7 @@
 | [A poison specialist is accused of killing his wife — by poisoning her](https://boingboing.net/2023/10/25/a-poison-specialist-is-accused-of-killing-his-wife-by-poisoning-her.html) | Boing Boing | 2023-10-25 |
 | [Potential Apple Watch Ban Issued by US Trade Tribunal in Masimo Patent Battle](https://www.macrumors.com/2023/10/27/us-trade-tribunal-apple-watch-ban-masimo/) | MacRumors | 2023-10-27 |
 | [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom) | Fsf.org | 2023-11-04 |
+| [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
 | [A video shows the IDF's elite helicopter search and rescue unit evacuating some of Israel's 260 soldiers wounded battling Hamas in Gaza](https://www.businessinsider.com/video-idf-search-rescue-evacuate-260-injured-soldiers-gaza-2023-11) | Business Insider | 2023-11-04 |
 | [Apple Watch Series 10 could borrow more health tricks from the Galaxy Watch 6](https://www.androidcentral.com/wearables/apple-watch-could-detect-blood-pressure-sleep-apnea-like-galaxy-watch) | Android Central | 2023-11-03 |
 | [How clean-air-tech companies are trying to change the way we breathe](https://www.businessinsider.com/clear-air-tech-companies-change-way-we-breathe-2023-11) | Business Insider | 2023-11-08 |
@@ -88,7 +89,6 @@
 | [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [Judge rules in Prince Harry, Elton John's lawsuit against Daily Mail publisher](https://abcnews.go.com/GMA/Culture/judge-rules-prince-harry-elton-johns-lawsuit-daily/story?id=104771770) | ABC News | 2023-11-10 |
 | [Apple Watch making 'unmistakeable progress' in identifying Parkinson's disease](https://appleinsider.com/articles/23/10/25/apple-watch-making-unmistakeable-progress-in-identifying-parkinsons-disease) | AppleInsider | 2023-10-25 |
-| [The first Apple Watch was supposed to launch with blood sugar monitoring; the health battle within Apple](https://9to5mac.com/2023/11/01/apple-watch-blood-sugar-monitoring/) | 9to5Mac | 2023-11-01 |
 
 ## News for Healthcare Sector
 
