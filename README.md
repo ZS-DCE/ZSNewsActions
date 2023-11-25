@@ -17,6 +17,7 @@
 | [How Generative AI Could Impact Research And Insights In The Pharmaceutical Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/31/how-generative-ai-could-impact-research-and-insights-in-the-pharmaceutical-industry/) | Forbes | 2023-10-31 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Aerogels freeze the costs of cold chain logistics](https://www.springwise.com/innovation/sustainability/aerogel-insulation-for-cold-chain-logistics-buildings-and-batteries/) | Springwise.com | 2023-11-17 |
+| [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
 | [Do or dye: Synthetic colors in wastewater pose a threat to food chains worldwide](https://phys.org/news/2023-10-dye-synthetic-wastewater-pose-threat.html) | Phys.Org | 2023-10-26 |
 | [Precision Cancer Drugs Glitter with Promise--If You Can Get Them](https://www.scientificamerican.com/article/precision-cancer-drugs-glitter-with-promise-if-you-can-get-them/) | Scientific American | 2023-11-03 |
 | [These Companies Think Legal Cocaine Energy Drinks Are the Future](https://www.vice.com/en/article/dy359m/legal-cocaine-safe-supply) | Vice News | 2023-11-02 |
@@ -28,7 +29,6 @@
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
-| [A promising target to fight inflammatory bowel diseases](https://www.sciencedaily.com/releases/2023/10/231026131554.htm) | Science Daily | 2023-10-26 |
 
 ## News for Life Sciences
 
@@ -114,11 +114,11 @@
 | [Ransomware attacks are devastating healthcare - and things are only getting worse](https://www.techradar.com/pro/security/ransomware-attacks-are-devastating-healthcare-and-things-are-only-getting-worse) | TechRadar | 2023-11-03 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
+| [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
 | [Why I’m striking: Meet the captain behind the US’s longest ongoing strike](https://www.aljazeera.com/features/2023/11/3/why-im-striking-the-captain-behind-the-us-longest-ongoing-strike) | Al Jazeera English | 2023-11-03 |
 | [Amazon Offers Prime Members a Discount For its Posh Healthcare Service](https://www.thedailyupside.com/technology/big-tech/amazon-offers-prime-members-a-discount-for-its-posh-healthcare-service/) | Thedailyupside.com | 2023-11-09 |
 | [How To Cut Healthcare Costs](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/01/how-to-cut-healthcare-costs/) | Forbes | 2023-11-01 |
 | [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
-| [Remote access tool hacked by criminals to access healthcare providers](https://www.techradar.com/pro/security/remote-access-tool-hacked-by-criminals-to-access-healthcare-providers) | TechRadar | 2023-11-13 |
 
 ## News for Pharma Market Trends
 
