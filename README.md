@@ -10,6 +10,7 @@
 | [Molecular science VR startup Nanome launches AI copilot MARA](https://venturebeat.com/ai/molecular-science-vr-startup-nanome-launches-ai-copilot-mara/) | VentureBeat | 2023-10-24 |
 | [Montana GOP Senate candidate would be in the top 10 richest lawmakers — and his investments are sure to irk some conservatives](https://www.businessinsider.com/tim-sheehy-montana-wealthy-republican-climate-change-china-investments-2023-11) | Business Insider | 2023-11-02 |
 | [Pain Hustlers review: Big pharma satire is a hard pill to swallow](https://www.avclub.com/pain-hustlers-movie-review-1850931526) | The A.V. Club | 2023-10-25 |
+| [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [AI turns the page on paper-based pharmaceutical compliance](https://www.springwise.com/innovation/health-wellbeing/ai-streamlines-pharmaceutical-manufacturing/) | Springwise.com | 2023-11-14 |
 | [Factoring In The Pharma Industry: Is It A True Need?](https://www.forbes.com/sites/forbesfinancecouncil/2023/11/01/factoring-in-the-pharma-industry-is-it-a-true-need/) | Forbes | 2023-11-01 |
 | [Using AI and machine learning to boost research into cultivated meat](https://www.springwise.com/innovation/food-drink/using-ai-and-machine-learning-to-boost-research-into-cultivated-meat/) | Springwise.com | 2023-10-31 |
@@ -28,7 +29,6 @@
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [A promising target to fight inflammatory bowel diseases](https://www.sciencedaily.com/releases/2023/10/231026131554.htm) | Science Daily | 2023-10-26 |
-| [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
 
 ## News for Life Sciences
 
@@ -81,8 +81,8 @@
 | [How clean-air-tech companies are trying to change the way we breathe](https://www.businessinsider.com/clear-air-tech-companies-change-way-we-breathe-2023-11) | Business Insider | 2023-11-08 |
 | [When Israel needs to fight Hamas in its tunnels, it turns to an elite band of commandos called the Yahalom unit](https://www.businessinsider.com/israel-uses-yahalom-unit-when-it-needs-to-fight-underground-2023-11) | Business Insider | 2023-11-06 |
 | [8 Common Things That Contribute to Insomnia and What to Do About It - CNET](https://www.cnet.com/health/sleep/8-common-things-that-contribute-to-insomnia-and-what-to-do-about-it/) | CNET | 2023-11-15 |
-| [What Amazon Prime Membership Gets You Beyond Free Delivery - CNET](https://www.cnet.com/tech/mobile/what-an-amazon-prime-membership-gets-you-beyond-free-delivery/) | CNET | 2023-11-09 |
 | [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html) | Utsouthwestern.edu | 2023-11-07 |
+| [What Amazon Prime Membership Gets You Beyond Free Delivery - CNET](https://www.cnet.com/tech/mobile/what-an-amazon-prime-membership-gets-you-beyond-free-delivery/) | CNET | 2023-11-09 |
 | [Former 'American Idol' star Jimmy Levy's backpack exploded into a 'ball of fire' just as his JetBlue flight was about to take off from JFK](https://www.businessinsider.com/former-american-idol-stars-backpack-explodes-on-jetblue-jfk-flight-2023-11) | Business Insider | 2023-11-04 |
 | [Elon Musk's brain-chip startup is preparing to implant the device in its first human. Here's how to apply.](https://www.businessinsider.com/how-to-apply-for-neuralink-human-trial-study-requirements-2023-11) | Business Insider | 2023-11-08 |
 | [Wildfire detection concept wins Dezeen and Samsung's Re:Create Design Challenge](https://www.dezeen.com/2023/10/25/recreate-design-challenge-samsung-winners/) | Dezeen | 2023-10-25 |
@@ -127,6 +127,7 @@
 | [New Report Highlights Pharma Commercial Model Requires An Urgent Overhaul](https://www.forbes.com/sites/ritanumerof/2023/10/25/new-report-highlights-pharma-commercial-model-requires-an-urgent-overhaul/) | Forbes | 2023-10-25 |
 | [Forbes Daily: Pfizer Stock Gets Dose Of Post-Covid Reality](https://www.forbes.com/sites/daniellechemtob/2023/11/14/forbes-daily-pfizer-stock-gets-dose-of-post-covid-reality/) | Forbes | 2023-11-14 |
 | [Expert advice: How important is a photographer’s location to their career?](https://www.diyphotography.net/expert-advice-how-important-is-a-photographers-location-to-their-career/) | DIYphotography | 2023-11-16 |
+| [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [Gland Pharma Q2 results: Net Profit down 20% to Rs 194 crore](https://www.moneycontrol.com/news/business/earnings/gland-pharma-q2-results-net-profit-down-20-to-rs-194-crore-11667251.html) | Moneycontrol | 2023-11-06 |
 | [Children’s Day: Titan, Canara Bank among top 12 stock ideas for your little one’s future](https://economictimes.indiatimes.com/markets/stocks/news/childrens-day-titan-canara-bank-among-top-12-stock-ideas-for-your-little-ones-future/articleshow/105199189.cms) | The Times of India | 2023-11-14 |
 | [Daily Voice | This investment professional lists 3 risks that may derail India growth story](https://www.moneycontrol.com/news/business/markets/daily-voice-this-investment-professional-lists-3-risks-that-may-derail-india-growth-story-11776731.html) | Moneycontrol | 2023-11-21 |
@@ -148,7 +149,6 @@
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Share Market Highlights 03 November 2023: Sensex gains 283 pts, Nifty closes above 19,200 on positive global trends](https://www.thehindubusinessline.com/markets/stock-market-highlights-03-november-2023/article67490339.ece) | BusinessLine | 2023-11-03 |
 | [Global Acetazolamide Market and Competition Analysis, 2023-2028, Featuring Accord Healthcare, Heritage Pharma, Nostrum Labs, and Taro Pharma Industries](https://www.globenewswire.com/news-release/2023/11/01/2771049/28124/en/Global-Acetazolamide-Market-and-Competition-Analysis-2023-2028-Featuring-Accord-Healthcare-Heritage-Pharma-Nostrum-Labs-and-Taro-Pharma-Industries.html) | GlobeNewswire | 2023-11-01 |
-| [Global Immunology Market Soars with Projected $56.07 Billion Growth by 2027, Fueled by Surging Cases of Infectious Diseases](https://www.globenewswire.com/news-release/2023/11/02/2772050/28124/en/Global-Immunology-Market-Soars-with-Projected-56-07-Billion-Growth-by-2027-Fueled-by-Surging-Cases-of-Infectious-Diseases.html) | GlobeNewswire | 2023-11-02 |
 
 ## News for FDA Regulations
 
