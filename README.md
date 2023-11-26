@@ -7,7 +7,6 @@
 | [Weight-loss drugs just got cheaper — and better](https://www.businessinsider.com/zepound-eli-lilly-weight-loss-drug-cost-cheaper-than-wegovy) | Business Insider | 2023-11-11 |
 | [Ozempic and other weight-loss drugs will power the anti-obesity market to 16-fold gains by 2030, Goldman Sachs says](https://markets.businessinsider.com/news/stocks/ozempic-anti-obesity-market-weight-loss-novo-nordisk-goldman-sachs-2023-11) | Business Insider | 2023-11-04 |
 | [23andMe to sell DNA records to drug company](https://boingboing.net/2023/10/30/23andme-to-sell-dna-records-to-drug-company.html) | Boing Boing | 2023-10-30 |
-| [Molecular science VR startup Nanome launches AI copilot MARA](https://venturebeat.com/ai/molecular-science-vr-startup-nanome-launches-ai-copilot-mara/) | VentureBeat | 2023-10-24 |
 | [Montana GOP Senate candidate would be in the top 10 richest lawmakers — and his investments are sure to irk some conservatives](https://www.businessinsider.com/tim-sheehy-montana-wealthy-republican-climate-change-china-investments-2023-11) | Business Insider | 2023-11-02 |
 | [Pain Hustlers review: Big pharma satire is a hard pill to swallow](https://www.avclub.com/pain-hustlers-movie-review-1850931526) | The A.V. Club | 2023-10-25 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
@@ -29,6 +28,7 @@
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
+| [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 
 ## News for Life Sciences
 
@@ -54,11 +54,11 @@
 | [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
 | [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
 | [This teacher shortage solution has gone viral. But does it work?](https://www.npr.org/2023/10/26/1207073068/grow-your-own-teacher-solution-research) | NPR | 2023-10-26 |
-| [Q&A: Do we need a new approach to prevent bird window strikes?](https://phys.org/news/2023-10-qa-approach-bird-window.html) | Phys.Org | 2023-10-23 |
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
+| [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
 
 ## News for Medical Devices
 
@@ -131,7 +131,6 @@
 | [Gland Pharma Q2 results: Net Profit down 20% to Rs 194 crore](https://www.moneycontrol.com/news/business/earnings/gland-pharma-q2-results-net-profit-down-20-to-rs-194-crore-11667251.html) | Moneycontrol | 2023-11-06 |
 | [Children’s Day: Titan, Canara Bank among top 12 stock ideas for your little one’s future](https://economictimes.indiatimes.com/markets/stocks/news/childrens-day-titan-canara-bank-among-top-12-stock-ideas-for-your-little-ones-future/articleshow/105199189.cms) | The Times of India | 2023-11-14 |
 | [Daily Voice | This investment professional lists 3 risks that may derail India growth story](https://www.moneycontrol.com/news/business/markets/daily-voice-this-investment-professional-lists-3-risks-that-may-derail-india-growth-story-11776731.html) | Moneycontrol | 2023-11-21 |
-| [Forbes Daily: Chevron Continues Big Oil’s Big Rush](https://www.forbes.com/sites/daniellechemtob/2023/10/24/forbes-daily-chevron-continues-big-oils-big-rush/) | Forbes | 2023-10-24 |
 | [M&M, Aurobindo Pharma, 3 other stocks cross 50-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/mm-aurobindo-pharma-3-other-stocks-cross-50-day-sma/articleshow/104699161.cms) | The Times of India | 2023-10-25 |
 | [Sun Pharma, Coforge, 5 other stocks surpass 100-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-coforge-5-other-stocks-surpass-100-day-sma/articleshow/104914288.cms) | The Times of India | 2023-11-02 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-5-11679101.html) | Moneycontrol | 2023-11-06 |
@@ -149,6 +148,7 @@
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Share Market Highlights 03 November 2023: Sensex gains 283 pts, Nifty closes above 19,200 on positive global trends](https://www.thehindubusinessline.com/markets/stock-market-highlights-03-november-2023/article67490339.ece) | BusinessLine | 2023-11-03 |
 | [Global Acetazolamide Market and Competition Analysis, 2023-2028, Featuring Accord Healthcare, Heritage Pharma, Nostrum Labs, and Taro Pharma Industries](https://www.globenewswire.com/news-release/2023/11/01/2771049/28124/en/Global-Acetazolamide-Market-and-Competition-Analysis-2023-2028-Featuring-Accord-Healthcare-Heritage-Pharma-Nostrum-Labs-and-Taro-Pharma-Industries.html) | GlobeNewswire | 2023-11-01 |
+| [Global Immunology Market Soars with Projected $56.07 Billion Growth by 2027, Fueled by Surging Cases of Infectious Diseases](https://www.globenewswire.com/news-release/2023/11/02/2772050/28124/en/Global-Immunology-Market-Soars-with-Projected-56-07-Billion-Growth-by-2027-Fueled-by-Surging-Cases-of-Infectious-Diseases.html) | GlobeNewswire | 2023-11-02 |
 
 ## News for FDA Regulations
 
@@ -158,7 +158,6 @@
 | [Hair Straighteners and Relaxers May Be Harmful to Health. Here's How to Make Them Better](https://www.scientificamerican.com/article/hair-straighteners-and-relaxers-may-be-harmful-to-health-heres-how-to-make-them-better/) | Scientific American | 2023-11-14 |
 | [Even the Smartest VCs Sometimes Get it Wrong – Bill Gurley and Regulated Markets](https://steveblank.com/2023/11/07/even-the-smartest-vcs-sometimes-get-it-wrong-bill-gurley-and-regulated-markets/) | Steveblank.com | 2023-11-07 |
 | [Why Banning Menthol Cigarettes Could Do More Harm Than Good](https://www.forbes.com/sites/steveforbes/2023/11/17/why-banning-menthol-cigarettes-could-do-more-harm-than-good/) | Forbes | 2023-11-17 |
-| [3 Key Takeaways 12 Months On From Over-The-Counter Hearing Aids Becoming Available](https://www.forbes.com/sites/gusalexiou/2023/10/24/3-key-takeaways-12-months-on-from-over-the-counter-hearing-aids-becoming-available/) | Forbes | 2023-10-24 |
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
 | [FTC Sees Red Over Alleged Misuse Of FDA Orange Book, Puts 10 Pharmas On Notice](https://medcitynews.com/2023/11/ftc-antitrust-regulation-orange-book-generic-competition-fda/) | MedCity News | 2023-11-10 |
 | [How to Start a Beverage Company](https://smallbiztrends.com/2023/11/how-to-start-a-beverage-company.html) | Small Business Trends | 2023-11-17 |
@@ -179,4 +178,5 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
+| [AI For Efficient Clinical Trials: It's Risky, But Optimism Rules](https://www.forbes.com/sites/forbestechcouncil/2023/11/14/ai-for-efficient-clinical-trials-its-risky-but-optimism-rules/) | Forbes | 2023-11-14 |
 
