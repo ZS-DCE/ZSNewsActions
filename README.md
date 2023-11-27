@@ -17,7 +17,6 @@
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Aerogels freeze the costs of cold chain logistics](https://www.springwise.com/innovation/sustainability/aerogel-insulation-for-cold-chain-logistics-buildings-and-batteries/) | Springwise.com | 2023-11-17 |
 | [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
-| [Do or dye: Synthetic colors in wastewater pose a threat to food chains worldwide](https://phys.org/news/2023-10-dye-synthetic-wastewater-pose-threat.html) | Phys.Org | 2023-10-26 |
 | [Precision Cancer Drugs Glitter with Promise--If You Can Get Them](https://www.scientificamerican.com/article/precision-cancer-drugs-glitter-with-promise-if-you-can-get-them/) | Scientific American | 2023-11-03 |
 | [These Companies Think Legal Cocaine Energy Drinks Are the Future](https://www.vice.com/en/article/dy359m/legal-cocaine-safe-supply) | Vice News | 2023-11-02 |
 | [Should We End Obesity?](https://time.com/6330809/ozempic-wegovy-mounjaro-healthy/) | Time | 2023-11-07 |
@@ -28,7 +27,8 @@
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
-| [A promising target to fight inflammatory bowel diseases](https://www.sciencedaily.com/releases/2023/10/231026131554.htm) | Science Daily | 2023-10-26 |
+| [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
+| [Financial Integration And Industry Collaboration Essential For Moving Sustainability Initiatives Forward](https://www.forbes.com/sites/jonchorley/2023/10/30/financial-integration-and-industry-collaboration-essential-for-moving-sustainability-initiatives-forward/) | Forbes | 2023-10-30 |
 
 ## News for Life Sciences
 
@@ -44,7 +44,6 @@
 | [If Venus had plate tectonics, could it have had life?](https://www.futurity.org/venus-plate-tectonics-life-2992242-2/) | Futurity: Research News | 2023-10-27 |
 | [Danaher: Die kleine Berkshire Hathaway mit Fokus Gesundheit](https://www.faz.net/aktuell/finanzen/danaher-die-kleine-berkshire-hathaway-mit-fokus-gesundheit-19272410.html) | Faz.net | 2023-10-27 |
 | [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
-| [Tech Bio: A Defining Opportunity For Life Sciences](https://www.forbes.com/sites/drkathmackay/2023/10/26/tech-bio-a-defining-opportunity-for-life-sciences/) | Forbes | 2023-10-26 |
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
 | [450M-year-old organism comes back to life in robot form](https://www.futurity.org/softbotics-robotics-fossils-pleurocystitids-2996262/) | Futurity: Research News | 2023-11-07 |
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
@@ -54,11 +53,12 @@
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
 | [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
 | [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
-| [This teacher shortage solution has gone viral. But does it work?](https://www.npr.org/2023/10/26/1207073068/grow-your-own-teacher-solution-research) | NPR | 2023-10-26 |
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
+| [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
+| [Iran secretly executes man over 2022 anti-government protests - sources](https://www.bbc.co.uk/news/world-middle-east-67512588) | BBC News | 2023-11-23 |
 
 ## News for Medical Devices
 
@@ -133,7 +133,6 @@
 | [Sun Pharma, Coforge, 5 other stocks surpass 100-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-coforge-5-other-stocks-surpass-100-day-sma/articleshow/104914288.cms) | The Times of India | 2023-11-02 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-5-11679101.html) | Moneycontrol | 2023-11-06 |
 | [Procurement pros invest in technology to improve business outcomes](https://www.digitalcommerce360.com/2023/11/21/amazon-business-procurement-study/) | DigitalCommerce360 | 2023-11-21 |
-| [If Nifty breaks 18,800 support, then it may fall another 300 points, says this technical analyst](https://www.moneycontrol.com/news/business/stocks/if-nifty-breaks-18800-support-then-it-may-fall-another-300-points-says-this-technical-analyst-11601231.html) | Moneycontrol | 2023-10-26 |
 | [Piramal Pharma, KNR Constructions, 5 other stocks cross 100-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/piramal-pharma-knr-constructions-5-other-stocks-cross-100-day-sma/articleshow/104889309.cms) | The Times of India | 2023-11-01 |
 | [Ozempic, Wegovy demand drives up illegal sales of weight-loss drugs](https://nypost.com/2023/11/01/business/ozempic-wegovy-demand-drives-up-illegal-sales-of-weight-loss-drugs/) | New York Post | 2023-11-01 |
 | [Mid-day Mood | Benchmarks retreat ahead of Fed decision; banks, LT top drags](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-retreat-ahead-of-fed-decision-banks-lt-top-drags-11641701.html) | Moneycontrol | 2023-11-01 |
@@ -149,6 +148,7 @@
 | [Global Immunology Market Soars with Projected $56.07 Billion Growth by 2027, Fueled by Surging Cases of Infectious Diseases](https://www.globenewswire.com/news-release/2023/11/02/2772050/28124/en/Global-Immunology-Market-Soars-with-Projected-56-07-Billion-Growth-by-2027-Fueled-by-Surging-Cases-of-Infectious-Diseases.html) | GlobeNewswire | 2023-11-02 |
 | [Pharmaceutical Lipids Market Size, Share, Trends, Outlook, and Forecasts 2023-2030 | According to RationalStat](https://www.globenewswire.com/news-release/2023/11/15/2780769/0/en/Pharmaceutical-Lipids-Market-Size-Share-Trends-Outlook-and-Forecasts-2023-2030-According-to-RationalStat.html) | GlobeNewswire | 2023-11-15 |
 | [FDA Removal of Zantac (Ranitidine) Products - Ranitidine Market Report, Market Analysis, Trends, Growth Opportunities, Forecast, 2023-2030](https://www.globenewswire.com/news-release/2023/11/01/2770808/0/en/FDA-Removal-of-Zantac-Ranitidine-Products-Ranitidine-Market-Report-Market-Analysis-Trends-Growth-Opportunities-Forecast-2023-2030.html) | GlobeNewswire | 2023-11-01 |
+| [Pharmaceutical Glass Ampoules Market Size Set to Double by 2030, Fairfield Market Research Projects US$5 Bn Revenue](https://www.globenewswire.com/news-release/2023/11/09/2777247/0/en/Pharmaceutical-Glass-Ampoules-Market-Size-Set-to-Double-by-2030-Fairfield-Market-Research-Projects-US-5-Bn-Revenue.html) | GlobeNewswire | 2023-11-09 |
 
 ## News for FDA Regulations
 
@@ -162,7 +162,6 @@
 | [FTC Sees Red Over Alleged Misuse Of FDA Orange Book, Puts 10 Pharmas On Notice](https://medcitynews.com/2023/11/ftc-antitrust-regulation-orange-book-generic-competition-fda/) | MedCity News | 2023-11-10 |
 | [How to Start a Beverage Company](https://smallbiztrends.com/2023/11/how-to-start-a-beverage-company.html) | Small Business Trends | 2023-11-17 |
 | [The Health Consequences of the Stimulant Shortage](https://www.psychologytoday.com/intl/blog/its-not-just-in-your-head/202310/the-health-consequences-of-the-stimulant-shortage) | Psychology Today | 2023-10-30 |
-| [How to Live Forever or Die Trying](https://www.gq.com/story/raadfest-live-forever-or-die-trying) | GQ Magazine | 2023-10-26 |
 | [FDA proposes banning ingredient found in some citrus-flavored sodas](https://www.cbsnews.com/news/fda-ban-brominated-vegetable-oil-citrus-flavored-soda/) | CBS News | 2023-11-03 |
 | [Navigating FDA Regulations: A Comprehensive Overview for MedTech Leaders](https://www.newsweek.com/navigating-fda-regulations-comprehensive-overview-medtech-leaders-1844024) | Newsweek | 2023-11-16 |
 | [FDA proposes ban on additive found in sodas: What to know about brominated vegetable oil](https://www.usatoday.com/story/news/nation/2023/11/03/fda-proposes-ban-brominated-vegetable-oil-soda-additive/71434489007/) | USA Today | 2023-11-03 |
@@ -179,4 +178,5 @@
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 | [AI For Efficient Clinical Trials: It's Risky, But Optimism Rules](https://www.forbes.com/sites/forbestechcouncil/2023/11/14/ai-for-efficient-clinical-trials-its-risky-but-optimism-rules/) | Forbes | 2023-11-14 |
+| [Moderna admits mRNA COVID jab causes CANCER, billions of DNA fragments found in vials](https://www.naturalnews.com/2023-11-17-moderna-admits-mrna-covid-vaccines-cancer-dna-fragments.html) | Naturalnews.com | 2023-11-17 |
 
