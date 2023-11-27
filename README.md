@@ -55,8 +55,8 @@
 | [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
 | [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
 | [This teacher shortage solution has gone viral. But does it work?](https://www.npr.org/2023/10/26/1207073068/grow-your-own-teacher-solution-research) | NPR | 2023-10-26 |
-| [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
+| [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 
@@ -66,6 +66,7 @@
 | ----- | ------ | --------- |
 | [MIT tests new ingestible sensor that record your breathing through your intestines](https://www.engadget.com/mit-tests-new-ingestible-sensor-that-record-your-breathing-through-your-intestines-224823353.html) | Engadget | 2023-11-17 |
 | [Gaza’s Main Hospital Goes Dark Amid Intense Fighting](https://time.com/6334030/gaza-hospital-electricity-outage-israel-hamas/) | Time | 2023-11-11 |
+| [In New Doctor’s Office, Stethoscope Wears You](https://hackaday.com/2023/11/26/in-new-doctors-office-stethoscope-wears-you/) | Hackaday | 2023-11-26 |
 | [Apple Gives iPhone 14 Users an Extra Year of Emergency SOS Via Satellite](https://gizmodo.com/apple-iphone-14-emergency-sos-satellite-1851025810) | Gizmodo.com | 2023-11-15 |
 | [Six things to know about the political debate around daylight saving time](https://www.npr.org/2023/11/02/1210212060/daylight-saving-time-states-2023) | NPR | 2023-11-02 |
 | [The unfulfilled promise of Apple’s healthcare efforts](https://readwrite.com/the-unfulfilled-promise-of-apples-healthcare-efforts/) | ReadWrite | 2023-11-02 |
@@ -88,7 +89,6 @@
 | [The first Apple Watch was supposed to launch with blood sugar monitoring; the health battle within Apple](https://9to5mac.com/2023/11/01/apple-watch-blood-sugar-monitoring/) | 9to5Mac | 2023-11-01 |
 | [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
 | [Why 7 million UK smart meters will stop working and what it will mean](https://www.newscientist.com/article/2399171-why-7-million-uk-smart-meters-will-stop-working-and-what-it-will-mean/) | New Scientist | 2023-10-27 |
-| [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
 
 ## News for Healthcare Sector
 
@@ -133,8 +133,8 @@
 | [Sun Pharma, Coforge, 5 other stocks surpass 100-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-coforge-5-other-stocks-surpass-100-day-sma/articleshow/104914288.cms) | The Times of India | 2023-11-02 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-5-11679101.html) | Moneycontrol | 2023-11-06 |
 | [Procurement pros invest in technology to improve business outcomes](https://www.digitalcommerce360.com/2023/11/21/amazon-business-procurement-study/) | DigitalCommerce360 | 2023-11-21 |
-| [If Nifty breaks 18,800 support, then it may fall another 300 points, says this technical analyst](https://www.moneycontrol.com/news/business/stocks/if-nifty-breaks-18800-support-then-it-may-fall-another-300-points-says-this-technical-analyst-11601231.html) | Moneycontrol | 2023-10-26 |
 | [Piramal Pharma, KNR Constructions, 5 other stocks cross 100-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/piramal-pharma-knr-constructions-5-other-stocks-cross-100-day-sma/articleshow/104889309.cms) | The Times of India | 2023-11-01 |
+| [If Nifty breaks 18,800 support, then it may fall another 300 points, says this technical analyst](https://www.moneycontrol.com/news/business/stocks/if-nifty-breaks-18800-support-then-it-may-fall-another-300-points-says-this-technical-analyst-11601231.html) | Moneycontrol | 2023-10-26 |
 | [Ozempic, Wegovy demand drives up illegal sales of weight-loss drugs](https://nypost.com/2023/11/01/business/ozempic-wegovy-demand-drives-up-illegal-sales-of-weight-loss-drugs/) | New York Post | 2023-11-01 |
 | [Mid-day Mood | Benchmarks retreat ahead of Fed decision; banks, LT top drags](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-retreat-ahead-of-fed-decision-banks-lt-top-drags-11641701.html) | Moneycontrol | 2023-11-01 |
 | [Media Briefing: Publishers are counting down to the end of Q4](http://digiday.com/media/media-briefing-publishers-are-counting-down-to-the-end-of-q4/) | Digiday | 2023-11-02 |
