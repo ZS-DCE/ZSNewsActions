@@ -109,8 +109,8 @@
 | [BlackCat plays with malvertising traps to lure corporate victims](https://www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/) | Theregister.com | 2023-11-16 |
 | [From black gold to green power: Texas, weirdly, is leading America's clean energy future](https://www.businessinsider.com/texas-green-power-energy-america-economy-wind-oil-solar-prices-2023-11) | Business Insider | 2023-11-21 |
 | [HealthTech's Role In Self-Care In The Era Of Google And AI](https://www.forbes.com/sites/forbestechcouncil/2023/11/06/healthtechs-role-in-self-care-in-the-era-of-google-and-ai/) | Forbes | 2023-11-06 |
-| [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
+| [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
 | [Ransomware attacks are devastating healthcare - and things are only getting worse](https://www.techradar.com/pro/security/ransomware-attacks-are-devastating-healthcare-and-things-are-only-getting-worse) | TechRadar | 2023-11-03 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
