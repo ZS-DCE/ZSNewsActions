@@ -8,7 +8,6 @@
 | [Ozempic and other weight-loss drugs will power the anti-obesity market to 16-fold gains by 2030, Goldman Sachs says](https://markets.businessinsider.com/news/stocks/ozempic-anti-obesity-market-weight-loss-novo-nordisk-goldman-sachs-2023-11) | Business Insider | 2023-11-04 |
 | [23andMe to sell DNA records to drug company](https://boingboing.net/2023/10/30/23andme-to-sell-dna-records-to-drug-company.html) | Boing Boing | 2023-10-30 |
 | [Montana GOP Senate candidate would be in the top 10 richest lawmakers — and his investments are sure to irk some conservatives](https://www.businessinsider.com/tim-sheehy-montana-wealthy-republican-climate-change-china-investments-2023-11) | Business Insider | 2023-11-02 |
-| [Pain Hustlers review: Big pharma satire is a hard pill to swallow](https://www.avclub.com/pain-hustlers-movie-review-1850931526) | The A.V. Club | 2023-10-25 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [AI turns the page on paper-based pharmaceutical compliance](https://www.springwise.com/innovation/health-wellbeing/ai-streamlines-pharmaceutical-manufacturing/) | Springwise.com | 2023-11-14 |
 | [Factoring In The Pharma Industry: Is It A True Need?](https://www.forbes.com/sites/forbesfinancecouncil/2023/11/01/factoring-in-the-pharma-industry-is-it-a-true-need/) | Forbes | 2023-11-01 |
@@ -29,6 +28,7 @@
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
+| [A promising target to fight inflammatory bowel diseases](https://www.sciencedaily.com/releases/2023/10/231026131554.htm) | Science Daily | 2023-10-26 |
 
 ## News for Life Sciences
 
@@ -55,8 +55,8 @@
 | [Nike's 19th Doernbecher Freestyle Collection Brings the Drip](https://www.highsnobiety.com/p/nike-doernbecher-freestyle-sneakers-2023/) | Highsnobiety | 2023-10-28 |
 | [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
 | [This teacher shortage solution has gone viral. But does it work?](https://www.npr.org/2023/10/26/1207073068/grow-your-own-teacher-solution-research) | NPR | 2023-10-26 |
-| [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
+| [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 
@@ -70,9 +70,7 @@
 | [Six things to know about the political debate around daylight saving time](https://www.npr.org/2023/11/02/1210212060/daylight-saving-time-states-2023) | NPR | 2023-11-02 |
 | [The unfulfilled promise of Apple’s healthcare efforts](https://readwrite.com/the-unfulfilled-promise-of-apples-healthcare-efforts/) | ReadWrite | 2023-11-02 |
 | [How Drug Makers Manipulate Patents to Keep Insulin Prices High](https://time.com/6336840/patent-manipulation-insulin-prices/) | Time | 2023-11-17 |
-| [Poison Specialist Accused Of Poisoning His Wife](https://www.huffpost.com/entry/poison-specialist-charged_n_6538f4e1e4b0c85561036ed6) | HuffPost | 2023-10-25 |
 | [I'm a cruise-ship doctor. My schedule is intense but it's worth it to see the world — and I get to bring my wife and son along.](https://www.businessinsider.com/working-on-cruise-ship-doctor-what-its-like-2023-11) | Business Insider | 2023-11-11 |
-| [A poison specialist is accused of killing his wife — by poisoning her](https://boingboing.net/2023/10/25/a-poison-specialist-is-accused-of-killing-his-wife-by-poisoning-her.html) | Boing Boing | 2023-10-25 |
 | [Potential Apple Watch Ban Issued by US Trade Tribunal in Masimo Patent Battle](https://www.macrumors.com/2023/10/27/us-trade-tribunal-apple-watch-ban-masimo/) | MacRumors | 2023-10-27 |
 | [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom) | Fsf.org | 2023-11-04 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
@@ -85,10 +83,12 @@
 | [What Amazon Prime Membership Gets You Beyond Free Delivery - CNET](https://www.cnet.com/tech/mobile/what-an-amazon-prime-membership-gets-you-beyond-free-delivery/) | CNET | 2023-11-09 |
 | [Former 'American Idol' star Jimmy Levy's backpack exploded into a 'ball of fire' just as his JetBlue flight was about to take off from JFK](https://www.businessinsider.com/former-american-idol-stars-backpack-explodes-on-jetblue-jfk-flight-2023-11) | Business Insider | 2023-11-04 |
 | [Elon Musk's brain-chip startup is preparing to implant the device in its first human. Here's how to apply.](https://www.businessinsider.com/how-to-apply-for-neuralink-human-trial-study-requirements-2023-11) | Business Insider | 2023-11-08 |
-| [Wildfire detection concept wins Dezeen and Samsung's Re:Create Design Challenge](https://www.dezeen.com/2023/10/25/recreate-design-challenge-samsung-winners/) | Dezeen | 2023-10-25 |
 | [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [Judge rules in Prince Harry, Elton John's lawsuit against Daily Mail publisher](https://abcnews.go.com/GMA/Culture/judge-rules-prince-harry-elton-johns-lawsuit-daily/story?id=104771770) | ABC News | 2023-11-10 |
-| [Apple Watch making 'unmistakeable progress' in identifying Parkinson's disease](https://appleinsider.com/articles/23/10/25/apple-watch-making-unmistakeable-progress-in-identifying-parkinsons-disease) | AppleInsider | 2023-10-25 |
+| [The first Apple Watch was supposed to launch with blood sugar monitoring; the health battle within Apple](https://9to5mac.com/2023/11/01/apple-watch-blood-sugar-monitoring/) | 9to5Mac | 2023-11-01 |
+| [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
+| [Why 7 million UK smart meters will stop working and what it will mean](https://www.newscientist.com/article/2399171-why-7-million-uk-smart-meters-will-stop-working-and-what-it-will-mean/) | New Scientist | 2023-10-27 |
+| [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
 
 ## News for Healthcare Sector
 
@@ -124,22 +124,20 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [New Report Highlights Pharma Commercial Model Requires An Urgent Overhaul](https://www.forbes.com/sites/ritanumerof/2023/10/25/new-report-highlights-pharma-commercial-model-requires-an-urgent-overhaul/) | Forbes | 2023-10-25 |
 | [Forbes Daily: Pfizer Stock Gets Dose Of Post-Covid Reality](https://www.forbes.com/sites/daniellechemtob/2023/11/14/forbes-daily-pfizer-stock-gets-dose-of-post-covid-reality/) | Forbes | 2023-11-14 |
 | [Expert advice: How important is a photographer’s location to their career?](https://www.diyphotography.net/expert-advice-how-important-is-a-photographers-location-to-their-career/) | DIYphotography | 2023-11-16 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [Gland Pharma Q2 results: Net Profit down 20% to Rs 194 crore](https://www.moneycontrol.com/news/business/earnings/gland-pharma-q2-results-net-profit-down-20-to-rs-194-crore-11667251.html) | Moneycontrol | 2023-11-06 |
 | [Children’s Day: Titan, Canara Bank among top 12 stock ideas for your little one’s future](https://economictimes.indiatimes.com/markets/stocks/news/childrens-day-titan-canara-bank-among-top-12-stock-ideas-for-your-little-ones-future/articleshow/105199189.cms) | The Times of India | 2023-11-14 |
 | [Daily Voice | This investment professional lists 3 risks that may derail India growth story](https://www.moneycontrol.com/news/business/markets/daily-voice-this-investment-professional-lists-3-risks-that-may-derail-india-growth-story-11776731.html) | Moneycontrol | 2023-11-21 |
-| [M&M, Aurobindo Pharma, 3 other stocks cross 50-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/mm-aurobindo-pharma-3-other-stocks-cross-50-day-sma/articleshow/104699161.cms) | The Times of India | 2023-10-25 |
 | [Sun Pharma, Coforge, 5 other stocks surpass 100-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-coforge-5-other-stocks-surpass-100-day-sma/articleshow/104914288.cms) | The Times of India | 2023-11-02 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-5-11679101.html) | Moneycontrol | 2023-11-06 |
 | [Procurement pros invest in technology to improve business outcomes](https://www.digitalcommerce360.com/2023/11/21/amazon-business-procurement-study/) | DigitalCommerce360 | 2023-11-21 |
 | [If Nifty breaks 18,800 support, then it may fall another 300 points, says this technical analyst](https://www.moneycontrol.com/news/business/stocks/if-nifty-breaks-18800-support-then-it-may-fall-another-300-points-says-this-technical-analyst-11601231.html) | Moneycontrol | 2023-10-26 |
 | [Piramal Pharma, KNR Constructions, 5 other stocks cross 100-day SMA](https://economictimes.indiatimes.com/markets/stocks/news/piramal-pharma-knr-constructions-5-other-stocks-cross-100-day-sma/articleshow/104889309.cms) | The Times of India | 2023-11-01 |
 | [Ozempic, Wegovy demand drives up illegal sales of weight-loss drugs](https://nypost.com/2023/11/01/business/ozempic-wegovy-demand-drives-up-illegal-sales-of-weight-loss-drugs/) | New York Post | 2023-11-01 |
-| [Media Briefing: Publishers are counting down to the end of Q4](http://digiday.com/media/media-briefing-publishers-are-counting-down-to-the-end-of-q4/) | Digiday | 2023-11-02 |
 | [Mid-day Mood | Benchmarks retreat ahead of Fed decision; banks, LT top drags](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-retreat-ahead-of-fed-decision-banks-lt-top-drags-11641701.html) | Moneycontrol | 2023-11-01 |
+| [Media Briefing: Publishers are counting down to the end of Q4](http://digiday.com/media/media-briefing-publishers-are-counting-down-to-the-end-of-q4/) | Digiday | 2023-11-02 |
 | [Pharma-Funded Fact Checkers Control the Internet](https://articles.mercola.com/sites/articles/archive/2023/11/08/pharma-funded-fact-checkers-control-internet.aspx) | Mercola.com | 2023-11-08 |
 | [Opioid Market Size, Share & Trends Analysis Report and Segment Forecasts 2023-2030: Recent Developments & Impact Analysis, By Key Market Participants](https://www.globenewswire.com/news-release/2023/11/17/2782426/28124/en/Opioid-Market-Size-Share-Trends-Analysis-Report-and-Segment-Forecasts-2023-2030-Recent-Developments-Impact-Analysis-By-Key-Market-Participants.html) | GlobeNewswire | 2023-11-17 |
 | [Cap and Closure Market is projected to be worth US$ 135.3 billion by 2033, registering a CAGR of 5.4% | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/02/2771967/0/en/Cap-and-Closure-Market-is-projected-to-be-worth-US-135-3-billion-by-2033-registering-a-CAGR-of-5-4-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-02 |
@@ -149,6 +147,8 @@
 | [Share Market Highlights 03 November 2023: Sensex gains 283 pts, Nifty closes above 19,200 on positive global trends](https://www.thehindubusinessline.com/markets/stock-market-highlights-03-november-2023/article67490339.ece) | BusinessLine | 2023-11-03 |
 | [Global Acetazolamide Market and Competition Analysis, 2023-2028, Featuring Accord Healthcare, Heritage Pharma, Nostrum Labs, and Taro Pharma Industries](https://www.globenewswire.com/news-release/2023/11/01/2771049/28124/en/Global-Acetazolamide-Market-and-Competition-Analysis-2023-2028-Featuring-Accord-Healthcare-Heritage-Pharma-Nostrum-Labs-and-Taro-Pharma-Industries.html) | GlobeNewswire | 2023-11-01 |
 | [Global Immunology Market Soars with Projected $56.07 Billion Growth by 2027, Fueled by Surging Cases of Infectious Diseases](https://www.globenewswire.com/news-release/2023/11/02/2772050/28124/en/Global-Immunology-Market-Soars-with-Projected-56-07-Billion-Growth-by-2027-Fueled-by-Surging-Cases-of-Infectious-Diseases.html) | GlobeNewswire | 2023-11-02 |
+| [Pharmaceutical Lipids Market Size, Share, Trends, Outlook, and Forecasts 2023-2030 | According to RationalStat](https://www.globenewswire.com/news-release/2023/11/15/2780769/0/en/Pharmaceutical-Lipids-Market-Size-Share-Trends-Outlook-and-Forecasts-2023-2030-According-to-RationalStat.html) | GlobeNewswire | 2023-11-15 |
+| [FDA Removal of Zantac (Ranitidine) Products - Ranitidine Market Report, Market Analysis, Trends, Growth Opportunities, Forecast, 2023-2030](https://www.globenewswire.com/news-release/2023/11/01/2770808/0/en/FDA-Removal-of-Zantac-Ranitidine-Products-Ranitidine-Market-Report-Market-Analysis-Trends-Growth-Opportunities-Forecast-2023-2030.html) | GlobeNewswire | 2023-11-01 |
 
 ## News for FDA Regulations
 
