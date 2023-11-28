@@ -48,6 +48,7 @@
 | [450M-year-old organism comes back to life in robot form](https://www.futurity.org/softbotics-robotics-fossils-pleurocystitids-2996262/) | Futurity: Research News | 2023-11-07 |
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
+| [Ghana Cardinal Peter Turkson: It's time to understand homosexuality](https://www.bbc.co.uk/news/world-africa-67518215) | BBC News | 2023-11-27 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Indiana University To Invest $250 Million In Bioscience And Technology Initiatives](https://www.forbes.com/sites/michaeltnietzel/2023/11/03/indiana-university-will-invest-250-million-in-biosciences-and-technology-initiatives/) | Forbes | 2023-11-03 |
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
@@ -58,7 +59,6 @@
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 | [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
-| [Iran secretly executes man over 2022 anti-government protests - sources](https://www.bbc.co.uk/news/world-middle-east-67512588) | BBC News | 2023-11-23 |
 
 ## News for Medical Devices
 
@@ -155,6 +155,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Say Goodbye to Those Absurd Side-Effects Readouts in Drug Commercials](https://gizmodo.com/fda-rule-prescription-drug-commercials-ads-side-effects-1851038494) | Gizmodo.com | 2023-11-21 |
+| [Lead-tainted fruit snacks sicken dozens of children](https://boingboing.net/2023/11/27/lead-tainted-fruit-snacks-sicken-dozens-of-children.html) | Boing Boing | 2023-11-27 |
 | [Hair Straighteners and Relaxers May Be Harmful to Health. Here's How to Make Them Better](https://www.scientificamerican.com/article/hair-straighteners-and-relaxers-may-be-harmful-to-health-heres-how-to-make-them-better/) | Scientific American | 2023-11-14 |
 | [Even the Smartest VCs Sometimes Get it Wrong – Bill Gurley and Regulated Markets](https://steveblank.com/2023/11/07/even-the-smartest-vcs-sometimes-get-it-wrong-bill-gurley-and-regulated-markets/) | Steveblank.com | 2023-11-07 |
 | [Why Banning Menthol Cigarettes Could Do More Harm Than Good](https://www.forbes.com/sites/steveforbes/2023/11/17/why-banning-menthol-cigarettes-could-do-more-harm-than-good/) | Forbes | 2023-11-17 |
@@ -178,5 +179,4 @@
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 | [AI For Efficient Clinical Trials: It's Risky, But Optimism Rules](https://www.forbes.com/sites/forbestechcouncil/2023/11/14/ai-for-efficient-clinical-trials-its-risky-but-optimism-rules/) | Forbes | 2023-11-14 |
-| [Moderna admits mRNA COVID jab causes CANCER, billions of DNA fragments found in vials](https://www.naturalnews.com/2023-11-17-moderna-admits-mrna-covid-vaccines-cancer-dna-fragments.html) | Naturalnews.com | 2023-11-17 |
 
