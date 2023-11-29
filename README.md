@@ -97,7 +97,6 @@
 | [Apple Watch redefines healthcare monitoring](https://readwrite.com/apple-watch-redefines-healthcare-monitoring/) | ReadWrite | 2023-11-02 |
 | [Amazon Expands Healthcare Push With One Medical Benefits For Prime Members](https://science.slashdot.org/story/23/11/09/0636221/amazon-expands-healthcare-push-with-one-medical-benefits-for-prime-members) | Slashdot.org | 2023-11-09 |
 | [Why strikes are working and which industries could be next](https://www.businessinsider.com/uaw-sagaftra-union-strikes-impact-pay-benefits-economy-healthcare-teachers-2023-11) | Business Insider | 2023-11-11 |
-| [Schools, hospitals, and construction: These are the jobs with labor shortages that could stick around for years](https://www.businessinsider.com/teacher-shortage-schools-nurses-daycare-costs-inflation-rate-retail-workers-2023-10) | Business Insider | 2023-10-28 |
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
 | [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
@@ -119,6 +118,7 @@
 | [Why I’m striking: Meet the captain behind the US’s longest ongoing strike](https://www.aljazeera.com/features/2023/11/3/why-im-striking-the-captain-behind-the-us-longest-ongoing-strike) | Al Jazeera English | 2023-11-03 |
 | [Amazon Offers Prime Members a Discount For its Posh Healthcare Service](https://www.thedailyupside.com/technology/big-tech/amazon-offers-prime-members-a-discount-for-its-posh-healthcare-service/) | Thedailyupside.com | 2023-11-09 |
 | [How To Cut Healthcare Costs](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/01/how-to-cut-healthcare-costs/) | Forbes | 2023-11-01 |
+| [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
 
 ## News for Pharma Market Trends
 
@@ -165,6 +165,7 @@
 | [The Health Consequences of the Stimulant Shortage](https://www.psychologytoday.com/intl/blog/its-not-just-in-your-head/202310/the-health-consequences-of-the-stimulant-shortage) | Psychology Today | 2023-10-30 |
 | [FDA proposes banning ingredient found in some citrus-flavored sodas](https://www.cbsnews.com/news/fda-ban-brominated-vegetable-oil-citrus-flavored-soda/) | CBS News | 2023-11-03 |
 | [Navigating FDA Regulations: A Comprehensive Overview for MedTech Leaders](https://www.newsweek.com/navigating-fda-regulations-comprehensive-overview-medtech-leaders-1844024) | Newsweek | 2023-11-16 |
+| [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
 | [FDA proposes ban on additive found in sodas: What to know about brominated vegetable oil](https://www.usatoday.com/story/news/nation/2023/11/03/fda-proposes-ban-brominated-vegetable-oil-soda-additive/71434489007/) | USA Today | 2023-11-03 |
 | [Reviews of New Food: Walmart’s Great Value Original Fruit Smiles](https://www.mcsweeneys.net/articles/walmarts-great-value-original-fruit-smiles) | Mcsweeneys.net | 2023-11-16 |
 | [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
@@ -173,10 +174,9 @@
 | [Amid Regulatory Gaps, Telehealth Prescribers Flourish](https://www.nakedcapitalism.com/2023/11/amid-regulatory-gaps-telehealth-prescribers-flourish.html) | Nakedcapitalism.com | 2023-11-02 |
 | [The real cost of healthcare cybersecurity breaches](https://www.helpnetsecurity.com/2023/11/13/taylor-lehmann-google-healthcare-cybersecurity-breaches/) | Help Net Security | 2023-11-13 |
 | [Cybellum partners with Hitachi Solutions to provide PLM security solutions in Japan](https://www.helpnetsecurity.com/2023/11/08/cybellum-hitachi-solutions-partnership/) | Help Net Security | 2023-11-08 |
+| [Cybellum achieves significant market share growth among leading medical device manufacturers](https://www.helpnetsecurity.com/2023/11/28/cybellum-medical-device-manufacturers-market-share/) | Help Net Security | 2023-11-28 |
 | [Federal Judge Enters Consent Decrees Against Utah-Based Dietary Supplement Distributor and Manufacturer of Balance of Nature Products](https://www.fda.gov/news-events/press-announcements/federal-judge-enters-consent-decrees-against-utah-based-dietary-supplement-distributor-and) | FDA.gov | 2023-11-16 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
-| [AI For Efficient Clinical Trials: It's Risky, But Optimism Rules](https://www.forbes.com/sites/forbestechcouncil/2023/11/14/ai-for-efficient-clinical-trials-its-risky-but-optimism-rules/) | Forbes | 2023-11-14 |
-| [Moderna admits mRNA COVID jab causes CANCER, billions of DNA fragments found in vials](https://www.naturalnews.com/2023-11-17-moderna-admits-mrna-covid-vaccines-cancer-dna-fragments.html) | Naturalnews.com | 2023-11-17 |
 
