@@ -40,6 +40,7 @@
 | [What to Expect from Virgin Galactic's Upgraded Spaceplane](https://gizmodo.com/virgin-galactic-delta-spaceplane-upgrade-profitability-1851042915) | Gizmodo.com | 2023-11-22 |
 | [How Nobel economists spend their $1 million winnings](https://www.businessinsider.com/how-nobel-prize-winner-economists-spend-winnings-2023-11) | Business Insider | 2023-11-20 |
 | [UK universities urged to reduce equity stakes in their spinouts](https://thenextweb.com/news/uk-universities-urged-reduce-equity-stakes-spinouts) | The Next Web | 2023-11-22 |
+| [Study identifies a key protein for healthy aging](https://www.sciencedaily.com/releases/2023/11/231128132401.htm) | Science Daily | 2023-11-28 |
 | [F5: Mischa Couvrette’s Pandemic Project, Love of the Ocean + More](https://design-milk.com/f5-mischa-couvrettes-pandemic-project-love-of-the-ocean-more/) | Design-milk.com | 2023-11-03 |
 | [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
@@ -58,7 +59,6 @@
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 | [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
 | [Iran secretly executes man over 2022 anti-government protests - sources](https://www.bbc.co.uk/news/world-middle-east-67512588) | BBC News | 2023-11-23 |
-| [Observation of a virus attaching to another virus](https://www.sciencedaily.com/releases/2023/11/231102135214.htm) | Science Daily | 2023-11-02 |
 
 ## News for Medical Devices
 
@@ -72,6 +72,7 @@
 | [The unfulfilled promise of Apple’s healthcare efforts](https://readwrite.com/the-unfulfilled-promise-of-apples-healthcare-efforts/) | ReadWrite | 2023-11-02 |
 | [How Drug Makers Manipulate Patents to Keep Insulin Prices High](https://time.com/6336840/patent-manipulation-insulin-prices/) | Time | 2023-11-17 |
 | [I'm a cruise-ship doctor. My schedule is intense but it's worth it to see the world — and I get to bring my wife and son along.](https://www.businessinsider.com/working-on-cruise-ship-doctor-what-its-like-2023-11) | Business Insider | 2023-11-11 |
+| [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom) | Fsf.org | 2023-11-04 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
 | [A video shows the IDF's elite helicopter search and rescue unit evacuating some of Israel's 260 soldiers wounded battling Hamas in Gaza](https://www.businessinsider.com/video-idf-search-rescue-evacuate-260-injured-soldiers-gaza-2023-11) | Business Insider | 2023-11-04 |
@@ -88,7 +89,6 @@
 | [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
 | [The first Apple Watch was supposed to launch with blood sugar monitoring; the health battle within Apple](https://9to5mac.com/2023/11/01/apple-watch-blood-sugar-monitoring/) | 9to5Mac | 2023-11-01 |
 | [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
-| [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
 
 ## News for Healthcare Sector
 
@@ -97,6 +97,7 @@
 | [Apple Watch redefines healthcare monitoring](https://readwrite.com/apple-watch-redefines-healthcare-monitoring/) | ReadWrite | 2023-11-02 |
 | [Amazon Expands Healthcare Push With One Medical Benefits For Prime Members](https://science.slashdot.org/story/23/11/09/0636221/amazon-expands-healthcare-push-with-one-medical-benefits-for-prime-members) | Slashdot.org | 2023-11-09 |
 | [Why strikes are working and which industries could be next](https://www.businessinsider.com/uaw-sagaftra-union-strikes-impact-pay-benefits-economy-healthcare-teachers-2023-11) | Business Insider | 2023-11-11 |
+| [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
 | [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
@@ -104,6 +105,7 @@
 | [Barack Obama on AI, free speech, and the future of the internet](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview) | The Verge | 2023-11-07 |
 | [‘We have nothing’: Families seek safety from bombs inside Gaza hospitals](https://www.aljazeera.com/news/2023/11/4/we-have-nothing-families-seek-safety-from-bombs-inside-gaza-hospitals) | Al Jazeera English | 2023-11-04 |
 | [Bedazzled by big tech, the UK’s AI summit is overlooking big issues](https://thenextweb.com/news/uk-ai-safety-summit-raises-concerns) | The Next Web | 2023-11-01 |
+| [Healthcare changes can slash climate impact: global health agency](https://phys.org/news/2023-11-healthcare-slash-climate-impact-global.html) | Phys.Org | 2023-11-28 |
 | [Digital Twins: 18 Ways They Can Be Leveraged Across Industries](https://www.forbes.com/sites/forbestechcouncil/2023/11/27/digital-twins-18-ways-they-can-be-leveraged-across-industries/) | Forbes | 2023-11-27 |
 | [I moved to Denver and regretted it because it was freezing, expensive, and hard to make friends. I'm much happier now living in Spain.](https://www.businessinsider.com/moved-to-denver-colorado-and-regretted-it-2023-11) | Business Insider | 2023-11-01 |
 | [BlackCat plays with malvertising traps to lure corporate victims](https://www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/) | Theregister.com | 2023-11-16 |
@@ -117,8 +119,6 @@
 | [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
 | [Why I’m striking: Meet the captain behind the US’s longest ongoing strike](https://www.aljazeera.com/features/2023/11/3/why-im-striking-the-captain-behind-the-us-longest-ongoing-strike) | Al Jazeera English | 2023-11-03 |
 | [Amazon Offers Prime Members a Discount For its Posh Healthcare Service](https://www.thedailyupside.com/technology/big-tech/amazon-offers-prime-members-a-discount-for-its-posh-healthcare-service/) | Thedailyupside.com | 2023-11-09 |
-| [How To Cut Healthcare Costs](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/01/how-to-cut-healthcare-costs/) | Forbes | 2023-11-01 |
-| [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
 
 ## News for Pharma Market Trends
 
