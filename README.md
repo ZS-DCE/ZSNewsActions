@@ -20,7 +20,6 @@
 | [Precision Cancer Drugs Glitter with Promise--If You Can Get Them](https://www.scientificamerican.com/article/precision-cancer-drugs-glitter-with-promise-if-you-can-get-them/) | Scientific American | 2023-11-03 |
 | [These Companies Think Legal Cocaine Energy Drinks Are the Future](https://www.vice.com/en/article/dy359m/legal-cocaine-safe-supply) | Vice News | 2023-11-02 |
 | [Should We End Obesity?](https://time.com/6330809/ozempic-wegovy-mounjaro-healthy/) | Time | 2023-11-07 |
-| [Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs) | Wikipedia.org | 2023-10-29 |
 | [Affinity Data Is The Missing Link In Pharmaceutical Marketing](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/affinity-data-is-the-missing-link-in-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
@@ -29,6 +28,7 @@
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
 | [Financial Integration And Industry Collaboration Essential For Moving Sustainability Initiatives Forward](https://www.forbes.com/sites/jonchorley/2023/10/30/financial-integration-and-industry-collaboration-essential-for-moving-sustainability-initiatives-forward/) | Forbes | 2023-10-30 |
+| [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
 
 ## News for Life Sciences
 
@@ -51,7 +51,6 @@
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Indiana University To Invest $250 Million In Bioscience And Technology Initiatives](https://www.forbes.com/sites/michaeltnietzel/2023/11/03/indiana-university-will-invest-250-million-in-biosciences-and-technology-initiatives/) | Forbes | 2023-11-03 |
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
-| [Why we don't have fusion power plants yet, and what it'll take to get clean, limitless energy to market](https://www.businessinsider.com/why-no-fusion-energy-power-plants-yet-how-2023-10) | Business Insider | 2023-10-29 |
 | [Giant sea salt aerosols play major role in Hawai'i's coastal clouds, rain](https://www.sciencedaily.com/releases/2023/11/231127180645.htm) | Science Daily | 2023-11-27 |
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
@@ -59,6 +58,7 @@
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 | [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
 | [Iran secretly executes man over 2022 anti-government protests - sources](https://www.bbc.co.uk/news/world-middle-east-67512588) | BBC News | 2023-11-23 |
+| [Observation of a virus attaching to another virus](https://www.sciencedaily.com/releases/2023/11/231102135214.htm) | Science Daily | 2023-11-02 |
 
 ## News for Medical Devices
 
@@ -141,8 +141,8 @@
 | [Media Briefing: Publishers are counting down to the end of Q4](http://digiday.com/media/media-briefing-publishers-are-counting-down-to-the-end-of-q4/) | Digiday | 2023-11-02 |
 | [Pharma-Funded Fact Checkers Control the Internet](https://articles.mercola.com/sites/articles/archive/2023/11/08/pharma-funded-fact-checkers-control-internet.aspx) | Mercola.com | 2023-11-08 |
 | [Biologics CDMO Market Expected to Reach USD 35.09 Billion with a 10.79% CAGR | Says InsightAce Study](https://www.globenewswire.com/news-release/2023/11/28/2786728/0/en/Biologics-CDMO-Market-Expected-to-Reach-USD-35-09-Billion-with-a-10-79-CAGR-Says-InsightAce-Study.html) | GlobeNewswire | 2023-11-28 |
-| [Cap and Closure Market is projected to be worth US$ 135.3 billion by 2033, registering a CAGR of 5.4% | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/02/2771967/0/en/Cap-and-Closure-Market-is-projected-to-be-worth-US-135-3-billion-by-2033-registering-a-CAGR-of-5-4-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-02 |
 | [Opioid Market Size, Share & Trends Analysis Report and Segment Forecasts 2023-2030: Recent Developments & Impact Analysis, By Key Market Participants](https://www.globenewswire.com/news-release/2023/11/17/2782426/28124/en/Opioid-Market-Size-Share-Trends-Analysis-Report-and-Segment-Forecasts-2023-2030-Recent-Developments-Impact-Analysis-By-Key-Market-Participants.html) | GlobeNewswire | 2023-11-17 |
+| [Cap and Closure Market is projected to be worth US$ 135.3 billion by 2033, registering a CAGR of 5.4% | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/02/2771967/0/en/Cap-and-Closure-Market-is-projected-to-be-worth-US-135-3-billion-by-2033-registering-a-CAGR-of-5-4-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-02 |
 | [Trade setup for Monday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-monday-15-things-to-know-before-opening-bell-5-11667381.html) | Moneycontrol | 2023-11-05 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
