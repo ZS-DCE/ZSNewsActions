@@ -10,6 +10,7 @@
 | [Montana GOP Senate candidate would be in the top 10 richest lawmakers — and his investments are sure to irk some conservatives](https://www.businessinsider.com/tim-sheehy-montana-wealthy-republican-climate-change-china-investments-2023-11) | Business Insider | 2023-11-02 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [AI turns the page on paper-based pharmaceutical compliance](https://www.springwise.com/innovation/health-wellbeing/ai-streamlines-pharmaceutical-manufacturing/) | Springwise.com | 2023-11-14 |
+| [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Factoring In The Pharma Industry: Is It A True Need?](https://www.forbes.com/sites/forbesfinancecouncil/2023/11/01/factoring-in-the-pharma-industry-is-it-a-true-need/) | Forbes | 2023-11-01 |
 | [Pharmaceutical effluent evokes superbugs in the environment: A call to action](https://phys.org/news/2023-11-pharmaceutical-effluent-evokes-superbugs-environment.html) | Phys.Org | 2023-11-24 |
 | [Using AI and machine learning to boost research into cultivated meat](https://www.springwise.com/innovation/food-drink/using-ai-and-machine-learning-to-boost-research-into-cultivated-meat/) | Springwise.com | 2023-10-31 |
@@ -25,10 +26,9 @@
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
+| [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
-| [Financial Integration And Industry Collaboration Essential For Moving Sustainability Initiatives Forward](https://www.forbes.com/sites/jonchorley/2023/10/30/financial-integration-and-industry-collaboration-essential-for-moving-sustainability-initiatives-forward/) | Forbes | 2023-10-30 |
-| [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
 
 ## News for Life Sciences
 
@@ -102,6 +102,7 @@
 | [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
+| [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
 | [Barack Obama on AI, free speech, and the future of the internet](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview) | The Verge | 2023-11-07 |
 | [‘We have nothing’: Families seek safety from bombs inside Gaza hospitals](https://www.aljazeera.com/news/2023/11/4/we-have-nothing-families-seek-safety-from-bombs-inside-gaza-hospitals) | Al Jazeera English | 2023-11-04 |
 | [Bedazzled by big tech, the UK’s AI summit is overlooking big issues](https://thenextweb.com/news/uk-ai-safety-summit-raises-concerns) | The Next Web | 2023-11-01 |
@@ -118,7 +119,6 @@
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
-| [Why I’m striking: Meet the captain behind the US’s longest ongoing strike](https://www.aljazeera.com/features/2023/11/3/why-im-striking-the-captain-behind-the-us-longest-ongoing-strike) | Al Jazeera English | 2023-11-03 |
 
 ## News for Pharma Market Trends
 
@@ -129,6 +129,7 @@
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [Gland Pharma Q2 results: Net Profit down 20% to Rs 194 crore](https://www.moneycontrol.com/news/business/earnings/gland-pharma-q2-results-net-profit-down-20-to-rs-194-crore-11667251.html) | Moneycontrol | 2023-11-06 |
 | [Children’s Day: Titan, Canara Bank among top 12 stock ideas for your little one’s future](https://economictimes.indiatimes.com/markets/stocks/news/childrens-day-titan-canara-bank-among-top-12-stock-ideas-for-your-little-ones-future/articleshow/105199189.cms) | The Times of India | 2023-11-14 |
+| [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Daily Voice | This investment professional lists 3 risks that may derail India growth story](https://www.moneycontrol.com/news/business/markets/daily-voice-this-investment-professional-lists-3-risks-that-may-derail-india-growth-story-11776731.html) | Moneycontrol | 2023-11-21 |
 | [Stockology: Stars favour the bulls. Will Nifty test 20,000 this week?](https://www.moneycontrol.com/news/opinion/stockology-stars-are-favouring-the-bulls-will-nifty-test-20000-this-week-11814941.html) | Moneycontrol | 2023-11-27 |
 | [What your most important investors need to know](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-your-most-important-investors-need-to-know) | Mckinsey.com | 2023-11-28 |
@@ -148,7 +149,6 @@
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Share Market Highlights 03 November 2023: Sensex gains 283 pts, Nifty closes above 19,200 on positive global trends](https://www.thehindubusinessline.com/markets/stock-market-highlights-03-november-2023/article67490339.ece) | BusinessLine | 2023-11-03 |
 | [Global Acetazolamide Market and Competition Analysis, 2023-2028, Featuring Accord Healthcare, Heritage Pharma, Nostrum Labs, and Taro Pharma Industries](https://www.globenewswire.com/news-release/2023/11/01/2771049/28124/en/Global-Acetazolamide-Market-and-Competition-Analysis-2023-2028-Featuring-Accord-Healthcare-Heritage-Pharma-Nostrum-Labs-and-Taro-Pharma-Industries.html) | GlobeNewswire | 2023-11-01 |
-| [Global Immunology Market Soars with Projected $56.07 Billion Growth by 2027, Fueled by Surging Cases of Infectious Diseases](https://www.globenewswire.com/news-release/2023/11/02/2772050/28124/en/Global-Immunology-Market-Soars-with-Projected-56-07-Billion-Growth-by-2027-Fueled-by-Surging-Cases-of-Infectious-Diseases.html) | GlobeNewswire | 2023-11-02 |
 
 ## News for FDA Regulations
 
