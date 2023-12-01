@@ -25,9 +25,9 @@
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
+| [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
-| [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
 
 ## News for Life Sciences
@@ -43,6 +43,7 @@
 | [Study identifies a key protein for healthy aging](https://www.sciencedaily.com/releases/2023/11/231128132401.htm) | Science Daily | 2023-11-28 |
 | [F5: Mischa Couvrette’s Pandemic Project, Love of the Ocean + More](https://design-milk.com/f5-mischa-couvrettes-pandemic-project-love-of-the-ocean-more/) | Design-milk.com | 2023-11-03 |
 | [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
+| [Three Ways to Tell If Research Is Bunk](https://www.theatlantic.com/ideas/archive/2023/11/rules-whether-trust-academic-studies/676170/?utm_source=feed) | The Atlantic | 2023-11-30 |
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
 | [450M-year-old organism comes back to life in robot form](https://www.futurity.org/softbotics-robotics-fossils-pleurocystitids-2996262/) | Futurity: Research News | 2023-11-07 |
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
@@ -58,7 +59,6 @@
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 | [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
 | [Iran secretly executes man over 2022 anti-government protests - sources](https://www.bbc.co.uk/news/world-middle-east-67512588) | BBC News | 2023-11-23 |
-| [Observation of a virus attaching to another virus](https://www.sciencedaily.com/releases/2023/11/231102135214.htm) | Science Daily | 2023-11-02 |
 
 ## News for Medical Devices
 
