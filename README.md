@@ -105,8 +105,8 @@
 | [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
 | [Barack Obama on AI, free speech, and the future of the internet](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview) | The Verge | 2023-11-07 |
 | [‘We have nothing’: Families seek safety from bombs inside Gaza hospitals](https://www.aljazeera.com/news/2023/11/4/we-have-nothing-families-seek-safety-from-bombs-inside-gaza-hospitals) | Al Jazeera English | 2023-11-04 |
-| [Bedazzled by big tech, the UK’s AI summit is overlooking big issues](https://thenextweb.com/news/uk-ai-safety-summit-raises-concerns) | The Next Web | 2023-11-01 |
 | [The challenges of securing the healthcare sector [Q&A]](https://betanews.com/2023/11/29/the-challenges-of-securing-the-healthcare-sector-qa/) | BetaNews | 2023-11-29 |
+| [Bedazzled by big tech, the UK’s AI summit is overlooking big issues](https://thenextweb.com/news/uk-ai-safety-summit-raises-concerns) | The Next Web | 2023-11-01 |
 | [Healthcare changes can slash climate impact: global health agency](https://phys.org/news/2023-11-healthcare-slash-climate-impact-global.html) | Phys.Org | 2023-11-28 |
 | [Digital Twins: 18 Ways They Can Be Leveraged Across Industries](https://www.forbes.com/sites/forbestechcouncil/2023/11/27/digital-twins-18-ways-they-can-be-leveraged-across-industries/) | Forbes | 2023-11-27 |
 | [I moved to Denver and regretted it because it was freezing, expensive, and hard to make friends. I'm much happier now living in Spain.](https://www.businessinsider.com/moved-to-denver-colorado-and-regretted-it-2023-11) | Business Insider | 2023-11-01 |
