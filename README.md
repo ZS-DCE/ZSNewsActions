@@ -6,15 +6,12 @@
 | ----- | ------ | --------- |
 | [Weight-loss drugs just got cheaper — and better](https://www.businessinsider.com/zepound-eli-lilly-weight-loss-drug-cost-cheaper-than-wegovy) | Business Insider | 2023-11-11 |
 | [Ozempic and other weight-loss drugs will power the anti-obesity market to 16-fold gains by 2030, Goldman Sachs says](https://markets.businessinsider.com/news/stocks/ozempic-anti-obesity-market-weight-loss-novo-nordisk-goldman-sachs-2023-11) | Business Insider | 2023-11-04 |
-| [23andMe to sell DNA records to drug company](https://boingboing.net/2023/10/30/23andme-to-sell-dna-records-to-drug-company.html) | Boing Boing | 2023-10-30 |
 | [Montana GOP Senate candidate would be in the top 10 richest lawmakers — and his investments are sure to irk some conservatives](https://www.businessinsider.com/tim-sheehy-montana-wealthy-republican-climate-change-china-investments-2023-11) | Business Insider | 2023-11-02 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [AI turns the page on paper-based pharmaceutical compliance](https://www.springwise.com/innovation/health-wellbeing/ai-streamlines-pharmaceutical-manufacturing/) | Springwise.com | 2023-11-14 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Factoring In The Pharma Industry: Is It A True Need?](https://www.forbes.com/sites/forbesfinancecouncil/2023/11/01/factoring-in-the-pharma-industry-is-it-a-true-need/) | Forbes | 2023-11-01 |
 | [Pharmaceutical effluent evokes superbugs in the environment: A call to action](https://phys.org/news/2023-11-pharmaceutical-effluent-evokes-superbugs-environment.html) | Phys.Org | 2023-11-24 |
-| [Using AI and machine learning to boost research into cultivated meat](https://www.springwise.com/innovation/food-drink/using-ai-and-machine-learning-to-boost-research-into-cultivated-meat/) | Springwise.com | 2023-10-31 |
-| [How Generative AI Could Impact Research And Insights In The Pharmaceutical Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/31/how-generative-ai-could-impact-research-and-insights-in-the-pharmaceutical-industry/) | Forbes | 2023-10-31 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Aerogels freeze the costs of cold chain logistics](https://www.springwise.com/innovation/sustainability/aerogel-insulation-for-cold-chain-logistics-buildings-and-batteries/) | Springwise.com | 2023-11-17 |
 | [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
@@ -25,10 +22,13 @@
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
+| [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
-| [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
+| [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
+| [Indian drug manufacturers benefit from Big Pharma interest beyond China](https://biztoc.com/x/7260ec1c6ca2fa6a) | Biztoc.com | 2023-11-27 |
+| [As The Regulatory Landscape Shifts Globally, So, Too, Must The Pharma Commercial Model](https://www.forbes.com/sites/ritanumerof/2023/11/09/as-the-regulatory-landscape-shifts-globally-so-too-must-the-pharma-commercial-model/) | Forbes | 2023-11-09 |
 
 ## News for Life Sciences
 
@@ -85,10 +85,10 @@
 | [Former 'American Idol' star Jimmy Levy's backpack exploded into a 'ball of fire' just as his JetBlue flight was about to take off from JFK](https://www.businessinsider.com/former-american-idol-stars-backpack-explodes-on-jetblue-jfk-flight-2023-11) | Business Insider | 2023-11-04 |
 | [Elon Musk's brain-chip startup is preparing to implant the device in its first human. Here's how to apply.](https://www.businessinsider.com/how-to-apply-for-neuralink-human-trial-study-requirements-2023-11) | Business Insider | 2023-11-08 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
-| [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [Judge rules in Prince Harry, Elton John's lawsuit against Daily Mail publisher](https://abcnews.go.com/GMA/Culture/judge-rules-prince-harry-elton-johns-lawsuit-daily/story?id=104771770) | ABC News | 2023-11-10 |
 | [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
 | [The first Apple Watch was supposed to launch with blood sugar monitoring; the health battle within Apple](https://9to5mac.com/2023/11/01/apple-watch-blood-sugar-monitoring/) | 9to5Mac | 2023-11-01 |
+| [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
 
 ## News for Healthcare Sector
 
@@ -99,7 +99,6 @@
 | [Why strikes are working and which industries could be next](https://www.businessinsider.com/uaw-sagaftra-union-strikes-impact-pay-benefits-economy-healthcare-teachers-2023-11) | Business Insider | 2023-11-11 |
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
-| [10 Mind-Blowing Ways No-Code and AI are Revolutionizing Industries](https://readwrite.com/10-mind-blowing-ways-no-code-and-ai-are-revolutionizing-industries/) | ReadWrite | 2023-10-30 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
 | [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
@@ -119,6 +118,7 @@
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
+| [Why I’m striking: Meet the captain behind the US’s longest ongoing strike](https://www.aljazeera.com/features/2023/11/3/why-im-striking-the-captain-behind-the-us-longest-ongoing-strike) | Al Jazeera English | 2023-11-03 |
 
 ## News for Pharma Market Trends
 
@@ -162,7 +162,6 @@
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
 | [FTC Sees Red Over Alleged Misuse Of FDA Orange Book, Puts 10 Pharmas On Notice](https://medcitynews.com/2023/11/ftc-antitrust-regulation-orange-book-generic-competition-fda/) | MedCity News | 2023-11-10 |
 | [How to Start a Beverage Company](https://smallbiztrends.com/2023/11/how-to-start-a-beverage-company.html) | Small Business Trends | 2023-11-17 |
-| [The Health Consequences of the Stimulant Shortage](https://www.psychologytoday.com/intl/blog/its-not-just-in-your-head/202310/the-health-consequences-of-the-stimulant-shortage) | Psychology Today | 2023-10-30 |
 | [FDA proposes banning ingredient found in some citrus-flavored sodas](https://www.cbsnews.com/news/fda-ban-brominated-vegetable-oil-citrus-flavored-soda/) | CBS News | 2023-11-03 |
 | [Navigating FDA Regulations: A Comprehensive Overview for MedTech Leaders](https://www.newsweek.com/navigating-fda-regulations-comprehensive-overview-medtech-leaders-1844024) | Newsweek | 2023-11-16 |
 | [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
@@ -170,6 +169,7 @@
 | [Reviews of New Food: Walmart’s Great Value Original Fruit Smiles](https://www.mcsweeneys.net/articles/walmarts-great-value-original-fruit-smiles) | Mcsweeneys.net | 2023-11-16 |
 | [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Balance of Nature ordered to stop sales of supplements after FDA lawsuits](https://www.cbsnews.com/news/balance-of-nature-supplements-fda-lawsuits/) | CBS News | 2023-11-17 |
+| [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [Best Practices for Weight Loss Prescriptions via Telehealth](https://www.forbes.com/sites/forbesbooksauthors/2023/11/15/best-practices-for-weight-loss-prescriptions-via-telehealth/) | Forbes | 2023-11-15 |
 | [Amid Regulatory Gaps, Telehealth Prescribers Flourish](https://www.nakedcapitalism.com/2023/11/amid-regulatory-gaps-telehealth-prescribers-flourish.html) | Nakedcapitalism.com | 2023-11-02 |
 | [The real cost of healthcare cybersecurity breaches](https://www.helpnetsecurity.com/2023/11/13/taylor-lehmann-google-healthcare-cybersecurity-breaches/) | Help Net Security | 2023-11-13 |
