@@ -46,6 +46,7 @@
 | [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
 | [Three Ways to Tell If Research Is Bunk](https://www.theatlantic.com/ideas/archive/2023/11/rules-whether-trust-academic-studies/676170/?utm_source=feed) | The Atlantic | 2023-11-30 |
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
+| [The Oldest Deep-Sea Fish Discovered in Fossil Traces](https://www.scientificamerican.com/article/the-oldest-deep-sea-fish-discovered-in-fossil-traces/) | Scientific American | 2023-12-01 |
 | [450M-year-old organism comes back to life in robot form](https://www.futurity.org/softbotics-robotics-fossils-pleurocystitids-2996262/) | Futurity: Research News | 2023-11-07 |
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
@@ -54,11 +55,10 @@
 | [Indiana University To Invest $250 Million In Bioscience And Technology Initiatives](https://www.forbes.com/sites/michaeltnietzel/2023/11/03/indiana-university-will-invest-250-million-in-biosciences-and-technology-initiatives/) | Forbes | 2023-11-03 |
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
 | [Giant sea salt aerosols play major role in Hawai'i's coastal clouds, rain](https://www.sciencedaily.com/releases/2023/11/231127180645.htm) | Science Daily | 2023-11-27 |
+| [Can artificial intelligence improve life science? As much as life science can improve AI, researchers say](https://phys.org/news/2023-12-artificial-intelligence-life-science-ai.html) | Phys.Org | 2023-12-01 |
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
-| [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
-| [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
 
 ## News for Medical Devices
 
@@ -98,6 +98,7 @@
 | [Amazon Expands Healthcare Push With One Medical Benefits For Prime Members](https://science.slashdot.org/story/23/11/09/0636221/amazon-expands-healthcare-push-with-one-medical-benefits-for-prime-members) | Slashdot.org | 2023-11-09 |
 | [Why strikes are working and which industries could be next](https://www.businessinsider.com/uaw-sagaftra-union-strikes-impact-pay-benefits-economy-healthcare-teachers-2023-11) | Business Insider | 2023-11-11 |
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
+| [AI Should Complement Humans at Work, Not Replace Them, TIME Panelists Say](https://time.com/6338489/ai-work-jobs/) | Time | 2023-12-01 |
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
@@ -118,7 +119,6 @@
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
-| [Why I’m striking: Meet the captain behind the US’s longest ongoing strike](https://www.aljazeera.com/features/2023/11/3/why-im-striking-the-captain-behind-the-us-longest-ongoing-strike) | Al Jazeera English | 2023-11-03 |
 
 ## News for Pharma Market Trends
 
@@ -173,10 +173,10 @@
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [Best Practices for Weight Loss Prescriptions via Telehealth](https://www.forbes.com/sites/forbesbooksauthors/2023/11/15/best-practices-for-weight-loss-prescriptions-via-telehealth/) | Forbes | 2023-11-15 |
 | [Amid Regulatory Gaps, Telehealth Prescribers Flourish](https://www.nakedcapitalism.com/2023/11/amid-regulatory-gaps-telehealth-prescribers-flourish.html) | Nakedcapitalism.com | 2023-11-02 |
+| [Scaling slaughter-free meat is hard. Here’s one way to make it easier.](https://www.vox.com/future-perfect/23980010/cellular-agriculture-consortiums-collaboration-alternative-meat-lab-grown) | Vox | 2023-12-01 |
 | [The real cost of healthcare cybersecurity breaches](https://www.helpnetsecurity.com/2023/11/13/taylor-lehmann-google-healthcare-cybersecurity-breaches/) | Help Net Security | 2023-11-13 |
 | [Cybellum partners with Hitachi Solutions to provide PLM security solutions in Japan](https://www.helpnetsecurity.com/2023/11/08/cybellum-hitachi-solutions-partnership/) | Help Net Security | 2023-11-08 |
 | [Cybellum achieves significant market share growth among leading medical device manufacturers](https://www.helpnetsecurity.com/2023/11/28/cybellum-medical-device-manufacturers-market-share/) | Help Net Security | 2023-11-28 |
 | [Federal Judge Enters Consent Decrees Against Utah-Based Dietary Supplement Distributor and Manufacturer of Balance of Nature Products](https://www.fda.gov/news-events/press-announcements/federal-judge-enters-consent-decrees-against-utah-based-dietary-supplement-distributor-and) | FDA.gov | 2023-11-16 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 
