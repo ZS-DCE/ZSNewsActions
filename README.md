@@ -42,6 +42,7 @@
 | [UK universities urged to reduce equity stakes in their spinouts](https://thenextweb.com/news/uk-universities-urged-reduce-equity-stakes-spinouts) | The Next Web | 2023-11-22 |
 | [Study identifies a key protein for healthy aging](https://www.sciencedaily.com/releases/2023/11/231128132401.htm) | Science Daily | 2023-11-28 |
 | [F5: Mischa Couvrette’s Pandemic Project, Love of the Ocean + More](https://design-milk.com/f5-mischa-couvrettes-pandemic-project-love-of-the-ocean-more/) | Design-milk.com | 2023-11-03 |
+| [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
 | [Three Ways to Tell If Research Is Bunk](https://www.theatlantic.com/ideas/archive/2023/11/rules-whether-trust-academic-studies/676170/?utm_source=feed) | The Atlantic | 2023-11-30 |
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
@@ -58,7 +59,6 @@
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 | [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
-| [Iran secretly executes man over 2022 anti-government protests - sources](https://www.bbc.co.uk/news/world-middle-east-67512588) | BBC News | 2023-11-23 |
 
 ## News for Medical Devices
 
@@ -169,6 +169,7 @@
 | [Reviews of New Food: Walmart’s Great Value Original Fruit Smiles](https://www.mcsweeneys.net/articles/walmarts-great-value-original-fruit-smiles) | Mcsweeneys.net | 2023-11-16 |
 | [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Balance of Nature ordered to stop sales of supplements after FDA lawsuits](https://www.cbsnews.com/news/balance-of-nature-supplements-fda-lawsuits/) | CBS News | 2023-11-17 |
+| [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [Best Practices for Weight Loss Prescriptions via Telehealth](https://www.forbes.com/sites/forbesbooksauthors/2023/11/15/best-practices-for-weight-loss-prescriptions-via-telehealth/) | Forbes | 2023-11-15 |
 | [Amid Regulatory Gaps, Telehealth Prescribers Flourish](https://www.nakedcapitalism.com/2023/11/amid-regulatory-gaps-telehealth-prescribers-flourish.html) | Nakedcapitalism.com | 2023-11-02 |
@@ -178,5 +179,4 @@
 | [Federal Judge Enters Consent Decrees Against Utah-Based Dietary Supplement Distributor and Manufacturer of Balance of Nature Products](https://www.fda.gov/news-events/press-announcements/federal-judge-enters-consent-decrees-against-utah-based-dietary-supplement-distributor-and) | FDA.gov | 2023-11-16 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://cacmap.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
-| [FDA Proposes to Ban Food Additive, Continues Assessments of Additional Chemicals](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals) | FDA.gov | 2023-11-02 |
 
