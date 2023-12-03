@@ -40,8 +40,8 @@
 | [UK universities urged to reduce equity stakes in their spinouts](https://thenextweb.com/news/uk-universities-urged-reduce-equity-stakes-spinouts) | The Next Web | 2023-11-22 |
 | [Study identifies a key protein for healthy aging](https://www.sciencedaily.com/releases/2023/11/231128132401.htm) | Science Daily | 2023-11-28 |
 | [F5: Mischa Couvrette’s Pandemic Project, Love of the Ocean + More](https://design-milk.com/f5-mischa-couvrettes-pandemic-project-love-of-the-ocean-more/) | Design-milk.com | 2023-11-03 |
-| [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
+| [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Three Ways to Tell If Research Is Bunk](https://www.theatlantic.com/ideas/archive/2023/11/rules-whether-trust-academic-studies/676170/?utm_source=feed) | The Atlantic | 2023-11-30 |
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
 | [The Oldest Deep-Sea Fish Discovered in Fossil Traces](https://www.scientificamerican.com/article/the-oldest-deep-sea-fish-discovered-in-fossil-traces/) | Scientific American | 2023-12-01 |
