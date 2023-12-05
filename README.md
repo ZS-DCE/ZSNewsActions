@@ -34,6 +34,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Red tape holding back UK’s ambition to be a life sciences superpower, warn experts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8828922a-bee2-49a7-9cd4-162e12305525) | Yahoo Entertainment | 2023-12-03 |
 | [French letters from Seven Years' War opened 250 years later](https://www.bbc.co.uk/news/world-europe-67341309) | BBC News | 2023-11-07 |
 | [What to Expect from Virgin Galactic's Upgraded Spaceplane](https://gizmodo.com/virgin-galactic-delta-spaceplane-upgrade-profitability-1851042915) | Gizmodo.com | 2023-11-22 |
 | [How Nobel economists spend their $1 million winnings](https://www.businessinsider.com/how-nobel-prize-winner-economists-spend-winnings-2023-11) | Business Insider | 2023-11-20 |
@@ -58,7 +59,6 @@
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
 | [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 | [Biden Pardons National Thanksgiving Turkeys on His 81st Birthday](https://time.com/6337883/biden-pardons-national-thanksgiving-turkeys-81st-birthday/) | Time | 2023-11-20 |
-| [Iran secretly executes man over 2022 anti-government protests - sources](https://www.bbc.co.uk/news/world-middle-east-67512588) | BBC News | 2023-11-23 |
 
 ## News for Medical Devices
 
@@ -73,7 +73,6 @@
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom) | Fsf.org | 2023-11-04 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
-| [A video shows the IDF's elite helicopter search and rescue unit evacuating some of Israel's 260 soldiers wounded battling Hamas in Gaza](https://www.businessinsider.com/video-idf-search-rescue-evacuate-260-injured-soldiers-gaza-2023-11) | Business Insider | 2023-11-04 |
 | [How clean-air-tech companies are trying to change the way we breathe](https://www.businessinsider.com/clear-air-tech-companies-change-way-we-breathe-2023-11) | Business Insider | 2023-11-08 |
 | [When Israel needs to fight Hamas in its tunnels, it turns to an elite band of commandos called the Yahalom unit](https://www.businessinsider.com/israel-uses-yahalom-unit-when-it-needs-to-fight-underground-2023-11) | Business Insider | 2023-11-06 |
 | [8 Common Things That Contribute to Insomnia and What to Do About It - CNET](https://www.cnet.com/health/sleep/8-common-things-that-contribute-to-insomnia-and-what-to-do-about-it/) | CNET | 2023-11-15 |
@@ -89,6 +88,7 @@
 | [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
 | [This Early Black Friday Deal Knocks the Fitbit Sense 2 Down to Just $198 - CNET](https://www.cnet.com/deals/this-early-black-friday-deal-knocks-the-fitbit-sense-2-down-to-just-198/) | CNET | 2023-11-07 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
+| [An Apple Watch sales ban may be coming -- Everything you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know) | AppleInsider | 2023-11-06 |
 
 ## News for Healthcare Sector
 
@@ -109,6 +109,7 @@
 | [BlackCat plays with malvertising traps to lure corporate victims](https://www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/) | Theregister.com | 2023-11-16 |
 | [From black gold to green power: Texas, weirdly, is leading America's clean energy future](https://www.businessinsider.com/texas-green-power-energy-america-economy-wind-oil-solar-prices-2023-11) | Business Insider | 2023-11-21 |
 | [HealthTech's Role In Self-Care In The Era Of Google And AI](https://www.forbes.com/sites/forbestechcouncil/2023/11/06/healthtechs-role-in-self-care-in-the-era-of-google-and-ai/) | Forbes | 2023-11-06 |
+| [Craft gana la cuenta global de adaptación y localización de contenidos para Sanofi Consumer Healthcare](https://www.marketingdirecto.com/marketing-general/agencias/craft-gana-cuenta-sanofi-consumer-healthcare) | Marketingdirecto.com | 2023-12-04 |
 | [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
@@ -118,7 +119,6 @@
 | [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
 | [Remote access tool hacked by criminals to access healthcare providers](https://www.techradar.com/pro/security/remote-access-tool-hacked-by-criminals-to-access-healthcare-providers) | TechRadar | 2023-11-13 |
 | [CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector) | Cisa.gov | 2023-11-17 |
-| [AI In Healthcare: Four Key Directives From The Biden Administration](https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/) | Forbes | 2023-11-07 |
 
 ## News for Pharma Market Trends
 
