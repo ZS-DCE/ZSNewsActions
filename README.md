@@ -51,6 +51,7 @@
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Ghana Cardinal Peter Turkson: It's time to understand homosexuality](https://www.bbc.co.uk/news/world-africa-67518215) | BBC News | 2023-11-27 |
+| [Saubere Ozeane: Aquarienschnecken-Roboter entfernt Mikroplastik](https://www.heise.de/news/Saubere-Ozeane-Aquarienschnecken-Roboter-entfernt-Mikroplastik-9549064.html) | heise online | 2023-12-05 |
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
 | [Giant sea salt aerosols play major role in Hawai'i's coastal clouds, rain](https://www.sciencedaily.com/releases/2023/11/231127180645.htm) | Science Daily | 2023-11-27 |
 | [Can artificial intelligence improve life science? As much as life science can improve AI, researchers say](https://phys.org/news/2023-12-artificial-intelligence-life-science-ai.html) | Phys.Org | 2023-12-01 |
@@ -58,7 +59,6 @@
 | [Study on kids and a career: Traditional role models still largely exist](https://phys.org/news/2023-12-kids-career-traditional-role-largely.html) | Phys.Org | 2023-12-01 |
 | [New study sheds light on Adélie penguins' reliance on declining sea ice during molt](https://phys.org/news/2023-11-adlie-penguins-reliance-declining-sea.html) | Phys.Org | 2023-11-06 |
 | [Evaluating dual hydration of the oceanic lithosphere](https://phys.org/news/2023-11-dual-hydration-oceanic-lithosphere.html) | Phys.Org | 2023-11-07 |
-| [Enhancing the antimicrobial activity of silver nanoparticles against pathogens by using tea extracts](https://phys.org/news/2023-11-antimicrobial-silver-nanoparticles-pathogens-tea.html) | Phys.Org | 2023-11-17 |
 
 ## News for Medical Devices
 
@@ -71,14 +71,12 @@
 | [How Drug Makers Manipulate Patents to Keep Insulin Prices High](https://time.com/6336840/patent-manipulation-insulin-prices/) | Time | 2023-11-17 |
 | [I'm a cruise-ship doctor. My schedule is intense but it's worth it to see the world — and I get to bring my wife and son along.](https://www.businessinsider.com/working-on-cruise-ship-doctor-what-its-like-2023-11) | Business Insider | 2023-11-11 |
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
-| [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom) | Fsf.org | 2023-11-04 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
 | [How clean-air-tech companies are trying to change the way we breathe](https://www.businessinsider.com/clear-air-tech-companies-change-way-we-breathe-2023-11) | Business Insider | 2023-11-08 |
 | [When Israel needs to fight Hamas in its tunnels, it turns to an elite band of commandos called the Yahalom unit](https://www.businessinsider.com/israel-uses-yahalom-unit-when-it-needs-to-fight-underground-2023-11) | Business Insider | 2023-11-06 |
 | [8 Common Things That Contribute to Insomnia and What to Do About It - CNET](https://www.cnet.com/health/sleep/8-common-things-that-contribute-to-insomnia-and-what-to-do-about-it/) | CNET | 2023-11-15 |
 | [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html) | Utsouthwestern.edu | 2023-11-07 |
 | [What Amazon Prime Membership Gets You Beyond Free Delivery - CNET](https://www.cnet.com/tech/mobile/what-an-amazon-prime-membership-gets-you-beyond-free-delivery/) | CNET | 2023-11-09 |
-| [Former 'American Idol' star Jimmy Levy's backpack exploded into a 'ball of fire' just as his JetBlue flight was about to take off from JFK](https://www.businessinsider.com/former-american-idol-stars-backpack-explodes-on-jetblue-jfk-flight-2023-11) | Business Insider | 2023-11-04 |
 | [Elon Musk's brain-chip startup is preparing to implant the device in its first human. Here's how to apply.](https://www.businessinsider.com/how-to-apply-for-neuralink-human-trial-study-requirements-2023-11) | Business Insider | 2023-11-08 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
 | [Judge rules in Prince Harry, Elton John's lawsuit against Daily Mail publisher](https://abcnews.go.com/GMA/Culture/judge-rules-prince-harry-elton-johns-lawsuit-daily/story?id=104771770) | ABC News | 2023-11-10 |
@@ -89,6 +87,8 @@
 | [This Early Black Friday Deal Knocks the Fitbit Sense 2 Down to Just $198 - CNET](https://www.cnet.com/deals/this-early-black-friday-deal-knocks-the-fitbit-sense-2-down-to-just-198/) | CNET | 2023-11-07 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [Endovascular catheter opens blocked arteries deep within lungs](https://www.sciencedaily.com/releases/2023/12/231204135110.htm) | Science Daily | 2023-12-04 |
+| [An Apple Watch sales ban may be coming -- Everything you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know) | AppleInsider | 2023-11-06 |
+| [Millions of adults could be wrongly diagnosed with high blood pressure](https://newatlas.com/medical/sit-blood-pressure-taken-readings/) | New Atlas | 2023-11-13 |
 
 ## News for Healthcare Sector
 
