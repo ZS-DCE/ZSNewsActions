@@ -162,6 +162,7 @@
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
 | [FTC Sees Red Over Alleged Misuse Of FDA Orange Book, Puts 10 Pharmas On Notice](https://medcitynews.com/2023/11/ftc-antitrust-regulation-orange-book-generic-competition-fda/) | MedCity News | 2023-11-10 |
 | [How to Start a Beverage Company](https://smallbiztrends.com/2023/11/how-to-start-a-beverage-company.html) | Small Business Trends | 2023-11-17 |
+| [Congress Wants To Include List Prices Of Drugs In DTC Ads: Will It Matter?](https://www.forbes.com/sites/joshuacohen/2023/12/05/congress-wants-to-include-list-prices-of-drugs-in-dtc-ads-will-it-matter/) | Forbes | 2023-12-05 |
 | [Navigating FDA Regulations: A Comprehensive Overview for MedTech Leaders](https://www.newsweek.com/navigating-fda-regulations-comprehensive-overview-medtech-leaders-1844024) | Newsweek | 2023-11-16 |
 | [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
@@ -178,5 +179,4 @@
 | [Cybellum achieves significant market share growth among leading medical device manufacturers](https://www.helpnetsecurity.com/2023/11/28/cybellum-medical-device-manufacturers-market-share/) | Help Net Security | 2023-11-28 |
 | [Federal Judge Enters Consent Decrees Against Utah-Based Dietary Supplement Distributor and Manufacturer of Balance of Nature Products](https://www.fda.gov/news-events/press-announcements/federal-judge-enters-consent-decrees-against-utah-based-dietary-supplement-distributor-and) | FDA.gov | 2023-11-16 |
 | [AI For Efficient Clinical Trials: It's Risky, But Optimism Rules](https://www.forbes.com/sites/forbestechcouncil/2023/11/14/ai-for-efficient-clinical-trials-its-risky-but-optimism-rules/) | Forbes | 2023-11-14 |
-| [Moderna admits mRNA COVID jab causes CANCER, billions of DNA fragments found in vials](https://www.naturalnews.com/2023-11-17-moderna-admits-mrna-covid-vaccines-cancer-dna-fragments.html) | Naturalnews.com | 2023-11-17 |
 
