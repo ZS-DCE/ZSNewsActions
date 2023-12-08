@@ -12,6 +12,7 @@
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Aerogels freeze the costs of cold chain logistics](https://www.springwise.com/innovation/sustainability/aerogel-insulation-for-cold-chain-logistics-buildings-and-batteries/) | Springwise.com | 2023-11-17 |
 | [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
+| [Targeting costly meds, Biden admin asserts authority to seize certain drug patents](https://www.politico.com/news/2023/12/06/biden-admin-authority-seize-certain-drug-patents-00130452) | Politico | 2023-12-06 |
 | [Should We End Obesity?](https://time.com/6330809/ozempic-wegovy-mounjaro-healthy/) | Time | 2023-11-07 |
 | [Affinity Data Is The Missing Link In Pharmaceutical Marketing](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/affinity-data-is-the-missing-link-in-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
@@ -28,7 +29,6 @@
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 | [Innovation And Healthcare Meet At Novartis](https://www.forbes.com/sites/karlmoore/2023/11/16/innovation-and-healthcare-meet-at-novartis/) | Forbes | 2023-11-16 |
-| [US and UK give the green light to powerful weight loss drug](https://newatlas.com/medical/weight-loss-drug-fda/) | New Atlas | 2023-11-09 |
 
 ## News for Life Sciences
 
