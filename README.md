@@ -35,6 +35,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Red tape holding back UK’s ambition to be a life sciences superpower, warn experts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8828922a-bee2-49a7-9cd4-162e12305525) | Yahoo Entertainment | 2023-12-03 |
+| [The tech billionaires trying to hack longevity and live forever](https://www.businessinsider.com/richest-wealthiest-entrepreneurs-ceo-billionaires-tech-searching-hacking-longevity) | Business Insider | 2023-12-07 |
 | [French letters from Seven Years' War opened 250 years later](https://www.bbc.co.uk/news/world-europe-67341309) | BBC News | 2023-11-07 |
 | [I went to school in the US and in Spain. My learning felt stagnant in the US, but my social life was fun.](https://www.businessinsider.com/school-in-spain-vs-us-2023-12) | Business Insider | 2023-12-05 |
 | [What to Expect from Virgin Galactic's Upgraded Spaceplane](https://gizmodo.com/virgin-galactic-delta-spaceplane-upgrade-profitability-1851042915) | Gizmodo.com | 2023-11-22 |
@@ -58,7 +59,6 @@
 | [Giant sea salt aerosols play major role in Hawai'i's coastal clouds, rain](https://www.sciencedaily.com/releases/2023/11/231127180645.htm) | Science Daily | 2023-11-27 |
 | [Can artificial intelligence improve life science? As much as life science can improve AI, researchers say](https://phys.org/news/2023-12-artificial-intelligence-life-science-ai.html) | Phys.Org | 2023-12-01 |
 | [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
-| [Study on kids and a career: Traditional role models still largely exist](https://phys.org/news/2023-12-kids-career-traditional-role-largely.html) | Phys.Org | 2023-12-01 |
 
 ## News for Medical Devices
 
@@ -80,6 +80,7 @@
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
 | [Judge rules in Prince Harry, Elton John's lawsuit against Daily Mail publisher](https://abcnews.go.com/GMA/Culture/judge-rules-prince-harry-elton-johns-lawsuit-daily/story?id=104771770) | ABC News | 2023-11-10 |
 | [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
+| ['Lives were 100% saved' as iPhone and Apple Watch emergency SOS features get the first responder seal of approval](https://www.imore.com/iphone/lives-were-100-saved-as-iphone-and-apple-watch-emergency-sos-features-get-the-first-responder-seal-of-approval) | iMore | 2023-12-07 |
 | [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
@@ -88,7 +89,6 @@
 | [Slow down! As deaths and injuries mount, new calls for technology to reduce speeding](https://www.npr.org/2023/12/06/1216557190/car-crash-accident-speeding-technology-slow-down-speed-assistance) | NPR | 2023-12-06 |
 | [Endovascular catheter opens blocked arteries deep within lungs](https://www.sciencedaily.com/releases/2023/12/231204135110.htm) | Science Daily | 2023-12-04 |
 | [Millions of adults could be wrongly diagnosed with high blood pressure](https://newatlas.com/medical/sit-blood-pressure-taken-readings/) | New Atlas | 2023-11-13 |
-| [Portable device detects Alzheimer’s and Parkinson’s biomarkers on the spot](https://newatlas.com/medical/portable-device-alzheimers-parkinsons-biomarkers/) | New Atlas | 2023-11-15 |
 
 ## News for Healthcare Sector
 
@@ -117,8 +117,8 @@
 | [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
 | [Amazon Offers Prime Members a Discount For its Posh Healthcare Service](https://www.thedailyupside.com/technology/big-tech/amazon-offers-prime-members-a-discount-for-its-posh-healthcare-service/) | Thedailyupside.com | 2023-11-09 |
 | [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
+| [A shadow banking industry is changing the way companies borrow money](https://www.businessinsider.com/private-credit-lenders-middle-market-deals-2023-11) | Business Insider | 2023-12-07 |
 | [Remote access tool hacked by criminals to access healthcare providers](https://www.techradar.com/pro/security/remote-access-tool-hacked-by-criminals-to-access-healthcare-providers) | TechRadar | 2023-11-13 |
-| [CISA Releases The Mitigation Guide: Healthcare and Public Health (HPH) Sector](https://www.cisa.gov/news-events/alerts/2023/11/17/cisa-releases-mitigation-guide-healthcare-and-public-health-hph-sector) | Cisa.gov | 2023-11-17 |
 
 ## News for Pharma Market Trends
 
@@ -131,6 +131,7 @@
 | [Children’s Day: Titan, Canara Bank among top 12 stock ideas for your little one’s future](https://economictimes.indiatimes.com/markets/stocks/news/childrens-day-titan-canara-bank-among-top-12-stock-ideas-for-your-little-ones-future/articleshow/105199189.cms) | The Times of India | 2023-11-14 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Daily Voice | This investment professional lists 3 risks that may derail India growth story](https://www.moneycontrol.com/news/business/markets/daily-voice-this-investment-professional-lists-3-risks-that-may-derail-india-growth-story-11776731.html) | Moneycontrol | 2023-11-21 |
+| [How India can enhance the presence of Global Capability Centres](https://www.thehindubusinessline.com/opinion/how-india-can-enhance-the-presence-of-global-capability-centres/article67615364.ece) | BusinessLine | 2023-12-07 |
 | [KRAS Inhibitors Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2023/12/05/2790752/0/en/KRAS-Inhibitors-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2023-12-05 |
 | [Stockology: Stars favour the bulls. Will Nifty test 20,000 this week?](https://www.moneycontrol.com/news/opinion/stockology-stars-are-favouring-the-bulls-will-nifty-test-20000-this-week-11814941.html) | Moneycontrol | 2023-11-27 |
 | [What your most important investors need to know](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-your-most-important-investors-need-to-know) | Mckinsey.com | 2023-11-28 |
@@ -148,7 +149,6 @@
 | [Pharmaceutical Glass Ampoules Market Size Set to Double by 2030, Fairfield Market Research Projects US$5 Bn Revenue](https://www.globenewswire.com/news-release/2023/11/09/2777247/0/en/Pharmaceutical-Glass-Ampoules-Market-Size-Set-to-Double-by-2030-Fairfield-Market-Research-Projects-US-5-Bn-Revenue.html) | GlobeNewswire | 2023-11-09 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
-| [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
 
 ## News for FDA Regulations
 
