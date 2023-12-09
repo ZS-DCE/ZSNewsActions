@@ -15,7 +15,6 @@
 | [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
 | [Targeting costly meds, Biden admin asserts authority to seize certain drug patents](https://www.politico.com/news/2023/12/06/biden-admin-authority-seize-certain-drug-patents-00130452) | Politico | 2023-12-06 |
 | [Catalyst for electronically controlled C--H functionalization](https://www.sciencedaily.com/releases/2023/12/231207160405.htm) | Science Daily | 2023-12-07 |
-| [Should We End Obesity?](https://time.com/6330809/ozempic-wegovy-mounjaro-healthy/) | Time | 2023-11-07 |
 | [Affinity Data Is The Missing Link In Pharmaceutical Marketing](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/affinity-data-is-the-missing-link-in-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
@@ -29,6 +28,7 @@
 | [As The Regulatory Landscape Shifts Globally, So, Too, Must The Pharma Commercial Model](https://www.forbes.com/sites/ritanumerof/2023/11/09/as-the-regulatory-landscape-shifts-globally-so-too-must-the-pharma-commercial-model/) | Forbes | 2023-11-09 |
 | [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
+| [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 
 ## News for Life Sciences
 
@@ -36,7 +36,6 @@
 | ----- | ------ | --------- |
 | [Red tape holding back UK’s ambition to be a life sciences superpower, warn experts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8828922a-bee2-49a7-9cd4-162e12305525) | Yahoo Entertainment | 2023-12-03 |
 | [The tech billionaires trying to hack longevity and live forever](https://www.businessinsider.com/richest-wealthiest-entrepreneurs-ceo-billionaires-tech-searching-hacking-longevity) | Business Insider | 2023-12-07 |
-| [French letters from Seven Years' War opened 250 years later](https://www.bbc.co.uk/news/world-europe-67341309) | BBC News | 2023-11-07 |
 | [I went to school in the US and in Spain. My learning felt stagnant in the US, but my social life was fun.](https://www.businessinsider.com/school-in-spain-vs-us-2023-12) | Business Insider | 2023-12-05 |
 | [What to Expect from Virgin Galactic's Upgraded Spaceplane](https://gizmodo.com/virgin-galactic-delta-spaceplane-upgrade-profitability-1851042915) | Gizmodo.com | 2023-11-22 |
 | [How Nobel economists spend their $1 million winnings](https://www.businessinsider.com/how-nobel-prize-winner-economists-spend-winnings-2023-11) | Business Insider | 2023-11-20 |
@@ -50,7 +49,6 @@
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
 | [Scientists discover plant hormone that boosts growth by 30%](https://phys.org/news/2023-12-scientists-hormone-boosts-growth.html) | Phys.Org | 2023-12-06 |
 | [The Oldest Deep-Sea Fish Discovered in Fossil Traces](https://www.scientificamerican.com/article/the-oldest-deep-sea-fish-discovered-in-fossil-traces/) | Scientific American | 2023-12-01 |
-| [450M-year-old organism comes back to life in robot form](https://www.futurity.org/softbotics-robotics-fossils-pleurocystitids-2996262/) | Futurity: Research News | 2023-11-07 |
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
@@ -59,6 +57,8 @@
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
 | [Giant sea salt aerosols play major role in Hawai'i's coastal clouds, rain](https://www.sciencedaily.com/releases/2023/11/231127180645.htm) | Science Daily | 2023-11-27 |
 | [Can artificial intelligence improve life science? As much as life science can improve AI, researchers say](https://phys.org/news/2023-12-artificial-intelligence-life-science-ai.html) | Phys.Org | 2023-12-01 |
+| [With unprecedented flares, stellar corpse shows signs of life](https://phys.org/news/2023-11-unprecedented-flares-stellar-corpse-life.html) | Phys.Org | 2023-11-15 |
+| [Study on kids and a career: Traditional role models still largely exist](https://phys.org/news/2023-12-kids-career-traditional-role-largely.html) | Phys.Org | 2023-12-01 |
 
 ## News for Medical Devices
 
@@ -75,7 +75,6 @@
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
 | [How clean-air-tech companies are trying to change the way we breathe](https://www.businessinsider.com/clear-air-tech-companies-change-way-we-breathe-2023-11) | Business Insider | 2023-11-08 |
 | [8 Common Things That Contribute to Insomnia and What to Do About It - CNET](https://www.cnet.com/health/sleep/8-common-things-that-contribute-to-insomnia-and-what-to-do-about-it/) | CNET | 2023-11-15 |
-| [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html) | Utsouthwestern.edu | 2023-11-07 |
 | [What Amazon Prime Membership Gets You Beyond Free Delivery - CNET](https://www.cnet.com/tech/mobile/what-an-amazon-prime-membership-gets-you-beyond-free-delivery/) | CNET | 2023-11-09 |
 | [Elon Musk's brain-chip startup is preparing to implant the device in its first human. Here's how to apply.](https://www.businessinsider.com/how-to-apply-for-neuralink-human-trial-study-requirements-2023-11) | Business Insider | 2023-11-08 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
@@ -85,10 +84,11 @@
 | [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
-| [This Early Black Friday Deal Knocks the Fitbit Sense 2 Down to Just $198 - CNET](https://www.cnet.com/deals/this-early-black-friday-deal-knocks-the-fitbit-sense-2-down-to-just-198/) | CNET | 2023-11-07 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [Slow down! As deaths and injuries mount, new calls for technology to reduce speeding](https://www.npr.org/2023/12/06/1216557190/car-crash-accident-speeding-technology-slow-down-speed-assistance) | NPR | 2023-12-06 |
 | [Endovascular catheter opens blocked arteries deep within lungs](https://www.sciencedaily.com/releases/2023/12/231204135110.htm) | Science Daily | 2023-12-04 |
+| [Millions of adults could be wrongly diagnosed with high blood pressure](https://newatlas.com/medical/sit-blood-pressure-taken-readings/) | New Atlas | 2023-11-13 |
+| [Portable device detects Alzheimer’s and Parkinson’s biomarkers on the spot](https://newatlas.com/medical/portable-device-alzheimers-parkinsons-biomarkers/) | New Atlas | 2023-11-15 |
 
 ## News for Healthcare Sector
 
@@ -103,7 +103,6 @@
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
-| [Barack Obama on AI, free speech, and the future of the internet](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview) | The Verge | 2023-11-07 |
 | [15 Tips for Choosing the Right Finance Technology Solutions for Small Businesses](https://gritdaily.com/choosing-the-right-finance-technology-solutions/) | Grit Daily | 2023-12-06 |
 | [The challenges of securing the healthcare sector [Q&A]](https://betanews.com/2023/11/29/the-challenges-of-securing-the-healthcare-sector-qa/) | BetaNews | 2023-11-29 |
 | [Healthcare changes can slash climate impact: global health agency](https://phys.org/news/2023-11-healthcare-slash-climate-impact-global.html) | Phys.Org | 2023-11-28 |
@@ -119,6 +118,7 @@
 | [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
 | [Amazon Offers Prime Members a Discount For its Posh Healthcare Service](https://www.thedailyupside.com/technology/big-tech/amazon-offers-prime-members-a-discount-for-its-posh-healthcare-service/) | Thedailyupside.com | 2023-11-09 |
 | [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
+| [A shadow banking industry is changing the way companies borrow money](https://www.businessinsider.com/private-credit-lenders-middle-market-deals-2023-11) | Business Insider | 2023-12-07 |
 
 ## News for Pharma Market Trends
 
@@ -139,7 +139,6 @@
 | [Procurement pros invest in technology to improve business outcomes](https://www.digitalcommerce360.com/2023/11/21/amazon-business-procurement-study/) | DigitalCommerce360 | 2023-11-21 |
 | [[Latest] Global Naloxone Market Size/Share Worth USD 2,470.2 Million by 2032 at a 11% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)](https://www.globenewswire.com/news-release/2023/12/04/2790373/0/en/Latest-Global-Naloxone-Market-Size-Share-Worth-USD-2-470-2-Million-by-2032-at-a-11-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth-G.html) | GlobeNewswire | 2023-12-04 |
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
-| [Pharma-Funded Fact Checkers Control the Internet](https://articles.mercola.com/sites/articles/archive/2023/11/08/pharma-funded-fact-checkers-control-internet.aspx) | Mercola.com | 2023-11-08 |
 | [Biologics CDMO Market Expected to Reach USD 35.09 Billion with a 10.79% CAGR | Says InsightAce Study](https://www.globenewswire.com/news-release/2023/11/28/2786728/0/en/Biologics-CDMO-Market-Expected-to-Reach-USD-35-09-Billion-with-a-10-79-CAGR-Says-InsightAce-Study.html) | GlobeNewswire | 2023-11-28 |
 | [Opioid Market Size, Share & Trends Analysis Report and Segment Forecasts 2023-2030: Recent Developments & Impact Analysis, By Key Market Participants](https://www.globenewswire.com/news-release/2023/11/17/2782426/28124/en/Opioid-Market-Size-Share-Trends-Analysis-Report-and-Segment-Forecasts-2023-2030-Recent-Developments-Impact-Analysis-By-Key-Market-Participants.html) | GlobeNewswire | 2023-11-17 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
@@ -149,6 +148,7 @@
 | [Pharmaceutical Glass Ampoules Market Size Set to Double by 2030, Fairfield Market Research Projects US$5 Bn Revenue](https://www.globenewswire.com/news-release/2023/11/09/2777247/0/en/Pharmaceutical-Glass-Ampoules-Market-Size-Set-to-Double-by-2030-Fairfield-Market-Research-Projects-US-5-Bn-Revenue.html) | GlobeNewswire | 2023-11-09 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
+| [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
 
 ## News for FDA Regulations
 
@@ -158,7 +158,6 @@
 | [Lead-tainted fruit snacks sicken dozens of children](https://boingboing.net/2023/11/27/lead-tainted-fruit-snacks-sicken-dozens-of-children.html) | Boing Boing | 2023-11-27 |
 | [Hair Straighteners and Relaxers May Be Harmful to Health. Here's How to Make Them Better](https://www.scientificamerican.com/article/hair-straighteners-and-relaxers-may-be-harmful-to-health-heres-how-to-make-them-better/) | Scientific American | 2023-11-14 |
 | [Why Banning Menthol Cigarettes Could Do More Harm Than Good](https://www.forbes.com/sites/steveforbes/2023/11/17/why-banning-menthol-cigarettes-could-do-more-harm-than-good/) | Forbes | 2023-11-17 |
-| [Even the Smartest VCs Sometimes Get it Wrong – Bill Gurley and Regulated Markets](https://steveblank.com/2023/11/07/even-the-smartest-vcs-sometimes-get-it-wrong-bill-gurley-and-regulated-markets/) | Steveblank.com | 2023-11-07 |
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
 | [FTC Sees Red Over Alleged Misuse Of FDA Orange Book, Puts 10 Pharmas On Notice](https://medcitynews.com/2023/11/ftc-antitrust-regulation-orange-book-generic-competition-fda/) | MedCity News | 2023-11-10 |
 | [How to Start a Beverage Company](https://smallbiztrends.com/2023/11/how-to-start-a-beverage-company.html) | Small Business Trends | 2023-11-17 |
@@ -179,4 +178,5 @@
 | [Colorado Blames Biden Team and Drugmakers for Delaying Canadian Imports](https://kffhealthnews.org/news/article/colorado-importing-drugs-canada-prescription-drug-costs/) | Kffhealthnews.org | 2023-12-07 |
 | [FDA Roundup: December 1, 2023](https://www.fda.gov/news-events/press-announcements/fda-roundup-december-1-2023) | FDA.gov | 2023-12-01 |
 | [Cybellum achieves significant market share growth among leading medical device manufacturers](https://www.helpnetsecurity.com/2023/11/28/cybellum-medical-device-manufacturers-market-share/) | Help Net Security | 2023-11-28 |
+| [Federal Judge Enters Consent Decrees Against Utah-Based Dietary Supplement Distributor and Manufacturer of Balance of Nature Products](https://www.fda.gov/news-events/press-announcements/federal-judge-enters-consent-decrees-against-utah-based-dietary-supplement-distributor-and) | FDA.gov | 2023-11-16 |
 
