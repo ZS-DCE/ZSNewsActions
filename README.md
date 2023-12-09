@@ -22,8 +22,8 @@
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
-| [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
 | [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
+| [The International Photography Hall of Fame Honors Four Women](https://petapixel.com/2023/11/08/the-international-photography-hall-of-fame-honors-four-women/) | PetaPixel | 2023-11-08 |
 | [Indian drug manufacturers benefit from Big Pharma interest beyond China](https://biztoc.com/x/7260ec1c6ca2fa6a) | Biztoc.com | 2023-11-27 |
 | [As The Regulatory Landscape Shifts Globally, So, Too, Must The Pharma Commercial Model](https://www.forbes.com/sites/ritanumerof/2023/11/09/as-the-regulatory-landscape-shifts-globally-so-too-must-the-pharma-commercial-model/) | Forbes | 2023-11-09 |
 | [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
@@ -64,7 +64,9 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Android phones can now send medical data during 911 calls](https://www.engadget.com/android-phones-can-now-send-medical-data-during-911-calls-104518043.html) | Engadget | 2023-12-08 |
 | [MIT tests new ingestible sensor that record your breathing through your intestines](https://www.engadget.com/mit-tests-new-ingestible-sensor-that-record-your-breathing-through-your-intestines-224823353.html) | Engadget | 2023-11-17 |
+| [First responders can automatically obtain important medical info from your Android phone](https://www.androidcentral.com/apps-software/android-personal-safety-rapidsos-medical-information) | Android Central | 2023-12-08 |
 | [Gaza’s Main Hospital Goes Dark Amid Intense Fighting](https://time.com/6334030/gaza-hospital-electricity-outage-israel-hamas/) | Time | 2023-11-11 |
 | [In New Doctor’s Office, Stethoscope Wears You](https://hackaday.com/2023/11/26/in-new-doctors-office-stethoscope-wears-you/) | Hackaday | 2023-11-26 |
 | [Apple Gives iPhone 14 Users an Extra Year of Emergency SOS Via Satellite](https://gizmodo.com/apple-iphone-14-emergency-sos-satellite-1851025810) | Gizmodo.com | 2023-11-15 |
@@ -87,8 +89,6 @@
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [Slow down! As deaths and injuries mount, new calls for technology to reduce speeding](https://www.npr.org/2023/12/06/1216557190/car-crash-accident-speeding-technology-slow-down-speed-assistance) | NPR | 2023-12-06 |
 | [Endovascular catheter opens blocked arteries deep within lungs](https://www.sciencedaily.com/releases/2023/12/231204135110.htm) | Science Daily | 2023-12-04 |
-| [Millions of adults could be wrongly diagnosed with high blood pressure](https://newatlas.com/medical/sit-blood-pressure-taken-readings/) | New Atlas | 2023-11-13 |
-| [Portable device detects Alzheimer’s and Parkinson’s biomarkers on the spot](https://newatlas.com/medical/portable-device-alzheimers-parkinsons-biomarkers/) | New Atlas | 2023-11-15 |
 
 ## News for Healthcare Sector
 
