@@ -51,6 +51,7 @@
 | [Scientists discover plant hormone that boosts growth by 30%](https://phys.org/news/2023-12-scientists-hormone-boosts-growth.html) | Phys.Org | 2023-12-06 |
 | [The Oldest Deep-Sea Fish Discovered in Fossil Traces](https://www.scientificamerican.com/article/the-oldest-deep-sea-fish-discovered-in-fossil-traces/) | Scientific American | 2023-12-01 |
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
+| [World's deepest, largest underground lab operational](https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html) | 中国日报 | 2023-12-08 |
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Ghana Cardinal Peter Turkson: It's time to understand homosexuality](https://www.bbc.co.uk/news/world-africa-67518215) | BBC News | 2023-11-27 |
@@ -58,7 +59,6 @@
 | [This wireless, handheld, non-invasive device detects Alzheimer's and Parkinson's biomarkers](https://www.sciencedaily.com/releases/2023/11/231113155218.htm) | Science Daily | 2023-11-13 |
 | [Giant sea salt aerosols play major role in Hawai'i's coastal clouds, rain](https://www.sciencedaily.com/releases/2023/11/231127180645.htm) | Science Daily | 2023-11-27 |
 | [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
-| [Can artificial intelligence improve life science? As much as life science can improve AI, researchers say](https://phys.org/news/2023-12-artificial-intelligence-life-science-ai.html) | Phys.Org | 2023-12-01 |
 
 ## News for Medical Devices
 
