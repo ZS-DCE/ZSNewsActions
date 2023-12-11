@@ -26,9 +26,9 @@
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
 | [Indian drug manufacturers benefit from Big Pharma interest beyond China](https://biztoc.com/x/7260ec1c6ca2fa6a) | Biztoc.com | 2023-11-27 |
-| [As The Regulatory Landscape Shifts Globally, So, Too, Must The Pharma Commercial Model](https://www.forbes.com/sites/ritanumerof/2023/11/09/as-the-regulatory-landscape-shifts-globally-so-too-must-the-pharma-commercial-model/) | Forbes | 2023-11-09 |
 | [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
+| [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 
 ## News for Life Sciences
 
@@ -72,15 +72,14 @@
 | [Apple Gives iPhone 14 Users an Extra Year of Emergency SOS Via Satellite](https://gizmodo.com/apple-iphone-14-emergency-sos-satellite-1851025810) | Gizmodo.com | 2023-11-15 |
 | [How Drug Makers Manipulate Patents to Keep Insulin Prices High](https://time.com/6336840/patent-manipulation-insulin-prices/) | Time | 2023-11-17 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
+| [Google could make the Pixel 8 Pro's thermometer a practical health feature](https://www.androidcentral.com/phones/fitbit-app-pixel-8-pro-thermometer-integration) | Android Central | 2023-12-10 |
 | [I'm a cruise-ship doctor. My schedule is intense but it's worth it to see the world — and I get to bring my wife and son along.](https://www.businessinsider.com/working-on-cruise-ship-doctor-what-its-like-2023-11) | Business Insider | 2023-11-11 |
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
 | [8 Common Things That Contribute to Insomnia and What to Do About It - CNET](https://www.cnet.com/health/sleep/8-common-things-that-contribute-to-insomnia-and-what-to-do-about-it/) | CNET | 2023-11-15 |
 | [8 Things That Might Make Your Insomnia Worse - CNET](https://www.cnet.com/health/sleep/8-things-that-might-make-your-insomnia-worse/) | CNET | 2023-12-08 |
-| [What Amazon Prime Membership Gets You Beyond Free Delivery - CNET](https://www.cnet.com/tech/mobile/what-an-amazon-prime-membership-gets-you-beyond-free-delivery/) | CNET | 2023-11-09 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
 | [Engineers design a robotic replica of the heart's right chamber](https://www.sciencedaily.com/releases/2023/12/231208133050.htm) | Science Daily | 2023-12-08 |
-| [Judge rules in Prince Harry, Elton John's lawsuit against Daily Mail publisher](https://abcnews.go.com/GMA/Culture/judge-rules-prince-harry-elton-johns-lawsuit-daily/story?id=104771770) | ABC News | 2023-11-10 |
 | [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
 | ['Lives were 100% saved' as iPhone and Apple Watch emergency SOS features get the first responder seal of approval](https://www.imore.com/iphone/lives-were-100-saved-as-iphone-and-apple-watch-emergency-sos-features-get-the-first-responder-seal-of-approval) | iMore | 2023-12-07 |
 | [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
@@ -89,12 +88,12 @@
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [Slow down! As deaths and injuries mount, new calls for technology to reduce speeding](https://www.npr.org/2023/12/06/1216557190/car-crash-accident-speeding-technology-slow-down-speed-assistance) | NPR | 2023-12-06 |
 | [Endovascular catheter opens blocked arteries deep within lungs](https://www.sciencedaily.com/releases/2023/12/231204135110.htm) | Science Daily | 2023-12-04 |
+| [Medical microrobots that can travel inside your body are (still) on their way](https://www.technologyreview.com/2023/12/08/1084696/medical-microrobots-are-still-on-their-way/) | MIT Technology Review | 2023-12-08 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Amazon Expands Healthcare Push With One Medical Benefits For Prime Members](https://science.slashdot.org/story/23/11/09/0636221/amazon-expands-healthcare-push-with-one-medical-benefits-for-prime-members) | Slashdot.org | 2023-11-09 |
 | [Why strikes are working and which industries could be next](https://www.businessinsider.com/uaw-sagaftra-union-strikes-impact-pay-benefits-economy-healthcare-teachers-2023-11) | Business Insider | 2023-11-11 |
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [AI Should Complement Humans at Work, Not Replace Them, TIME Panelists Say](https://time.com/6338489/ai-work-jobs/) | Time | 2023-12-01 |
@@ -104,10 +103,11 @@
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
 | [Next year's labor market could look a lot like 2019](https://qz.com/us-jobs-labor-market-november-2023-1851085755) | Quartz India | 2023-12-08 |
+| [It's not just you. It's getting harder to switch jobs.](https://www.businessinsider.com/job-search-switch-harder-to-get-job-hiring-labor-market-2023-12) | Business Insider | 2023-12-10 |
 | [15 Tips for Choosing the Right Finance Technology Solutions for Small Businesses](https://gritdaily.com/choosing-the-right-finance-technology-solutions/) | Grit Daily | 2023-12-06 |
 | [The challenges of securing the healthcare sector [Q&A]](https://betanews.com/2023/11/29/the-challenges-of-securing-the-healthcare-sector-qa/) | BetaNews | 2023-11-29 |
-| [Digital Twins: 18 Ways They Can Be Leveraged Across Industries](https://www.forbes.com/sites/forbestechcouncil/2023/11/27/digital-twins-18-ways-they-can-be-leveraged-across-industries/) | Forbes | 2023-11-27 |
 | [Healthcare changes can slash climate impact: global health agency](https://phys.org/news/2023-11-healthcare-slash-climate-impact-global.html) | Phys.Org | 2023-11-28 |
+| [Digital Twins: 18 Ways They Can Be Leveraged Across Industries](https://www.forbes.com/sites/forbestechcouncil/2023/11/27/digital-twins-18-ways-they-can-be-leveraged-across-industries/) | Forbes | 2023-11-27 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [BlackCat plays with malvertising traps to lure corporate victims](https://www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/) | Theregister.com | 2023-11-16 |
 | [From black gold to green power: Texas, weirdly, is leading America's clean energy future](https://www.businessinsider.com/texas-green-power-energy-america-economy-wind-oil-solar-prices-2023-11) | Business Insider | 2023-11-21 |
@@ -145,10 +145,10 @@
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
 | [Pharmaceutical Lipids Market Size, Share, Trends, Outlook, and Forecasts 2023-2030 | According to RationalStat](https://www.globenewswire.com/news-release/2023/11/15/2780769/0/en/Pharmaceutical-Lipids-Market-Size-Share-Trends-Outlook-and-Forecasts-2023-2030-According-to-RationalStat.html) | GlobeNewswire | 2023-11-15 |
-| [Pharmaceutical Glass Ampoules Market Size Set to Double by 2030, Fairfield Market Research Projects US$5 Bn Revenue](https://www.globenewswire.com/news-release/2023/11/09/2777247/0/en/Pharmaceutical-Glass-Ampoules-Market-Size-Set-to-Double-by-2030-Fairfield-Market-Research-Projects-US-5-Bn-Revenue.html) | GlobeNewswire | 2023-11-09 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
 | [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
+| [Beta Blockers Global Market Report 2023: Product Innovation Fuels Growth in Beta Blockers Market](https://www.globenewswire.com/news-release/2023/11/24/2785487/28124/en/Beta-Blockers-Global-Market-Report-2023-Product-Innovation-Fuels-Growth-in-Beta-Blockers-Market.html) | GlobeNewswire | 2023-11-24 |
 
 ## News for FDA Regulations
 
