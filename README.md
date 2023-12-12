@@ -103,8 +103,8 @@
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
 | [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
-| [Next year's labor market could look a lot like 2019](https://qz.com/us-jobs-labor-market-november-2023-1851085755) | Quartz India | 2023-12-08 |
 | [It's not just you. It's getting harder to switch jobs.](https://www.businessinsider.com/job-search-switch-harder-to-get-job-hiring-labor-market-2023-12) | Business Insider | 2023-12-10 |
+| [Next year's labor market could look a lot like 2019](https://qz.com/us-jobs-labor-market-november-2023-1851085755) | Quartz India | 2023-12-08 |
 | [15 Tips for Choosing the Right Finance Technology Solutions for Small Businesses](https://gritdaily.com/choosing-the-right-finance-technology-solutions/) | Grit Daily | 2023-12-06 |
 | [The challenges of securing the healthcare sector [Q&A]](https://betanews.com/2023/11/29/the-challenges-of-securing-the-healthcare-sector-qa/) | BetaNews | 2023-11-29 |
 | [Healthcare changes can slash climate impact: global health agency](https://phys.org/news/2023-11-healthcare-slash-climate-impact-global.html) | Phys.Org | 2023-11-28 |
