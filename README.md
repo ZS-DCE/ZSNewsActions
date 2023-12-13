@@ -20,6 +20,7 @@
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
+| [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
 | [Emmanuel Macron To Unveil Novo Nordisk Record $2.3B Investment In France's Health Sector](https://biztoc.com/x/c806074e41fadddf) | Biztoc.com | 2023-11-23 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
@@ -28,7 +29,6 @@
 | [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
-| [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
 
 ## News for Life Sciences
 
@@ -94,6 +94,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Nvidia Emerges as Leading Investor in AI Companies](https://tech.slashdot.org/story/23/12/11/194248/nvidia-emerges-as-leading-investor-in-ai-companies) | Slashdot.org | 2023-12-11 |
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [AI Should Complement Humans at Work, Not Replace Them, TIME Panelists Say](https://time.com/6338489/ai-work-jobs/) | Time | 2023-12-01 |
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
@@ -116,9 +117,8 @@
 | [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
 | [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
+| [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
-| [Securing A Healthy Future: Leaders’ Sustainability Priorities For 2024](https://www.forbes.com/sites/sallypercy/2023/11/24/securing-a-healthy-future-leaders-sustainability-priorities-for-2024/) | Forbes | 2023-11-24 |
-| [Ransomware royale: US confirms Royal, BlackSuit are linked](https://www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/) | Theregister.com | 2023-11-14 |
 
 ## News for Pharma Market Trends
 
@@ -128,6 +128,7 @@
 | [Global Quantum Computer Market](https://www.nextbigfuture.com/2023/12/global-quantum-computer-market.html) | Next Big Future | 2023-12-07 |
 | [Expert advice: How important is a photographer’s location to their career?](https://www.diyphotography.net/expert-advice-how-important-is-a-photographers-location-to-their-career/) | DIYphotography | 2023-11-16 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
+| [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Children’s Day: Titan, Canara Bank among top 12 stock ideas for your little one’s future](https://economictimes.indiatimes.com/markets/stocks/news/childrens-day-titan-canara-bank-among-top-12-stock-ideas-for-your-little-ones-future/articleshow/105199189.cms) | The Times of India | 2023-11-14 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Daily Voice | This investment professional lists 3 risks that may derail India growth story](https://www.moneycontrol.com/news/business/markets/daily-voice-this-investment-professional-lists-3-risks-that-may-derail-india-growth-story-11776731.html) | Moneycontrol | 2023-11-21 |
@@ -148,7 +149,6 @@
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
 | [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
-| [Beta Blockers Global Market Report 2023: Product Innovation Fuels Growth in Beta Blockers Market](https://www.globenewswire.com/news-release/2023/11/24/2785487/28124/en/Beta-Blockers-Global-Market-Report-2023-Product-Innovation-Fuels-Growth-in-Beta-Blockers-Market.html) | GlobeNewswire | 2023-11-24 |
 
 ## News for FDA Regulations
 
