@@ -98,6 +98,7 @@
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [AI Should Complement Humans at Work, Not Replace Them, TIME Panelists Say](https://time.com/6338489/ai-work-jobs/) | Time | 2023-12-01 |
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
+| [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
@@ -118,7 +119,6 @@
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
 | [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
 | [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
-| [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 
 ## News for Pharma Market Trends
 
@@ -161,8 +161,10 @@
 | [Why Banning Menthol Cigarettes Could Do More Harm Than Good](https://www.forbes.com/sites/steveforbes/2023/11/17/why-banning-menthol-cigarettes-could-do-more-harm-than-good/) | Forbes | 2023-11-17 |
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
 | [How to Start a Beverage Company](https://smallbiztrends.com/2023/11/how-to-start-a-beverage-company.html) | Small Business Trends | 2023-11-17 |
+| [Why Cybersecurity Is A Competitive Advantage: Reaching Digital Success](https://www.forbes.com/sites/forbestechcouncil/2023/12/13/why-cybersecurity-is-a-competitive-advantage-reaching-digital-success/) | Forbes | 2023-12-13 |
 | [“Unacceptable”: Senators Call on GAO to Probe FDA’s Oversight of Medical Devices, Citing Series on Philips CPAP Recall](https://www.propublica.org/article/senators-ask-gao-to-probe-fda-device-oversight-citing-cpap-recall) | ProPublica | 2023-12-13 |
 | [Congress Wants To Include List Prices Of Drugs In DTC Ads: Will It Matter?](https://www.forbes.com/sites/joshuacohen/2023/12/05/congress-wants-to-include-list-prices-of-drugs-in-dtc-ads-will-it-matter/) | Forbes | 2023-12-05 |
+| [Abortion Pills: What To Know About Mifepristone As Supreme Court Takes Up Case](https://www.forbes.com/sites/alisondurkee/2023/12/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-takes-up-case/) | Forbes | 2023-12-13 |
 | [How to Start a Soap Making Business](https://smallbiztrends.com/2023/07/how-to-start-a-soap-business.html) | Small Business Trends | 2023-12-12 |
 | [Millions of People Used Tainted Breathing Machines. The FDA Failed to Use Its Power to Protect Them.](https://www.propublica.org/article/how-the-fda-failed-to-protect-millions-of-people-tainted-breathing-machines) | ProPublica | 2023-12-07 |
 | [Navigating FDA Regulations: A Comprehensive Overview for MedTech Leaders](https://www.newsweek.com/navigating-fda-regulations-comprehensive-overview-medtech-leaders-1844024) | Newsweek | 2023-11-16 |
@@ -176,7 +178,5 @@
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [10 things you need to know today: December 9, 2023](https://theweek.com/digest/round-up/10-things-you-need-to-know-today-december-9-2023) | The Week Magazine | 2023-12-09 |
 | [Best Practices for Weight Loss Prescriptions via Telehealth](https://www.forbes.com/sites/forbesbooksauthors/2023/11/15/best-practices-for-weight-loss-prescriptions-via-telehealth/) | Forbes | 2023-11-15 |
-| [The Law Come To Get You If You Don’t Walk Right – Hemp Law, Policy, And The Courts (Part 4/5)](https://www.forbes.com/sites/roberthoban/2023/12/09/the-law-come-to-get-you-if-you-dont-walk-right--hemp-law-policy-and-the-courts-part-45/) | Forbes | 2023-12-09 |
-| [Scaling slaughter-free meat is hard. Here’s one way to make it easier.](https://www.vox.com/future-perfect/23980010/cellular-agriculture-consortiums-collaboration-alternative-meat-lab-grown) | Vox | 2023-12-01 |
-| [The real cost of healthcare cybersecurity breaches](https://www.helpnetsecurity.com/2023/11/13/taylor-lehmann-google-healthcare-cybersecurity-breaches/) | Help Net Security | 2023-11-13 |
+| [Supreme Court agrees to hear high-stakes dispute over abortion pill](https://www.cbsnews.com/news/supreme-court-abortion-pill-case-mifepristone/) | CBS News | 2023-12-13 |
 
