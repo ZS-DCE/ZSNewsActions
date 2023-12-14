@@ -82,13 +82,13 @@
 | [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
 | ['Lives were 100% saved' as iPhone and Apple Watch emergency SOS features get the first responder seal of approval](https://www.imore.com/iphone/lives-were-100-saved-as-iphone-and-apple-watch-emergency-sos-features-get-the-first-responder-seal-of-approval) | iMore | 2023-12-07 |
 | [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
+| [Robotic third arm controlled by breathing is surprisingly easy to use](https://www.newscientist.com/article/2407850-robotic-third-arm-controlled-by-breathing-is-surprisingly-easy-to-use/) | New Scientist | 2023-12-13 |
 | [2.M patents infected with data loss in Norton Healthcare ransomware outbreak](https://www.theregister.com/2023/12/11/norton_healthcare_ransomware/) | Theregister.com | 2023-12-11 |
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [Are Glucose Monitors for Those Without Diabetes a Good Idea?](https://www.webmd.com/diabetes/news/20231212/continuous-glucose-monitors-for-those-without-diabetes) | WebMD | 2023-12-12 |
 | [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 | [Inside the EU’s tentative deal on world-first AI regulation](https://thenextweb.com/news/eu-ai-act-deal-regulation-artificial-intelligence-inside) | The Next Web | 2023-12-11 |
-| [Slow down! As deaths and injuries mount, new calls for technology to reduce speeding](https://www.npr.org/2023/12/06/1216557190/car-crash-accident-speeding-technology-slow-down-speed-assistance) | NPR | 2023-12-06 |
 
 ## News for Healthcare Sector
 
@@ -172,11 +172,11 @@
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
 | [Reviews of New Food: Walmart’s Great Value Original Fruit Smiles](https://www.mcsweeneys.net/articles/walmarts-great-value-original-fruit-smiles) | Mcsweeneys.net | 2023-11-16 |
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
+| [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
 | [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Balance of Nature ordered to stop sales of supplements after FDA lawsuits](https://www.cbsnews.com/news/balance-of-nature-supplements-fda-lawsuits/) | CBS News | 2023-11-17 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [10 things you need to know today: December 9, 2023](https://theweek.com/digest/round-up/10-things-you-need-to-know-today-december-9-2023) | The Week Magazine | 2023-12-09 |
 | [Best Practices for Weight Loss Prescriptions via Telehealth](https://www.forbes.com/sites/forbesbooksauthors/2023/11/15/best-practices-for-weight-loss-prescriptions-via-telehealth/) | Forbes | 2023-11-15 |
-| [Supreme Court agrees to hear high-stakes dispute over abortion pill](https://www.cbsnews.com/news/supreme-court-abortion-pill-case-mifepristone/) | CBS News | 2023-12-13 |
 
