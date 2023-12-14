@@ -98,6 +98,7 @@
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [AI Should Complement Humans at Work, Not Replace Them, TIME Panelists Say](https://time.com/6338489/ai-work-jobs/) | Time | 2023-12-01 |
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
+| [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
@@ -118,7 +119,6 @@
 | [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
 | [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
-| [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 
 ## News for Pharma Market Trends
 
@@ -131,7 +131,9 @@
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Children’s Day: Titan, Canara Bank among top 12 stock ideas for your little one’s future](https://economictimes.indiatimes.com/markets/stocks/news/childrens-day-titan-canara-bank-among-top-12-stock-ideas-for-your-little-ones-future/articleshow/105199189.cms) | The Times of India | 2023-11-14 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
+| [Worldâs first self-amplifying COVID-19 vaccine approved in Japan despite lack of safety data](https://www.naturalnews.com/2023-12-13-self-amplifying-covid-vaccine-approved-in-japan.html) | Naturalnews.com | 2023-12-13 |
 | [Daily Voice | This investment professional lists 3 risks that may derail India growth story](https://www.moneycontrol.com/news/business/markets/daily-voice-this-investment-professional-lists-3-risks-that-may-derail-india-growth-story-11776731.html) | Moneycontrol | 2023-11-21 |
+| [Mid-day Mood | Sensex, Nifty trade in red for 2nd day as investors take money off the table](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-trade-in-red-for-2nd-day-as-investors-take-money-off-the-table-11896941.html) | Moneycontrol | 2023-12-13 |
 | [How India can enhance the presence of Global Capability Centres](https://www.thehindubusinessline.com/opinion/how-india-can-enhance-the-presence-of-global-capability-centres/article67615364.ece) | BusinessLine | 2023-12-07 |
 | [KRAS Inhibitors Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2023/12/05/2790752/0/en/KRAS-Inhibitors-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2023-12-05 |
 | [Stockology: Stars favour the bulls. Will Nifty test 20,000 this week?](https://www.moneycontrol.com/news/opinion/stockology-stars-are-favouring-the-bulls-will-nifty-test-20000-this-week-11814941.html) | Moneycontrol | 2023-11-27 |
@@ -147,8 +149,6 @@
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
 | [Pharmaceutical Lipids Market Size, Share, Trends, Outlook, and Forecasts 2023-2030 | According to RationalStat](https://www.globenewswire.com/news-release/2023/11/15/2780769/0/en/Pharmaceutical-Lipids-Market-Size-Share-Trends-Outlook-and-Forecasts-2023-2030-According-to-RationalStat.html) | GlobeNewswire | 2023-11-15 |
-| [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
-| [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
 
 ## News for FDA Regulations
 
