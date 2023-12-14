@@ -56,9 +56,9 @@
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
 | [World's deepest, largest underground lab operational](https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html) | 中国日报 | 2023-12-08 |
 | [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
+| [Caregiving can be stressful, but it could also lower risk of depression](https://www.sciencedaily.com/releases/2023/12/231212163359.htm) | Science Daily | 2023-12-12 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Ghana Cardinal Peter Turkson: It's time to understand homosexuality](https://www.bbc.co.uk/news/world-africa-67518215) | BBC News | 2023-11-27 |
-| [Saubere Ozeane: Aquarienschnecken-Roboter entfernt Mikroplastik](https://www.heise.de/news/Saubere-Ozeane-Aquarienschnecken-Roboter-entfernt-Mikroplastik-9549064.html) | heise online | 2023-12-05 |
 
 ## News for Medical Devices
 
