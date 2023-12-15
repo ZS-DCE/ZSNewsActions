@@ -102,8 +102,8 @@
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
-| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
+| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
@@ -160,6 +160,7 @@
 | [Monday Interview: Sailesh Adhav, Joint Commissioner, FDA](https://indianexpress.com/article/cities/mumbai/monday-interview-sailesh-adhav-joint-commissioner-fda-9062563/) | The Indian Express | 2023-12-10 |
 | [Why Banning Menthol Cigarettes Could Do More Harm Than Good](https://www.forbes.com/sites/steveforbes/2023/11/17/why-banning-menthol-cigarettes-could-do-more-harm-than-good/) | Forbes | 2023-11-17 |
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
+| [The Abortion Pill Might Just Stand a Chance at the Supreme Court](https://newrepublic.com/article/177580/supreme-court-narrow-mifepristone-standing) | The New Republic | 2023-12-14 |
 | [How to Start a Beverage Company](https://smallbiztrends.com/2023/11/how-to-start-a-beverage-company.html) | Small Business Trends | 2023-11-17 |
 | [Why Cybersecurity Is A Competitive Advantage: Reaching Digital Success](https://www.forbes.com/sites/forbestechcouncil/2023/12/13/why-cybersecurity-is-a-competitive-advantage-reaching-digital-success/) | Forbes | 2023-12-13 |
 | [“Unacceptable”: Senators Call on GAO to Probe FDA’s Oversight of Medical Devices, Citing Series on Philips CPAP Recall](https://www.propublica.org/article/senators-ask-gao-to-probe-fda-device-oversight-citing-cpap-recall) | ProPublica | 2023-12-13 |
@@ -171,12 +172,11 @@
 | [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
 | [Reviews of New Food: Walmart’s Great Value Original Fruit Smiles](https://www.mcsweeneys.net/articles/walmarts-great-value-original-fruit-smiles) | Mcsweeneys.net | 2023-11-16 |
-| [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
+| [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Balance of Nature ordered to stop sales of supplements after FDA lawsuits](https://www.cbsnews.com/news/balance-of-nature-supplements-fda-lawsuits/) | CBS News | 2023-11-17 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [10 things you need to know today: December 9, 2023](https://theweek.com/digest/round-up/10-things-you-need-to-know-today-december-9-2023) | The Week Magazine | 2023-12-09 |
-| [Best Practices for Weight Loss Prescriptions via Telehealth](https://www.forbes.com/sites/forbesbooksauthors/2023/11/15/best-practices-for-weight-loss-prescriptions-via-telehealth/) | Forbes | 2023-11-15 |
 
