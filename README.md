@@ -15,6 +15,7 @@
 | [Aerogels freeze the costs of cold chain logistics](https://www.springwise.com/innovation/sustainability/aerogel-insulation-for-cold-chain-logistics-buildings-and-batteries/) | Springwise.com | 2023-11-17 |
 | [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
 | [Targeting costly meds, Biden admin asserts authority to seize certain drug patents](https://www.politico.com/news/2023/12/06/biden-admin-authority-seize-certain-drug-patents-00130452) | Politico | 2023-12-06 |
+| [Introduction of R activities in Japan](https://www.r-bloggers.com/2023/12/introduction-of-r-activities-in-japan/) | R-bloggers.com | 2023-12-14 |
 | [Catalyst for electronically controlled C--H functionalization](https://www.sciencedaily.com/releases/2023/12/231207160405.htm) | Science Daily | 2023-12-07 |
 | [Affinity Data Is The Missing Link In Pharmaceutical Marketing](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/affinity-data-is-the-missing-link-in-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
@@ -28,7 +29,6 @@
 | [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
 | [Indian drug manufacturers benefit from Big Pharma interest beyond China](https://biztoc.com/x/7260ec1c6ca2fa6a) | Biztoc.com | 2023-11-27 |
 | [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
-| [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 
 ## News for Life Sciences
 
@@ -82,13 +82,13 @@
 | [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
 | ['Lives were 100% saved' as iPhone and Apple Watch emergency SOS features get the first responder seal of approval](https://www.imore.com/iphone/lives-were-100-saved-as-iphone-and-apple-watch-emergency-sos-features-get-the-first-responder-seal-of-approval) | iMore | 2023-12-07 |
 | [MediaTek unveils new WiFi 7 and 5G RedCap connectivity solutions](https://phandroid.com/2023/11/17/mediatek-unveils-new-wifi-7-and-5g-redcap-connectivity-solutions/) | Phandroid - News for Android | 2023-11-17 |
+| [Scientists develop a polymer film inspired by spider silk to connect biological tissues with electronic devices](https://phys.org/news/2023-12-scientists-polymer-spider-silk-biological.html) | Phys.Org | 2023-12-14 |
 | [Robotic third arm controlled by breathing is surprisingly easy to use](https://www.newscientist.com/article/2407850-robotic-third-arm-controlled-by-breathing-is-surprisingly-easy-to-use/) | New Scientist | 2023-12-13 |
 | [2.M patents infected with data loss in Norton Healthcare ransomware outbreak](https://www.theregister.com/2023/12/11/norton_healthcare_ransomware/) | Theregister.com | 2023-12-11 |
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [Are Glucose Monitors for Those Without Diabetes a Good Idea?](https://www.webmd.com/diabetes/news/20231212/continuous-glucose-monitors-for-those-without-diabetes) | WebMD | 2023-12-12 |
 | [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
 | [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
-| [Inside the EU’s tentative deal on world-first AI regulation](https://thenextweb.com/news/eu-ai-act-deal-regulation-artificial-intelligence-inside) | The Next Web | 2023-12-11 |
 
 ## News for Healthcare Sector
 
@@ -148,7 +148,7 @@
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
 | [Pharmaceutical Lipids Market Size, Share, Trends, Outlook, and Forecasts 2023-2030 | According to RationalStat](https://www.globenewswire.com/news-release/2023/11/15/2780769/0/en/Pharmaceutical-Lipids-Market-Size-Share-Trends-Outlook-and-Forecasts-2023-2030-According-to-RationalStat.html) | GlobeNewswire | 2023-11-15 |
-| [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
+| [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 
 ## News for FDA Regulations
 
