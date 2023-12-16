@@ -69,6 +69,7 @@
 | [First responders can automatically obtain important medical info from your Android phone](https://www.androidcentral.com/apps-software/android-personal-safety-rapidsos-medical-information) | Android Central | 2023-12-08 |
 | [In New Doctor’s Office, Stethoscope Wears You](https://hackaday.com/2023/11/26/in-new-doctors-office-stethoscope-wears-you/) | Hackaday | 2023-11-26 |
 | [Apple Gives iPhone 14 Users an Extra Year of Emergency SOS Via Satellite](https://gizmodo.com/apple-iphone-14-emergency-sos-satellite-1851025810) | Gizmodo.com | 2023-11-15 |
+| [Sneakernet Power Transmission](https://hackaday.com/2023/12/14/sneakernet-power-transmission/) | Hackaday | 2023-12-15 |
 | [How Drug Makers Manipulate Patents to Keep Insulin Prices High](https://time.com/6336840/patent-manipulation-insulin-prices/) | Time | 2023-11-17 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [Google could make the Pixel 8 Pro's thermometer a practical health feature](https://www.androidcentral.com/phones/fitbit-app-pixel-8-pro-thermometer-integration) | Android Central | 2023-12-10 |
@@ -88,7 +89,6 @@
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [Are Glucose Monitors for Those Without Diabetes a Good Idea?](https://www.webmd.com/diabetes/news/20231212/continuous-glucose-monitors-for-those-without-diabetes) | WebMD | 2023-12-12 |
 | [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
-| [Pediatric Research And The Private Sector Imperative: Key Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/pediatric-research-and-the-private-sector-imperative-key-considerations-for-investors/) | Forbes | 2023-11-14 |
 
 ## News for Healthcare Sector
 
