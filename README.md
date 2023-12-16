@@ -11,13 +11,11 @@
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Pharmaceutical effluent evokes superbugs in the environment: A call to action](https://phys.org/news/2023-11-pharmaceutical-effluent-evokes-superbugs-environment.html) | Phys.Org | 2023-11-24 |
 | [Webinar: Use of R in Japan’s Pharma Industry](https://www.r-bloggers.com/2023/12/webinar-use-of-r-in-japans-pharma-industry/) | R-bloggers.com | 2023-12-12 |
-| [How Real-World Data Is Shaping The Future Of Pharmaceutical Marketing](https://www.forbes.com/sites/garydrenik/2023/11/14/how-real-world-data-is-shaping-the-future-of-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [Aerogels freeze the costs of cold chain logistics](https://www.springwise.com/innovation/sustainability/aerogel-insulation-for-cold-chain-logistics-buildings-and-batteries/) | Springwise.com | 2023-11-17 |
 | [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
 | [Targeting costly meds, Biden admin asserts authority to seize certain drug patents](https://www.politico.com/news/2023/12/06/biden-admin-authority-seize-certain-drug-patents-00130452) | Politico | 2023-12-06 |
 | [Introduction of R activities in Japan](https://www.r-bloggers.com/2023/12/introduction-of-r-activities-in-japan/) | R-bloggers.com | 2023-12-14 |
 | [Catalyst for electronically controlled C--H functionalization](https://www.sciencedaily.com/releases/2023/12/231207160405.htm) | Science Daily | 2023-12-07 |
-| [Affinity Data Is The Missing Link In Pharmaceutical Marketing](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/14/affinity-data-is-the-missing-link-in-pharmaceutical-marketing/) | Forbes | 2023-11-14 |
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
@@ -29,6 +27,8 @@
 | [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
 | [Indian drug manufacturers benefit from Big Pharma interest beyond China](https://biztoc.com/x/7260ec1c6ca2fa6a) | Biztoc.com | 2023-11-27 |
 | [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
+| [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
+| [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 
 ## News for Life Sciences
 
@@ -55,10 +55,10 @@
 | [Stem Cell Therapy Implant Shows Promise For Type 1 Diabetes](https://www.webmd.com/diabetes/news/20231211/stem-cell-therapy-implant-shows-promise-for-type-1-diabetes) | WebMD | 2023-12-11 |
 | [Climate shapes life-history traits of abundant bacteria in Qinghai-Tibet plateau](https://phys.org/news/2023-11-climate-life-history-traits-abundant-bacteria.html) | Phys.Org | 2023-11-24 |
 | [World's deepest, largest underground lab operational](https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html) | 中国日报 | 2023-12-08 |
-| [Study sheds light on how Earth cycles its fossil carbon](https://phys.org/news/2023-11-earth-fossil-carbon.html) | Phys.Org | 2023-11-14 |
 | [Caregiving can be stressful, but it could also lower risk of depression](https://www.sciencedaily.com/releases/2023/12/231212163359.htm) | Science Daily | 2023-12-12 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Ghana Cardinal Peter Turkson: It's time to understand homosexuality](https://www.bbc.co.uk/news/world-africa-67518215) | BBC News | 2023-11-27 |
+| [Saubere Ozeane: Aquarienschnecken-Roboter entfernt Mikroplastik](https://www.heise.de/news/Saubere-Ozeane-Aquarienschnecken-Roboter-entfernt-Mikroplastik-9549064.html) | heise online | 2023-12-05 |
 
 ## News for Medical Devices
 
@@ -88,7 +88,7 @@
 | [2.M patents infected with data loss in Norton Healthcare ransomware outbreak](https://www.theregister.com/2023/12/11/norton_healthcare_ransomware/) | Theregister.com | 2023-12-11 |
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [Are Glucose Monitors for Those Without Diabetes a Good Idea?](https://www.webmd.com/diabetes/news/20231212/continuous-glucose-monitors-for-those-without-diabetes) | WebMD | 2023-12-12 |
-| [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/) | physicsworld.com | 2023-11-14 |
+| [Inside the EU’s tentative deal on world-first AI regulation](https://thenextweb.com/news/eu-ai-act-deal-regulation-artificial-intelligence-inside) | The Next Web | 2023-12-11 |
 
 ## News for Healthcare Sector
 
@@ -102,8 +102,8 @@
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
 | [AI investment is growing, and so are the career opportunities](https://www.businessinsider.com/ai-chatgpt-jobs-career-growth-linkedin-tech-salaries-2023-11) | Business Insider | 2023-11-17 |
-| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
+| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
@@ -118,13 +118,12 @@
 | [From black gold to green power: Texas, weirdly, is leading America's clean energy future](https://www.businessinsider.com/texas-green-power-energy-america-economy-wind-oil-solar-prices-2023-11) | Business Insider | 2023-11-21 |
 | [Craft gana la cuenta global de adaptación y localización de contenidos para Sanofi Consumer Healthcare](https://www.marketingdirecto.com/marketing-general/agencias/craft-gana-cuenta-sanofi-consumer-healthcare) | Marketingdirecto.com | 2023-12-04 |
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
-| [Trends And Predictions For The M&A Sector In 2024](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/15/trends-and-predictions-for-the-ma-sector-in-2024/) | Forbes | 2023-11-15 |
+| [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
 
 ## News for Pharma Market Trends
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Forbes Daily: Pfizer Stock Gets Dose Of Post-Covid Reality](https://www.forbes.com/sites/daniellechemtob/2023/11/14/forbes-daily-pfizer-stock-gets-dose-of-post-covid-reality/) | Forbes | 2023-11-14 |
 | [Global Quantum Computer Market](https://www.nextbigfuture.com/2023/12/global-quantum-computer-market.html) | Next Big Future | 2023-12-07 |
 | [Expert advice: How important is a photographer’s location to their career?](https://www.diyphotography.net/expert-advice-how-important-is-a-photographers-location-to-their-career/) | DIYphotography | 2023-11-16 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
@@ -147,8 +146,9 @@
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
 | [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
-| [Pharmaceutical Lipids Market Size, Share, Trends, Outlook, and Forecasts 2023-2030 | According to RationalStat](https://www.globenewswire.com/news-release/2023/11/15/2780769/0/en/Pharmaceutical-Lipids-Market-Size-Share-Trends-Outlook-and-Forecasts-2023-2030-According-to-RationalStat.html) | GlobeNewswire | 2023-11-15 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
+| [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
+| [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
 
 ## News for FDA Regulations
 
@@ -156,7 +156,6 @@
 | ----- | ------ | --------- |
 | [Say Goodbye to Those Absurd Side-Effects Readouts in Drug Commercials](https://gizmodo.com/fda-rule-prescription-drug-commercials-ads-side-effects-1851038494) | Gizmodo.com | 2023-11-21 |
 | [Lead-tainted fruit snacks sicken dozens of children](https://boingboing.net/2023/11/27/lead-tainted-fruit-snacks-sicken-dozens-of-children.html) | Boing Boing | 2023-11-27 |
-| [Hair Straighteners and Relaxers May Be Harmful to Health. Here's How to Make Them Better](https://www.scientificamerican.com/article/hair-straighteners-and-relaxers-may-be-harmful-to-health-heres-how-to-make-them-better/) | Scientific American | 2023-11-14 |
 | [Monday Interview: Sailesh Adhav, Joint Commissioner, FDA](https://indianexpress.com/article/cities/mumbai/monday-interview-sailesh-adhav-joint-commissioner-fda-9062563/) | The Indian Express | 2023-12-10 |
 | [Why Banning Menthol Cigarettes Could Do More Harm Than Good](https://www.forbes.com/sites/steveforbes/2023/11/17/why-banning-menthol-cigarettes-could-do-more-harm-than-good/) | Forbes | 2023-11-17 |
 | [Toku’s CLAiR: AI-Powered Retina Scan Predicts Cardiovascular Risks](https://www.ubergizmo.com/2023/11/tokus-clair/) | Ubergizmo | 2023-11-17 |
@@ -175,6 +174,7 @@
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
 | [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
+| [Abcarian: Who will make abortion pill rules? A bunch of right-wing judges, or FDA scientists?](https://www.latimes.com/opinion/story/2023-12-15/abortion-texas-supreme-court-pill-mifepristonel-fda-matthew-kacsmaryk) | Los Angeles Times | 2023-12-15 |
 | [Balance of Nature ordered to stop sales of supplements after FDA lawsuits](https://www.cbsnews.com/news/balance-of-nature-supplements-fda-lawsuits/) | CBS News | 2023-11-17 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
