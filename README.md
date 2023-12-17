@@ -18,7 +18,6 @@
 | [Catalyst for electronically controlled C--H functionalization](https://www.sciencedaily.com/releases/2023/12/231207160405.htm) | Science Daily | 2023-12-07 |
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
 | [21 Healthcare Business Ideas for Emerging Market Opportunities](https://smallbiztrends.com/2023/07/healthcare-business-ideas.html) | Small Business Trends | 2023-11-17 |
-| [It's a first: Scientists find ethyl vanillin in a specially-bred strawberry](https://phys.org/news/2023-11-scientists-ethyl-vanillin-specially-bred-strawberry.html) | Phys.Org | 2023-11-15 |
 | [Fighting Through A Forest Of Opacity: Overhauling The Prescription Drug Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/fighting-through-a-forest-of-opacity-overhauling-the-prescription-drug-industry/) | Forbes | 2023-11-20 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Wuxi XDC IPO Reinvigorates Health Care Sector, Week In Review](https://www.forbes.com/sites/brendanahern/2023/11/17/wuxi-xdc-ipo-reinvigorates-health-care-sector-week-in-review/) | Forbes | 2023-11-17 |
@@ -29,6 +28,7 @@
 | [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
+| [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
 
 ## News for Life Sciences
 
@@ -68,14 +68,12 @@
 | [MIT tests new ingestible sensor that record your breathing through your intestines](https://www.engadget.com/mit-tests-new-ingestible-sensor-that-record-your-breathing-through-your-intestines-224823353.html) | Engadget | 2023-11-17 |
 | [First responders can automatically obtain important medical info from your Android phone](https://www.androidcentral.com/apps-software/android-personal-safety-rapidsos-medical-information) | Android Central | 2023-12-08 |
 | [In New Doctor’s Office, Stethoscope Wears You](https://hackaday.com/2023/11/26/in-new-doctors-office-stethoscope-wears-you/) | Hackaday | 2023-11-26 |
-| [Apple Gives iPhone 14 Users an Extra Year of Emergency SOS Via Satellite](https://gizmodo.com/apple-iphone-14-emergency-sos-satellite-1851025810) | Gizmodo.com | 2023-11-15 |
 | [Sneakernet Power Transmission](https://hackaday.com/2023/12/14/sneakernet-power-transmission/) | Hackaday | 2023-12-15 |
 | [How Drug Makers Manipulate Patents to Keep Insulin Prices High](https://time.com/6336840/patent-manipulation-insulin-prices/) | Time | 2023-11-17 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [Google could make the Pixel 8 Pro's thermometer a practical health feature](https://www.androidcentral.com/phones/fitbit-app-pixel-8-pro-thermometer-integration) | Android Central | 2023-12-10 |
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
-| [8 Common Things That Contribute to Insomnia and What to Do About It - CNET](https://www.cnet.com/health/sleep/8-common-things-that-contribute-to-insomnia-and-what-to-do-about-it/) | CNET | 2023-11-15 |
 | [8 Things That Might Make Your Insomnia Worse - CNET](https://www.cnet.com/health/sleep/8-things-that-might-make-your-insomnia-worse/) | CNET | 2023-12-08 |
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
@@ -89,6 +87,8 @@
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [Are Glucose Monitors for Those Without Diabetes a Good Idea?](https://www.webmd.com/diabetes/news/20231212/continuous-glucose-monitors-for-those-without-diabetes) | WebMD | 2023-12-12 |
 | [Inside the EU’s tentative deal on world-first AI regulation](https://thenextweb.com/news/eu-ai-act-deal-regulation-artificial-intelligence-inside) | The Next Web | 2023-12-11 |
+| [Slow down! As deaths and injuries mount, new calls for technology to reduce speeding](https://www.npr.org/2023/12/06/1216557190/car-crash-accident-speeding-technology-slow-down-speed-assistance) | NPR | 2023-12-06 |
+| [Endovascular catheter opens blocked arteries deep within lungs](https://www.sciencedaily.com/releases/2023/12/231204135110.htm) | Science Daily | 2023-12-04 |
 
 ## News for Healthcare Sector
 
@@ -125,7 +125,6 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Global Quantum Computer Market](https://www.nextbigfuture.com/2023/12/global-quantum-computer-market.html) | Next Big Future | 2023-12-07 |
-| [Expert advice: How important is a photographer’s location to their career?](https://www.diyphotography.net/expert-advice-how-important-is-a-photographers-location-to-their-career/) | DIYphotography | 2023-11-16 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
@@ -149,6 +148,7 @@
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
 | [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
+| [Inside the Ozempic factory: How a $430 billion Danish pharma giant feeds America’s appetite for weight-loss drugs](https://www.fastcompany.com/90981009/novo-nordisk-ozempic-wegovy-weight-loss) | Fast Company | 2023-12-13 |
 
 ## News for FDA Regulations
 
