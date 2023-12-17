@@ -25,10 +25,10 @@
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
 | [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
 | [Indian drug manufacturers benefit from Big Pharma interest beyond China](https://biztoc.com/x/7260ec1c6ca2fa6a) | Biztoc.com | 2023-11-27 |
-| [AI Is Going To Transform Business Models Across Every Industry](https://www.forbes.com/sites/forbestechcouncil/2023/11/16/ai-is-going-to-transform-business-models-across-every-industry/) | Forbes | 2023-11-16 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 | [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
+| [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 
 ## News for Life Sciences
 
@@ -115,10 +115,10 @@
 | [Healthcare changes can slash climate impact: global health agency](https://phys.org/news/2023-11-healthcare-slash-climate-impact-global.html) | Phys.Org | 2023-11-28 |
 | [Digital Twins: 18 Ways They Can Be Leveraged Across Industries](https://www.forbes.com/sites/forbestechcouncil/2023/11/27/digital-twins-18-ways-they-can-be-leveraged-across-industries/) | Forbes | 2023-11-27 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
-| [BlackCat plays with malvertising traps to lure corporate victims](https://www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/) | Theregister.com | 2023-11-16 |
 | [From black gold to green power: Texas, weirdly, is leading America's clean energy future](https://www.businessinsider.com/texas-green-power-energy-america-economy-wind-oil-solar-prices-2023-11) | Business Insider | 2023-11-21 |
 | [Craft gana la cuenta global de adaptación y localización de contenidos para Sanofi Consumer Healthcare](https://www.marketingdirecto.com/marketing-general/agencias/craft-gana-cuenta-sanofi-consumer-healthcare) | Marketingdirecto.com | 2023-12-04 |
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
+| [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
 
 ## News for Pharma Market Trends
 
@@ -143,12 +143,12 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 | [Opioid Market Size, Share & Trends Analysis Report and Segment Forecasts 2023-2030: Recent Developments & Impact Analysis, By Key Market Participants](https://www.globenewswire.com/news-release/2023/11/17/2782426/28124/en/Opioid-Market-Size-Share-Trends-Analysis-Report-and-Segment-Forecasts-2023-2030-Recent-Developments-Impact-Analysis-By-Key-Market-Participants.html) | GlobeNewswire | 2023-11-17 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
-| [Blood Preparation Market Size, Share & Trends Analysis Report 2023- Global Forecast to 2030 Featuring Pfizer, Bristol-Myers Squibb, Leo Pharma, Sanofi, Xiamen Hisunny Chemical, AstraZeneca, Baxter](https://www.globenewswire.com/news-release/2023/11/16/2781731/28124/en/Blood-Preparation-Market-Size-Share-Trends-Analysis-Report-2023-Global-Forecast-to-2030-Featuring-Pfizer-Bristol-Myers-Squibb-Leo-Pharma-Sanofi-Xiamen-Hisunny-Chemical-AstraZeneca-.html) | GlobeNewswire | 2023-11-16 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
 | [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
 | [Inside the Ozempic factory: How a $430 billion Danish pharma giant feeds America’s appetite for weight-loss drugs](https://www.fastcompany.com/90981009/novo-nordisk-ozempic-wegovy-weight-loss) | Fast Company | 2023-12-13 |
+| [Beta Blockers Global Market Report 2023: Product Innovation Fuels Growth in Beta Blockers Market](https://www.globenewswire.com/news-release/2023/11/24/2785487/28124/en/Beta-Blockers-Global-Market-Report-2023-Product-Innovation-Fuels-Growth-in-Beta-Blockers-Market.html) | GlobeNewswire | 2023-11-24 |
 
 ## News for FDA Regulations
 
@@ -167,10 +167,8 @@
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Takes Up Case](https://www.forbes.com/sites/alisondurkee/2023/12/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-takes-up-case/) | Forbes | 2023-12-13 |
 | [How to Start a Soap Making Business](https://smallbiztrends.com/2023/07/how-to-start-a-soap-business.html) | Small Business Trends | 2023-12-12 |
 | [Millions of People Used Tainted Breathing Machines. The FDA Failed to Use Its Power to Protect Them.](https://www.propublica.org/article/how-the-fda-failed-to-protect-millions-of-people-tainted-breathing-machines) | ProPublica | 2023-12-07 |
-| [Navigating FDA Regulations: A Comprehensive Overview for MedTech Leaders](https://www.newsweek.com/navigating-fda-regulations-comprehensive-overview-medtech-leaders-1844024) | Newsweek | 2023-11-16 |
 | [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
-| [Reviews of New Food: Walmart’s Great Value Original Fruit Smiles](https://www.mcsweeneys.net/articles/walmarts-great-value-original-fruit-smiles) | Mcsweeneys.net | 2023-11-16 |
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
 | [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
@@ -179,4 +177,6 @@
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [10 things you need to know today: December 9, 2023](https://theweek.com/digest/round-up/10-things-you-need-to-know-today-december-9-2023) | The Week Magazine | 2023-12-09 |
+| [Supreme Court Agrees to Hear High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2023/12/13/supreme-court-agrees-hear-high-stakes-abortion-pill-case/) | Breitbart News | 2023-12-13 |
+| [Supreme Court agrees to hear high-stakes dispute over abortion pill](https://www.cbsnews.com/news/supreme-court-abortion-pill-case-mifepristone/) | CBS News | 2023-12-13 |
 
