@@ -44,8 +44,8 @@
 | ['Can cringe be a SEC violation?': $1 trillion investment giant Blackstone is getting roasted for its Eras Tour-inspired holiday video](https://www.businessinsider.com/blackstone-taylor-swift-eras-holiday-video-mockumentary-tour-cringe-schwarzman2023-12) | Business Insider | 2023-12-15 |
 | [UK universities urged to reduce equity stakes in their spinouts](https://thenextweb.com/news/uk-universities-urged-reduce-equity-stakes-spinouts) | The Next Web | 2023-11-22 |
 | [Study identifies a key protein for healthy aging](https://www.sciencedaily.com/releases/2023/11/231128132401.htm) | Science Daily | 2023-11-28 |
-| [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [Study: International scientists believe lack of women in physics tied to personal preference, but viewpoint ignores gender norms](https://www.sciencedaily.com/releases/2023/12/231207161423.htm) | Science Daily | 2023-12-07 |
+| [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [Here's how fast a spacecraft should fly to successfully detect amino acids erupting from Enceladus](https://www.theregister.com/2023/12/06/heres_how_fast_a_spacecraft/) | Theregister.com | 2023-12-06 |
 | [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
@@ -169,9 +169,9 @@
 | [Millions of People Used Tainted Breathing Machines. The FDA Failed to Use Its Power to Protect Them.](https://www.propublica.org/article/how-the-fda-failed-to-protect-millions-of-people-tainted-breathing-machines) | ProPublica | 2023-12-07 |
 | [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
+| [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
-| [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Abcarian: Who will make abortion pill rules? A bunch of right-wing judges, or FDA scientists?](https://www.latimes.com/opinion/story/2023-12-15/abortion-texas-supreme-court-pill-mifepristonel-fda-matthew-kacsmaryk) | Los Angeles Times | 2023-12-15 |
 | [Balance of Nature ordered to stop sales of supplements after FDA lawsuits](https://www.cbsnews.com/news/balance-of-nature-supplements-fda-lawsuits/) | CBS News | 2023-11-17 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
