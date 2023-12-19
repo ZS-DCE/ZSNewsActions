@@ -117,8 +117,8 @@
 | [Craft gana la cuenta global de adaptación y localización de contenidos para Sanofi Consumer Healthcare](https://www.marketingdirecto.com/marketing-general/agencias/craft-gana-cuenta-sanofi-consumer-healthcare) | Marketingdirecto.com | 2023-12-04 |
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
 | [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
+| [These 3 Biotech Stocks Have Strong Upside Potential, Says Deutsche Bank](https://biztoc.com/x/246c7f88ad3b730a) | Biztoc.com | 2023-12-18 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
-| [Sectors: The S&P 500's 7-layer dip](https://qz.com/emails/quartz-obsession/1851096326/sectors-the-s-p-500s-7-layer-dip) | Quartz India | 2023-12-15 |
 
 ## News for Pharma Market Trends
 
@@ -166,8 +166,8 @@
 | [Millions of People Used Tainted Breathing Machines. The FDA Failed to Use Its Power to Protect Them.](https://www.propublica.org/article/how-the-fda-failed-to-protect-millions-of-people-tainted-breathing-machines) | ProPublica | 2023-12-07 |
 | [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
-| [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
+| [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
 | [Rand Paul: Why Is the FDA Still Requiring Human or Animal Testing For New Drugs?](https://reason.com/2023/11/20/rand-paul-fda-animal-testing-regulation/) | Reason | 2023-11-20 |
 | [Abcarian: Who will make abortion pill rules? A bunch of right-wing judges, or FDA scientists?](https://www.latimes.com/opinion/story/2023-12-15/abortion-texas-supreme-court-pill-mifepristonel-fda-matthew-kacsmaryk) | Los Angeles Times | 2023-12-15 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
