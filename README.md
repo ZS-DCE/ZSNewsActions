@@ -65,7 +65,6 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Android phones can now send medical data during 911 calls](https://www.engadget.com/android-phones-can-now-send-medical-data-during-911-calls-104518043.html) | Engadget | 2023-12-08 |
-| [MIT tests new ingestible sensor that record your breathing through your intestines](https://www.engadget.com/mit-tests-new-ingestible-sensor-that-record-your-breathing-through-your-intestines-224823353.html) | Engadget | 2023-11-17 |
 | [First responders can automatically obtain important medical info from your Android phone](https://www.androidcentral.com/apps-software/android-personal-safety-rapidsos-medical-information) | Android Central | 2023-12-08 |
 | [In New Doctor’s Office, Stethoscope Wears You](https://hackaday.com/2023/11/26/in-new-doctors-office-stethoscope-wears-you/) | Hackaday | 2023-11-26 |
 | [Sneakernet Power Transmission](https://hackaday.com/2023/12/14/sneakernet-power-transmission/) | Hackaday | 2023-12-15 |
@@ -89,6 +88,7 @@
 | [Endovascular catheter opens blocked arteries deep within lungs](https://www.sciencedaily.com/releases/2023/12/231204135110.htm) | Science Daily | 2023-12-04 |
 | [Medical microrobots that can travel inside your body are (still) on their way](https://www.technologyreview.com/2023/12/08/1084696/medical-microrobots-are-still-on-their-way/) | MIT Technology Review | 2023-12-08 |
 | [Silencing the Ring: Proven Strategies for Tinnitus Relief](https://www.artofmanliness.com/health-fitness/health/silencing-the-ring-proven-strategies-for-tinnitus-relief/) | Artofmanliness.com | 2023-12-05 |
+| [Reassessing what we can expect from peptides in disease detection](https://phys.org/news/2023-12-reassessing-peptides-disease.html) | Phys.Org | 2023-12-08 |
 
 ## News for Healthcare Sector
 
