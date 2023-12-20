@@ -74,6 +74,7 @@
 | [Google could make the Pixel 8 Pro's thermometer a practical health feature](https://www.androidcentral.com/phones/fitbit-app-pixel-8-pro-thermometer-integration) | Android Central | 2023-12-10 |
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
+| [7 Amazon retail stumbles, from grocery delivery to clothing stores](https://www.businessinsider.com/amazon-failures-at-retail-fresh-grocery-style-fashion-2023-12) | Business Insider | 2023-12-19 |
 | [Apple Watch Series 9 halted sales over patent dispute](https://readwrite.com/apple-watch-series-9-halted-sales-over-patent-dispute/) | ReadWrite | 2023-12-18 |
 | [8 Things That Might Make Your Insomnia Worse - CNET](https://www.cnet.com/health/sleep/8-things-that-might-make-your-insomnia-worse/) | CNET | 2023-12-08 |
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
@@ -88,7 +89,6 @@
 | [2.M patents infected with data loss in Norton Healthcare ransomware outbreak](https://www.theregister.com/2023/12/11/norton_healthcare_ransomware/) | Theregister.com | 2023-12-11 |
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [Are Glucose Monitors for Those Without Diabetes a Good Idea?](https://www.webmd.com/diabetes/news/20231212/continuous-glucose-monitors-for-those-without-diabetes) | WebMD | 2023-12-12 |
-| [Inside the EU’s tentative deal on world-first AI regulation](https://thenextweb.com/news/eu-ai-act-deal-regulation-artificial-intelligence-inside) | The Next Web | 2023-12-11 |
 
 ## News for Healthcare Sector
 
@@ -146,9 +146,9 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
+| [Pet Food Market Size Worth USD 151.70 Billion in 2032 | Emergen Research](https://www.globenewswire.com/news-release/2023/12/19/2798393/0/en/Pet-Food-Market-Size-Worth-USD-151-70-Billion-in-2032-Emergen-Research.html) | GlobeNewswire | 2023-12-19 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
-| [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
 
 ## News for FDA Regulations
 
