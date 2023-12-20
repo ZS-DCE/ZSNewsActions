@@ -94,6 +94,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [The DOJ says it disrupted the Blackcat ransomware group](https://www.engadget.com/the-doj-says-it-disrupted-the-blackcat-ransomware-group-174755936.html) | Engadget | 2023-12-19 |
 | [Nvidia Emerges as Leading Investor in AI Companies](https://tech.slashdot.org/story/23/12/11/194248/nvidia-emerges-as-leading-investor-in-ai-companies) | Slashdot.org | 2023-12-11 |
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [AI Should Complement Humans at Work, Not Replace Them, TIME Panelists Say](https://time.com/6338489/ai-work-jobs/) | Time | 2023-12-01 |
@@ -118,7 +119,6 @@
 | [2023 Forbes Healthcare Summit: Faster, Smarter, Better](https://www.forbes.com/sites/forbesliveteam/2023/11/20/2023-forbes-healthcare-summit-faster-smarter-better/) | Forbes | 2023-11-20 |
 | [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
 | [These 3 Biotech Stocks Have Strong Upside Potential, Says Deutsche Bank](https://biztoc.com/x/246c7f88ad3b730a) | Biztoc.com | 2023-12-18 |
-| [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 
 ## News for Pharma Market Trends
 
@@ -143,12 +143,12 @@
 | [Stockology: Markets in sustained bull markets; What do the stars hold next?](https://www.moneycontrol.com/news/opinion/stockology-markets-in-sustained-bull-markets-what-do-the-stars-hold-next-11915191.html) | Moneycontrol | 2023-12-17 |
 | [[Latest] Global Naloxone Market Size/Share Worth USD 2,470.2 Million by 2032 at a 11% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)](https://www.globenewswire.com/news-release/2023/12/04/2790373/0/en/Latest-Global-Naloxone-Market-Size-Share-Worth-USD-2-470-2-Million-by-2032-at-a-11-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth-G.html) | GlobeNewswire | 2023-12-04 |
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
+| [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Biologics CDMO Market Expected to Reach USD 35.09 Billion with a 10.79% CAGR | Says InsightAce Study](https://www.globenewswire.com/news-release/2023/11/28/2786728/0/en/Biologics-CDMO-Market-Expected-to-Reach-USD-35-09-Billion-with-a-10-79-CAGR-Says-InsightAce-Study.html) | GlobeNewswire | 2023-11-28 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
 | [Pet Food Market Size Worth USD 151.70 Billion in 2032 | Emergen Research](https://www.globenewswire.com/news-release/2023/12/19/2798393/0/en/Pet-Food-Market-Size-Worth-USD-151-70-Billion-in-2032-Emergen-Research.html) | GlobeNewswire | 2023-12-19 |
-| [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 
 ## News for FDA Regulations
 
