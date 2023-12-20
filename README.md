@@ -47,7 +47,6 @@
 | [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [Study: International scientists believe lack of women in physics tied to personal preference, but viewpoint ignores gender norms](https://www.sciencedaily.com/releases/2023/12/231207161423.htm) | Science Daily | 2023-12-07 |
 | [Here's how fast a spacecraft should fly to successfully detect amino acids erupting from Enceladus](https://www.theregister.com/2023/12/06/heres_how_fast_a_spacecraft/) | Theregister.com | 2023-12-06 |
-| [Indian biotechs’ ‘aha’ moment could emerge with C-CAMP’s work on antimicrobial resistance: Taslimarif Saiyed, CEO, C-CAMP](https://indianexpress.com/article/technology/tech-news-technology/antimicrobial-resistance-taslimarif-saiyed-ceo-c-camp-interview-9032500/) | The Indian Express | 2023-11-18 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Three Ways to Tell If Research Is Bunk](https://www.theatlantic.com/ideas/archive/2023/11/rules-whether-trust-academic-studies/676170/?utm_source=feed) | The Atlantic | 2023-11-30 |
 | [Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer](https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer) | NPR | 2023-11-22 |
@@ -59,6 +58,7 @@
 | [Caregiving can be stressful, but it could also lower risk of depression](https://www.sciencedaily.com/releases/2023/12/231212163359.htm) | Science Daily | 2023-12-12 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Ghana Cardinal Peter Turkson: It's time to understand homosexuality](https://www.bbc.co.uk/news/world-africa-67518215) | BBC News | 2023-11-27 |
+| [Saubere Ozeane: Aquarienschnecken-Roboter entfernt Mikroplastik](https://www.heise.de/news/Saubere-Ozeane-Aquarienschnecken-Roboter-entfernt-Mikroplastik-9549064.html) | heise online | 2023-12-05 |
 
 ## News for Medical Devices
 
@@ -79,6 +79,7 @@
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) | 9to5Mac | 2023-12-18 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
+| [Apple Watch sales suspended for 2 latest models](https://www.foxnews.com/tech/apple-watch-sales-suspended-for-two-latest-models) | Fox News | 2023-12-19 |
 | [Engineers design a robotic replica of the heart's right chamber](https://www.sciencedaily.com/releases/2023/12/231208133050.htm) | Science Daily | 2023-12-08 |
 | [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
 | ['Lives were 100% saved' as iPhone and Apple Watch emergency SOS features get the first responder seal of approval](https://www.imore.com/iphone/lives-were-100-saved-as-iphone-and-apple-watch-emergency-sos-features-get-the-first-responder-seal-of-approval) | iMore | 2023-12-07 |
@@ -88,7 +89,6 @@
 | [Monitoring and Spatially Mapping Body Sounds #WearableWednesday](https://blog.adafruit.com/2023/11/30/monitoring-and-spatially-mapping-body-sounds-wearablewednesday/) | Adafruit.com | 2023-11-30 |
 | [Are Glucose Monitors for Those Without Diabetes a Good Idea?](https://www.webmd.com/diabetes/news/20231212/continuous-glucose-monitors-for-those-without-diabetes) | WebMD | 2023-12-12 |
 | [Inside the EU’s tentative deal on world-first AI regulation](https://thenextweb.com/news/eu-ai-act-deal-regulation-artificial-intelligence-inside) | The Next Web | 2023-12-11 |
-| [Slow down! As deaths and injuries mount, new calls for technology to reduce speeding](https://www.npr.org/2023/12/06/1216557190/car-crash-accident-speeding-technology-slow-down-speed-assistance) | NPR | 2023-12-06 |
 
 ## News for Healthcare Sector
 
@@ -145,8 +145,8 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
-| [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Pharmaceutical Collaborative Robots Market Report 2023-2030: Cobots Takle Center Stage - A Pivotal Strategy for Pharma Manufacturing Efficiency and Innovation](https://www.globenewswire.com/news-release/2023/11/27/2785935/28124/en/Global-Pharmaceutical-Collaborative-Robots-Market-Report-2023-2030-Cobots-Takle-Center-Stage-A-Pivotal-Strategy-for-Pharma-Manufacturing-Efficiency-and-Innovation.html) | GlobeNewswire | 2023-11-27 |
+| [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-6-11775881.html) | Moneycontrol | 2023-11-20 |
 | [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) | GlobeNewswire | 2023-11-23 |
 | [Inside the Ozempic factory: How a $430 billion Danish pharma giant feeds America’s appetite for weight-loss drugs](https://www.fastcompany.com/90981009/novo-nordisk-ozempic-wegovy-weight-loss) | Fast Company | 2023-12-13 |
 
