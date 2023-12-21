@@ -138,6 +138,7 @@
 | [Stockology: Stars favour the bulls. Will Nifty test 20,000 this week?](https://www.moneycontrol.com/news/opinion/stockology-stars-are-favouring-the-bulls-will-nifty-test-20000-this-week-11814941.html) | Moneycontrol | 2023-11-27 |
 | [What your most important investors need to know](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-your-most-important-investors-need-to-know) | Mckinsey.com | 2023-11-28 |
 | [Forbes Daily: A Fight To Stop Dangerous Fakes Of Weight Loss Drug Wegovy](https://www.forbes.com/sites/forbesdaily/2023/12/19/forbes-daily-a-fight-to-stop-dangerous-fakes-of-weight-loss-drug-wegovy/) | Forbes | 2023-12-19 |
+| [We are most excited about ânewness themeâ right now: Union Mutual Fundâs Harshad Patwardhan](https://www.moneycontrol.com/news/business/markets/we-are-most-excited-about-newness-theme-right-now-union-mutual-funds-harshad-patwardhan-11918481.html) | Moneycontrol | 2023-12-20 |
 | [Botulinum Toxin in Urology Market Hospital Segment Witnessed A Rapid Growth | Explained In Detail](https://www.globenewswire.com/news-release/2023/12/05/2790745/0/en/Botulinum-Toxin-in-Urology-Market-Hospital-Segment-Witnessed-A-Rapid-Growth-Explained-In-Detail.html) | GlobeNewswire | 2023-12-05 |
 | [Procurement pros invest in technology to improve business outcomes](https://www.digitalcommerce360.com/2023/11/21/amazon-business-procurement-study/) | DigitalCommerce360 | 2023-11-21 |
 | [Stockology: Markets in sustained bull markets; What do the stars hold next?](https://www.moneycontrol.com/news/opinion/stockology-markets-in-sustained-bull-markets-what-do-the-stars-hold-next-11915191.html) | Moneycontrol | 2023-12-17 |
@@ -148,7 +149,6 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
 | [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
-| [Pet Food Market Size Worth USD 151.70 Billion in 2032 | Emergen Research](https://www.globenewswire.com/news-release/2023/12/19/2798393/0/en/Pet-Food-Market-Size-Worth-USD-151-70-Billion-in-2032-Emergen-Research.html) | GlobeNewswire | 2023-12-19 |
 
 ## News for FDA Regulations
 
