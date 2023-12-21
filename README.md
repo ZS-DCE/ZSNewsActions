@@ -42,6 +42,7 @@
 | [Strange underground honeycomb pattern found on Mars](https://boingboing.net/2023/12/08/strange-underground-honeycomb-pattern-found-on-mars.html) | Boing Boing | 2023-12-08 |
 | [How Nobel economists spend their $1 million winnings](https://www.businessinsider.com/how-nobel-prize-winner-economists-spend-winnings-2023-11) | Business Insider | 2023-11-20 |
 | ['Can cringe be a SEC violation?': $1 trillion investment giant Blackstone is getting roasted for its Eras Tour-inspired holiday video](https://www.businessinsider.com/blackstone-taylor-swift-eras-holiday-video-mockumentary-tour-cringe-schwarzman2023-12) | Business Insider | 2023-12-15 |
+| [Danish techies claim they can predict your next move (and your last)](https://www.theregister.com/2023/12/20/life2vec/) | Theregister.com | 2023-12-20 |
 | [UK universities urged to reduce equity stakes in their spinouts](https://thenextweb.com/news/uk-universities-urged-reduce-equity-stakes-spinouts) | The Next Web | 2023-11-22 |
 | [Study identifies a key protein for healthy aging](https://www.sciencedaily.com/releases/2023/11/231128132401.htm) | Science Daily | 2023-11-28 |
 | [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
@@ -58,7 +59,6 @@
 | [Caregiving can be stressful, but it could also lower risk of depression](https://www.sciencedaily.com/releases/2023/12/231212163359.htm) | Science Daily | 2023-12-12 |
 | [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/) | Ansel.photos | 2023-11-25 |
 | [Ghana Cardinal Peter Turkson: It's time to understand homosexuality](https://www.bbc.co.uk/news/world-africa-67518215) | BBC News | 2023-11-27 |
-| [Saubere Ozeane: Aquarienschnecken-Roboter entfernt Mikroplastik](https://www.heise.de/news/Saubere-Ozeane-Aquarienschnecken-Roboter-entfernt-Mikroplastik-9549064.html) | heise online | 2023-12-05 |
 
 ## News for Medical Devices
 
@@ -124,6 +124,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Five obesity-drug trends to watch in 2024: Who can compete with Eli Lilly and Novo Nordisk?](https://www.marketwatch.com/story/five-obesity-drug-trends-to-watch-in-2024-who-can-compete-with-eli-lilly-and-novo-nordisk-1dc62a7d) | MarketWatch | 2023-12-20 |
 | [Global Quantum Computer Market](https://www.nextbigfuture.com/2023/12/global-quantum-computer-market.html) | Next Big Future | 2023-12-07 |
 | [Moneycontrol Pro Panorama | A pause for breath?Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-a-pause-for-breath-11921241.html) | Moneycontrol | 2023-12-18 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
@@ -148,7 +149,6 @@
 | [Biologics CDMO Market Expected to Reach USD 35.09 Billion with a 10.79% CAGR | Says InsightAce Study](https://www.globenewswire.com/news-release/2023/11/28/2786728/0/en/Biologics-CDMO-Market-Expected-to-Reach-USD-35-09-Billion-with-a-10-79-CAGR-Says-InsightAce-Study.html) | GlobeNewswire | 2023-11-28 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 | [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
-| [Contract Pharmaceutical Dose Manufacturing Industry Composition, Size, Market Share and Outlook Report 2023](https://www.globenewswire.com/news-release/2023/12/01/2789156/28124/en/Contract-Pharmaceutical-Dose-Manufacturing-Industry-Composition-Size-Market-Share-and-Outlook-Report-2023.html) | GlobeNewswire | 2023-12-01 |
 
 ## News for FDA Regulations
 
