@@ -11,6 +11,7 @@
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Pharmaceutical effluent evokes superbugs in the environment: A call to action](https://phys.org/news/2023-11-pharmaceutical-effluent-evokes-superbugs-environment.html) | Phys.Org | 2023-11-24 |
 | [Webinar: Use of R in Japan’s Pharma Industry](https://www.r-bloggers.com/2023/12/webinar-use-of-r-in-japans-pharma-industry/) | R-bloggers.com | 2023-12-12 |
+| [Optimizing R&D In Pharma: R&D Operations Ecosystem Powered By Cloud Computing](https://www.forbes.com/sites/pwc-and-aws-switch-on-possibility/2023/12/21/optimizing-rd-in-pharma-rd-operations-ecosystem-powered-by-cloud-computing/) | Forbes | 2023-12-21 |
 | [New AI model identifies new pharmaceutical ingredients and improves existing ones](https://phys.org/news/2023-11-ai-pharmaceutical-ingredients.html) | Phys.Org | 2023-11-24 |
 | [Targeting costly meds, Biden admin asserts authority to seize certain drug patents](https://www.politico.com/news/2023/12/06/biden-admin-authority-seize-certain-drug-patents-00130452) | Politico | 2023-12-06 |
 | [Introduction of R activities in Japan](https://www.r-bloggers.com/2023/12/introduction-of-r-activities-in-japan/) | R-bloggers.com | 2023-12-14 |
@@ -28,7 +29,6 @@
 | [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 | [A fork in the 'rhod': Researchers unveil comprehensive collection of rhodamine-based fluorescent dyes](https://www.sciencedaily.com/releases/2023/12/231208131917.htm) | Science Daily | 2023-12-08 |
 | [A catalyst for electronically controlled C–H functionalization](https://phys.org/news/2023-12-catalyst-electronically-ch-functionalization.html) | Phys.Org | 2023-12-07 |
-| [With over 4,000 manufacturing units, Gujarat flag bearer of India#39;s pharma industry: State govt](https://www.moneycontrol.com/news/business/with-over-4000-manufacturing-units-gujarat-flag-bearer-of-indias-pharma-industry-state-govt-11909231.html) | Moneycontrol | 2023-12-15 |
 
 ## News for Life Sciences
 
@@ -73,6 +73,7 @@
 | [Apple To Stop Some Watch Sales In U.S. Over Patent Dispute](https://www.huffpost.com/entry/apple-stops-watch-sales_n_658192dfe4b0e142c0bf41c7) | HuffPost | 2023-12-19 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [Google could make the Pixel 8 Pro's thermometer a practical health feature](https://www.androidcentral.com/phones/fitbit-app-pixel-8-pro-thermometer-integration) | Android Central | 2023-12-10 |
+| [You can no longer buy the newest Apple Watches from Apple's online store](https://www.businessinsider.com/apple-watch-ban-series-9-ultra-not-available-online-store-2023-12) | Business Insider | 2023-12-21 |
 | [Meet the CEO making it harder to buy an Apple Watch this Christmas](https://www.businessinsider.com/ceo-harder-to-buy-apple-watch-christmas-2023-12) | Business Insider | 2023-12-20 |
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [How to use your FSA money on everyday essentials before you lose it at the end of the year](https://www.insider.com/guides/health/how-to-use-fsa-money) | INSIDER | 2023-12-20 |
@@ -81,14 +82,13 @@
 | [Apple Watch Series 9 halted sales over patent dispute](https://readwrite.com/apple-watch-series-9-halted-sales-over-patent-dispute/) | ReadWrite | 2023-12-18 |
 | [8 Things That Might Make Your Insomnia Worse - CNET](https://www.cnet.com/health/sleep/8-things-that-might-make-your-insomnia-worse/) | CNET | 2023-12-08 |
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
+| [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
+| [Philips recalls 340 MRI machines because they may explode in an emergency](https://www.theregister.com/2023/12/21/philips_exploding_mri/) | Theregister.com | 2023-12-21 |
 | [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) | 9to5Mac | 2023-12-18 |
 | [Apple Watch Series 9 and Ultra 2 no longer available from Apple’s website](https://9to5mac.com/2023/12/21/apple-watch-ban-apple-website/) | 9to5Mac | 2023-12-21 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
 | [States are trashing troves of masks and protective gear as costly stockpiles expire](https://www.npr.org/2023/12/20/1220726464/states-are-trashing-troves-of-masks-and-protective-gear-as-costly-stockpiles-exp) | NPR | 2023-12-20 |
 | [2023 Apple Watch models could yet remain on sale – four potential solutions](https://9to5mac.com/2023/12/19/2023-apple-watch-models/) | 9to5Mac | 2023-12-19 |
-| [Apple Watch sales suspended for 2 latest models](https://www.foxnews.com/tech/apple-watch-sales-suspended-for-two-latest-models) | Fox News | 2023-12-19 |
-| [Engineers design a robotic replica of the heart's right chamber](https://www.sciencedaily.com/releases/2023/12/231208133050.htm) | Science Daily | 2023-12-08 |
-| [Medical nanobots could communicate by releasing molecules into bloodstream](https://newatlas.com/science/medical-nanobots-communicate-molecules-bloodstream/) | New Atlas | 2023-11-27 |
 
 ## News for Healthcare Sector
 
@@ -125,6 +125,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Five obesity-drug trends to watch in 2024: Who can compete with Eli Lilly and Novo Nordisk?](https://www.marketwatch.com/story/five-obesity-drug-trends-to-watch-in-2024-who-can-compete-with-eli-lilly-and-novo-nordisk-1dc62a7d) | MarketWatch | 2023-12-20 |
+| [These unsung stock market heroes offer 9 favorite picks for 2024](https://www.marketwatch.com/story/these-unsung-stock-market-heroes-offer-9-favorite-picks-for-2024-7eea2a49) | MarketWatch | 2023-12-21 |
 | [Global Quantum Computer Market](https://www.nextbigfuture.com/2023/12/global-quantum-computer-market.html) | Next Big Future | 2023-12-07 |
 | [Moneycontrol Pro Panorama | A pause for breath?Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-a-pause-for-breath-11921241.html) | Moneycontrol | 2023-12-18 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
@@ -148,7 +149,6 @@
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Biologics CDMO Market Expected to Reach USD 35.09 Billion with a 10.79% CAGR | Says InsightAce Study](https://www.globenewswire.com/news-release/2023/11/28/2786728/0/en/Biologics-CDMO-Market-Expected-to-Reach-USD-35-09-Billion-with-a-10-79-CAGR-Says-InsightAce-Study.html) | GlobeNewswire | 2023-11-28 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
-| [Vitamin Supplement Market is Expected to Reach US$ 133.94 Billion by 2033, with a Projected 8.8% CAGR throughout the Forecast Period | Future Market Insights, Inc.](https://www.globenewswire.com/news-release/2023/11/22/2784515/0/en/Vitamin-Supplement-Market-is-Expected-to-Reach-US-133-94-Billion-by-2033-with-a-Projected-8-8-CAGR-throughout-the-Forecast-Period-Future-Market-Insights-Inc.html) | GlobeNewswire | 2023-11-22 |
 
 ## News for FDA Regulations
 
