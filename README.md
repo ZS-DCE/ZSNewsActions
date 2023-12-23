@@ -26,9 +26,9 @@
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 | [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
+| [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
 | [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 | [A fork in the 'rhod': Researchers unveil comprehensive collection of rhodamine-based fluorescent dyes](https://www.sciencedaily.com/releases/2023/12/231208131917.htm) | Science Daily | 2023-12-08 |
-| [A catalyst for electronically controlled C–H functionalization](https://phys.org/news/2023-12-catalyst-electronically-ch-functionalization.html) | Phys.Org | 2023-12-07 |
 
 ## News for Life Sciences
 
@@ -101,8 +101,8 @@
 | [Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year](https://markets.businessinsider.com/news/stocks/stock-market-rally-short-sellers-hedge-funds-sp500-november-performance-2023-11) | Business Insider | 2023-11-22 |
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
-| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
+| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
@@ -169,14 +169,14 @@
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
+| [How to Start a Crawfish Farm](https://smallbiztrends.com/2023/12/crawfish-farm.html) | Small Business Trends | 2023-12-22 |
 | [Abcarian: Who will make abortion pill rules? A bunch of right-wing judges, or FDA scientists?](https://www.latimes.com/opinion/story/2023-12-15/abortion-texas-supreme-court-pill-mifepristonel-fda-matthew-kacsmaryk) | Los Angeles Times | 2023-12-15 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [How The Paradigm Of New Product Development Has Changed](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/30/how-the-paradigm-of-new-product-development-has-changed/) | Forbes | 2023-11-30 |
 | [10 things you need to know today: December 9, 2023](https://theweek.com/digest/round-up/10-things-you-need-to-know-today-december-9-2023) | The Week Magazine | 2023-12-09 |
+| [Editorial: This Supreme Court decision should be easy — keep medication abortion accessible](https://www.latimes.com/opinion/story/2023-12-22/editorial-this-supreme-court-decision-should-be-easy-keep-medication-abortion-accessible) | Los Angeles Times | 2023-12-22 |
 | [Supreme Court Agrees to Hear High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2023/12/13/supreme-court-agrees-hear-high-stakes-abortion-pill-case/) | Breitbart News | 2023-12-13 |
 | [Supreme Court agrees to hear high-stakes dispute over abortion pill](https://www.cbsnews.com/news/supreme-court-abortion-pill-case-mifepristone/) | CBS News | 2023-12-13 |
 | [The Law Come To Get You If You Don’t Walk Right – Hemp Law, Policy, And The Courts (Part 4/5)](https://www.forbes.com/sites/roberthoban/2023/12/09/the-law-come-to-get-you-if-you-dont-walk-right--hemp-law-policy-and-the-courts-part-45/) | Forbes | 2023-12-09 |
 | [Scaling slaughter-free meat is hard. Here’s one way to make it easier.](https://www.vox.com/future-perfect/23980010/cellular-agriculture-consortiums-collaboration-alternative-meat-lab-grown) | Vox | 2023-12-01 |
-| [FDA dismisses dangerous DNA contamination of COVID vaccines after allowing Pfizer to change its manufacturing process](https://www.naturalnews.com/2023-12-12-fda-dismisses-dna-contamination-of-covid-vaccines.html) | Naturalnews.com | 2023-12-12 |
-| [Study: Foods CONTAMINATED with toxic substances cause more than 13,000 CANCER cases each year in the U.S.](https://www.naturalnews.com/2023-12-20-foods-contaminated-toxic-substances-cause-13000-cancer-cases.html) | Naturalnews.com | 2023-12-20 |
 
