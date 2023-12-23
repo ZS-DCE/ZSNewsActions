@@ -76,6 +76,7 @@
 | [Google could make the Pixel 8 Pro's thermometer a practical health feature](https://www.androidcentral.com/phones/fitbit-app-pixel-8-pro-thermometer-integration) | Android Central | 2023-12-10 |
 | [You can no longer buy the newest Apple Watches from Apple's online store](https://www.businessinsider.com/apple-watch-ban-series-9-ultra-not-available-online-store-2023-12) | Business Insider | 2023-12-21 |
 | [Meet the CEO making it harder to buy an Apple Watch this Christmas](https://www.businessinsider.com/ceo-harder-to-buy-apple-watch-christmas-2023-12) | Business Insider | 2023-12-20 |
+| [Android: How to share your health details during an emergency call](https://www.androidpolice.com/android-send-medical-data-emrgency-services-911/) | Android Police | 2023-12-22 |
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [How to use your FSA money on everyday essentials before you lose it at the end of the year](https://www.insider.com/guides/health/how-to-use-fsa-money) | INSIDER | 2023-12-20 |
 | [I'm an American spending Thanksgiving as a combat nurse under fire on the frontline in Ukraine](https://www.businessinsider.com/im-an-american-spending-thanksgiving-combat-nurse-frontline-in-ukraine-2023-11) | Business Insider | 2023-11-23 |
@@ -88,7 +89,6 @@
 | [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) | 9to5Mac | 2023-12-18 |
 | [Apple Watch Series 9 and Ultra 2 no longer available from Apple’s website](https://9to5mac.com/2023/12/21/apple-watch-ban-apple-website/) | 9to5Mac | 2023-12-21 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
-| [States are trashing troves of masks and protective gear as costly stockpiles expire](https://www.npr.org/2023/12/20/1220726464/states-are-trashing-troves-of-masks-and-protective-gear-as-costly-stockpiles-exp) | NPR | 2023-12-20 |
 
 ## News for Healthcare Sector
 
