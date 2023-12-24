@@ -4,6 +4,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
 | [The White House’s Latest Move to Rein in Drug Prices](https://time.com/6344274/the-white-house-plan-lower-drug-prices/) | Time | 2023-12-08 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [CBD Drinks Probably Won't Cure Your Anxiety](https://www.vice.com/en/article/dy35qm/do-cbd-drinks-work-for-anxiety) | Vice News | 2023-11-24 |
@@ -28,7 +29,6 @@
 | [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 | [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
 | [How Mobile Is Transforming Pharma’s HCP And Patient Engagement](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/how-mobile-is-transforming-pharmas-hcp-and-patient-engagement/) | Forbes | 2023-12-22 |
-| [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
 
 ## News for Life Sciences
 
@@ -95,6 +95,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [The DOJ says it disrupted the Blackcat ransomware group](https://www.engadget.com/the-doj-says-it-disrupted-the-blackcat-ransomware-group-174755936.html) | Engadget | 2023-12-19 |
+| [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
 | [Nvidia Emerges as Leading Investor in AI Companies](https://tech.slashdot.org/story/23/12/11/194248/nvidia-emerges-as-leading-investor-in-ai-companies) | Slashdot.org | 2023-12-11 |
 | [Ransomware attack prompts multistate hospital chain to divert some emergency room patients elsewhere](https://abcnews.go.com/Business/wireStory/ransomware-attack-prompts-multistate-hospital-chain-divert-emergency-105211666) | ABC News | 2023-11-28 |
 | [AI Should Complement Humans at Work, Not Replace Them, TIME Panelists Say](https://time.com/6338489/ai-work-jobs/) | Time | 2023-12-01 |
@@ -118,7 +119,6 @@
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [Craft gana la cuenta global de adaptación y localización de contenidos para Sanofi Consumer Healthcare](https://www.marketingdirecto.com/marketing-general/agencias/craft-gana-cuenta-sanofi-consumer-healthcare) | Marketingdirecto.com | 2023-12-04 |
 | [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
-| [These 3 Biotech Stocks Have Strong Upside Potential, Says Deutsche Bank](https://biztoc.com/x/246c7f88ad3b730a) | Biztoc.com | 2023-12-18 |
 
 ## News for Pharma Market Trends
 
