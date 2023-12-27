@@ -78,17 +78,17 @@
 | [Android: How to share your health details during an emergency call](https://www.androidpolice.com/android-send-medical-data-emrgency-services-911/) | Android Police | 2023-12-22 |
 | [5 tips to keep your 5G network secure](https://www.businessinsider.com/5g-network-security-tips-2023-11) | Business Insider | 2023-11-28 |
 | [How to use your FSA money on everyday essentials before you lose it at the end of the year](https://www.insider.com/guides/health/how-to-use-fsa-money) | INSIDER | 2023-12-20 |
+| [Apple Watch Import Ban Now Official, Apple Appeals Decision](https://www.macrumors.com/2023/12/26/apple-watch-import-ban-official/) | MacRumors | 2023-12-26 |
 | [7 Amazon retail stumbles, from grocery delivery to clothing stores](https://www.businessinsider.com/amazon-failures-at-retail-fresh-grocery-style-fashion-2023-12) | Business Insider | 2023-12-19 |
 | [Apple Watch Series 9 halted sales over patent dispute](https://readwrite.com/apple-watch-series-9-halted-sales-over-patent-dispute/) | ReadWrite | 2023-12-18 |
 | [8 Things That Might Make Your Insomnia Worse - CNET](https://www.cnet.com/health/sleep/8-things-that-might-make-your-insomnia-worse/) | CNET | 2023-12-08 |
+| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
 | [Philips recalls 340 MRI machines because they may explode in an emergency](https://www.theregister.com/2023/12/21/philips_exploding_mri/) | Theregister.com | 2023-12-21 |
 | [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) | 9to5Mac | 2023-12-18 |
 | [Apple Watch Series 9 and Ultra 2 no longer available from Apple’s website](https://9to5mac.com/2023/12/21/apple-watch-ban-apple-website/) | 9to5Mac | 2023-12-21 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
-| [2023 Apple Watch models could yet remain on sale – four potential solutions](https://9to5mac.com/2023/12/19/2023-apple-watch-models/) | 9to5Mac | 2023-12-19 |
-| [States are trashing troves of masks and protective gear as costly stockpiles expire](https://www.npr.org/2023/12/20/1220726464/states-are-trashing-troves-of-masks-and-protective-gear-as-costly-stockpiles-exp) | NPR | 2023-12-20 |
 
 ## News for Healthcare Sector
 
@@ -102,8 +102,8 @@
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
+| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
 | [Unlocking Healthcare Trends And Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/unlocking-healthcare-trends-and-considerations-for-investors/) | Forbes | 2023-12-15 |
@@ -133,6 +133,7 @@
 | [Mid-day Mood | Silence after a storm as Sensex, Nifty trade flat](https://www.moneycontrol.com/news/business/markets/mid-day-mood-silence-after-a-storm-as-sensex-nifty-trade-flat-11937381.html) | Moneycontrol | 2023-12-21 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Worldâs first self-amplifying COVID-19 vaccine approved in Japan despite lack of safety data](https://www.naturalnews.com/2023-12-13-self-amplifying-covid-vaccine-approved-in-japan.html) | Naturalnews.com | 2023-12-13 |
+| [Transcript: Stephen Suttmeier](https://ritholtz.com/2023/12/transcript-stephen-suttmeier/) | Ritholtz.com | 2023-12-26 |
 | [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
 | [Mid-day Mood | Sensex, Nifty trade in red for 2nd day as investors take money off the table](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-trade-in-red-for-2nd-day-as-investors-take-money-off-the-table-11896941.html) | Moneycontrol | 2023-12-13 |
 | [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
@@ -148,7 +149,6 @@
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Biologics CDMO Market Expected to Reach USD 35.09 Billion with a 10.79% CAGR | Says InsightAce Study](https://www.globenewswire.com/news-release/2023/11/28/2786728/0/en/Biologics-CDMO-Market-Expected-to-Reach-USD-35-09-Billion-with-a-10-79-CAGR-Says-InsightAce-Study.html) | GlobeNewswire | 2023-11-28 |
-| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 
 ## News for FDA Regulations
 
