@@ -66,7 +66,6 @@
 | ----- | ------ | --------- |
 | [Android phones can now send medical data during 911 calls](https://www.engadget.com/android-phones-can-now-send-medical-data-during-911-calls-104518043.html) | Engadget | 2023-12-08 |
 | [First responders can automatically obtain important medical info from your Android phone](https://www.androidcentral.com/apps-software/android-personal-safety-rapidsos-medical-information) | Android Central | 2023-12-08 |
-| [In New Doctor’s Office, Stethoscope Wears You](https://hackaday.com/2023/11/26/in-new-doctors-office-stethoscope-wears-you/) | Hackaday | 2023-11-26 |
 | [NHS to begin delivering critical medical supplies by drone](https://thenextweb.com/news/nhs-to-begin-delivering-critical-medical-supplies-by-drone) | The Next Web | 2023-12-18 |
 | [Apple to halt sales of latest smartwatches over patent dispute](https://abcnews.go.com/Business/apple-halt-sales-latest-smartwatches-patent-dispute/story?id=105744425) | ABC News | 2023-12-18 |
 | [Sneakernet Power Transmission](https://hackaday.com/2023/12/14/sneakernet-power-transmission/) | Hackaday | 2023-12-15 |
@@ -89,6 +88,7 @@
 | [Apple Watch Series 9 and Ultra 2 no longer available from Apple’s website](https://9to5mac.com/2023/12/21/apple-watch-ban-apple-website/) | 9to5Mac | 2023-12-21 |
 | [How to Remove Blackheads](https://www.wikihow.com/Remove-Blackheads) | Wikihow.com | 2023-11-29 |
 | [2023 Apple Watch models could yet remain on sale – four potential solutions](https://9to5mac.com/2023/12/19/2023-apple-watch-models/) | 9to5Mac | 2023-12-19 |
+| [States are trashing troves of masks and protective gear as costly stockpiles expire](https://www.npr.org/2023/12/20/1220726464/states-are-trashing-troves-of-masks-and-protective-gear-as-costly-stockpiles-exp) | NPR | 2023-12-20 |
 
 ## News for Healthcare Sector
 
