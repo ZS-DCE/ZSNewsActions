@@ -43,8 +43,8 @@
 | [Danish techies claim they can predict your next move (and your last)](https://www.theregister.com/2023/12/20/life2vec/) | Theregister.com | 2023-12-20 |
 | [Study identifies a key protein for healthy aging](https://www.sciencedaily.com/releases/2023/11/231128132401.htm) | Science Daily | 2023-11-28 |
 | [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
-| [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [Study: International scientists believe lack of women in physics tied to personal preference, but viewpoint ignores gender norms](https://www.sciencedaily.com/releases/2023/12/231207161423.htm) | Science Daily | 2023-12-07 |
+| [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [Here's how fast a spacecraft should fly to successfully detect amino acids erupting from Enceladus](https://www.theregister.com/2023/12/06/heres_how_fast_a_spacecraft/) | Theregister.com | 2023-12-06 |
 | [What It’s Like to Be an Owl: The Strange Science of Seeing with Sound](https://www.themarginalian.org/2023/12/24/owls-auditory-map/) | Themarginalian.org | 2023-12-24 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
@@ -102,8 +102,8 @@
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
+| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
 | [Unlocking Healthcare Trends And Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/unlocking-healthcare-trends-and-considerations-for-investors/) | Forbes | 2023-12-15 |
