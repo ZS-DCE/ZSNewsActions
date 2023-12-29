@@ -19,16 +19,16 @@
 | [AI could end up being more risky than profitable if we’re not careful](https://www.marketwatch.com/story/ai-could-end-up-being-more-risky-than-profitable-if-were-not-careful-e7a37ba3) | MarketWatch | 2023-12-18 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
-| [Bayer, One Of The Oldest Pharmaceutical Companies, Is An Innovation Powerhouse](https://www.forbes.com/sites/saibala/2023/11/28/bayer-one-of-the-oldest-pharmaceutical-companies-is-an-innovation-powerhouse/) | Forbes | 2023-11-28 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
 | [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
+| [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
+| [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [How Mobile Is Transforming Pharma’s HCP And Patient Engagement](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/how-mobile-is-transforming-pharmas-hcp-and-patient-engagement/) | Forbes | 2023-12-22 |
 | [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
 | [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 | [A fork in the 'rhod': Researchers unveil comprehensive collection of rhodamine-based fluorescent dyes](https://www.sciencedaily.com/releases/2023/12/231208131917.htm) | Science Daily | 2023-12-08 |
 | [A catalyst for electronically controlled C–H functionalization](https://phys.org/news/2023-12-catalyst-electronically-ch-functionalization.html) | Phys.Org | 2023-12-07 |
-| [With over 4,000 manufacturing units, Gujarat flag bearer of India#39;s pharma industry: State govt](https://www.moneycontrol.com/news/business/with-over-4000-manufacturing-units-gujarat-flag-bearer-of-indias-pharma-industry-state-govt-11909231.html) | Moneycontrol | 2023-12-15 |
 
 ## News for Life Sciences
 
@@ -58,7 +58,7 @@
 | [Will Danaher Stock Rebound To Pre-Inflation Shock Highs Of $300?](https://www.forbes.com/sites/greatspeculations/2023/12/14/will-danaher-stock-rebound-to-pre-inflation-shock-highs-of-300/) | Forbes | 2023-12-14 |
 | [Understanding the risk of cell therapy for heart repair](https://www.sciencedaily.com/releases/2023/12/231213112854.htm) | Science Daily | 2023-12-13 |
 | [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/) | Tamu.edu | 2023-12-14 |
-| [Giant sea salt aerosols play major role in Hawai'i's coastal clouds, rain](https://www.sciencedaily.com/releases/2023/11/231127180645.htm) | Science Daily | 2023-11-27 |
+| [Can artificial intelligence improve life science? As much as life science can improve AI, researchers say](https://phys.org/news/2023-12-artificial-intelligence-life-science-ai.html) | Phys.Org | 2023-12-01 |
 
 ## News for Medical Devices
 
@@ -87,8 +87,8 @@
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
 | [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
+| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/27/apple-watch-ban-news/) | 9to5Mac | 2023-12-27 |
-| [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) | 9to5Mac | 2023-12-18 |
 
 ## News for Healthcare Sector
 
@@ -103,8 +103,8 @@
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
+| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
 | [Unlocking Healthcare Trends And Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/unlocking-healthcare-trends-and-considerations-for-investors/) | Forbes | 2023-12-15 |
@@ -112,12 +112,12 @@
 | [Next year's labor market could look a lot like 2019](https://qz.com/us-jobs-labor-market-november-2023-1851085755) | Quartz India | 2023-12-08 |
 | [It's not just you. It's getting harder to switch jobs.](https://www.businessinsider.com/job-search-switch-harder-to-get-job-hiring-labor-market-2023-12) | Business Insider | 2023-12-10 |
 | [3 Best Healthcare Stocks For 2024](https://www.forbes.com/sites/investor-hub/article/best-healthcare-stocks-2024/) | Forbes | 2023-12-21 |
+| [Private equity ownership is bad for a hospital's health](https://qz.com/private-equity-ownership-is-bad-for-a-hospitals-health-1851125656) | Quartz India | 2023-12-28 |
 | [15 Tips for Choosing the Right Finance Technology Solutions for Small Businesses](https://gritdaily.com/choosing-the-right-finance-technology-solutions/) | Grit Daily | 2023-12-06 |
 | [Workers protest in Indonesia after blast at Chinese-funded nickel plant](https://www.aljazeera.com/news/2023/12/27/workers-protest-in-indonesia-after-blast-at-chinese-funded-nickel-plant) | Al Jazeera English | 2023-12-27 |
 | [The challenges of securing the healthcare sector [Q&A]](https://betanews.com/2023/11/29/the-challenges-of-securing-the-healthcare-sector-qa/) | BetaNews | 2023-11-29 |
 | [6 Stock Picks in Healthcare for 2024](https://biztoc.com/x/77e1867145e9c3d6) | Biztoc.com | 2023-12-20 |
 | [Healthcare changes can slash climate impact: global health agency](https://phys.org/news/2023-11-healthcare-slash-climate-impact-global.html) | Phys.Org | 2023-11-28 |
-| [Digital Twins: 18 Ways They Can Be Leveraged Across Industries](https://www.forbes.com/sites/forbestechcouncil/2023/11/27/digital-twins-18-ways-they-can-be-leveraged-across-industries/) | Forbes | 2023-11-27 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 
 ## News for Pharma Market Trends
@@ -140,7 +140,6 @@
 | [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
 | [How India can enhance the presence of Global Capability Centres](https://www.thehindubusinessline.com/opinion/how-india-can-enhance-the-presence-of-global-capability-centres/article67615364.ece) | BusinessLine | 2023-12-07 |
 | [KRAS Inhibitors Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2023/12/05/2790752/0/en/KRAS-Inhibitors-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2023-12-05 |
-| [What your most important investors need to know](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-your-most-important-investors-need-to-know) | Mckinsey.com | 2023-11-28 |
 | [We are most excited about ânewness themeâ right now: Union Mutual Fundâs Harshad Patwardhan](https://www.moneycontrol.com/news/business/markets/we-are-most-excited-about-newness-theme-right-now-union-mutual-funds-harshad-patwardhan-11918481.html) | Moneycontrol | 2023-12-20 |
 | [Forbes Daily: A Fight To Stop Dangerous Fakes Of Weight Loss Drug Wegovy](https://www.forbes.com/sites/forbesdaily/2023/12/19/forbes-daily-a-fight-to-stop-dangerous-fakes-of-weight-loss-drug-wegovy/) | Forbes | 2023-12-19 |
 | [Botulinum Toxin in Urology Market Hospital Segment Witnessed A Rapid Growth | Explained In Detail](https://www.globenewswire.com/news-release/2023/12/05/2790745/0/en/Botulinum-Toxin-in-Urology-Market-Hospital-Segment-Witnessed-A-Rapid-Growth-Explained-In-Detail.html) | GlobeNewswire | 2023-12-05 |
@@ -148,7 +147,8 @@
 | [[Latest] Global Naloxone Market Size/Share Worth USD 2,470.2 Million by 2032 at a 11% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)](https://www.globenewswire.com/news-release/2023/12/04/2790373/0/en/Latest-Global-Naloxone-Market-Size-Share-Worth-USD-2-470-2-Million-by-2032-at-a-11-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth-G.html) | GlobeNewswire | 2023-12-04 |
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
-| [Biologics CDMO Market Expected to Reach USD 35.09 Billion with a 10.79% CAGR | Says InsightAce Study](https://www.globenewswire.com/news-release/2023/11/28/2786728/0/en/Biologics-CDMO-Market-Expected-to-Reach-USD-35-09-Billion-with-a-10-79-CAGR-Says-InsightAce-Study.html) | GlobeNewswire | 2023-11-28 |
+| [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
+| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 
 ## News for FDA Regulations
 
@@ -165,7 +165,6 @@
 | [Inside the MAGA Plan to Attack Birth Control, Surveil Women and Ban the Abortion Pill](https://www.rollingstone.com/politics/politics-features/maga-plan-attack-birth-control-surveil-women-ban-abortion-pill-1234934807/) | Rolling Stone | 2023-12-22 |
 | [How to Start a Soap Making Business](https://smallbiztrends.com/2023/07/how-to-start-a-soap-business.html) | Small Business Trends | 2023-12-12 |
 | [Millions of People Used Tainted Breathing Machines. The FDA Failed to Use Its Power to Protect Them.](https://www.propublica.org/article/how-the-fda-failed-to-protect-millions-of-people-tainted-breathing-machines) | ProPublica | 2023-12-07 |
-| [The hazards of feeding babies and young children: What to do?](https://www.foodpolitics.com/2023/11/the-hazards-of-feeding-babies-and-young-children-what-to-do/) | Foodpolitics.com | 2023-11-28 |
 | [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/) | CBS News | 2023-12-01 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
@@ -179,4 +178,5 @@
 | [Supreme Court agrees to hear high-stakes dispute over abortion pill](https://www.cbsnews.com/news/supreme-court-abortion-pill-case-mifepristone/) | CBS News | 2023-12-13 |
 | [The Law Come To Get You If You Don’t Walk Right – Hemp Law, Policy, And The Courts (Part 4/5)](https://www.forbes.com/sites/roberthoban/2023/12/09/the-law-come-to-get-you-if-you-dont-walk-right--hemp-law-policy-and-the-courts-part-45/) | Forbes | 2023-12-09 |
 | [Scaling slaughter-free meat is hard. Here’s one way to make it easier.](https://www.vox.com/future-perfect/23980010/cellular-agriculture-consortiums-collaboration-alternative-meat-lab-grown) | Vox | 2023-12-01 |
+| [FDA dismisses dangerous DNA contamination of COVID vaccines after allowing Pfizer to change its manufacturing process](https://www.naturalnews.com/2023-12-12-fda-dismisses-dna-contamination-of-covid-vaccines.html) | Naturalnews.com | 2023-12-12 |
 
