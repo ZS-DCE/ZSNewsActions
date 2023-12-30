@@ -102,8 +102,8 @@
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
+| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
 | [Unlocking Healthcare Trends And Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/unlocking-healthcare-trends-and-considerations-for-investors/) | Forbes | 2023-12-15 |
@@ -138,6 +138,7 @@
 | [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
 | [Mid-day Mood | Sensex, Nifty trade in red for 2nd day as investors take money off the table](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-trade-in-red-for-2nd-day-as-investors-take-money-off-the-table-11896941.html) | Moneycontrol | 2023-12-13 |
 | [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
+| [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
 | [How India can enhance the presence of Global Capability Centres](https://www.thehindubusinessline.com/opinion/how-india-can-enhance-the-presence-of-global-capability-centres/article67615364.ece) | BusinessLine | 2023-12-07 |
 | [KRAS Inhibitors Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2023/12/05/2790752/0/en/KRAS-Inhibitors-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2023-12-05 |
 | [We are most excited about ânewness themeâ right now: Union Mutual Fundâs Harshad Patwardhan](https://www.moneycontrol.com/news/business/markets/we-are-most-excited-about-newness-theme-right-now-union-mutual-funds-harshad-patwardhan-11918481.html) | Moneycontrol | 2023-12-20 |
@@ -148,7 +149,6 @@
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
-| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 
 ## News for FDA Regulations
 
