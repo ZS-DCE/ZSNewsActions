@@ -17,6 +17,7 @@
 | [Tech’s biggest losers in 2023](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b5933dc-e752-40c3-8cfb-14f48bbacac0) | Yahoo Entertainment | 2023-12-29 |
 | [Introduction of R activities in Japan](https://www.r-bloggers.com/2023/12/introduction-of-r-activities-in-japan/) | R-bloggers.com | 2023-12-14 |
 | [Catalyst for electronically controlled C--H functionalization](https://www.sciencedaily.com/releases/2023/12/231207160405.htm) | Science Daily | 2023-12-07 |
+| [Weight-loss drugs will remain out of reach for millions in 2024 as employers and insurance companies reduce coverage](https://www.businessinsider.com/weight-loss-drug-insurance-coverage-access-employer-2023-12) | Business Insider | 2023-12-30 |
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
 | [AI could end up being more risky than profitable if we’re not careful](https://www.marketwatch.com/story/ai-could-end-up-being-more-risky-than-profitable-if-were-not-careful-e7a37ba3) | MarketWatch | 2023-12-18 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
@@ -28,7 +29,6 @@
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [How Mobile Is Transforming Pharma’s HCP And Patient Engagement](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/how-mobile-is-transforming-pharmas-hcp-and-patient-engagement/) | Forbes | 2023-12-22 |
 | [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
-| [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 
 ## News for Life Sciences
 
@@ -41,6 +41,7 @@
 | [Strange underground honeycomb pattern found on Mars](https://boingboing.net/2023/12/08/strange-underground-honeycomb-pattern-found-on-mars.html) | Boing Boing | 2023-12-08 |
 | ['Can cringe be a SEC violation?': $1 trillion investment giant Blackstone is getting roasted for its Eras Tour-inspired holiday video](https://www.businessinsider.com/blackstone-taylor-swift-eras-holiday-video-mockumentary-tour-cringe-schwarzman2023-12) | Business Insider | 2023-12-15 |
 | [Danish techies claim they can predict your next move (and your last)](https://www.theregister.com/2023/12/20/life2vec/) | Theregister.com | 2023-12-20 |
+| [Why you shouldn't be scared of spiders, according to a biology professor](https://www.businessinsider.com/why-you-should-not-be-scared-spiders-arachnophobia-expert-2023-12) | Business Insider | 2023-12-30 |
 | [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
 | [Study: International scientists believe lack of women in physics tied to personal preference, but viewpoint ignores gender norms](https://www.sciencedaily.com/releases/2023/12/231207161423.htm) | Science Daily | 2023-12-07 |
 | [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
@@ -58,7 +59,6 @@
 | [Understanding the risk of cell therapy for heart repair](https://www.sciencedaily.com/releases/2023/12/231213112854.htm) | Science Daily | 2023-12-13 |
 | [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/) | Tamu.edu | 2023-12-14 |
 | [Can artificial intelligence improve life science? As much as life science can improve AI, researchers say](https://phys.org/news/2023-12-artificial-intelligence-life-science-ai.html) | Phys.Org | 2023-12-01 |
-| [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
 
 ## News for Medical Devices
 
@@ -102,8 +102,8 @@
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
+| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
 | [Unlocking Healthcare Trends And Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/unlocking-healthcare-trends-and-considerations-for-investors/) | Forbes | 2023-12-15 |
