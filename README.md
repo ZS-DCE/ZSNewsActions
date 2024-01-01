@@ -9,7 +9,6 @@
 | [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [R Implementation in China’s Pharmaceutical Industry in 2023](https://www.r-bloggers.com/2023/12/r-implementation-in-chinas-pharmaceutical-industry-in-2023/) | R-bloggers.com | 2023-12-08 |
-| [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Biotech stocks set for a rebound in 2024, analysts say](https://www.marketwatch.com/story/biotech-stocks-set-for-a-rebound-in-2024-analysts-say-24df6236) | MarketWatch | 2023-12-22 |
 | [Webinar: Use of R in Japan’s Pharma Industry](https://www.r-bloggers.com/2023/12/webinar-use-of-r-in-japans-pharma-industry/) | R-bloggers.com | 2023-12-12 |
 | [Optimizing R&D In Pharma: R&D Operations Ecosystem Powered By Cloud Computing](https://www.forbes.com/sites/pwc-and-aws-switch-on-possibility/2023/12/21/optimizing-rd-in-pharma-rd-operations-ecosystem-powered-by-cloud-computing/) | Forbes | 2023-12-21 |
@@ -21,14 +20,15 @@
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
 | [AI could end up being more risky than profitable if we’re not careful](https://www.marketwatch.com/story/ai-could-end-up-being-more-risky-than-profitable-if-were-not-careful-e7a37ba3) | MarketWatch | 2023-12-18 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
-| [Fortunes Can Be Made With Bristol-Myers Squibb](https://biztoc.com/x/2967c43a87769219) | Biztoc.com | 2023-11-29 |
 | [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://www.r-bloggers.com/2023/12/beyond-sas-how-r-is-revolutionizing-pharma-and-life-sciences/) | R-bloggers.com | 2023-12-01 |
-| [Shiny Gatherings #8: Teal’s Role in Pharma Innovation with Paweł Rucki](https://www.r-bloggers.com/2023/11/shiny-gatherings-8-teals-role-in-pharma-innovation-with-pawel-rucki/) | R-bloggers.com | 2023-11-29 |
 | [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [How Mobile Is Transforming Pharma’s HCP And Patient Engagement](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/how-mobile-is-transforming-pharmas-hcp-and-patient-engagement/) | Forbes | 2023-12-22 |
 | [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
+| [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
+| [A fork in the 'rhod': Researchers unveil comprehensive collection of rhodamine-based fluorescent dyes](https://www.sciencedaily.com/releases/2023/12/231208131917.htm) | Science Daily | 2023-12-08 |
+| [A catalyst for electronically controlled C–H functionalization](https://phys.org/news/2023-12-catalyst-electronically-ch-functionalization.html) | Phys.Org | 2023-12-07 |
 
 ## News for Life Sciences
 
@@ -102,23 +102,23 @@
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
+| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
 | [Unlocking Healthcare Trends And Considerations For Investors](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/unlocking-healthcare-trends-and-considerations-for-investors/) | Forbes | 2023-12-15 |
-| [Streamlining Front-line Operations: Power of No-Code and Low-Code](https://readwrite.com/streamlining-front-line-operations-power-of-no-code-and-low-code/) | ReadWrite | 2023-11-29 |
 | [Next year's labor market could look a lot like 2019](https://qz.com/us-jobs-labor-market-november-2023-1851085755) | Quartz India | 2023-12-08 |
 | [It's not just you. It's getting harder to switch jobs.](https://www.businessinsider.com/job-search-switch-harder-to-get-job-hiring-labor-market-2023-12) | Business Insider | 2023-12-10 |
 | [3 Best Healthcare Stocks For 2024](https://www.forbes.com/sites/investor-hub/article/best-healthcare-stocks-2024/) | Forbes | 2023-12-21 |
 | [Private equity ownership is bad for a hospital's health](https://qz.com/private-equity-ownership-is-bad-for-a-hospitals-health-1851125656) | Quartz India | 2023-12-28 |
 | [15 Tips for Choosing the Right Finance Technology Solutions for Small Businesses](https://gritdaily.com/choosing-the-right-finance-technology-solutions/) | Grit Daily | 2023-12-06 |
 | [Workers protest in Indonesia after blast at Chinese-funded nickel plant](https://www.aljazeera.com/news/2023/12/27/workers-protest-in-indonesia-after-blast-at-chinese-funded-nickel-plant) | Al Jazeera English | 2023-12-27 |
-| [The challenges of securing the healthcare sector [Q&A]](https://betanews.com/2023/11/29/the-challenges-of-securing-the-healthcare-sector-qa/) | BetaNews | 2023-11-29 |
 | [6 Stock Picks in Healthcare for 2024](https://biztoc.com/x/77e1867145e9c3d6) | Biztoc.com | 2023-12-20 |
 | [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [Tech news recap: the biggest stories of 2023](https://readwrite.com/tech-news-recap-the-biggest-stories-of-2023/) | ReadWrite | 2023-12-29 |
 | [Craft gana la cuenta global de adaptación y localización de contenidos para Sanofi Consumer Healthcare](https://www.marketingdirecto.com/marketing-general/agencias/craft-gana-cuenta-sanofi-consumer-healthcare) | Marketingdirecto.com | 2023-12-04 |
+| [These 3 Biotech Stocks Have Strong Upside Potential, Says Deutsche Bank](https://biztoc.com/x/246c7f88ad3b730a) | Biztoc.com | 2023-12-18 |
+| [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
 
 ## News for Pharma Market Trends
 
@@ -131,7 +131,6 @@
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Mid-day Mood | Benchmarks shrug off correction fears, trade higher; all sectors in green](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-shrug-off-correction-fears-trade-higher-all-sectors-in-green-11942881.html) | Moneycontrol | 2023-12-22 |
 | [Mid-day Mood | Silence after a storm as Sensex, Nifty trade flat](https://www.moneycontrol.com/news/business/markets/mid-day-mood-silence-after-a-storm-as-sensex-nifty-trade-flat-11937381.html) | Moneycontrol | 2023-12-21 |
-| [Fortunes Can Be Made With Bristol-Myers Squibb](https://www.forbes.com/sites/gurufocus/2023/11/29/fortunes-can-be-made-with-bristol-myers-squibb/) | Forbes | 2023-11-29 |
 | [Worldâs first self-amplifying COVID-19 vaccine approved in Japan despite lack of safety data](https://www.naturalnews.com/2023-12-13-self-amplifying-covid-vaccine-approved-in-japan.html) | Naturalnews.com | 2023-12-13 |
 | [How modern media companies are organizing their sales operations](http://digiday.com/media/how-modern-media-companies-are-organizing-their-sales-operations/) | Digiday | 2023-12-28 |
 | [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
@@ -149,6 +148,7 @@
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
+| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 
 ## News for FDA Regulations
 
