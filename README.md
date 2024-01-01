@@ -139,6 +139,7 @@
 | [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
 | [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
 | [How India can enhance the presence of Global Capability Centres](https://www.thehindubusinessline.com/opinion/how-india-can-enhance-the-presence-of-global-capability-centres/article67615364.ece) | BusinessLine | 2023-12-07 |
+| [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
 | [KRAS Inhibitors Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2023/12/05/2790752/0/en/KRAS-Inhibitors-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2023-12-05 |
 | [We are most excited about ânewness themeâ right now: Union Mutual Fundâs Harshad Patwardhan](https://www.moneycontrol.com/news/business/markets/we-are-most-excited-about-newness-theme-right-now-union-mutual-funds-harshad-patwardhan-11918481.html) | Moneycontrol | 2023-12-20 |
 | [Forbes Daily: A Fight To Stop Dangerous Fakes Of Weight Loss Drug Wegovy](https://www.forbes.com/sites/forbesdaily/2023/12/19/forbes-daily-a-fight-to-stop-dangerous-fakes-of-weight-loss-drug-wegovy/) | Forbes | 2023-12-19 |
@@ -148,7 +149,6 @@
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
-| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
 
 ## News for FDA Regulations
 
