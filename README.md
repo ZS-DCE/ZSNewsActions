@@ -23,12 +23,12 @@
 | [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The World’s Biggest Pharma Companies Ranked](https://dailyinfographic.com/the-worlds-biggest-pharma-companies-ranked) | Dailyinfographic.com | 2023-12-09 |
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
+| [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
 | [How Mobile Is Transforming Pharma’s HCP And Patient Engagement](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/how-mobile-is-transforming-pharmas-hcp-and-patient-engagement/) | Forbes | 2023-12-22 |
 | [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
 | [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 | [A fork in the 'rhod': Researchers unveil comprehensive collection of rhodamine-based fluorescent dyes](https://www.sciencedaily.com/releases/2023/12/231208131917.htm) | Science Daily | 2023-12-08 |
 | [A catalyst for electronically controlled C–H functionalization](https://phys.org/news/2023-12-catalyst-electronically-ch-functionalization.html) | Phys.Org | 2023-12-07 |
-| [With over 4,000 manufacturing units, Gujarat flag bearer of India#39;s pharma industry: State govt](https://www.moneycontrol.com/news/business/with-over-4000-manufacturing-units-gujarat-flag-bearer-of-indias-pharma-industry-state-govt-11909231.html) | Moneycontrol | 2023-12-15 |
 
 ## News for Life Sciences
 
@@ -102,8 +102,8 @@
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
+| [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Cybersecurity jobs: The highest salary roles in the US](https://readwrite.com/cybersecurity-jobs-the-highest-salary-roles-in-the-us/) | ReadWrite | 2024-01-01 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
@@ -129,6 +129,7 @@
 | [Global Quantum Computer Market](https://www.nextbigfuture.com/2023/12/global-quantum-computer-market.html) | Next Big Future | 2023-12-07 |
 | [Moneycontrol Pro Panorama | A pause for breath?Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-a-pause-for-breath-11921241.html) | Moneycontrol | 2023-12-18 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
+| [Mid-day Mood | Profit booking seeps in as indices trade in red; pharma stocks shine](https://www.moneycontrol.com/news/business/markets/mid-day-mood-profit-booking-seeps-in-as-indices-trade-in-red-pharma-stocks-shine-11986201.html) | Moneycontrol | 2024-01-02 |
 | [Mid-day Mood | Benchmarks shrug off correction fears, trade higher; all sectors in green](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-shrug-off-correction-fears-trade-higher-all-sectors-in-green-11942881.html) | Moneycontrol | 2023-12-22 |
 | [Mid-day Mood | Silence after a storm as Sensex, Nifty trade flat](https://www.moneycontrol.com/news/business/markets/mid-day-mood-silence-after-a-storm-as-sensex-nifty-trade-flat-11937381.html) | Moneycontrol | 2023-12-21 |
 | [Worldâs first self-amplifying COVID-19 vaccine approved in Japan despite lack of safety data](https://www.naturalnews.com/2023-12-13-self-amplifying-covid-vaccine-approved-in-japan.html) | Naturalnews.com | 2023-12-13 |
@@ -148,7 +149,6 @@
 | [[Latest] Global Naloxone Market Size/Share Worth USD 2,470.2 Million by 2032 at a 11% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)](https://www.globenewswire.com/news-release/2023/12/04/2790373/0/en/Latest-Global-Naloxone-Market-Size-Share-Worth-USD-2-470-2-Million-by-2032-at-a-11-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation-Growth-G.html) | GlobeNewswire | 2023-12-04 |
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
 | [Uber to enter the S&P 500](https://www.bostonglobe.com/2023/12/04/business/uber-enter-sp-500/) | The Boston Globe | 2023-12-04 |
-| [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 
 ## News for FDA Regulations
 
