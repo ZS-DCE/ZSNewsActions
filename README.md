@@ -35,7 +35,6 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/) | Wired | 2023-12-10 |
-| [Red tape holding back UK’s ambition to be a life sciences superpower, warn experts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8828922a-bee2-49a7-9cd4-162e12305525) | Yahoo Entertainment | 2023-12-03 |
 | [The tech billionaires trying to hack longevity and live forever](https://www.businessinsider.com/richest-wealthiest-entrepreneurs-ceo-billionaires-tech-searching-hacking-longevity) | Business Insider | 2023-12-07 |
 | [I went to school in the US and in Spain. My learning felt stagnant in the US, but my social life was fun.](https://www.businessinsider.com/school-in-spain-vs-us-2023-12) | Business Insider | 2023-12-05 |
 | [Strange underground honeycomb pattern found on Mars](https://boingboing.net/2023/12/08/strange-underground-honeycomb-pattern-found-on-mars.html) | Boing Boing | 2023-12-08 |
@@ -56,6 +55,7 @@
 | [Will Danaher Stock Rebound To Pre-Inflation Shock Highs Of $300?](https://www.forbes.com/sites/greatspeculations/2023/12/14/will-danaher-stock-rebound-to-pre-inflation-shock-highs-of-300/) | Forbes | 2023-12-14 |
 | [Understanding the risk of cell therapy for heart repair](https://www.sciencedaily.com/releases/2023/12/231213112854.htm) | Science Daily | 2023-12-13 |
 | [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/) | Tamu.edu | 2023-12-14 |
+| [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
 | [Scientists unveil high-resolution remote sensing monitoring system for surface solar radiation](https://phys.org/news/2023-12-scientists-unveil-high-resolution-remote-surface.html) | Phys.Org | 2023-12-08 |
 | [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
@@ -168,6 +168,7 @@
 | [We Absolutely Do Not Need an FDA for AI](https://reason.com/2024/01/01/we-absolutely-do-not-need-an-fda-for-ai/) | Reason | 2023-12-26 |
 | [How to Start a Soap Making Business](https://smallbiztrends.com/2023/07/how-to-start-a-soap-business.html) | Small Business Trends | 2023-12-12 |
 | [Millions of People Used Tainted Breathing Machines. The FDA Failed to Use Its Power to Protect Them.](https://www.propublica.org/article/how-the-fda-failed-to-protect-millions-of-people-tainted-breathing-machines) | ProPublica | 2023-12-07 |
+| [The promise of generative AI depends on precise regulation](https://betanews.com/2024/01/03/generative-ai-precise-regulation/) | BetaNews | 2024-01-03 |
 | [Supreme Court to Rule on Access to Key Abortion Pill Mifepristone](https://www.thedailybeast.com/supreme-court-to-rule-on-access-to-key-abortion-pill-mifepristone) | Daily Beast | 2023-12-13 |
 | [Who Is Responsible For Cybersecurity? You.](https://www.forbes.com/sites/forbestechcouncil/2023/12/12/who-is-responsible-for-cybersecurity-you/) | Forbes | 2023-12-12 |
 | [How to Start a Crawfish Farm](https://smallbiztrends.com/2023/12/crawfish-farm.html) | Small Business Trends | 2023-12-22 |
@@ -178,5 +179,4 @@
 | [Supreme Court agrees to hear high-stakes dispute over abortion pill](https://www.cbsnews.com/news/supreme-court-abortion-pill-case-mifepristone/) | CBS News | 2023-12-13 |
 | [The Law Come To Get You If You Don’t Walk Right – Hemp Law, Policy, And The Courts (Part 4/5)](https://www.forbes.com/sites/roberthoban/2023/12/09/the-law-come-to-get-you-if-you-dont-walk-right--hemp-law-policy-and-the-courts-part-45/) | Forbes | 2023-12-09 |
 | [FDA dismisses dangerous DNA contamination of COVID vaccines after allowing Pfizer to change its manufacturing process](https://www.naturalnews.com/2023-12-12-fda-dismisses-dna-contamination-of-covid-vaccines.html) | Naturalnews.com | 2023-12-12 |
-| [Study: Foods CONTAMINATED with toxic substances cause more than 13,000 CANCER cases each year in the U.S.](https://www.naturalnews.com/2023-12-20-foods-contaminated-toxic-substances-cause-13000-cancer-cases.html) | Naturalnews.com | 2023-12-20 |
 
