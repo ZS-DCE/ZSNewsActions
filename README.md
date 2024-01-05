@@ -157,8 +157,8 @@
 | [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Why fears about Biden’s marijuana moves are overblown](https://www.politico.com/news/2024/01/01/biden-marijuana-fda-scheduling-fears-sklamberg-00132890) | Politico | 2024-01-01 |
 | [Monday Interview: Sailesh Adhav, Joint Commissioner, FDA](https://indianexpress.com/article/cities/mumbai/monday-interview-sailesh-adhav-joint-commissioner-fda-9062563/) | The Indian Express | 2023-12-10 |
-| [Matthew Perry’s Death a ‘Wakeup Call’ For Ketamine Industry](https://www.vice.com/en/article/g5y3wy/matthew-perrys-death-a-wakeup-call-for-ketamine-industry) | Vice News | 2023-12-21 |
 | [How to Start Catfish Farming – What You Need to Know](https://smallbiztrends.com/2023/12/catfish-farming.html) | Small Business Trends | 2023-12-27 |
+| [Matthew Perry’s Death a ‘Wakeup Call’ For Ketamine Industry](https://www.vice.com/en/article/g5y3wy/matthew-perrys-death-a-wakeup-call-for-ketamine-industry) | Vice News | 2023-12-21 |
 | [The Abortion Pill Might Just Stand a Chance at the Supreme Court](https://newrepublic.com/article/177580/supreme-court-narrow-mifepristone-standing) | The New Republic | 2023-12-14 |
 | [Why Cybersecurity Is A Competitive Advantage: Reaching Digital Success](https://www.forbes.com/sites/forbestechcouncil/2023/12/13/why-cybersecurity-is-a-competitive-advantage-reaching-digital-success/) | Forbes | 2023-12-13 |
 | [“Unacceptable”: Senators Call on GAO to Probe FDA’s Oversight of Medical Devices, Citing Series on Philips CPAP Recall](https://www.propublica.org/article/senators-ask-gao-to-probe-fda-device-oversight-citing-cpap-recall) | ProPublica | 2023-12-13 |
