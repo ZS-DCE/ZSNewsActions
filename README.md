@@ -42,6 +42,7 @@
 | [Danish techies claim they can predict your next move (and your last)](https://www.theregister.com/2023/12/20/life2vec/) | Theregister.com | 2023-12-20 |
 | [Why you shouldn't be scared of spiders, according to a biology professor](https://www.businessinsider.com/why-you-should-not-be-scared-spiders-arachnophobia-expert-2023-12) | Business Insider | 2023-12-30 |
 | [Warren Buffett's gift of 1.5 million Berkshire Hathaway shares was the biggest donation of the year](https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-donation-biggest-charity-gift-2024-1) | Business Insider | 2024-01-02 |
+| [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
 | [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
 | [Study: International scientists believe lack of women in physics tied to personal preference, but viewpoint ignores gender norms](https://www.sciencedaily.com/releases/2023/12/231207161423.htm) | Science Daily | 2023-12-07 |
 | [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
@@ -58,7 +59,6 @@
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
 | [Scientists unveil high-resolution remote sensing monitoring system for surface solar radiation](https://phys.org/news/2023-12-scientists-unveil-high-resolution-remote-surface.html) | Phys.Org | 2023-12-08 |
-| [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
 
 ## News for Medical Devices
 
@@ -103,8 +103,8 @@
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [How Ozempic could make America the sexiest country on the planet | What's Next for Novo Nordisk?](https://qz.com/how-ozempic-could-make-america-the-sexiest-country-on-t-1851133519) | Quartz India | 2024-01-02 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
+| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [Cybersecurity jobs: The highest salary roles in the US](https://readwrite.com/cybersecurity-jobs-the-highest-salary-roles-in-the-us/) | ReadWrite | 2024-01-01 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
@@ -157,8 +157,8 @@
 | [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Why fears about Biden’s marijuana moves are overblown](https://www.politico.com/news/2024/01/01/biden-marijuana-fda-scheduling-fears-sklamberg-00132890) | Politico | 2024-01-01 |
 | [Monday Interview: Sailesh Adhav, Joint Commissioner, FDA](https://indianexpress.com/article/cities/mumbai/monday-interview-sailesh-adhav-joint-commissioner-fda-9062563/) | The Indian Express | 2023-12-10 |
-| [How to Start Catfish Farming – What You Need to Know](https://smallbiztrends.com/2023/12/catfish-farming.html) | Small Business Trends | 2023-12-27 |
 | [Matthew Perry’s Death a ‘Wakeup Call’ For Ketamine Industry](https://www.vice.com/en/article/g5y3wy/matthew-perrys-death-a-wakeup-call-for-ketamine-industry) | Vice News | 2023-12-21 |
+| [How to Start Catfish Farming – What You Need to Know](https://smallbiztrends.com/2023/12/catfish-farming.html) | Small Business Trends | 2023-12-27 |
 | [The Abortion Pill Might Just Stand a Chance at the Supreme Court](https://newrepublic.com/article/177580/supreme-court-narrow-mifepristone-standing) | The New Republic | 2023-12-14 |
 | [Why Cybersecurity Is A Competitive Advantage: Reaching Digital Success](https://www.forbes.com/sites/forbestechcouncil/2023/12/13/why-cybersecurity-is-a-competitive-advantage-reaching-digital-success/) | Forbes | 2023-12-13 |
 | [“Unacceptable”: Senators Call on GAO to Probe FDA’s Oversight of Medical Devices, Citing Series on Philips CPAP Recall](https://www.propublica.org/article/senators-ask-gao-to-probe-fda-device-oversight-citing-cpap-recall) | ProPublica | 2023-12-13 |
