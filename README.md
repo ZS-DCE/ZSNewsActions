@@ -35,9 +35,11 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/) | Wired | 2023-12-10 |
+| [Rediscovering the Pleasure of Working Together](https://www.wired.com/story/rediscovering-the-pleasure-of-working-together/) | Wired | 2024-01-08 |
 | [The tech billionaires trying to hack longevity and live forever](https://www.businessinsider.com/richest-wealthiest-entrepreneurs-ceo-billionaires-tech-searching-hacking-longevity) | Business Insider | 2023-12-07 |
 | [Strange underground honeycomb pattern found on Mars](https://boingboing.net/2023/12/08/strange-underground-honeycomb-pattern-found-on-mars.html) | Boing Boing | 2023-12-08 |
 | ['Can cringe be a SEC violation?': $1 trillion investment giant Blackstone is getting roasted for its Eras Tour-inspired holiday video](https://www.businessinsider.com/blackstone-taylor-swift-eras-holiday-video-mockumentary-tour-cringe-schwarzman2023-12) | Business Insider | 2023-12-15 |
+| [Value of life](https://en.wikipedia.org/wiki/Value_of_life) | Wikipedia.org | 2024-01-08 |
 | [Danish techies claim they can predict your next move (and your last)](https://www.theregister.com/2023/12/20/life2vec/) | Theregister.com | 2023-12-20 |
 | [Why you shouldn't be scared of spiders, according to a biology professor](https://www.businessinsider.com/why-you-should-not-be-scared-spiders-arachnophobia-expert-2023-12) | Business Insider | 2023-12-30 |
 | [Warren Buffett's gift of 1.5 million Berkshire Hathaway shares was the biggest donation of the year](https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-donation-biggest-charity-gift-2024-1) | Business Insider | 2024-01-02 |
@@ -57,8 +59,6 @@
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
 | [Scientists unveil high-resolution remote sensing monitoring system for surface solar radiation](https://phys.org/news/2023-12-scientists-unveil-high-resolution-remote-surface.html) | Phys.Org | 2023-12-08 |
-| [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
-| [Alaskan allies: Communities unite to protect the areas they love](https://www.sciencedaily.com/releases/2023/12/231211150804.htm) | Science Daily | 2023-12-11 |
 
 ## News for Medical Devices
 
@@ -67,6 +67,7 @@
 | [Android phones can now send medical data during 911 calls](https://www.engadget.com/android-phones-can-now-send-medical-data-during-911-calls-104518043.html) | Engadget | 2023-12-08 |
 | [Apple is selling its contested Watch models again after import ban pause](https://www.engadget.com/apple-is-selling-its-contested-watch-models-again-after-import-ban-pause-193824245.html) | Engadget | 2023-12-28 |
 | [First responders can automatically obtain important medical info from your Android phone](https://www.androidcentral.com/apps-software/android-personal-safety-rapidsos-medical-information) | Android Central | 2023-12-08 |
+| [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [NHS to begin delivering critical medical supplies by drone](https://thenextweb.com/news/nhs-to-begin-delivering-critical-medical-supplies-by-drone) | The Next Web | 2023-12-18 |
 | [Apple to halt sales of latest smartwatches over patent dispute](https://abcnews.go.com/Business/apple-halt-sales-latest-smartwatches-patent-dispute/story?id=105744425) | ABC News | 2023-12-18 |
 | [Sneakernet Power Transmission](https://hackaday.com/2023/12/14/sneakernet-power-transmission/) | Hackaday | 2023-12-15 |
@@ -88,7 +89,6 @@
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
 | [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
-| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
 
 ## News for Healthcare Sector
 
