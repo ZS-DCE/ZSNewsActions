@@ -5,6 +5,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
+| [Isomorphic Labs partners with pharmaceutical firms for AI-driven drug discovery](https://readwrite.com/isomorphic-labs-partners-with-pharmaceutical-firms-for-ai-driven-drug-discovery/) | ReadWrite | 2024-01-08 |
 | [FDA Issues First Approval for Mass Drug Imports To States From Canada](https://news.slashdot.org/story/24/01/05/1714223/fda-issues-first-approval-for-mass-drug-imports-to-states-from-canada) | Slashdot.org | 2024-01-05 |
 | [Big Pharma to raise US list prices of 500 drugs in January: Report](https://arstechnica.com/health/2024/01/big-pharma-to-raise-us-list-prices-of-500-drugs-in-january-report/) | Ars Technica | 2024-01-02 |
 | [The White House’s Latest Move to Rein in Drug Prices](https://time.com/6344274/the-white-house-plan-lower-drug-prices/) | Time | 2023-12-08 |
@@ -13,10 +14,12 @@
 | [Florida is about to get cheaper prescription drugs thanks to Canada](https://www.businessinsider.com/florida-cheaper-prescription-drugs-canada-fda-approval-2024-1) | Business Insider | 2024-01-05 |
 | [Biotech stocks set for a rebound in 2024, analysts say](https://www.marketwatch.com/story/biotech-stocks-set-for-a-rebound-in-2024-analysts-say-24df6236) | MarketWatch | 2023-12-22 |
 | [Webinar: Use of R in Japan’s Pharma Industry](https://www.r-bloggers.com/2023/12/webinar-use-of-r-in-japans-pharma-industry/) | R-bloggers.com | 2023-12-12 |
+| [Nvidia dives deeper into AI drug development with Amgen, Recursion partnerships](https://www.marketwatch.com/story/nvidia-dives-deeper-into-ai-drug-development-with-amgen-recursion-partnerships-de481c8b) | MarketWatch | 2024-01-08 |
 | [Optimizing R&D In Pharma: R&D Operations Ecosystem Powered By Cloud Computing](https://www.forbes.com/sites/pwc-and-aws-switch-on-possibility/2023/12/21/optimizing-rd-in-pharma-rd-operations-ecosystem-powered-by-cloud-computing/) | Forbes | 2023-12-21 |
 | [Tech’s biggest losers in 2023](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b5933dc-e752-40c3-8cfb-14f48bbacac0) | Yahoo Entertainment | 2023-12-29 |
 | [Introduction of R activities in Japan](https://www.r-bloggers.com/2023/12/introduction-of-r-activities-in-japan/) | R-bloggers.com | 2023-12-14 |
 | [Weight-loss drugs will remain out of reach for millions in 2024 as employers and insurance companies reduce coverage](https://www.businessinsider.com/weight-loss-drug-insurance-coverage-access-employer-2023-12) | Business Insider | 2023-12-30 |
+| [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
 | [AI could end up being more risky than profitable if we’re not careful](https://www.marketwatch.com/story/ai-could-end-up-being-more-risky-than-profitable-if-were-not-careful-e7a37ba3) | MarketWatch | 2023-12-18 |
@@ -26,9 +29,6 @@
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
 | [A Damp Start to the New Year](https://www.theatlantic.com/newsletters/archive/2024/01/a-damp-start-to-the-new-year/677045/?utm_source=feed) | The Atlantic | 2024-01-05 |
-| [How Mobile Is Transforming Pharma’s HCP And Patient Engagement](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/how-mobile-is-transforming-pharmas-hcp-and-patient-engagement/) | Forbes | 2023-12-22 |
-| [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
-| [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 
 ## News for Life Sciences
 
@@ -53,12 +53,12 @@
 | [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
 | [Will Danaher Stock Rebound To Pre-Inflation Shock Highs Of $300?](https://www.forbes.com/sites/greatspeculations/2023/12/14/will-danaher-stock-rebound-to-pre-inflation-shock-highs-of-300/) | Forbes | 2023-12-14 |
 | [Understanding the risk of cell therapy for heart repair](https://www.sciencedaily.com/releases/2023/12/231213112854.htm) | Science Daily | 2023-12-13 |
+| [Captive-bred birds able to improve their flight and migration performance](https://www.sciencedaily.com/releases/2024/01/240108125409.htm) | Science Daily | 2024-01-08 |
 | [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/) | Tamu.edu | 2023-12-14 |
+| [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
 | [Scientists unveil high-resolution remote sensing monitoring system for surface solar radiation](https://phys.org/news/2023-12-scientists-unveil-high-resolution-remote-surface.html) | Phys.Org | 2023-12-08 |
-| [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
-| [Alaskan allies: Communities unite to protect the areas they love](https://www.sciencedaily.com/releases/2023/12/231211150804.htm) | Science Daily | 2023-12-11 |
 
 ## News for Medical Devices
 
@@ -127,6 +127,7 @@
 | [Five obesity-drug trends to watch in 2024: Who can compete with Eli Lilly and Novo Nordisk?](https://www.marketwatch.com/story/five-obesity-drug-trends-to-watch-in-2024-who-can-compete-with-eli-lilly-and-novo-nordisk-1dc62a7d) | MarketWatch | 2023-12-20 |
 | [These unsung stock market heroes offer 9 favorite picks for 2024](https://www.marketwatch.com/story/these-unsung-stock-market-heroes-offer-9-favorite-picks-for-2024-7eea2a49) | MarketWatch | 2023-12-21 |
 | [Moneycontrol Pro Panorama | A pause for breath?Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-a-pause-for-breath-11921241.html) | Moneycontrol | 2023-12-18 |
+| [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Mid-day Mood | Profit booking seeps in as indices trade in red; pharma stocks shine](https://www.moneycontrol.com/news/business/markets/mid-day-mood-profit-booking-seeps-in-as-indices-trade-in-red-pharma-stocks-shine-11986201.html) | Moneycontrol | 2024-01-02 |
 | [Mid-day Mood | Benchmarks shrug off correction fears, trade higher; all sectors in green](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-shrug-off-correction-fears-trade-higher-all-sectors-in-green-11942881.html) | Moneycontrol | 2023-12-22 |
@@ -148,7 +149,6 @@
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
-| [Autoimmune Diseases Diagnostics Global Market to Surpass 6 Billion Mark by 2028 | DelveInsight](https://www.globenewswire.com/news-release/2023/12/21/2800256/0/en/Autoimmune-Diseases-Diagnostics-Global-Market-to-Surpass-6-Billion-Mark-by-2028-DelveInsight.html) | GlobeNewswire | 2023-12-21 |
 
 ## News for FDA Regulations
 
