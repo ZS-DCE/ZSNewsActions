@@ -11,14 +11,11 @@
 | [Florida Can Import Prescription Drugs from Canada, U.S. Regulators Say](https://time.com/6552432/florida-can-import-prescription-drugs-from-canada/) | Time | 2024-01-05 |
 | [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Florida is about to get cheaper prescription drugs thanks to Canada](https://www.businessinsider.com/florida-cheaper-prescription-drugs-canada-fda-approval-2024-1) | Business Insider | 2024-01-05 |
-| [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
-| [R Implementation in China’s Pharmaceutical Industry in 2023](https://www.r-bloggers.com/2023/12/r-implementation-in-chinas-pharmaceutical-industry-in-2023/) | R-bloggers.com | 2023-12-08 |
 | [Biotech stocks set for a rebound in 2024, analysts say](https://www.marketwatch.com/story/biotech-stocks-set-for-a-rebound-in-2024-analysts-say-24df6236) | MarketWatch | 2023-12-22 |
 | [Webinar: Use of R in Japan’s Pharma Industry](https://www.r-bloggers.com/2023/12/webinar-use-of-r-in-japans-pharma-industry/) | R-bloggers.com | 2023-12-12 |
 | [Optimizing R&D In Pharma: R&D Operations Ecosystem Powered By Cloud Computing](https://www.forbes.com/sites/pwc-and-aws-switch-on-possibility/2023/12/21/optimizing-rd-in-pharma-rd-operations-ecosystem-powered-by-cloud-computing/) | Forbes | 2023-12-21 |
 | [Tech’s biggest losers in 2023](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b5933dc-e752-40c3-8cfb-14f48bbacac0) | Yahoo Entertainment | 2023-12-29 |
 | [Introduction of R activities in Japan](https://www.r-bloggers.com/2023/12/introduction-of-r-activities-in-japan/) | R-bloggers.com | 2023-12-14 |
-| [Catalyst for electronically controlled C--H functionalization](https://www.sciencedaily.com/releases/2023/12/231207160405.htm) | Science Daily | 2023-12-07 |
 | [Weight-loss drugs will remain out of reach for millions in 2024 as employers and insurance companies reduce coverage](https://www.businessinsider.com/weight-loss-drug-insurance-coverage-access-employer-2023-12) | Business Insider | 2023-12-30 |
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
@@ -29,6 +26,9 @@
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
 | [A Damp Start to the New Year](https://www.theatlantic.com/newsletters/archive/2024/01/a-damp-start-to-the-new-year/677045/?utm_source=feed) | The Atlantic | 2024-01-05 |
+| [How Mobile Is Transforming Pharma’s HCP And Patient Engagement](https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/how-mobile-is-transforming-pharmas-hcp-and-patient-engagement/) | Forbes | 2023-12-22 |
+| [Innova Captab IPO sees 3 times subscription, retail portion booked 4.5 times](https://www.moneycontrol.com/news/business/ipo/innova-captab-ipo-sees-3-times-subscription-retail-portion-booked-4-5-times-11944411.html) | Moneycontrol | 2023-12-22 |
+| [New chemical method advances toward targeted RNA medicine](https://www.sciencedaily.com/releases/2023/12/231213112029.htm) | Science Daily | 2023-12-13 |
 
 ## News for Life Sciences
 
@@ -36,7 +36,6 @@
 | ----- | ------ | --------- |
 | [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/) | Wired | 2023-12-10 |
 | [Rediscovering the Pleasure of Working Together](https://www.wired.com/story/rediscovering-the-pleasure-of-working-together/) | Wired | 2024-01-08 |
-| [The tech billionaires trying to hack longevity and live forever](https://www.businessinsider.com/richest-wealthiest-entrepreneurs-ceo-billionaires-tech-searching-hacking-longevity) | Business Insider | 2023-12-07 |
 | [Strange underground honeycomb pattern found on Mars](https://boingboing.net/2023/12/08/strange-underground-honeycomb-pattern-found-on-mars.html) | Boing Boing | 2023-12-08 |
 | ['Can cringe be a SEC violation?': $1 trillion investment giant Blackstone is getting roasted for its Eras Tour-inspired holiday video](https://www.businessinsider.com/blackstone-taylor-swift-eras-holiday-video-mockumentary-tour-cringe-schwarzman2023-12) | Business Insider | 2023-12-15 |
 | [Value of life](https://en.wikipedia.org/wiki/Value_of_life) | Wikipedia.org | 2024-01-08 |
@@ -46,7 +45,6 @@
 | [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
 | [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
 | [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/) | Eukaryotewritesblog.com | 2024-01-07 |
-| [Study: International scientists believe lack of women in physics tied to personal preference, but viewpoint ignores gender norms](https://www.sciencedaily.com/releases/2023/12/231207161423.htm) | Science Daily | 2023-12-07 |
 | [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [What It’s Like to Be an Owl: The Strange Science of Seeing with Sound](https://www.themarginalian.org/2023/12/24/owls-auditory-map/) | Themarginalian.org | 2023-12-24 |
 | [Stem Cell Therapy Implant Shows Promise For Type 1 Diabetes](https://www.webmd.com/diabetes/news/20231211/stem-cell-therapy-implant-shows-promise-for-type-1-diabetes) | WebMD | 2023-12-11 |
@@ -59,21 +57,20 @@
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
 | [Scientists unveil high-resolution remote sensing monitoring system for surface solar radiation](https://phys.org/news/2023-12-scientists-unveil-high-resolution-remote-surface.html) | Phys.Org | 2023-12-08 |
+| [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
+| [Alaskan allies: Communities unite to protect the areas they love](https://www.sciencedaily.com/releases/2023/12/231211150804.htm) | Science Daily | 2023-12-11 |
 
 ## News for Medical Devices
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Android phones can now send medical data during 911 calls](https://www.engadget.com/android-phones-can-now-send-medical-data-during-911-calls-104518043.html) | Engadget | 2023-12-08 |
 | [Apple is selling its contested Watch models again after import ban pause](https://www.engadget.com/apple-is-selling-its-contested-watch-models-again-after-import-ban-pause-193824245.html) | Engadget | 2023-12-28 |
-| [First responders can automatically obtain important medical info from your Android phone](https://www.androidcentral.com/apps-software/android-personal-safety-rapidsos-medical-information) | Android Central | 2023-12-08 |
 | [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [NHS to begin delivering critical medical supplies by drone](https://thenextweb.com/news/nhs-to-begin-delivering-critical-medical-supplies-by-drone) | The Next Web | 2023-12-18 |
 | [Apple to halt sales of latest smartwatches over patent dispute](https://abcnews.go.com/Business/apple-halt-sales-latest-smartwatches-patent-dispute/story?id=105744425) | ABC News | 2023-12-18 |
 | [Sneakernet Power Transmission](https://hackaday.com/2023/12/14/sneakernet-power-transmission/) | Hackaday | 2023-12-15 |
 | [Apple To Stop Some Watch Sales In U.S. Over Patent Dispute](https://www.huffpost.com/entry/apple-stops-watch-sales_n_658192dfe4b0e142c0bf41c7) | HuffPost | 2023-12-19 |
 | [Apple Watch pulled from shelves over patent ruling](https://boingboing.net/2023/12/22/last-chance-to-get-a-high-end-apple-watch-before-theyre-pulled-from-shelves-over-patent-ruling.html) | Boing Boing | 2023-12-22 |
-| [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [Google could make the Pixel 8 Pro's thermometer a practical health feature](https://www.androidcentral.com/phones/fitbit-app-pixel-8-pro-thermometer-integration) | Android Central | 2023-12-10 |
 | [You can no longer buy the newest Apple Watches from Apple's online store](https://www.businessinsider.com/apple-watch-ban-series-9-ultra-not-available-online-store-2023-12) | Business Insider | 2023-12-21 |
 | [Meet the CEO making it harder to buy an Apple Watch this Christmas](https://www.businessinsider.com/ceo-harder-to-buy-apple-watch-christmas-2023-12) | Business Insider | 2023-12-20 |
@@ -84,11 +81,14 @@
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [7 Amazon retail stumbles, from grocery delivery to clothing stores](https://www.businessinsider.com/amazon-failures-at-retail-fresh-grocery-style-fashion-2023-12) | Business Insider | 2023-12-19 |
 | [Apple Watch Series 9 halted sales over patent dispute](https://readwrite.com/apple-watch-series-9-halted-sales-over-patent-dispute/) | ReadWrite | 2023-12-18 |
-| [8 Things That Might Make Your Insomnia Worse - CNET](https://www.cnet.com/health/sleep/8-things-that-might-make-your-insomnia-worse/) | CNET | 2023-12-08 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
 | [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
+| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
+| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/27/apple-watch-ban-news/) | 9to5Mac | 2023-12-27 |
+| [Ozempic and other weight-loss drugs’ popularity set these stocks up for big gains](https://www.marketwatch.com/story/ozempic-and-other-weight-loss-drugs-popularity-set-these-stocks-up-for-big-gains-fa2a3f33) | MarketWatch | 2024-01-04 |
+| [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) | 9to5Mac | 2023-12-18 |
 
 ## News for Healthcare Sector
 
@@ -104,7 +104,6 @@
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [How Ozempic could make America the sexiest country on the planet | What's Next for Novo Nordisk?](https://qz.com/how-ozempic-could-make-america-the-sexiest-country-on-t-1851133519) | Quartz India | 2024-01-02 |
 | [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/) | Unite.AI | 2023-12-10 |
-| [Biden warns Big Pharma: Make your drugs cheaper or the US government will override your patents](https://www.businessinsider.com/biden-warns-big-pharma-make-drugs-cheaper-or-override-patents-2023-12) | Business Insider | 2023-12-07 |
 | [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
 | [Cybersecurity jobs: The highest salary roles in the US](https://readwrite.com/cybersecurity-jobs-the-highest-salary-roles-in-the-us/) | ReadWrite | 2024-01-01 |
 | [Unveiling the Cyber Threats to Healthcare: Beyond the Myths](https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html) | Internet | 2023-12-12 |
@@ -117,8 +116,9 @@
 | [Private equity ownership is bad for a hospital's health](https://qz.com/private-equity-ownership-is-bad-for-a-hospitals-health-1851125656) | Quartz India | 2023-12-28 |
 | [Workers protest in Indonesia after blast at Chinese-funded nickel plant](https://www.aljazeera.com/news/2023/12/27/workers-protest-in-indonesia-after-blast-at-chinese-funded-nickel-plant) | Al Jazeera English | 2023-12-27 |
 | [6 Stock Picks in Healthcare for 2024](https://biztoc.com/x/77e1867145e9c3d6) | Biztoc.com | 2023-12-20 |
-| [Revealing the landscape of software as a medical device industry](https://www.sciencedaily.com/releases/2023/12/231207161507.htm) | Science Daily | 2023-12-07 |
 | [Tech news recap: the biggest stories of 2023](https://readwrite.com/tech-news-recap-the-biggest-stories-of-2023/) | ReadWrite | 2023-12-29 |
+| [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
+| [These 3 Biotech Stocks Have Strong Upside Potential, Says Deutsche Bank](https://biztoc.com/x/246c7f88ad3b730a) | Biztoc.com | 2023-12-18 |
 
 ## News for Pharma Market Trends
 
@@ -138,7 +138,6 @@
 | [Mid-day Mood | Sensex, Nifty trade in red for 2nd day as investors take money off the table](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-trade-in-red-for-2nd-day-as-investors-take-money-off-the-table-11896941.html) | Moneycontrol | 2023-12-13 |
 | [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
 | [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
-| [How India can enhance the presence of Global Capability Centres](https://www.thehindubusinessline.com/opinion/how-india-can-enhance-the-presence-of-global-capability-centres/article67615364.ece) | BusinessLine | 2023-12-07 |
 | [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
 | [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
 | [We are most excited about ânewness themeâ right now: Union Mutual Fundâs Harshad Patwardhan](https://www.moneycontrol.com/news/business/markets/we-are-most-excited-about-newness-theme-right-now-union-mutual-funds-harshad-patwardhan-11918481.html) | Moneycontrol | 2023-12-20 |
@@ -149,6 +148,7 @@
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
 | [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-188-11889401.html) | Moneycontrol | 2023-12-12 |
+| [Autoimmune Diseases Diagnostics Global Market to Surpass 6 Billion Mark by 2028 | DelveInsight](https://www.globenewswire.com/news-release/2023/12/21/2800256/0/en/Autoimmune-Diseases-Diagnostics-Global-Market-to-Surpass-6-Billion-Mark-by-2028-DelveInsight.html) | GlobeNewswire | 2023-12-21 |
 
 ## News for FDA Regulations
 
