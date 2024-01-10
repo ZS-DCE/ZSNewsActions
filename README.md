@@ -49,6 +49,7 @@
 | [What It’s Like to Be an Owl: The Strange Science of Seeing with Sound](https://www.themarginalian.org/2023/12/24/owls-auditory-map/) | Themarginalian.org | 2023-12-24 |
 | [Stem Cell Therapy Implant Shows Promise For Type 1 Diabetes](https://www.webmd.com/diabetes/news/20231211/stem-cell-therapy-implant-shows-promise-for-type-1-diabetes) | WebMD | 2023-12-11 |
 | [World's deepest, largest underground lab operational](https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html) | 中国日报 | 2023-12-08 |
+| [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
 | [Caregiving can be stressful, but it could also lower risk of depression](https://www.sciencedaily.com/releases/2023/12/231212163359.htm) | Science Daily | 2023-12-12 |
 | [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
 | [Will Danaher Stock Rebound To Pre-Inflation Shock Highs Of $300?](https://www.forbes.com/sites/greatspeculations/2023/12/14/will-danaher-stock-rebound-to-pre-inflation-shock-highs-of-300/) | Forbes | 2023-12-14 |
@@ -58,7 +59,6 @@
 | [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Genetic mutations that promote reproduction tend to shorten human lifespan, study shows](https://www.sciencedaily.com/releases/2023/12/231208190004.htm) | Science Daily | 2023-12-09 |
-| [Scientists unveil high-resolution remote sensing monitoring system for surface solar radiation](https://phys.org/news/2023-12-scientists-unveil-high-resolution-remote-surface.html) | Phys.Org | 2023-12-08 |
 
 ## News for Medical Devices
 
