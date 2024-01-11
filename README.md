@@ -16,6 +16,7 @@
 | [Webinar: Use of R in Japan’s Pharma Industry](https://www.r-bloggers.com/2023/12/webinar-use-of-r-in-japans-pharma-industry/) | R-bloggers.com | 2023-12-12 |
 | [Large-scale mapping of pig genes could lead to greener agriculture, pave the way for new human medicines](https://phys.org/news/2024-01-large-scale-pig-genes-greener.html) | Phys.Org | 2024-01-09 |
 | [Nvidia dives deeper into AI drug development with Amgen, Recursion partnerships](https://www.marketwatch.com/story/nvidia-dives-deeper-into-ai-drug-development-with-amgen-recursion-partnerships-de481c8b) | MarketWatch | 2024-01-08 |
+| [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/) | Growbyginkgo.com | 2024-01-10 |
 | [Optimizing R&D In Pharma: R&D Operations Ecosystem Powered By Cloud Computing](https://www.forbes.com/sites/pwc-and-aws-switch-on-possibility/2023/12/21/optimizing-rd-in-pharma-rd-operations-ecosystem-powered-by-cloud-computing/) | Forbes | 2023-12-21 |
 | [Tech’s biggest losers in 2023](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b5933dc-e752-40c3-8cfb-14f48bbacac0) | Yahoo Entertainment | 2023-12-29 |
 | [Introduction of R activities in Japan](https://www.r-bloggers.com/2023/12/introduction-of-r-activities-in-japan/) | R-bloggers.com | 2023-12-14 |
@@ -28,7 +29,6 @@
 | [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
-| [A Damp Start to the New Year](https://www.theatlantic.com/newsletters/archive/2024/01/a-damp-start-to-the-new-year/677045/?utm_source=feed) | The Atlantic | 2024-01-05 |
 
 ## News for Life Sciences
 
@@ -54,8 +54,8 @@
 | [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
 | [Will Danaher Stock Rebound To Pre-Inflation Shock Highs Of $300?](https://www.forbes.com/sites/greatspeculations/2023/12/14/will-danaher-stock-rebound-to-pre-inflation-shock-highs-of-300/) | Forbes | 2023-12-14 |
 | [Understanding the risk of cell therapy for heart repair](https://www.sciencedaily.com/releases/2023/12/231213112854.htm) | Science Daily | 2023-12-13 |
-| [Captive-bred birds able to improve their flight and migration performance](https://www.sciencedaily.com/releases/2024/01/240108125409.htm) | Science Daily | 2024-01-08 |
 | [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/) | Tamu.edu | 2023-12-14 |
+| [Captive-bred birds able to improve their flight and migration performance](https://www.sciencedaily.com/releases/2024/01/240108125409.htm) | Science Daily | 2024-01-08 |
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 | [Researchers observe abnormal stress memory effect that restrains stress relaxation in glass](https://phys.org/news/2024-01-abnormal-stress-memory-effect-restrains.html) | Phys.Org | 2024-01-10 |
