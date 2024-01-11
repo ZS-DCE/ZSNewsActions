@@ -134,6 +134,7 @@
 | [Mid-day Mood | Silence after a storm as Sensex, Nifty trade flat](https://www.moneycontrol.com/news/business/markets/mid-day-mood-silence-after-a-storm-as-sensex-nifty-trade-flat-11937381.html) | Moneycontrol | 2023-12-21 |
 | [Worldâs first self-amplifying COVID-19 vaccine approved in Japan despite lack of safety data](https://www.naturalnews.com/2023-12-13-self-amplifying-covid-vaccine-approved-in-japan.html) | Naturalnews.com | 2023-12-13 |
 | [How modern media companies are organizing their sales operations](http://digiday.com/media/how-modern-media-companies-are-organizing-their-sales-operations/) | Digiday | 2023-12-28 |
+| [Mid-day Mood: Trade remains lacklustre on weak global cues ahead of Q3 earnings show](https://www.moneycontrol.com/news/business/markets/mid-day-mood-trade-remains-lacklustre-on-weak-global-cues-ahead-of-q3-earnings-show-12027861.html) | Moneycontrol | 2024-01-10 |
 | [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
 | [Transcript: Stephen Suttmeier](https://ritholtz.com/2023/12/transcript-stephen-suttmeier/) | Ritholtz.com | 2023-12-26 |
 | [Mid-day Mood | Sensex, Nifty trade in red for 2nd day as investors take money off the table](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-trade-in-red-for-2nd-day-as-investors-take-money-off-the-table-11896941.html) | Moneycontrol | 2023-12-13 |
@@ -148,7 +149,6 @@
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
 | [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
-| [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
 
 ## News for FDA Regulations
 
