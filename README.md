@@ -46,6 +46,7 @@
 | [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/) | Eukaryotewritesblog.com | 2024-01-07 |
 | [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [What It’s Like to Be an Owl: The Strange Science of Seeing with Sound](https://www.themarginalian.org/2023/12/24/owls-auditory-map/) | Themarginalian.org | 2023-12-24 |
+| [Climatetech, AI And Life Sciences Spearhead New Year Funding Hopes](https://www.forbes.com/sites/trevorclawson/2024/01/11/climatetech-ai-and-life-sciences-spearhead-new-year-funding-hopes/) | Forbes | 2024-01-11 |
 | [Stem Cell Therapy Implant Shows Promise For Type 1 Diabetes](https://www.webmd.com/diabetes/news/20231211/stem-cell-therapy-implant-shows-promise-for-type-1-diabetes) | WebMD | 2023-12-11 |
 | [Boston Biz Journal reporter Green switches to life sciences beat](https://biztoc.com/x/2a6dd211a5eafc31) | Biztoc.com | 2024-01-09 |
 | [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
@@ -58,7 +59,6 @@
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 | [Researchers observe abnormal stress memory effect that restrains stress relaxation in glass](https://phys.org/news/2024-01-abnormal-stress-memory-effect-restrains.html) | Phys.Org | 2024-01-10 |
-| [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
 
 ## News for Medical Devices
 
