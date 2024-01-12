@@ -138,6 +138,7 @@
 | [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
 | [Transcript: Stephen Suttmeier](https://ritholtz.com/2023/12/transcript-stephen-suttmeier/) | Ritholtz.com | 2023-12-26 |
 | [Mid-day Mood | Sensex, Nifty trade in red for 2nd day as investors take money off the table](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-trade-in-red-for-2nd-day-as-investors-take-money-off-the-table-11896941.html) | Moneycontrol | 2023-12-13 |
+| [Mid-day Mood | Sensex, Nifty inch higher amid positive global cues; IT stocks in focus](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-inch-higher-amid-positive-global-cues-it-stocks-in-focus-12033281.html) | Moneycontrol | 2024-01-11 |
 | [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
 | [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
 | [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
@@ -148,7 +149,6 @@
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
 | [Stockology: Markets in sustained bull markets; What do the stars hold next?](https://www.moneycontrol.com/news/opinion/stockology-markets-in-sustained-bull-markets-what-do-the-stars-hold-next-11915191.html) | Moneycontrol | 2023-12-17 |
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
-| [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
 
 ## News for FDA Regulations
 
