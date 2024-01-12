@@ -73,6 +73,7 @@
 | [Sneakernet Power Transmission](https://hackaday.com/2023/12/14/sneakernet-power-transmission/) | Hackaday | 2023-12-15 |
 | [Apple To Stop Some Watch Sales In U.S. Over Patent Dispute](https://www.huffpost.com/entry/apple-stops-watch-sales_n_658192dfe4b0e142c0bf41c7) | HuffPost | 2023-12-19 |
 | [Apple Watch pulled from shelves over patent ruling](https://boingboing.net/2023/12/22/last-chance-to-get-a-high-end-apple-watch-before-theyre-pulled-from-shelves-over-patent-ruling.html) | Boing Boing | 2023-12-22 |
+| [The MouthPad turns your tongue into a mouse for your phone](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_54613a72-ca87-4fee-96a8-979b84a1ebb7) | Yahoo Entertainment | 2024-01-11 |
 | [You can no longer buy the newest Apple Watches from Apple's online store](https://www.businessinsider.com/apple-watch-ban-series-9-ultra-not-available-online-store-2023-12) | Business Insider | 2023-12-21 |
 | [Meet the CEO making it harder to buy an Apple Watch this Christmas](https://www.businessinsider.com/ceo-harder-to-buy-apple-watch-christmas-2023-12) | Business Insider | 2023-12-20 |
 | [Android: How to share your health details during an emergency call](https://www.androidpolice.com/android-send-medical-data-emrgency-services-911/) | Android Police | 2023-12-22 |
@@ -88,7 +89,6 @@
 | [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/27/apple-watch-ban-news/) | 9to5Mac | 2023-12-27 |
-| [Ozempic and other weight-loss drugs’ popularity set these stocks up for big gains](https://www.marketwatch.com/story/ozempic-and-other-weight-loss-drugs-popularity-set-these-stocks-up-for-big-gains-fa2a3f33) | MarketWatch | 2024-01-04 |
 
 ## News for Healthcare Sector
 
