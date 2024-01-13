@@ -64,6 +64,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Google Will Now Back Right-to-Repair](https://gizmodo.com/google-android-pixel-jumps-on-right-to-repair-bandwagon-1851162802) | Gizmodo.com | 2024-01-12 |
 | [Apple is selling its contested Watch models again after import ban pause](https://www.engadget.com/apple-is-selling-its-contested-watch-models-again-after-import-ban-pause-193824245.html) | Engadget | 2023-12-28 |
 | [Movano’s smart ring is the rare CES health gadget that will actually ship](https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024) | The Verge | 2024-01-09 |
 | [Future smartphones might never need charging again thanks to this battery](https://www.androidcentral.com/phones/betavolt-technology-developing-radionuclide-battery) | Android Central | 2024-01-12 |
@@ -88,7 +89,6 @@
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
-| [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
 
 ## News for Healthcare Sector
 
