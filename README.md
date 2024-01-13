@@ -25,10 +25,10 @@
 | [The Inflation Reduction Act Is Not Impacting Pharma R&D – Yet](https://www.forbes.com/sites/johnlamattina/2023/12/12/the-inflation-reduction-act-is-not-impacting-pharma-rd--yet/) | Forbes | 2023-12-12 |
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
 | [AI could end up being more risky than profitable if we’re not careful](https://www.marketwatch.com/story/ai-could-end-up-being-more-risky-than-profitable-if-were-not-careful-e7a37ba3) | MarketWatch | 2023-12-18 |
-| [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
+| [A Damp Start to the New Year](https://www.theatlantic.com/newsletters/archive/2024/01/a-damp-start-to-the-new-year/677045/?utm_source=feed) | The Atlantic | 2024-01-05 |
 
 ## News for Life Sciences
 
@@ -47,7 +47,6 @@
 | [Advice from a critic: Read 'Erasure' before seeing 'American Fiction'](https://www.npr.org/2023/12/12/1218760348/before-you-see-american-fiction-read-erasure-book-novel-by-percival-everett) | NPR | 2023-12-12 |
 | [What It’s Like to Be an Owl: The Strange Science of Seeing with Sound](https://www.themarginalian.org/2023/12/24/owls-auditory-map/) | Themarginalian.org | 2023-12-24 |
 | [Climatetech, AI And Life Sciences Spearhead New Year Funding Hopes](https://www.forbes.com/sites/trevorclawson/2024/01/11/climatetech-ai-and-life-sciences-spearhead-new-year-funding-hopes/) | Forbes | 2024-01-11 |
-| [Stem Cell Therapy Implant Shows Promise For Type 1 Diabetes](https://www.webmd.com/diabetes/news/20231211/stem-cell-therapy-implant-shows-promise-for-type-1-diabetes) | WebMD | 2023-12-11 |
 | [Boston Biz Journal reporter Green switches to life sciences beat](https://biztoc.com/x/2a6dd211a5eafc31) | Biztoc.com | 2024-01-09 |
 | [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
 | [Caregiving can be stressful, but it could also lower risk of depression](https://www.sciencedaily.com/releases/2023/12/231212163359.htm) | Science Daily | 2023-12-12 |
@@ -59,6 +58,7 @@
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 | [Researchers observe abnormal stress memory effect that restrains stress relaxation in glass](https://phys.org/news/2024-01-abnormal-stress-memory-effect-restrains.html) | Phys.Org | 2024-01-10 |
+| [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
 
 ## News for Medical Devices
 
@@ -66,6 +66,7 @@
 | ----- | ------ | --------- |
 | [Apple is selling its contested Watch models again after import ban pause](https://www.engadget.com/apple-is-selling-its-contested-watch-models-again-after-import-ban-pause-193824245.html) | Engadget | 2023-12-28 |
 | [Movano’s smart ring is the rare CES health gadget that will actually ship](https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024) | The Verge | 2024-01-09 |
+| [Future smartphones might never need charging again thanks to this battery](https://www.androidcentral.com/phones/betavolt-technology-developing-radionuclide-battery) | Android Central | 2024-01-12 |
 | [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [NHS to begin delivering critical medical supplies by drone](https://thenextweb.com/news/nhs-to-begin-delivering-critical-medical-supplies-by-drone) | The Next Web | 2023-12-18 |
 | [Apple to halt sales of latest smartwatches over patent dispute](https://abcnews.go.com/Business/apple-halt-sales-latest-smartwatches-patent-dispute/story?id=105744425) | ABC News | 2023-12-18 |
@@ -88,7 +89,6 @@
 | [US agency takes first step toward requiring new vehicles to prevent drunk or impaired driving](https://abcnews.go.com/Business/wireStory/us-agency-takes-step-requiring-new-vehicles-prevent-105586154) | ABC News | 2023-12-12 |
 | [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
-| [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
 
 ## News for Healthcare Sector
 
@@ -96,7 +96,6 @@
 | ----- | ------ | --------- |
 | [The DOJ says it disrupted the Blackcat ransomware group](https://www.engadget.com/the-doj-says-it-disrupted-the-blackcat-ransomware-group-174755936.html) | Engadget | 2023-12-19 |
 | [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
-| [Nvidia Emerges as Leading Investor in AI Companies](https://tech.slashdot.org/story/23/12/11/194248/nvidia-emerges-as-leading-investor-in-ai-companies) | Slashdot.org | 2023-12-11 |
 | [Pharma giants are hiking prices on over 500 drugs for 2024, report says](https://www.businessinsider.com/big-pharma-hiking-prices-on-500-drugs-in-2024-report-2024-1) | Business Insider | 2024-01-02 |
 | [Here’s a ‘solid contrarian idea’ for 2024, according to BTIG’s Krinsky](https://www.marketwatch.com/story/heres-a-solid-contrarian-idea-for-2024-according-to-btigs-krinsky-32a86261) | MarketWatch | 2023-12-28 |
 | [Beaten-down sectors in U.S. stock market last year get some revenge in the first week of 2024](https://www.marketwatch.com/story/beaten-down-sectors-in-u-s-stock-market-last-year-get-some-revenge-in-the-first-week-of-2024-332511e4) | MarketWatch | 2024-01-06 |
@@ -117,8 +116,9 @@
 | [6 Stock Picks in Healthcare for 2024](https://biztoc.com/x/77e1867145e9c3d6) | Biztoc.com | 2023-12-20 |
 | [Tech news recap: the biggest stories of 2023](https://readwrite.com/tech-news-recap-the-biggest-stories-of-2023/) | ReadWrite | 2023-12-29 |
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
-| [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state) | Thefitzwilliam.com | 2023-12-11 |
 | [These 3 Biotech Stocks Have Strong Upside Potential, Says Deutsche Bank](https://biztoc.com/x/246c7f88ad3b730a) | Biztoc.com | 2023-12-18 |
+| [Sectors: The S&P 500's 7-layer dip](https://qz.com/emails/quartz-obsession/1851096326/sectors-the-s-p-500s-7-layer-dip) | Quartz India | 2023-12-15 |
+| [A guide to navigating the next-generation robotics wave](https://thenextweb.com/news/guide-next-generation-robotics-wave) | The Next Web | 2023-12-20 |
 
 ## News for Pharma Market Trends
 
@@ -128,7 +128,6 @@
 | [These unsung stock market heroes offer 9 favorite picks for 2024](https://www.marketwatch.com/story/these-unsung-stock-market-heroes-offer-9-favorite-picks-for-2024-7eea2a49) | MarketWatch | 2023-12-21 |
 | [Moneycontrol Pro Panorama | A pause for breath?Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-a-pause-for-breath-11921241.html) | Moneycontrol | 2023-12-18 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
-| [Why the next decade in healthcare is India’s decade](https://www.mckinsey.com/featured-insights/future-of-asia/why-the-next-decade-in-healthcare-is-indias-decade) | Mckinsey.com | 2023-12-12 |
 | [Mid-day Mood | Profit booking seeps in as indices trade in red; pharma stocks shine](https://www.moneycontrol.com/news/business/markets/mid-day-mood-profit-booking-seeps-in-as-indices-trade-in-red-pharma-stocks-shine-11986201.html) | Moneycontrol | 2024-01-02 |
 | [Mid-day Mood | Benchmarks shrug off correction fears, trade higher; all sectors in green](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-shrug-off-correction-fears-trade-higher-all-sectors-in-green-11942881.html) | Moneycontrol | 2023-12-22 |
 | [Mid-day Mood | Silence after a storm as Sensex, Nifty trade flat](https://www.moneycontrol.com/news/business/markets/mid-day-mood-silence-after-a-storm-as-sensex-nifty-trade-flat-11937381.html) | Moneycontrol | 2023-12-21 |
@@ -149,6 +148,7 @@
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
 | [Stockology: Markets in sustained bull markets; What do the stars hold next?](https://www.moneycontrol.com/news/opinion/stockology-markets-in-sustained-bull-markets-what-do-the-stars-hold-next-11915191.html) | Moneycontrol | 2023-12-17 |
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
+| [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
 
 ## News for FDA Regulations
 
