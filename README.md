@@ -101,6 +101,7 @@
 | [Beaten-down sectors in U.S. stock market last year get some revenge in the first week of 2024](https://www.marketwatch.com/story/beaten-down-sectors-in-u-s-stock-market-last-year-get-some-revenge-in-the-first-week-of-2024-332511e4) | MarketWatch | 2024-01-06 |
 | [Here are Wall Street’s favorite stocks in the sector expected to grow profits the most in 2024](https://www.marketwatch.com/story/here-are-wall-streets-favorite-stocks-in-the-sector-expected-to-grow-profits-the-most-in-2024-a1b0ac87) | MarketWatch | 2024-01-09 |
 | [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/) | The Hill | 2023-12-13 |
+| [Nvidia will sell advanced GPUs to India after China exports blocked](https://readwrite.com/nvidia-will-sell-advanced-gpus-to-india-after-china-exports-blocked/) | ReadWrite | 2024-01-12 |
 | [European Union aims for quantum tech advancements](https://readwrite.com/european-union-aims-for-quantum-tech-advancements/) | ReadWrite | 2023-12-13 |
 | [How Ozempic could make America the sexiest country on the planet | What's Next for Novo Nordisk?](https://qz.com/how-ozempic-could-make-america-the-sexiest-country-on-t-1851133519) | Quartz India | 2024-01-02 |
 | [China risks falling into a vicious cycle of deflation and debt, Morgan Stanley economist says](https://www.businessinsider.com/china-deflation-debt-property-market-default-consumption-growth-morgan-stanley-2023-12) | Business Insider | 2023-12-13 |
@@ -118,7 +119,6 @@
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [These 3 Biotech Stocks Have Strong Upside Potential, Says Deutsche Bank](https://biztoc.com/x/246c7f88ad3b730a) | Biztoc.com | 2023-12-18 |
 | [Sectors: The S&P 500's 7-layer dip](https://qz.com/emails/quartz-obsession/1851096326/sectors-the-s-p-500s-7-layer-dip) | Quartz India | 2023-12-15 |
-| [A guide to navigating the next-generation robotics wave](https://thenextweb.com/news/guide-next-generation-robotics-wave) | The Next Web | 2023-12-20 |
 
 ## News for Pharma Market Trends
 
