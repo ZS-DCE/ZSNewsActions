@@ -52,13 +52,13 @@
 | [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
 | [Four Keys To Advancing Antisense Oligonucleotides For Personalized Medicine](https://www.forbes.com/sites/forbestechcouncil/2024/01/12/four-keys-to-advancing-antisense-oligonucleotides-for-personalized-medicine/) | Forbes | 2024-01-12 |
 | [Will Danaher Stock Rebound To Pre-Inflation Shock Highs Of $300?](https://www.forbes.com/sites/greatspeculations/2023/12/14/will-danaher-stock-rebound-to-pre-inflation-shock-highs-of-300/) | Forbes | 2023-12-14 |
+| [Big Tech's CES 2024 Sustainability Goals: More Recycled Materials, Longer Lifespans - CNET](https://www.cnet.com/tech/mobile/big-techs-ces-2024-sustainability-goals-more-recycled-materials-longer-lifespans/) | CNET | 2024-01-13 |
 | [Understanding the risk of cell therapy for heart repair](https://www.sciencedaily.com/releases/2023/12/231213112854.htm) | Science Daily | 2023-12-13 |
 | [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/) | Tamu.edu | 2023-12-14 |
 | [Captive-bred birds able to improve their flight and migration performance](https://www.sciencedaily.com/releases/2024/01/240108125409.htm) | Science Daily | 2024-01-08 |
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 | [Researchers observe abnormal stress memory effect that restrains stress relaxation in glass](https://phys.org/news/2024-01-abnormal-stress-memory-effect-restrains.html) | Phys.Org | 2024-01-10 |
-| [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
 
 ## News for Medical Devices
 
