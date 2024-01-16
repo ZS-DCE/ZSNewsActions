@@ -161,8 +161,8 @@
 | [Why fears about Biden’s marijuana moves are overblown](https://www.politico.com/news/2024/01/01/biden-marijuana-fda-scheduling-fears-sklamberg-00132890) | Politico | 2024-01-01 |
 | [Agribusiness 2024: A Fresh Look At Upcoming Food Safety Regulations](https://www.forbes.com/sites/sap/2024/01/09/agribusiness-2024-a-fresh-look-at-upcoming-food-safety-regulations/) | Forbes | 2024-01-09 |
 | [FDA Approves Florida Plan to Import Drugs from Canada](https://www.webmd.com/drug-medication/news/20240105/fda-approves-florida-plan-to-import-drugs-from-canada) | WebMD | 2024-01-05 |
-| [Matthew Perry’s Death a ‘Wakeup Call’ For Ketamine Industry](https://www.vice.com/en/article/g5y3wy/matthew-perrys-death-a-wakeup-call-for-ketamine-industry) | Vice News | 2023-12-21 |
 | [How to Start Catfish Farming – What You Need to Know](https://smallbiztrends.com/2023/12/catfish-farming.html) | Small Business Trends | 2023-12-27 |
+| [Matthew Perry’s Death a ‘Wakeup Call’ For Ketamine Industry](https://www.vice.com/en/article/g5y3wy/matthew-perrys-death-a-wakeup-call-for-ketamine-industry) | Vice News | 2023-12-21 |
 | [At trade meet, India seeks more pharma inspections & easier visas, US flags laptop import monitoring](https://indianexpress.com/article/business/at-trade-meet-india-seeks-more-pharma-inspections-easier-visas-us-flags-laptop-import-monitoring-9107316/) | The Indian Express | 2024-01-12 |
 | [Inside the MAGA Plan to Attack Birth Control, Surveil Women and Ban the Abortion Pill](https://www.rollingstone.com/politics/politics-features/maga-plan-attack-birth-control-surveil-women-ban-abortion-pill-1234934807/) | Rolling Stone | 2023-12-22 |
 | [We Absolutely Do Not Need an FDA for AI](https://reason.com/2024/01/01/we-absolutely-do-not-need-an-fda-for-ai/) | Reason | 2023-12-26 |
