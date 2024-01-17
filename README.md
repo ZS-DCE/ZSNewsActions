@@ -48,6 +48,7 @@
 | [Researchers discover compound that fights leukemia, lymphoma](https://www.sciencedaily.com/releases/2024/01/240113142212.htm) | Science Daily | 2024-01-13 |
 | [Climatetech, AI And Life Sciences Spearhead New Year Funding Hopes](https://www.forbes.com/sites/trevorclawson/2024/01/11/climatetech-ai-and-life-sciences-spearhead-new-year-funding-hopes/) | Forbes | 2024-01-11 |
 | [Boston Biz Journal reporter Green switches to life sciences beat](https://biztoc.com/x/2a6dd211a5eafc31) | Biztoc.com | 2024-01-09 |
+| [Cryo-microscopy reveals nano-sized copy machine implicated in origin of life](https://phys.org/news/2024-01-cryo-microscopy-reveals-nano-sized.html) | Phys.Org | 2024-01-16 |
 | [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
 | [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
 | [Apple baut Board of Directors um, Al Gore geht in Rente](https://www.heise.de/news/Apple-baut-Board-of-Directors-um-Al-Gore-geht-in-Rente-9597188.html) | heise online | 2024-01-15 |
@@ -58,7 +59,6 @@
 | [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 | [Researchers observe abnormal stress memory effect that restrains stress relaxation in glass](https://phys.org/news/2024-01-abnormal-stress-memory-effect-restrains.html) | Phys.Org | 2024-01-10 |
 | [Nobel Prizewinning Economist Robert Solow, Who Linked Technology and Growth, Dies at 99](https://time.com/6550070/robert-solow-nobel-economist-dies/) | Time | 2023-12-22 |
-| [Free unexpected MIT courses to kick start the new year](https://medium.com/open-learning/free-unexpected-mit-courses-to-kick-start-the-new-year-c226e444e61a) | Medium | 2024-01-14 |
 
 ## News for Medical Devices
 
@@ -159,6 +159,7 @@
 | [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Florida Can Import Prescription Drugs from Canada, U.S. Regulators Say](https://time.com/6552432/florida-can-import-prescription-drugs-from-canada/) | Time | 2024-01-05 |
 | [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529) | Hacker News | 2024-01-16 |
+| [What would a second Trump presidency look like for health care?](https://www.npr.org/sections/health-shots/2024/01/16/1224938442/what-would-a-second-trump-presidency-look-like-for-health-care) | NPR | 2024-01-16 |
 | [Why fears about Biden’s marijuana moves are overblown](https://www.politico.com/news/2024/01/01/biden-marijuana-fda-scheduling-fears-sklamberg-00132890) | Politico | 2024-01-01 |
 | [Agribusiness 2024: A Fresh Look At Upcoming Food Safety Regulations](https://www.forbes.com/sites/sap/2024/01/09/agribusiness-2024-a-fresh-look-at-upcoming-food-safety-regulations/) | Forbes | 2024-01-09 |
 | [FDA Approves Florida Plan to Import Drugs from Canada](https://www.webmd.com/drug-medication/news/20240105/fda-approves-florida-plan-to-import-drugs-from-canada) | WebMD | 2024-01-05 |
@@ -178,5 +179,4 @@
 | [The Intersection Of Social Influencers And Healthcare](https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/03/the-intersection-of-social-influencers-and-healthcare/) | Forbes | 2024-01-03 |
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
 | [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
-| [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
 
