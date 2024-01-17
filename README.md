@@ -137,6 +137,7 @@
 | [Transcript: Stephen Suttmeier](https://ritholtz.com/2023/12/transcript-stephen-suttmeier/) | Ritholtz.com | 2023-12-26 |
 | [Mid-day Mood | Sensex, Nifty inch higher amid positive global cues; IT stocks in focus](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-inch-higher-amid-positive-global-cues-it-stocks-in-focus-12033281.html) | Moneycontrol | 2024-01-11 |
 | [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
+| [Daily Voice | This fund manager sees another 10% upside in market, bets on domestic tourism](https://www.moneycontrol.com/news/business/markets/daily-voice-this-fund-manager-sees-another-10-upside-in-market-bets-on-domestic-tourism-12057651.html) | Moneycontrol | 2024-01-16 |
 | [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
 | [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
 | [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
@@ -148,7 +149,6 @@
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
 | [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
 | [13 Most Promising Healthcare Stocks According to Analysts](https://finance.yahoo.com/news/13-most-promising-healthcare-stocks-164105967.html) | Yahoo Entertainment | 2023-12-19 |
-| [Reddy Family Net Worth – How Much is Reddy Family Worth?](https://zacjohnson.com/reddy-family-net-worth/) | Zacjohnson.com | 2023-12-28 |
 
 ## News for FDA Regulations
 
@@ -158,6 +158,7 @@
 | [Canada vows to defend its drug supply against Florida importation plan](https://arstechnica.com/science/2024/01/canada-vows-to-defend-its-drug-supply-against-florida-importation-plan/) | Ars Technica | 2024-01-09 |
 | [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Florida Can Import Prescription Drugs from Canada, U.S. Regulators Say](https://time.com/6552432/florida-can-import-prescription-drugs-from-canada/) | Time | 2024-01-05 |
+| [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529) | Hacker News | 2024-01-16 |
 | [Why fears about Biden’s marijuana moves are overblown](https://www.politico.com/news/2024/01/01/biden-marijuana-fda-scheduling-fears-sklamberg-00132890) | Politico | 2024-01-01 |
 | [Agribusiness 2024: A Fresh Look At Upcoming Food Safety Regulations](https://www.forbes.com/sites/sap/2024/01/09/agribusiness-2024-a-fresh-look-at-upcoming-food-safety-regulations/) | Forbes | 2024-01-09 |
 | [FDA Approves Florida Plan to Import Drugs from Canada](https://www.webmd.com/drug-medication/news/20240105/fda-approves-florida-plan-to-import-drugs-from-canada) | WebMD | 2024-01-05 |
@@ -178,5 +179,4 @@
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
 | [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
 | [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
-| [FDA database that tracks medical device harms may miss red flags, experts warn](https://www.cbsnews.com/news/fda-database-medical-devices-heartmate-3-lvad-safety/) | CBS News | 2023-12-18 |
 
