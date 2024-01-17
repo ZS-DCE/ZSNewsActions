@@ -126,6 +126,7 @@
 | ----- | ------ | --------- |
 | [Five obesity-drug trends to watch in 2024: Who can compete with Eli Lilly and Novo Nordisk?](https://www.marketwatch.com/story/five-obesity-drug-trends-to-watch-in-2024-who-can-compete-with-eli-lilly-and-novo-nordisk-1dc62a7d) | MarketWatch | 2023-12-20 |
 | [These unsung stock market heroes offer 9 favorite picks for 2024](https://www.marketwatch.com/story/these-unsung-stock-market-heroes-offer-9-favorite-picks-for-2024-7eea2a49) | MarketWatch | 2023-12-21 |
+| [Five Major Themes From The 2024 JP Morgan Healthcare Conference](https://www.forbes.com/sites/juergeneckhardt/2024/01/16/five-major-themes-from-the-2024-jp-morgan-healthcare-conference/) | Forbes | 2024-01-16 |
 | [Moneycontrol Pro Panorama | A pause for breath?Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-a-pause-for-breath-11921241.html) | Moneycontrol | 2023-12-18 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [Mid-day Mood | Profit booking seeps in as indices trade in red; pharma stocks shine](https://www.moneycontrol.com/news/business/markets/mid-day-mood-profit-booking-seeps-in-as-indices-trade-in-red-pharma-stocks-shine-11986201.html) | Moneycontrol | 2024-01-02 |
@@ -148,7 +149,6 @@
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
 | [Stockology: Markets in sustained bull markets; What do the stars hold next?](https://www.moneycontrol.com/news/opinion/stockology-markets-in-sustained-bull-markets-what-do-the-stars-hold-next-11915191.html) | Moneycontrol | 2023-12-17 |
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
-| [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
 
 ## News for FDA Regulations
 
