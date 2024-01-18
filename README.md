@@ -52,13 +52,13 @@
 | [Cryo-microscopy reveals nano-sized copy machine implicated in origin of life](https://phys.org/news/2024-01-cryo-microscopy-reveals-nano-sized.html) | Phys.Org | 2024-01-16 |
 | [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
 | [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
+| [New technology for conducting deep-sea research on fragile organisms](https://www.sciencedaily.com/releases/2024/01/240117141005.htm) | Science Daily | 2024-01-17 |
 | [Apple baut Board of Directors um, Al Gore geht in Rente](https://www.heise.de/news/Apple-baut-Board-of-Directors-um-Al-Gore-geht-in-Rente-9597188.html) | heise online | 2024-01-15 |
 | [Four Keys To Advancing Antisense Oligonucleotides For Personalized Medicine](https://www.forbes.com/sites/forbestechcouncil/2024/01/12/four-keys-to-advancing-antisense-oligonucleotides-for-personalized-medicine/) | Forbes | 2024-01-12 |
 | [Big Tech's CES 2024 Sustainability Goals: More Recycled Materials, Longer Lifespans - CNET](https://www.cnet.com/tech/mobile/big-techs-ces-2024-sustainability-goals-more-recycled-materials-longer-lifespans/) | CNET | 2024-01-13 |
 | [Captive-bred birds able to improve their flight and migration performance](https://www.sciencedaily.com/releases/2024/01/240108125409.htm) | Science Daily | 2024-01-08 |
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
 | [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
-| [Researchers observe abnormal stress memory effect that restrains stress relaxation in glass](https://phys.org/news/2024-01-abnormal-stress-memory-effect-restrains.html) | Phys.Org | 2024-01-10 |
 
 ## News for Medical Devices
 
@@ -83,12 +83,12 @@
 | [How to use your FSA money on everyday essentials before you lose it at the end of the year](https://www.insider.com/guides/health/how-to-use-fsa-money) | INSIDER | 2023-12-20 |
 | [Apple Watch Import Ban Now Official, Apple Appeals Decision](https://www.macrumors.com/2023/12/26/apple-watch-import-ban-official/) | MacRumors | 2023-12-26 |
 | [Apple Watch Series 9 and Ultra 2 Available in Apple Stores Starting Today, Online Sales to Resume Tomorrow](https://www.macrumors.com/2023/12/27/apple-watch-available-in-stores-today/) | MacRumors | 2023-12-27 |
+| [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [7 Amazon retail stumbles, from grocery delivery to clothing stores](https://www.businessinsider.com/amazon-failures-at-retail-fresh-grocery-style-fashion-2023-12) | Business Insider | 2023-12-19 |
 | [Apple Watch Series 9 halted sales over patent dispute](https://readwrite.com/apple-watch-series-9-halted-sales-over-patent-dispute/) | ReadWrite | 2023-12-18 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
 | [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
-| [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
 
 ## News for Healthcare Sector
 
