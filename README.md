@@ -38,6 +38,7 @@
 | [Dr. Deborah Birx: "To be cavalier about getting repetitive COVID infections is really a huge mistake"](https://boingboing.net/2024/01/12/dr-deborah-birx-to-be-cavalier-about-getting-repetitive-covid-infections-is-really-a-huge-mistake.html) | Boing Boing | 2024-01-12 |
 | [Value of life](https://en.wikipedia.org/wiki/Value_of_life) | Wikipedia.org | 2024-01-08 |
 | [Danish techies claim they can predict your next move (and your last)](https://www.theregister.com/2023/12/20/life2vec/) | Theregister.com | 2023-12-20 |
+| [生活の質を上げる。シチズンの健康志向なスマートウォッチ](https://www.gizmodo.jp/2024/01/cz-smart-youq-nasa-ibm-alertness-monitor-watch-1.html) | Gizmodo.jp | 2024-01-18 |
 | [Why you shouldn't be scared of spiders, according to a biology professor](https://www.businessinsider.com/why-you-should-not-be-scared-spiders-arachnophobia-expert-2023-12) | Business Insider | 2023-12-30 |
 | [Protecting newborns: Research lays the groundwork for a lifesaving vaccine](https://www.sciencedaily.com/releases/2024/01/240109121112.htm) | Science Daily | 2024-01-09 |
 | [Warren Buffett's gift of 1.5 million Berkshire Hathaway shares was the biggest donation of the year](https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-donation-biggest-charity-gift-2024-1) | Business Insider | 2024-01-02 |
@@ -58,7 +59,6 @@
 | [Big Tech's CES 2024 Sustainability Goals: More Recycled Materials, Longer Lifespans - CNET](https://www.cnet.com/tech/mobile/big-techs-ces-2024-sustainability-goals-more-recycled-materials-longer-lifespans/) | CNET | 2024-01-13 |
 | [Captive-bred birds able to improve their flight and migration performance](https://www.sciencedaily.com/releases/2024/01/240108125409.htm) | Science Daily | 2024-01-08 |
 | [Re-calibrating the sail plan for Native Hawaiians, Pacific Islanders in ocean sciences](https://phys.org/news/2024-01-calibrating-native-hawaiians-pacific-islanders.html) | Phys.Org | 2024-01-03 |
-| [Evolution is not as random as previously thought](https://www.sciencedaily.com/releases/2024/01/240108125801.htm) | Science Daily | 2024-01-08 |
 
 ## News for Medical Devices
 
@@ -81,6 +81,7 @@
 | [Meet the CEO making it harder to buy an Apple Watch this Christmas](https://www.businessinsider.com/ceo-harder-to-buy-apple-watch-christmas-2023-12) | Business Insider | 2023-12-20 |
 | [Android: How to share your health details during an emergency call](https://www.androidpolice.com/android-send-medical-data-emrgency-services-911/) | Android Police | 2023-12-22 |
 | [The best of CES 2024](https://www.engadget.com/the-best-of-ces-2024-220054009.html) | Engadget | 2024-01-11 |
+| [You can help Google with its latest Fitbit study on metabolic health](https://www.androidcentral.com/wearables/google-fitbit-wear-me-study) | Android Central | 2024-01-18 |
 | [How to use your FSA money on everyday essentials before you lose it at the end of the year](https://www.insider.com/guides/health/how-to-use-fsa-money) | INSIDER | 2023-12-20 |
 | [Apple Watch Import Ban Now Official, Apple Appeals Decision](https://www.macrumors.com/2023/12/26/apple-watch-import-ban-official/) | MacRumors | 2023-12-26 |
 | [Apple Watch Series 9 and Ultra 2 Available in Apple Stores Starting Today, Online Sales to Resume Tomorrow](https://www.macrumors.com/2023/12/27/apple-watch-available-in-stores-today/) | MacRumors | 2023-12-27 |
@@ -88,7 +89,6 @@
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [7 Amazon retail stumbles, from grocery delivery to clothing stores](https://www.businessinsider.com/amazon-failures-at-retail-fresh-grocery-style-fashion-2023-12) | Business Insider | 2023-12-19 |
 | [Apple Watch Series 9 halted sales over patent dispute](https://readwrite.com/apple-watch-series-9-halted-sales-over-patent-dispute/) | ReadWrite | 2023-12-18 |
-| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
 
 ## News for Healthcare Sector
 
@@ -174,9 +174,9 @@
 | [How to Start a Crawfish Farm](https://smallbiztrends.com/2023/12/crawfish-farm.html) | Small Business Trends | 2023-12-22 |
 | [We Should Test Generic Drugs To Assure Safety. The FDA Hates The Idea](https://www.forbes.com/sites/arthurkellermann/2024/01/10/we-should-test-generic-drugs-to-assure-safety-the-fda-hates-the-idea/) | Forbes | 2024-01-10 |
 | [Editorial: This Supreme Court decision should be easy — keep medication abortion accessible](https://www.latimes.com/opinion/story/2023-12-22/editorial-this-supreme-court-decision-should-be-easy-keep-medication-abortion-accessible) | Los Angeles Times | 2023-12-22 |
+| [Supreme Court ruling on use of abortion pill could impact November elections](https://www.naturalnews.com/2024-01-18-supreme-court-abortion-pill-ruling-affect-elections.html) | Naturalnews.com | 2024-01-18 |
 | [Study: Foods CONTAMINATED with toxic substances cause more than 13,000 CANCER cases each year in the U.S.](https://www.naturalnews.com/2023-12-20-foods-contaminated-toxic-substances-cause-13000-cancer-cases.html) | Naturalnews.com | 2023-12-20 |
 | [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
 | [The Intersection Of Social Influencers And Healthcare](https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/03/the-intersection-of-social-influencers-and-healthcare/) | Forbes | 2024-01-03 |
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
-| [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
 
