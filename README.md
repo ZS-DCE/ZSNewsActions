@@ -24,11 +24,11 @@
 | [Weight-loss drugs will remain out of reach for millions in 2024 as employers and insurance companies reduce coverage](https://www.businessinsider.com/weight-loss-drug-insurance-coverage-access-employer-2023-12) | Business Insider | 2023-12-30 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
-| [AI could end up being more risky than profitable if we’re not careful](https://www.marketwatch.com/story/ai-could-end-up-being-more-risky-than-profitable-if-were-not-careful-e7a37ba3) | MarketWatch | 2023-12-18 |
 | [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/?utm_source=feed) | The Atlantic | 2024-01-17 |
 | [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
+| [A Damp Start to the New Year](https://www.theatlantic.com/newsletters/archive/2024/01/a-damp-start-to-the-new-year/677045/?utm_source=feed) | The Atlantic | 2024-01-05 |
 
 ## News for Life Sciences
 
@@ -42,8 +42,8 @@
 | [Why you shouldn't be scared of spiders, according to a biology professor](https://www.businessinsider.com/why-you-should-not-be-scared-spiders-arachnophobia-expert-2023-12) | Business Insider | 2023-12-30 |
 | [Protecting newborns: Research lays the groundwork for a lifesaving vaccine](https://www.sciencedaily.com/releases/2024/01/240109121112.htm) | Science Daily | 2024-01-09 |
 | [Warren Buffett's gift of 1.5 million Berkshire Hathaway shares was the biggest donation of the year](https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-donation-biggest-charity-gift-2024-1) | Business Insider | 2024-01-02 |
-| [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
 | [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
+| [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
 | [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/) | Eukaryotewritesblog.com | 2024-01-07 |
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
 | [What It’s Like to Be an Owl: The Strange Science of Seeing with Sound](https://www.themarginalian.org/2023/12/24/owls-auditory-map/) | Themarginalian.org | 2023-12-24 |
@@ -70,8 +70,6 @@
 | [Movano’s smart ring is the rare CES health gadget that will actually ship](https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024) | The Verge | 2024-01-09 |
 | [Future smartphones might never need charging again thanks to this battery](https://www.androidcentral.com/phones/betavolt-technology-developing-radionuclide-battery) | Android Central | 2024-01-12 |
 | [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
-| [NHS to begin delivering critical medical supplies by drone](https://thenextweb.com/news/nhs-to-begin-delivering-critical-medical-supplies-by-drone) | The Next Web | 2023-12-18 |
-| [Apple to halt sales of latest smartwatches over patent dispute](https://abcnews.go.com/Business/apple-halt-sales-latest-smartwatches-patent-dispute/story?id=105744425) | ABC News | 2023-12-18 |
 | [AEDs are being increasingly mandated across the US, but bystanders aren't using them](https://abcnews.go.com/Health/lifesaving-aeds-increasingly-mandated-bystanders-not-using/story?id=106260242) | ABC News | 2024-01-10 |
 | [Apple To Stop Some Watch Sales In U.S. Over Patent Dispute](https://www.huffpost.com/entry/apple-stops-watch-sales_n_658192dfe4b0e142c0bf41c7) | HuffPost | 2023-12-19 |
 | [Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor) | Slashdot.org | 2024-01-18 |
@@ -88,7 +86,9 @@
 | [Apple Watch Series 9 and Ultra 2 Available in Apple Stores Starting Today, Online Sales to Resume Tomorrow](https://www.macrumors.com/2023/12/27/apple-watch-available-in-stores-today/) | MacRumors | 2023-12-27 |
 | [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
-| [7 Amazon retail stumbles, from grocery delivery to clothing stores](https://www.businessinsider.com/amazon-failures-at-retail-fresh-grocery-style-fashion-2023-12) | Business Insider | 2023-12-19 |
+| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
+| [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
+| [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
 
 ## News for Healthcare Sector
 
@@ -107,6 +107,7 @@
 | [Cybersecurity jobs: The highest salary roles in the US](https://readwrite.com/cybersecurity-jobs-the-highest-salary-roles-in-the-us/) | ReadWrite | 2024-01-01 |
 | [How digital healthcare in Turkey could improve efficiency and outcomes](https://www.mckinsey.com/industries/healthcare/our-insights/how-digital-healthcare-in-turkey-could-improve-efficiency-and-outcomes) | Mckinsey.com | 2023-12-21 |
 | [What to expect if you want to switch jobs in 2024](https://www.businessinsider.com/economic-outlook-recession-forecast-job-hiring-expectations-inflation-soft-landing-2024-1) | Business Insider | 2024-01-01 |
+| [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [3 Best Healthcare Stocks For 2024](https://www.forbes.com/sites/investor-hub/article/best-healthcare-stocks-2024/) | Forbes | 2023-12-21 |
 | [Private equity ownership is bad for a hospital's health](https://qz.com/private-equity-ownership-is-bad-for-a-hospitals-health-1851125656) | Quartz India | 2023-12-28 |
 | [Workers protest in Indonesia after blast at Chinese-funded nickel plant](https://www.aljazeera.com/news/2023/12/27/workers-protest-in-indonesia-after-blast-at-chinese-funded-nickel-plant) | Al Jazeera English | 2023-12-27 |
@@ -118,7 +119,6 @@
 | [18 Business Ideas for Nurses](https://smallbiztrends.com/2024/01/business-ideas-for-nurses.html) | Small Business Trends | 2024-01-03 |
 | [2024 Healthcare Cybersecurity: Mastering The Fundamentals](https://www.forbes.com/sites/davidchou/2023/12/29/2024-healthcare-cybersecurity-mastering-the-fundamentals/) | Forbes | 2023-12-29 |
 | [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
-| [Healthcare Interoperability Considerations We Can’t Ignore In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/01/03/healthcare-interoperability-considerations-we-cant-ignore-in-2024/) | Forbes | 2024-01-03 |
 
 ## News for Pharma Market Trends
 
@@ -127,7 +127,6 @@
 | [Five obesity-drug trends to watch in 2024: Who can compete with Eli Lilly and Novo Nordisk?](https://www.marketwatch.com/story/five-obesity-drug-trends-to-watch-in-2024-who-can-compete-with-eli-lilly-and-novo-nordisk-1dc62a7d) | MarketWatch | 2023-12-20 |
 | [These unsung stock market heroes offer 9 favorite picks for 2024](https://www.marketwatch.com/story/these-unsung-stock-market-heroes-offer-9-favorite-picks-for-2024-7eea2a49) | MarketWatch | 2023-12-21 |
 | [Five Major Themes From The 2024 JP Morgan Healthcare Conference](https://www.forbes.com/sites/juergeneckhardt/2024/01/16/five-major-themes-from-the-2024-jp-morgan-healthcare-conference/) | Forbes | 2024-01-16 |
-| [Moneycontrol Pro Panorama | A pause for breath?Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-a-pause-for-breath-11921241.html) | Moneycontrol | 2023-12-18 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [Mid-day Mood | Profit booking seeps in as indices trade in red; pharma stocks shine](https://www.moneycontrol.com/news/business/markets/mid-day-mood-profit-booking-seeps-in-as-indices-trade-in-red-pharma-stocks-shine-11986201.html) | Moneycontrol | 2024-01-02 |
 | [Non-tech industries can offer job security to tech talent right now](https://www.techspot.com/news/101551-non-tech-industries-can-offer-job-security-tech.html) | TechSpot | 2024-01-17 |
@@ -138,7 +137,6 @@
 | [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
 | [Transcript: Stephen Suttmeier](https://ritholtz.com/2023/12/transcript-stephen-suttmeier/) | Ritholtz.com | 2023-12-26 |
 | [Mid-day Mood | Sensex, Nifty inch higher amid positive global cues; IT stocks in focus](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-inch-higher-amid-positive-global-cues-it-stocks-in-focus-12033281.html) | Moneycontrol | 2024-01-11 |
-| [Japan approves world’s first self-amplifying mRNA COVID-19 vaccine without any supporting SAFETY DATA](https://www.naturalnews.com/2023-12-19-japan-approves-self-amplifying-mrna-covid-vaccine.html) | Naturalnews.com | 2023-12-19 |
 | [Daily Voice | This fund manager sees another 10% upside in market, bets on domestic tourism](https://www.moneycontrol.com/news/business/markets/daily-voice-this-fund-manager-sees-another-10-upside-in-market-bets-on-domestic-tourism-12057651.html) | Moneycontrol | 2024-01-16 |
 | [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
 | [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
@@ -149,6 +147,8 @@
 | [Forbes Daily: A Fight To Stop Dangerous Fakes Of Weight Loss Drug Wegovy](https://www.forbes.com/sites/forbesdaily/2023/12/19/forbes-daily-a-fight-to-stop-dangerous-fakes-of-weight-loss-drug-wegovy/) | Forbes | 2023-12-19 |
 | [Buzzing Stocks: LT Finance, RBL Bank, Lupin, Grasim, Dabur, Utkarsh SFB, others in news](https://www.moneycontrol.com/news/photos/business/stocks/buzzing-stocks-lt-finance-rbl-bank-lupin-grasim-dabur-utkarsh-sfb-others-in-news-12001211.html) | Moneycontrol | 2024-01-05 |
 | [6 Stocks And 1 ETF That Benefit From Ozempic's Popularity](https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/) | Forbes | 2024-01-16 |
+| [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
+| [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
 
 ## News for FDA Regulations
 
