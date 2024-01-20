@@ -143,12 +143,12 @@
 | [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
 | [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
 | [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
+| [Morning market: BSE Sensex up by 600 pts, Nifty 50 at 21,600 level](https://www.thehindubusinessline.com/markets/morning-market-bse-sensex-up-by-600-pts-nifty-50-at-21600-level/article67755034.ece) | BusinessLine | 2024-01-19 |
 | [Mid-day Mood | Indices recover from early losses amid gains in financial stocks, IT sees profit-booking](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-recover-from-early-losses-amid-gains-in-financial-stocks-it-sees-profit-booking-12059501.html) | Moneycontrol | 2024-01-16 |
 | [We are most excited about ânewness themeâ right now: Union Mutual Fundâs Harshad Patwardhan](https://www.moneycontrol.com/news/business/markets/we-are-most-excited-about-newness-theme-right-now-union-mutual-funds-harshad-patwardhan-11918481.html) | Moneycontrol | 2023-12-20 |
 | [Forbes Daily: A Fight To Stop Dangerous Fakes Of Weight Loss Drug Wegovy](https://www.forbes.com/sites/forbesdaily/2023/12/19/forbes-daily-a-fight-to-stop-dangerous-fakes-of-weight-loss-drug-wegovy/) | Forbes | 2023-12-19 |
 | [Buzzing Stocks: LT Finance, RBL Bank, Lupin, Grasim, Dabur, Utkarsh SFB, others in news](https://www.moneycontrol.com/news/photos/business/stocks/buzzing-stocks-lt-finance-rbl-bank-lupin-grasim-dabur-utkarsh-sfb-others-in-news-12001211.html) | Moneycontrol | 2024-01-05 |
 | [6 Stocks And 1 ETF That Benefit From Ozempic's Popularity](https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/) | Forbes | 2024-01-16 |
-| [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
 
 ## News for FDA Regulations
 
