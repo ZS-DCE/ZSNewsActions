@@ -68,6 +68,7 @@
 | [Apple is selling its contested Watch models again after import ban pause](https://www.engadget.com/apple-is-selling-its-contested-watch-models-again-after-import-ban-pause-193824245.html) | Engadget | 2023-12-28 |
 | [Trend of the Week: Tech Gets Horny at CES](https://gizmodo.com/trend-of-the-week-tech-gets-horny-at-ces-1851164305) | Gizmodo.com | 2024-01-15 |
 | [Movano’s smart ring is the rare CES health gadget that will actually ship](https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024) | The Verge | 2024-01-09 |
+| [Apple Details Using Vision Pro With Certain Medical Conditions](https://www.macrumors.com/2024/01/19/vision-pro-medical-conditions/) | MacRumors | 2024-01-19 |
 | [Future smartphones might never need charging again thanks to this battery](https://www.androidcentral.com/phones/betavolt-technology-developing-radionuclide-battery) | Android Central | 2024-01-12 |
 | [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [AEDs are being increasingly mandated across the US, but bystanders aren't using them](https://abcnews.go.com/Health/lifesaving-aeds-increasingly-mandated-bystanders-not-using/story?id=106260242) | ABC News | 2024-01-10 |
@@ -88,7 +89,6 @@
 | [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
-| [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
 
 ## News for Healthcare Sector
 
@@ -96,6 +96,7 @@
 | ----- | ------ | --------- |
 | [The DOJ says it disrupted the Blackcat ransomware group](https://www.engadget.com/the-doj-says-it-disrupted-the-blackcat-ransomware-group-174755936.html) | Engadget | 2023-12-19 |
 | [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
+| [The case for healthcare stocks](https://www.marketwatch.com/story/the-case-for-healthcare-stocks-72f5f58c) | MarketWatch | 2024-01-19 |
 | [Pharma giants are hiking prices on over 500 drugs for 2024, report says](https://www.businessinsider.com/big-pharma-hiking-prices-on-500-drugs-in-2024-report-2024-1) | Business Insider | 2024-01-02 |
 | [Here’s a ‘solid contrarian idea’ for 2024, according to BTIG’s Krinsky](https://www.marketwatch.com/story/heres-a-solid-contrarian-idea-for-2024-according-to-btigs-krinsky-32a86261) | MarketWatch | 2023-12-28 |
 | [Asia's green path](https://www.businessinsider.com/sc/southeast-asia-commitment-to-sustainability-advancements-sunway-city) | Business Insider | 2024-01-12 |
@@ -118,7 +119,6 @@
 | [A guide to navigating the next-generation robotics wave](https://thenextweb.com/news/guide-next-generation-robotics-wave) | The Next Web | 2023-12-20 |
 | [18 Business Ideas for Nurses](https://smallbiztrends.com/2024/01/business-ideas-for-nurses.html) | Small Business Trends | 2024-01-03 |
 | [2024 Healthcare Cybersecurity: Mastering The Fundamentals](https://www.forbes.com/sites/davidchou/2023/12/29/2024-healthcare-cybersecurity-mastering-the-fundamentals/) | Forbes | 2023-12-29 |
-| [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
 
 ## News for Pharma Market Trends
 
@@ -172,11 +172,11 @@
 | [The promise of generative AI depends on precise regulation](https://betanews.com/2024/01/03/generative-ai-precise-regulation/) | BetaNews | 2024-01-03 |
 | [FDA Authorizes Florida’s Drug Importation Program](https://www.fda.gov/news-events/press-announcements/fda-authorizes-floridas-drug-importation-program) | FDA.gov | 2024-01-05 |
 | [More Than 500,000 Beds Recalled For Breaking And Causing Injuries](https://www.forbes.com/sites/jamesfarrell/2024/01/18/more-than-500000-beds-recalled-for-breaking-and-causing-injuries/) | Forbes | 2024-01-18 |
+| [Placebo Effects and Direct-to-Consumer Advertising](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202401/placebo-effects-and-direct-to-consumer-advertising) | Psychology Today | 2024-01-19 |
 | [How to Start a Crawfish Farm](https://smallbiztrends.com/2023/12/crawfish-farm.html) | Small Business Trends | 2023-12-22 |
 | [We Should Test Generic Drugs To Assure Safety. The FDA Hates The Idea](https://www.forbes.com/sites/arthurkellermann/2024/01/10/we-should-test-generic-drugs-to-assure-safety-the-fda-hates-the-idea/) | Forbes | 2024-01-10 |
 | [Editorial: This Supreme Court decision should be easy — keep medication abortion accessible](https://www.latimes.com/opinion/story/2023-12-22/editorial-this-supreme-court-decision-should-be-easy-keep-medication-abortion-accessible) | Los Angeles Times | 2023-12-22 |
 | [Supreme Court ruling on use of abortion pill could impact November elections](https://www.naturalnews.com/2024-01-18-supreme-court-abortion-pill-ruling-affect-elections.html) | Naturalnews.com | 2024-01-18 |
 | [Study: Foods CONTAMINATED with toxic substances cause more than 13,000 CANCER cases each year in the U.S.](https://www.naturalnews.com/2023-12-20-foods-contaminated-toxic-substances-cause-13000-cancer-cases.html) | Naturalnews.com | 2023-12-20 |
 | [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
-| [The Intersection Of Social Influencers And Healthcare](https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/03/the-intersection-of-social-influencers-and-healthcare/) | Forbes | 2024-01-03 |
 
