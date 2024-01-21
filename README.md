@@ -72,7 +72,6 @@
 | [Future smartphones might never need charging again thanks to this battery](https://www.androidcentral.com/phones/betavolt-technology-developing-radionuclide-battery) | Android Central | 2024-01-12 |
 | [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [AEDs are being increasingly mandated across the US, but bystanders aren't using them](https://abcnews.go.com/Health/lifesaving-aeds-increasingly-mandated-bystanders-not-using/story?id=106260242) | ABC News | 2024-01-10 |
-| [Apple To Stop Some Watch Sales In U.S. Over Patent Dispute](https://www.huffpost.com/entry/apple-stops-watch-sales_n_658192dfe4b0e142c0bf41c7) | HuffPost | 2023-12-19 |
 | [Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor) | Slashdot.org | 2024-01-18 |
 | [Apple Watch pulled from shelves over patent ruling](https://boingboing.net/2023/12/22/last-chance-to-get-a-high-end-apple-watch-before-theyre-pulled-from-shelves-over-patent-ruling.html) | Boing Boing | 2023-12-22 |
 | [Apple Says Vision Pro Does Not Support Hard Contact Lenses](https://www.macrumors.com/2024/01/19/apple-says-vision-pro-no-hard-contact-lenses/) | MacRumors | 2024-01-19 |
@@ -89,12 +88,12 @@
 | [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
+| [Apple halts sales of Apple Watch Series 9 and Ultra 2 amid patent dispute](https://readwrite.com/apple-halts-sales-of-apple-watch-series-9-and-ultra-2-amid-patent-dispute/) | ReadWrite | 2023-12-22 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [The DOJ says it disrupted the Blackcat ransomware group](https://www.engadget.com/the-doj-says-it-disrupted-the-blackcat-ransomware-group-174755936.html) | Engadget | 2023-12-19 |
 | [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
 | [The case for healthcare stocks](https://www.marketwatch.com/story/the-case-for-healthcare-stocks-72f5f58c) | MarketWatch | 2024-01-19 |
 | [Pharma giants are hiking prices on over 500 drugs for 2024, report says](https://www.businessinsider.com/big-pharma-hiking-prices-on-500-drugs-in-2024-report-2024-1) | Business Insider | 2024-01-02 |
@@ -119,6 +118,7 @@
 | [A guide to navigating the next-generation robotics wave](https://thenextweb.com/news/guide-next-generation-robotics-wave) | The Next Web | 2023-12-20 |
 | [18 Business Ideas for Nurses](https://smallbiztrends.com/2024/01/business-ideas-for-nurses.html) | Small Business Trends | 2024-01-03 |
 | [2024 Healthcare Cybersecurity: Mastering The Fundamentals](https://www.forbes.com/sites/davidchou/2023/12/29/2024-healthcare-cybersecurity-mastering-the-fundamentals/) | Forbes | 2023-12-29 |
+| [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
 
 ## News for Pharma Market Trends
 
@@ -143,12 +143,12 @@
 | [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
 | [Morning market: BSE Sensex up by 600 pts, Nifty 50 at 21,600 level](https://www.thehindubusinessline.com/markets/morning-market-bse-sensex-up-by-600-pts-nifty-50-at-21600-level/article67755034.ece) | BusinessLine | 2024-01-19 |
 | [Mid-day Mood | Indices recover from early losses amid gains in financial stocks, IT sees profit-booking](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-recover-from-early-losses-amid-gains-in-financial-stocks-it-sees-profit-booking-12059501.html) | Moneycontrol | 2024-01-16 |
-| [We are most excited about ânewness themeâ right now: Union Mutual Fundâs Harshad Patwardhan](https://www.moneycontrol.com/news/business/markets/we-are-most-excited-about-newness-theme-right-now-union-mutual-funds-harshad-patwardhan-11918481.html) | Moneycontrol | 2023-12-20 |
-| [Forbes Daily: A Fight To Stop Dangerous Fakes Of Weight Loss Drug Wegovy](https://www.forbes.com/sites/forbesdaily/2023/12/19/forbes-daily-a-fight-to-stop-dangerous-fakes-of-weight-loss-drug-wegovy/) | Forbes | 2023-12-19 |
 | [Buzzing Stocks: LT Finance, RBL Bank, Lupin, Grasim, Dabur, Utkarsh SFB, others in news](https://www.moneycontrol.com/news/photos/business/stocks/buzzing-stocks-lt-finance-rbl-bank-lupin-grasim-dabur-utkarsh-sfb-others-in-news-12001211.html) | Moneycontrol | 2024-01-05 |
 | [6 Stocks And 1 ETF That Benefit From Ozempic's Popularity](https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/) | Forbes | 2024-01-16 |
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
+| [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
+| [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
 
 ## News for FDA Regulations
 
@@ -177,6 +177,6 @@
 | [We Should Test Generic Drugs To Assure Safety. The FDA Hates The Idea](https://www.forbes.com/sites/arthurkellermann/2024/01/10/we-should-test-generic-drugs-to-assure-safety-the-fda-hates-the-idea/) | Forbes | 2024-01-10 |
 | [Editorial: This Supreme Court decision should be easy — keep medication abortion accessible](https://www.latimes.com/opinion/story/2023-12-22/editorial-this-supreme-court-decision-should-be-easy-keep-medication-abortion-accessible) | Los Angeles Times | 2023-12-22 |
 | [Supreme Court ruling on use of abortion pill could impact November elections](https://www.naturalnews.com/2024-01-18-supreme-court-abortion-pill-ruling-affect-elections.html) | Naturalnews.com | 2024-01-18 |
-| [Study: Foods CONTAMINATED with toxic substances cause more than 13,000 CANCER cases each year in the U.S.](https://www.naturalnews.com/2023-12-20-foods-contaminated-toxic-substances-cause-13000-cancer-cases.html) | Naturalnews.com | 2023-12-20 |
 | [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
+| [The Intersection Of Social Influencers And Healthcare](https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/03/the-intersection-of-social-influencers-and-healthcare/) | Forbes | 2024-01-03 |
 
