@@ -114,8 +114,8 @@
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [18 Business Ideas for Nurses](https://smallbiztrends.com/2024/01/business-ideas-for-nurses.html) | Small Business Trends | 2024-01-03 |
 | [2024 Healthcare Cybersecurity: Mastering The Fundamentals](https://www.forbes.com/sites/davidchou/2023/12/29/2024-healthcare-cybersecurity-mastering-the-fundamentals/) | Forbes | 2023-12-29 |
-| [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
 | [Healthcare Interoperability Considerations We Can’t Ignore In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/01/03/healthcare-interoperability-considerations-we-cant-ignore-in-2024/) | Forbes | 2024-01-03 |
+| [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
 | [IIT Kanpur files ‘record-breaking’ 122 IPRs in 2023](https://indianexpress.com/article/education/iit-kanpur-files-record-breaking-122-iprs-in-2023-9093135/) | The Indian Express | 2024-01-03 |
 | [How To Identify The Best MDM Solution for Your Business](https://www.noupe.com/business-online/how-to-identify-the-best-mdm-solution-for-your-business.html) | Noupe.com | 2024-01-15 |
 | [InnovationRx: TikTok’s Parent Company Is Moving Into Pharma](https://www.forbes.com/sites/katiejennings/2024/01/03/innovationrx-tiktoks-parent-company-is-moving-into-pharma/) | Forbes | 2024-01-03 |
