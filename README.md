@@ -128,6 +128,7 @@
 | [Nifty on a strong base, to maintain bullish trend: Analysts](https://economictimes.indiatimes.com/markets/stocks/news/nifty-on-a-strong-base-to-maintain-bullish-trend-analysts/articleshow/107064299.cms) | The Times of India | 2024-01-23 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [Mid-day Mood | Profit booking seeps in as indices trade in red; pharma stocks shine](https://www.moneycontrol.com/news/business/markets/mid-day-mood-profit-booking-seeps-in-as-indices-trade-in-red-pharma-stocks-shine-11986201.html) | Moneycontrol | 2024-01-02 |
+| [Mid-day Mood | Indices erase early gains; banks, FMCG, metals a drag](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-erase-early-gains-banks-fmcg-metals-a-drag-12106891.html) | Moneycontrol | 2024-01-23 |
 | [Non-tech industries can offer job security to tech talent right now](https://www.techspot.com/news/101551-non-tech-industries-can-offer-job-security-tech.html) | TechSpot | 2024-01-17 |
 | [Pharma riding on strong tailwinds into 2024](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/pharma-riding-on-strong-tailwinds-into-2024/article67759028.ece) | BusinessLine | 2024-01-20 |
 | [How modern media companies are organizing their sales operations](http://digiday.com/media/how-modern-media-companies-are-organizing-their-sales-operations/) | Digiday | 2023-12-28 |
@@ -148,7 +149,6 @@
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
 | [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
 | [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
-| [Dilip Shanghvi Net Worth – How Much is Dilip Shanghvi Worth?](https://zacjohnson.com/dilip-shanghvi-net-worth-3/) | Zacjohnson.com | 2024-01-18 |
 
 ## News for FDA Regulations
 
