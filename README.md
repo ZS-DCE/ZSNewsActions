@@ -15,7 +15,9 @@
 | [Large-scale mapping of pig genes could lead to greener agriculture, pave the way for new human medicines](https://phys.org/news/2024-01-large-scale-pig-genes-greener.html) | Phys.Org | 2024-01-09 |
 | [Nvidia dives deeper into AI drug development with Amgen, Recursion partnerships](https://www.marketwatch.com/story/nvidia-dives-deeper-into-ai-drug-development-with-amgen-recursion-partnerships-de481c8b) | MarketWatch | 2024-01-08 |
 | [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/) | Growbyginkgo.com | 2024-01-10 |
+| [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/e523290ec8a1c2ba) | Biztoc.com | 2024-01-23 |
 | [Tech’s biggest losers in 2023](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b5933dc-e752-40c3-8cfb-14f48bbacac0) | Yahoo Entertainment | 2023-12-29 |
+| [Martin Shkreli's lifetime drug industry ban is upheld](https://finance.yahoo.com/news/martin-shkrelis-lifetime-drug-industry-155427290.html) | Yahoo Entertainment | 2024-01-23 |
 | [AI and robots join forces to cook up proteins faster](https://www.theregister.com/2024/01/15/ai_robot_protein_engineering/) | Theregister.com | 2024-01-15 |
 | [Medicare drug price negotiations hit critical phase](https://www.marketwatch.com/story/medicare-drug-price-negotiations-hit-critical-phase-1f52a7e2) | MarketWatch | 2024-01-18 |
 | [Weight-loss drugs will remain out of reach for millions in 2024 as employers and insurance companies reduce coverage](https://www.businessinsider.com/weight-loss-drug-insurance-coverage-access-employer-2023-12) | Business Insider | 2023-12-30 |
@@ -27,8 +29,6 @@
 | [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
-| [A Damp Start to the New Year](https://www.theatlantic.com/newsletters/archive/2024/01/a-damp-start-to-the-new-year/677045/?utm_source=feed) | The Atlantic | 2024-01-05 |
-| [From Vision to Action: Pfizer’s R Adoption Odyssey – Join the Webinar on February 8, 2024](https://www.r-bloggers.com/2024/01/from-vision-to-action-pfizers-r-adoption-odyssey-join-the-webinar-on-february-8-2024/) | R-bloggers.com | 2024-01-12 |
 
 ## News for Life Sciences
 
@@ -43,6 +43,7 @@
 | [Why you shouldn't be scared of spiders, according to a biology professor](https://www.businessinsider.com/why-you-should-not-be-scared-spiders-arachnophobia-expert-2023-12) | Business Insider | 2023-12-30 |
 | [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life) | Andreinc.net | 2024-01-21 |
 | [Protecting newborns: Research lays the groundwork for a lifesaving vaccine](https://www.sciencedaily.com/releases/2024/01/240109121112.htm) | Science Daily | 2024-01-09 |
+| [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [Warren Buffett's gift of 1.5 million Berkshire Hathaway shares was the biggest donation of the year](https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-donation-biggest-charity-gift-2024-1) | Business Insider | 2024-01-02 |
 | [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
 | [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
@@ -58,7 +59,6 @@
 | [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
 | [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
 | [New technology for conducting deep-sea research on fragile organisms](https://www.sciencedaily.com/releases/2024/01/240117141005.htm) | Science Daily | 2024-01-17 |
-| [Reese Witherspoon Hits Back At Everyone Grossed Out By Snow-Eating Video](https://www.huffpost.com/entry/reese-witherspoon-snow-eating-video_n_65abf138e4b00bbb446f5687) | HuffPost | 2024-01-20 |
 
 ## News for Medical Devices
 
