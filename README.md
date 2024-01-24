@@ -4,7 +4,6 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
 | [Isomorphic Labs partners with pharmaceutical firms for AI-driven drug discovery](https://readwrite.com/isomorphic-labs-partners-with-pharmaceutical-firms-for-ai-driven-drug-discovery/) | ReadWrite | 2024-01-08 |
 | [FDA Issues First Approval for Mass Drug Imports To States From Canada](https://news.slashdot.org/story/24/01/05/1714223/fda-issues-first-approval-for-mass-drug-imports-to-states-from-canada) | Slashdot.org | 2024-01-05 |
 | [Big Pharma to raise US list prices of 500 drugs in January: Report](https://arstechnica.com/health/2024/01/big-pharma-to-raise-us-list-prices-of-500-drugs-in-january-report/) | Ars Technica | 2024-01-02 |
@@ -13,7 +12,6 @@
 | [Florida is about to get cheaper prescription drugs thanks to Canada](https://www.businessinsider.com/florida-cheaper-prescription-drugs-canada-fda-approval-2024-1) | Business Insider | 2024-01-05 |
 | [Generative AI in the pharmaceutical industry: Moving from hype to reality](https://www.mckinsey.com/industries/life-sciences/our-insights/generative-ai-in-the-pharmaceutical-industry-moving-from-hype-to-reality) | Mckinsey.com | 2024-01-09 |
 | [What to know about January's annual drug price hikes](https://www.npr.org/sections/health-shots/2024/01/17/1225083485/what-to-know-about-januarys-annual-drug-price-hikes) | NPR | 2024-01-17 |
-| [Biotech stocks set for a rebound in 2024, analysts say](https://www.marketwatch.com/story/biotech-stocks-set-for-a-rebound-in-2024-analysts-say-24df6236) | MarketWatch | 2023-12-22 |
 | [Large-scale mapping of pig genes could lead to greener agriculture, pave the way for new human medicines](https://phys.org/news/2024-01-large-scale-pig-genes-greener.html) | Phys.Org | 2024-01-09 |
 | [Nvidia dives deeper into AI drug development with Amgen, Recursion partnerships](https://www.marketwatch.com/story/nvidia-dives-deeper-into-ai-drug-development-with-amgen-recursion-partnerships-de481c8b) | MarketWatch | 2024-01-08 |
 | [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/) | Growbyginkgo.com | 2024-01-10 |
@@ -29,6 +27,8 @@
 | [In 2023 fentanyl overdoses ravaged the U.S. and fueled a new culture war fight](https://www.npr.org/2023/12/28/1220881380/overdose-fentanyl-drugs-addiction) | NPR | 2023-12-28 |
 | [The 2024 Outlook For Global Pharma: A Look Ahead](https://www.forbes.com/sites/ritanumerof/2023/12/28/the-2024-outlook-for-global-pharma-a-look-ahead/) | Forbes | 2023-12-28 |
 | [Could we make milk from CO2 and electricity?](https://www.springwise.com/innovation/food-drink/making-milk-from-co2-and-electricity/) | Springwise.com | 2024-01-02 |
+| [A Damp Start to the New Year](https://www.theatlantic.com/newsletters/archive/2024/01/a-damp-start-to-the-new-year/677045/?utm_source=feed) | The Atlantic | 2024-01-05 |
+| [From Vision to Action: Pfizer’s R Adoption Odyssey – Join the Webinar on February 8, 2024](https://www.r-bloggers.com/2024/01/from-vision-to-action-pfizers-r-adoption-odyssey-join-the-webinar-on-february-8-2024/) | R-bloggers.com | 2024-01-12 |
 
 ## News for Life Sciences
 
@@ -74,10 +74,8 @@
 | [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [AEDs are being increasingly mandated across the US, but bystanders aren't using them](https://abcnews.go.com/Health/lifesaving-aeds-increasingly-mandated-bystanders-not-using/story?id=106260242) | ABC News | 2024-01-10 |
 | [Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor) | Slashdot.org | 2024-01-18 |
-| [Apple Watch pulled from shelves over patent ruling](https://boingboing.net/2023/12/22/last-chance-to-get-a-high-end-apple-watch-before-theyre-pulled-from-shelves-over-patent-ruling.html) | Boing Boing | 2023-12-22 |
 | [Apple Says Vision Pro Does Not Support Hard Contact Lenses](https://www.macrumors.com/2024/01/19/apple-says-vision-pro-no-hard-contact-lenses/) | MacRumors | 2024-01-19 |
 | [The MouthPad turns your tongue into a mouse for your phone](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_54613a72-ca87-4fee-96a8-979b84a1ebb7) | Yahoo Entertainment | 2024-01-11 |
-| [Android: How to share your health details during an emergency call](https://www.androidpolice.com/android-send-medical-data-emrgency-services-911/) | Android Police | 2023-12-22 |
 | [Masimo CEO: Apple Watch Blood Oxygen Sensor is Not Reliable, Customers Are 'Better Off Without It'](https://www.macrumors.com/2024/01/18/masimo-ceo-apple-blood-oxygen-sensor-unreliable/) | MacRumors | 2024-01-18 |
 | [The best of CES 2024](https://www.engadget.com/the-best-of-ces-2024-220054009.html) | Engadget | 2024-01-11 |
 | [You can help Google with its latest Fitbit study on metabolic health](https://www.androidcentral.com/wearables/google-fitbit-wear-me-study) | Android Central | 2024-01-18 |
@@ -89,12 +87,13 @@
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
 | [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
+| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/27/apple-watch-ban-news/) | 9to5Mac | 2023-12-27 |
+| [Ozempic and other weight-loss drugs’ popularity set these stocks up for big gains](https://www.marketwatch.com/story/ozempic-and-other-weight-loss-drugs-popularity-set-these-stocks-up-for-big-gains-fa2a3f33) | MarketWatch | 2024-01-04 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [AI is helping the healthcare industry and could transform the way patients get drugs and treatments](https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12) | Business Insider | 2023-12-22 |
 | [The case for healthcare stocks](https://www.marketwatch.com/story/the-case-for-healthcare-stocks-72f5f58c) | MarketWatch | 2024-01-19 |
 | [Pharma giants are hiking prices on over 500 drugs for 2024, report says](https://www.businessinsider.com/big-pharma-hiking-prices-on-500-drugs-in-2024-report-2024-1) | Business Insider | 2024-01-02 |
 | [Here’s a ‘solid contrarian idea’ for 2024, according to BTIG’s Krinsky](https://www.marketwatch.com/story/heres-a-solid-contrarian-idea-for-2024-according-to-btigs-krinsky-32a86261) | MarketWatch | 2023-12-28 |
@@ -117,6 +116,7 @@
 | [2024 Healthcare Cybersecurity: Mastering The Fundamentals](https://www.forbes.com/sites/davidchou/2023/12/29/2024-healthcare-cybersecurity-mastering-the-fundamentals/) | Forbes | 2023-12-29 |
 | [Healthcare Interoperability Considerations We Can’t Ignore In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/01/03/healthcare-interoperability-considerations-we-cant-ignore-in-2024/) | Forbes | 2024-01-03 |
 | [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
+| [Healthcare Vendors Race Towards Ambient Technology](https://www.forbes.com/sites/davidchou/2024/01/22/healthcare-vendors-race-towards-ambient-technology/) | Forbes | 2024-01-23 |
 | [IIT Kanpur files ‘record-breaking’ 122 IPRs in 2023](https://indianexpress.com/article/education/iit-kanpur-files-record-breaking-122-iprs-in-2023-9093135/) | The Indian Express | 2024-01-03 |
 | [How To Identify The Best MDM Solution for Your Business](https://www.noupe.com/business-online/how-to-identify-the-best-mdm-solution-for-your-business.html) | Noupe.com | 2024-01-15 |
 
@@ -130,7 +130,6 @@
 | [Mid-day Mood | Profit booking seeps in as indices trade in red; pharma stocks shine](https://www.moneycontrol.com/news/business/markets/mid-day-mood-profit-booking-seeps-in-as-indices-trade-in-red-pharma-stocks-shine-11986201.html) | Moneycontrol | 2024-01-02 |
 | [Non-tech industries can offer job security to tech talent right now](https://www.techspot.com/news/101551-non-tech-industries-can-offer-job-security-tech.html) | TechSpot | 2024-01-17 |
 | [Pharma riding on strong tailwinds into 2024](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/pharma-riding-on-strong-tailwinds-into-2024/article67759028.ece) | BusinessLine | 2024-01-20 |
-| [Mid-day Mood | Benchmarks shrug off correction fears, trade higher; all sectors in green](https://www.moneycontrol.com/news/business/markets/mid-day-mood-benchmarks-shrug-off-correction-fears-trade-higher-all-sectors-in-green-11942881.html) | Moneycontrol | 2023-12-22 |
 | [How modern media companies are organizing their sales operations](http://digiday.com/media/how-modern-media-companies-are-organizing-their-sales-operations/) | Digiday | 2023-12-28 |
 | [Mid-day Mood: Trade remains lacklustre on weak global cues ahead of Q3 earnings show](https://www.moneycontrol.com/news/business/markets/mid-day-mood-trade-remains-lacklustre-on-weak-global-cues-ahead-of-q3-earnings-show-12027861.html) | Moneycontrol | 2024-01-10 |
 | [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
@@ -149,6 +148,7 @@
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
 | [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
 | [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
+| [Dilip Shanghvi Net Worth – How Much is Dilip Shanghvi Worth?](https://zacjohnson.com/dilip-shanghvi-net-worth-3/) | Zacjohnson.com | 2024-01-18 |
 
 ## News for FDA Regulations
 
@@ -165,18 +165,18 @@
 | [FDA Approves Florida Plan to Import Drugs from Canada](https://www.webmd.com/drug-medication/news/20240105/fda-approves-florida-plan-to-import-drugs-from-canada) | WebMD | 2024-01-05 |
 | [How to Start Catfish Farming – What You Need to Know](https://smallbiztrends.com/2023/12/catfish-farming.html) | Small Business Trends | 2023-12-27 |
 | [At trade meet, India seeks more pharma inspections & easier visas, US flags laptop import monitoring](https://indianexpress.com/article/business/at-trade-meet-india-seeks-more-pharma-inspections-easier-visas-us-flags-laptop-import-monitoring-9107316/) | The Indian Express | 2024-01-12 |
-| [Inside the MAGA Plan to Attack Birth Control, Surveil Women and Ban the Abortion Pill](https://www.rollingstone.com/politics/politics-features/maga-plan-attack-birth-control-surveil-women-ban-abortion-pill-1234934807/) | Rolling Stone | 2023-12-22 |
 | [We Absolutely Do Not Need an FDA for AI](https://reason.com/2024/01/01/we-absolutely-do-not-need-an-fda-for-ai/) | Reason | 2023-12-26 |
 | [Florida gets FDA approval to import prescription drugs from Canada in seismic policy shift](https://nypost.com/2024/01/05/business/florida-gets-fda-approval-to-import-prescription-drugs-from-canada/) | New York Post | 2024-01-05 |
 | [The promise of generative AI depends on precise regulation](https://betanews.com/2024/01/03/generative-ai-precise-regulation/) | BetaNews | 2024-01-03 |
 | [FDA Authorizes Florida’s Drug Importation Program](https://www.fda.gov/news-events/press-announcements/fda-authorizes-floridas-drug-importation-program) | FDA.gov | 2024-01-05 |
 | [More Than 500,000 Beds Recalled For Breaking And Causing Injuries](https://www.forbes.com/sites/jamesfarrell/2024/01/18/more-than-500000-beds-recalled-for-breaking-and-causing-injuries/) | Forbes | 2024-01-18 |
 | [Placebo Effects and Direct-to-Consumer Advertising](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202401/placebo-effects-and-direct-to-consumer-advertising) | Psychology Today | 2024-01-19 |
-| [How to Start a Crawfish Farm](https://smallbiztrends.com/2023/12/crawfish-farm.html) | Small Business Trends | 2023-12-22 |
 | [We Should Test Generic Drugs To Assure Safety. The FDA Hates The Idea](https://www.forbes.com/sites/arthurkellermann/2024/01/10/we-should-test-generic-drugs-to-assure-safety-the-fda-hates-the-idea/) | Forbes | 2024-01-10 |
-| [Editorial: This Supreme Court decision should be easy — keep medication abortion accessible](https://www.latimes.com/opinion/story/2023-12-22/editorial-this-supreme-court-decision-should-be-easy-keep-medication-abortion-accessible) | Los Angeles Times | 2023-12-22 |
 | [Supreme Court ruling on use of abortion pill could impact November elections](https://www.naturalnews.com/2024-01-18-supreme-court-abortion-pill-ruling-affect-elections.html) | Naturalnews.com | 2024-01-18 |
 | [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
 | [The Intersection Of Social Influencers And Healthcare](https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/03/the-intersection-of-social-influencers-and-healthcare/) | Forbes | 2024-01-03 |
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
+| [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
+| [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
+| [FDA Clinical Trial Requirements, Regulations, Compliance, and GCP Conference - 03/20/2024](https://www.fda.gov/about-fda/office-bioresearch-monitoring-operations-obimo/fda-clinical-trial-requirements-regulations-compliance-and-gcp-conference-03202024) | FDA.gov | 2023-12-27 |
 
