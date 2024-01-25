@@ -46,8 +46,8 @@
 | [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [The Internet Has Thoughts on Ken Getting an Oscar Nomination Over Barbie](https://time.com/6565502/margot-robbie-ryan-gosling-greta-gerwig-barbie-oscars/) | Time | 2024-01-23 |
 | [Warren Buffett's gift of 1.5 million Berkshire Hathaway shares was the biggest donation of the year](https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-donation-biggest-charity-gift-2024-1) | Business Insider | 2024-01-02 |
-| [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
 | [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
+| [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
 | [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/) | Eukaryotewritesblog.com | 2024-01-07 |
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
 | [What It’s Like to Be an Owl: The Strange Science of Seeing with Sound](https://www.themarginalian.org/2023/12/24/owls-auditory-map/) | Themarginalian.org | 2023-12-24 |
@@ -85,10 +85,10 @@
 | [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
+| [Your next Samsung smartwatch could come with glucose monitoring](https://phandroid.com/2024/01/24/your-next-samsung-smartwatch-could-come-with-glucose-monitoring/) | Phandroid - News for Android | 2024-01-24 |
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
 | [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
-| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/27/apple-watch-ban-news/) | 9to5Mac | 2023-12-27 |
 
 ## News for Healthcare Sector
 
@@ -142,13 +142,13 @@
 | [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
 | [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
 | [Morning market: BSE Sensex up by 600 pts, Nifty 50 at 21,600 level](https://www.thehindubusinessline.com/markets/morning-market-bse-sensex-up-by-600-pts-nifty-50-at-21600-level/article67755034.ece) | BusinessLine | 2024-01-19 |
+| [Opthalmic Topical Therapeutics Market Set to Reach $21.7 Billion by 2030: Santen Pharma, Sun Pharma, and Novartis Dominating via Strategic Alliances, R&D Investments, and New Product Developments](https://www.globenewswire.com/news-release/2024/01/24/2814901/28124/en/Opthalmic-Topical-Therapeutics-Market-Set-to-Reach-21-7-Billion-by-2030-Santen-Pharma-Sun-Pharma-and-Novartis-Dominating-via-Strategic-Alliances-R-D-Investments-and-New-Product-Dev.html) | GlobeNewswire | 2024-01-24 |
 | [Mid-day Mood | Indices recover from early losses amid gains in financial stocks, IT sees profit-booking](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-recover-from-early-losses-amid-gains-in-financial-stocks-it-sees-profit-booking-12059501.html) | Moneycontrol | 2024-01-16 |
 | [Buzzing Stocks: LT Finance, RBL Bank, Lupin, Grasim, Dabur, Utkarsh SFB, others in news](https://www.moneycontrol.com/news/photos/business/stocks/buzzing-stocks-lt-finance-rbl-bank-lupin-grasim-dabur-utkarsh-sfb-others-in-news-12001211.html) | Moneycontrol | 2024-01-05 |
 | [Gelatin Market Expected to Reach $5.7 Billion by 2030, Projection by Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/22/2812697/0/en/Gelatin-Market-Expected-to-Reach-5-7-Billion-by-2030-Projection-by-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-22 |
 | [Bank Nifty in for correction; 2 pharma stocks to buy now: Meghana Malkan](https://economictimes.indiatimes.com/markets/expert-view/bank-nifty-in-for-correction-2-pharma-stocks-to-buy-now-meghana-malkan/articleshow/107077327.cms) | The Times of India | 2024-01-23 |
 | [6 Stocks And 1 ETF That Benefit From Ozempic's Popularity](https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/) | Forbes | 2024-01-16 |
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
-| [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
 
 ## News for FDA Regulations
 
@@ -178,5 +178,5 @@
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
 | [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
 | [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
-| [FDA Clinical Trial Requirements, Regulations, Compliance, and GCP Conference - 03/20/2024](https://www.fda.gov/about-fda/office-bioresearch-monitoring-operations-obimo/fda-clinical-trial-requirements-regulations-compliance-and-gcp-conference-03202024) | FDA.gov | 2023-12-27 |
+| [FDA Clinical Trial Requirements, Regulations, Compliance, and GCP Conference - 06/18/2024](https://www.fda.gov/about-fda/office-bioresearch-monitoring-operations-obimo/fda-clinical-trial-requirements-regulations-compliance-and-gcp-conference-06182024) | FDA.gov | 2023-12-27 |
 
