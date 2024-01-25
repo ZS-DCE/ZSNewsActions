@@ -56,9 +56,9 @@
 | [Learn How AI Expands Life Sciences Growth Potential](https://www.forbes.com/sites/sap/2024/01/19/learn-how-ai-expands-life-sciences-growth-potential/) | Forbes | 2024-01-19 |
 | [Boston Biz Journal reporter Green switches to life sciences beat](https://biztoc.com/x/2a6dd211a5eafc31) | Biztoc.com | 2024-01-09 |
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
+| [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
 | [Cryo-microscopy reveals nano-sized copy machine implicated in origin of life](https://phys.org/news/2024-01-cryo-microscopy-reveals-nano-sized.html) | Phys.Org | 2024-01-16 |
 | [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
-| [Bipolar disorder linked to early death](https://www.sciencedaily.com/releases/2024/01/240104210122.htm) | Science Daily | 2024-01-05 |
 
 ## News for Medical Devices
 
@@ -178,5 +178,5 @@
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
 | [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
 | [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
-| [FDA Clinical Trial Requirements, Regulations, Compliance, and GCP Conference - 06/18/2024](https://www.fda.gov/about-fda/office-bioresearch-monitoring-operations-obimo/fda-clinical-trial-requirements-regulations-compliance-and-gcp-conference-06182024) | FDA.gov | 2023-12-27 |
+| [FDA Clinical Trial Requirements, Regulations, Compliance, and GCP Conference - 03/20/2024](https://www.fda.gov/about-fda/office-bioresearch-monitoring-operations-obimo/fda-clinical-trial-requirements-regulations-compliance-and-gcp-conference-03202024) | FDA.gov | 2023-12-27 |
 
