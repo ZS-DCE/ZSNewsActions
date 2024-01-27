@@ -12,6 +12,7 @@
 | [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Florida is about to get cheaper prescription drugs thanks to Canada](https://www.businessinsider.com/florida-cheaper-prescription-drugs-canada-fda-approval-2024-1) | Business Insider | 2024-01-05 |
 | [Generative AI in the pharmaceutical industry: Moving from hype to reality](https://www.mckinsey.com/industries/life-sciences/our-insights/generative-ai-in-the-pharmaceutical-industry-moving-from-hype-to-reality) | Mckinsey.com | 2024-01-09 |
+| [Autonomous synthesis robot uses AI to speed up chemical discovery](https://www.sciencedaily.com/releases/2024/01/240125145938.htm) | Science Daily | 2024-01-25 |
 | [What to know about January's annual drug price hikes](https://www.npr.org/sections/health-shots/2024/01/17/1225083485/what-to-know-about-januarys-annual-drug-price-hikes) | NPR | 2024-01-17 |
 | [Large-scale mapping of pig genes could lead to greener agriculture, pave the way for new human medicines](https://phys.org/news/2024-01-large-scale-pig-genes-greener.html) | Phys.Org | 2024-01-09 |
 | [Nvidia dives deeper into AI drug development with Amgen, Recursion partnerships](https://www.marketwatch.com/story/nvidia-dives-deeper-into-ai-drug-development-with-amgen-recursion-partnerships-de481c8b) | MarketWatch | 2024-01-08 |
@@ -28,7 +29,6 @@
 | [AI And Pharmaceutical Research: A Partnership That Can Save Lives](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/24/ai-and-pharmaceutical-research-a-partnership-that-can-save-lives/) | Forbes | 2024-01-24 |
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
-| [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
 
 ## News for Life Sciences
 
