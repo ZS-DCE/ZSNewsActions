@@ -47,7 +47,6 @@
 | [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [The Internet Has Thoughts on Ken Getting an Oscar Nomination Over Barbie](https://time.com/6565502/margot-robbie-ryan-gosling-greta-gerwig-barbie-oscars/) | Time | 2024-01-23 |
 | [Warren Buffett's gift of 1.5 million Berkshire Hathaway shares was the biggest donation of the year](https://www.businessinsider.com/warren-buffett-berkshire-hathaway-stock-donation-biggest-charity-gift-2024-1) | Business Insider | 2024-01-02 |
-| [People can see what you want to know by shaking wrapped Christmas gifts](https://arstechnica.com/science/2023/12/how-you-shake-that-wrapped-christmas-gift-reveals-what-youre-trying-to-learn/) | Ars Technica | 2023-12-25 |
 | [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
 | [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/) | Eukaryotewritesblog.com | 2024-01-07 |
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
@@ -59,6 +58,7 @@
 | [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
 | [Women exposed to toxic metals may experience earlier aging of their ovaries](https://www.sciencedaily.com/releases/2024/01/240125150035.htm) | Science Daily | 2024-01-25 |
 | [Cryo-microscopy reveals nano-sized copy machine implicated in origin of life](https://phys.org/news/2024-01-cryo-microscopy-reveals-nano-sized.html) | Phys.Org | 2024-01-16 |
+| [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
 
 ## News for Medical Devices
 
@@ -80,15 +80,15 @@
 | [The best of CES 2024](https://www.engadget.com/the-best-of-ces-2024-220054009.html) | Engadget | 2024-01-11 |
 | [Testing Your C Knowledge With This One Simple Quiz](https://hackaday.com/2024/01/23/testing-your-c-knowledge-with-this-one-simple-quiz/) | Hackaday | 2024-01-23 |
 | [You can help Google with its latest Fitbit study on metabolic health](https://www.androidcentral.com/wearables/google-fitbit-wear-me-study) | Android Central | 2024-01-18 |
-| [Apple Watch Import Ban Now Official, Apple Appeals Decision](https://www.macrumors.com/2023/12/26/apple-watch-import-ban-official/) | MacRumors | 2023-12-26 |
 | [Apple Watch Series 9 and Ultra 2 Available in Apple Stores Starting Today, Online Sales to Resume Tomorrow](https://www.macrumors.com/2023/12/27/apple-watch-available-in-stores-today/) | MacRumors | 2023-12-27 |
 | [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [NSA admits to buying Americans’ web browsing data from brokers without warrants](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaefc147-df40-4654-a416-ffa33d5ddcef) | Yahoo Entertainment | 2024-01-26 |
-| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/26/apple-watch-ban-news/) | 9to5Mac | 2023-12-26 |
 | [Your next Samsung smartwatch could come with glucose monitoring](https://phandroid.com/2024/01/24/your-next-samsung-smartwatch-could-come-with-glucose-monitoring/) | Phandroid - News for Android | 2024-01-24 |
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
+| [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
+| [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
 
 ## News for Healthcare Sector
 
@@ -134,8 +134,6 @@
 | [Pharma riding on strong tailwinds into 2024](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/pharma-riding-on-strong-tailwinds-into-2024/article67759028.ece) | BusinessLine | 2024-01-20 |
 | [How modern media companies are organizing their sales operations](http://digiday.com/media/how-modern-media-companies-are-organizing-their-sales-operations/) | Digiday | 2023-12-28 |
 | [Mid-day Mood: Trade remains lacklustre on weak global cues ahead of Q3 earnings show](https://www.moneycontrol.com/news/business/markets/mid-day-mood-trade-remains-lacklustre-on-weak-global-cues-ahead-of-q3-earnings-show-12027861.html) | Moneycontrol | 2024-01-10 |
-| [Mid-day Mood | Indices maintain positive momentum; Nifty hovering around 21,450](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-maintain-positive-momentum-nifty-hovering-around-21450-11956181.html) | Moneycontrol | 2023-12-26 |
-| [Transcript: Stephen Suttmeier](https://ritholtz.com/2023/12/transcript-stephen-suttmeier/) | Ritholtz.com | 2023-12-26 |
 | [Mid-day Mood | Sensex, Nifty inch higher amid positive global cues; IT stocks in focus](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-inch-higher-amid-positive-global-cues-it-stocks-in-focus-12033281.html) | Moneycontrol | 2024-01-11 |
 | [Daily Voice | This fund manager sees another 10% upside in market, bets on domestic tourism](https://www.moneycontrol.com/news/business/markets/daily-voice-this-fund-manager-sees-another-10-upside-in-market-bets-on-domestic-tourism-12057651.html) | Moneycontrol | 2024-01-16 |
 | [Mid-day Mood | Nifty, Sensex slip on mild-profit booking, analysts see upside in 2024](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-slip-on-mild-profit-booking-analysts-see-upside-in-2024-11971981.html) | Moneycontrol | 2023-12-29 |
@@ -149,6 +147,8 @@
 | [Bank Nifty in for correction; 2 pharma stocks to buy now: Meghana Malkan](https://economictimes.indiatimes.com/markets/expert-view/bank-nifty-in-for-correction-2-pharma-stocks-to-buy-now-meghana-malkan/articleshow/107077327.cms) | The Times of India | 2024-01-23 |
 | [6 Stocks And 1 ETF That Benefit From Ozempic's Popularity](https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/) | Forbes | 2024-01-16 |
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
+| [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
+| [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
 
 ## News for FDA Regulations
 
@@ -166,7 +166,6 @@
 | [How to Start Catfish Farming – What You Need to Know](https://smallbiztrends.com/2023/12/catfish-farming.html) | Small Business Trends | 2023-12-27 |
 | [At trade meet, India seeks more pharma inspections & easier visas, US flags laptop import monitoring](https://indianexpress.com/article/business/at-trade-meet-india-seeks-more-pharma-inspections-easier-visas-us-flags-laptop-import-monitoring-9107316/) | The Indian Express | 2024-01-12 |
 | [One-Third Of US Marijuana Users Would Turn To Illegal Market With Marijuana Rescheduling To Pharmacy-Only Sales, Poll Suggests](https://www.forbes.com/sites/dariosabaghi/2024/01/26/one-third-of-us-marijuana-users-would-turn-to-illegal-market-with-marijuana-rescheduling-to-pharmacy-only-sales-poll-suggests/) | Forbes | 2024-01-26 |
-| [We Absolutely Do Not Need an FDA for AI](https://reason.com/2024/01/01/we-absolutely-do-not-need-an-fda-for-ai/) | Reason | 2023-12-26 |
 | [Florida gets FDA approval to import prescription drugs from Canada in seismic policy shift](https://nypost.com/2024/01/05/business/florida-gets-fda-approval-to-import-prescription-drugs-from-canada/) | New York Post | 2024-01-05 |
 | [The promise of generative AI depends on precise regulation](https://betanews.com/2024/01/03/generative-ai-precise-regulation/) | BetaNews | 2024-01-03 |
 | [FDA Authorizes Florida’s Drug Importation Program](https://www.fda.gov/news-events/press-announcements/fda-authorizes-floridas-drug-importation-program) | FDA.gov | 2024-01-05 |
@@ -179,4 +178,5 @@
 | [The Intersection Of Social Influencers And Healthcare](https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/03/the-intersection-of-social-influencers-and-healthcare/) | Forbes | 2024-01-03 |
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
 | [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
+| [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
 
