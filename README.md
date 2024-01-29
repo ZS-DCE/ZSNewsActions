@@ -80,15 +80,15 @@
 | [The best of CES 2024](https://www.engadget.com/the-best-of-ces-2024-220054009.html) | Engadget | 2024-01-11 |
 | [Testing Your C Knowledge With This One Simple Quiz](https://hackaday.com/2024/01/23/testing-your-c-knowledge-with-this-one-simple-quiz/) | Hackaday | 2024-01-23 |
 | [You can help Google with its latest Fitbit study on metabolic health](https://www.androidcentral.com/wearables/google-fitbit-wear-me-study) | Android Central | 2024-01-18 |
-| [Apple Watch Series 9 and Ultra 2 Available in Apple Stores Starting Today, Online Sales to Resume Tomorrow](https://www.macrumors.com/2023/12/27/apple-watch-available-in-stores-today/) | MacRumors | 2023-12-27 |
 | [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [Using static electricity to enhance biomedical implant durability](https://www.sciencedaily.com/releases/2024/01/240105145130.htm) | Science Daily | 2024-01-05 |
 | [NSA admits to buying Americans’ web browsing data from brokers without warrants](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaefc147-df40-4654-a416-ffa33d5ddcef) | Yahoo Entertainment | 2024-01-26 |
 | [Your next Samsung smartwatch could come with glucose monitoring](https://phandroid.com/2024/01/24/your-next-samsung-smartwatch-could-come-with-glucose-monitoring/) | Phandroid - News for Android | 2024-01-24 |
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
-| [Apple in 2023: The Biggest News Stories and Surprises of the Year](https://www.macrumors.com/2023/12/27/the-biggest-apple-news-stories-of-2023/) | MacRumors | 2023-12-28 |
 | [Apple Watch ban news hub: Everything we know right now](https://9to5mac.com/2023/12/28/apple-watch-ban-news/) | 9to5Mac | 2023-12-28 |
+| [Ozempic and other weight-loss drugs’ popularity set these stocks up for big gains](https://www.marketwatch.com/story/ozempic-and-other-weight-loss-drugs-popularity-set-these-stocks-up-for-big-gains-fa2a3f33) | MarketWatch | 2024-01-04 |
+| [Masimo CEO says Apple Watch users better off without blood oxygen feature, calls it unreliable](https://9to5mac.com/2024/01/18/masimo-apple-watch-blood-oxygen/) | 9to5Mac | 2024-01-18 |
 
 ## News for Healthcare Sector
 
@@ -108,7 +108,6 @@
 | [What to expect if you want to switch jobs in 2024](https://www.businessinsider.com/economic-outlook-recession-forecast-job-hiring-expectations-inflation-soft-landing-2024-1) | Business Insider | 2024-01-01 |
 | [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [Private equity ownership is bad for a hospital's health](https://qz.com/private-equity-ownership-is-bad-for-a-hospitals-health-1851125656) | Quartz India | 2023-12-28 |
-| [Workers protest in Indonesia after blast at Chinese-funded nickel plant](https://www.aljazeera.com/news/2023/12/27/workers-protest-in-indonesia-after-blast-at-chinese-funded-nickel-plant) | Al Jazeera English | 2023-12-27 |
 | [The best jobs of 2024, according to Indeed](https://qz.com/best-jobs-2024-indeed-mental-healthcare-1851190781) | Quartz India | 2024-01-24 |
 | [Tech news recap: the biggest stories of 2023](https://readwrite.com/tech-news-recap-the-biggest-stories-of-2023/) | ReadWrite | 2023-12-29 |
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
@@ -119,6 +118,7 @@
 | [UK water giant admits attackers broke into system as gang holds it to ransom](https://www.theregister.com/2024/01/23/southern_water_confirms_cyberattack/) | Theregister.com | 2024-01-23 |
 | [Healthcare Interoperability Considerations We Can’t Ignore In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/01/03/healthcare-interoperability-considerations-we-cant-ignore-in-2024/) | Forbes | 2024-01-03 |
 | [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
+| [Healthcare Vendors Race Towards Ambient Technology](https://www.forbes.com/sites/davidchou/2024/01/22/healthcare-vendors-race-towards-ambient-technology/) | Forbes | 2024-01-23 |
 
 ## News for Pharma Market Trends
 
@@ -163,7 +163,6 @@
 | [Why fears about Biden’s marijuana moves are overblown](https://www.politico.com/news/2024/01/01/biden-marijuana-fda-scheduling-fears-sklamberg-00132890) | Politico | 2024-01-01 |
 | [Agribusiness 2024: A Fresh Look At Upcoming Food Safety Regulations](https://www.forbes.com/sites/sap/2024/01/09/agribusiness-2024-a-fresh-look-at-upcoming-food-safety-regulations/) | Forbes | 2024-01-09 |
 | [FDA Approves Florida Plan to Import Drugs from Canada](https://www.webmd.com/drug-medication/news/20240105/fda-approves-florida-plan-to-import-drugs-from-canada) | WebMD | 2024-01-05 |
-| [How to Start Catfish Farming – What You Need to Know](https://smallbiztrends.com/2023/12/catfish-farming.html) | Small Business Trends | 2023-12-27 |
 | [At trade meet, India seeks more pharma inspections & easier visas, US flags laptop import monitoring](https://indianexpress.com/article/business/at-trade-meet-india-seeks-more-pharma-inspections-easier-visas-us-flags-laptop-import-monitoring-9107316/) | The Indian Express | 2024-01-12 |
 | [One-Third Of US Marijuana Users Would Turn To Illegal Market With Marijuana Rescheduling To Pharmacy-Only Sales, Poll Suggests](https://www.forbes.com/sites/dariosabaghi/2024/01/26/one-third-of-us-marijuana-users-would-turn-to-illegal-market-with-marijuana-rescheduling-to-pharmacy-only-sales-poll-suggests/) | Forbes | 2024-01-26 |
 | [Florida gets FDA approval to import prescription drugs from Canada in seismic policy shift](https://nypost.com/2024/01/05/business/florida-gets-fda-approval-to-import-prescription-drugs-from-canada/) | New York Post | 2024-01-05 |
@@ -179,4 +178,5 @@
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
 | [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
 | [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
+| [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 
