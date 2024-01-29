@@ -98,6 +98,7 @@
 | [Pharma giants are hiking prices on over 500 drugs for 2024, report says](https://www.businessinsider.com/big-pharma-hiking-prices-on-500-drugs-in-2024-report-2024-1) | Business Insider | 2024-01-02 |
 | [Here’s a ‘solid contrarian idea’ for 2024, according to BTIG’s Krinsky](https://www.marketwatch.com/story/heres-a-solid-contrarian-idea-for-2024-according-to-btigs-krinsky-32a86261) | MarketWatch | 2023-12-28 |
 | [Asia's green path](https://www.businessinsider.com/sc/southeast-asia-commitment-to-sustainability-advancements-sunway-city) | Business Insider | 2024-01-12 |
+| [The top 4 ways big corporations are fueling global wealth inequality: report](https://www.businessinsider.com/the-4-ways-corporations-fueling-wealth-inequality-2024-1) | Business Insider | 2024-01-28 |
 | [Beaten-down sectors in U.S. stock market last year get some revenge in the first week of 2024](https://www.marketwatch.com/story/beaten-down-sectors-in-u-s-stock-market-last-year-get-some-revenge-in-the-first-week-of-2024-332511e4) | MarketWatch | 2024-01-06 |
 | [Tech leads stock market’s January rally by wide margin. Watch out for February.](https://www.marketwatch.com/story/tech-leads-stock-markets-january-rally-by-wide-margin-watch-out-for-february-6e1f6d34) | MarketWatch | 2024-01-22 |
 | [Here are Wall Street’s favorite stocks in the sector expected to grow profits the most in 2024](https://www.marketwatch.com/story/here-are-wall-streets-favorite-stocks-in-the-sector-expected-to-grow-profits-the-most-in-2024-a1b0ac87) | MarketWatch | 2024-01-09 |
@@ -118,7 +119,6 @@
 | [Healthcare Interoperability Considerations We Can’t Ignore In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/01/03/healthcare-interoperability-considerations-we-cant-ignore-in-2024/) | Forbes | 2024-01-03 |
 | [UK water giant admits attackers broke into system as gang holds it to ransom](https://www.theregister.com/2024/01/23/southern_water_confirms_cyberattack/) | Theregister.com | 2024-01-23 |
 | [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
-| [Healthcare Vendors Race Towards Ambient Technology](https://www.forbes.com/sites/davidchou/2024/01/22/healthcare-vendors-race-towards-ambient-technology/) | Forbes | 2024-01-23 |
 
 ## News for Pharma Market Trends
 
