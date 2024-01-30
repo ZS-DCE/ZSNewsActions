@@ -50,6 +50,7 @@
 | [Ray Bandar's Bone Palace](https://www.niche-museums.com/100) | Niche-museums.com | 2024-01-04 |
 | [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/) | Eukaryotewritesblog.com | 2024-01-07 |
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
+| [Scientist identify candidate genes associated with albinism in Wels catfish](https://phys.org/news/2024-01-scientist-candidate-genes-albinism-wels.html) | Phys.Org | 2024-01-29 |
 | [Researchers discover compound that fights leukemia, lymphoma](https://www.sciencedaily.com/releases/2024/01/240113142212.htm) | Science Daily | 2024-01-13 |
 | [Climatetech, AI And Life Sciences Spearhead New Year Funding Hopes](https://www.forbes.com/sites/trevorclawson/2024/01/11/climatetech-ai-and-life-sciences-spearhead-new-year-funding-hopes/) | Forbes | 2024-01-11 |
 | [Learn How AI Expands Life Sciences Growth Potential](https://www.forbes.com/sites/sap/2024/01/19/learn-how-ai-expands-life-sciences-growth-potential/) | Forbes | 2024-01-19 |
@@ -58,7 +59,6 @@
 | [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
 | [Women exposed to toxic metals may experience earlier aging of their ovaries](https://www.sciencedaily.com/releases/2024/01/240125150035.htm) | Science Daily | 2024-01-25 |
 | [Cryo-microscopy reveals nano-sized copy machine implicated in origin of life](https://phys.org/news/2024-01-cryo-microscopy-reveals-nano-sized.html) | Phys.Org | 2024-01-16 |
-| [GSK to buy asthma drug developer for up to $1.4 billion in pipeline push](https://www.marketwatch.com/story/gsk-to-buy-asthma-drug-developer-for-up-to-1-4-billion-in-pipeline-push-68e9102e) | MarketWatch | 2024-01-09 |
 
 ## News for Medical Devices
 
@@ -85,10 +85,10 @@
 | [Your next Samsung smartwatch could come with glucose monitoring](https://phandroid.com/2024/01/24/your-next-samsung-smartwatch-could-come-with-glucose-monitoring/) | Phandroid - News for Android | 2024-01-24 |
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
+| [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
 | [Ozempic and other weight-loss drugs’ popularity set these stocks up for big gains](https://www.marketwatch.com/story/ozempic-and-other-weight-loss-drugs-popularity-set-these-stocks-up-for-big-gains-fa2a3f33) | MarketWatch | 2024-01-04 |
 | [Masimo CEO says Apple Watch users better off without blood oxygen feature, calls it unreliable](https://9to5mac.com/2024/01/18/masimo-apple-watch-blood-oxygen/) | 9to5Mac | 2024-01-18 |
 | [Body of skier retrieved from Idaho backcountry after avalanche](https://www.npr.org/2024/01/13/1224581904/body-of-skier-retrieved-from-idaho-backcountry-after-avalanche) | NPR | 2024-01-13 |
-| [Oura CEO calls Apple Watch sales ban a 'David and Goliath story,' says he'll keep an eye on Samsung's rival smart ring](https://www.businessinsider.com/oura-ceo-samsung-galaxy-ring-apple-watch-patent-dispute-2024-1) | Business Insider | 2024-01-25 |
 
 ## News for Healthcare Sector
 
