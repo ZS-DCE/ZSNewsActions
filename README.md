@@ -9,7 +9,6 @@
 | [FDA Issues First Approval for Mass Drug Imports To States From Canada](https://news.slashdot.org/story/24/01/05/1714223/fda-issues-first-approval-for-mass-drug-imports-to-states-from-canada) | Slashdot.org | 2024-01-05 |
 | [Big Pharma to raise US list prices of 500 drugs in January: Report](https://arstechnica.com/health/2024/01/big-pharma-to-raise-us-list-prices-of-500-drugs-in-january-report/) | Ars Technica | 2024-01-02 |
 | [Florida Can Import Prescription Drugs from Canada, U.S. Regulators Say](https://time.com/6552432/florida-can-import-prescription-drugs-from-canada/) | Time | 2024-01-05 |
-| [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Florida is about to get cheaper prescription drugs thanks to Canada](https://www.businessinsider.com/florida-cheaper-prescription-drugs-canada-fda-approval-2024-1) | Business Insider | 2024-01-05 |
 | [Generative AI in the pharmaceutical industry: Moving from hype to reality](https://www.mckinsey.com/industries/life-sciences/our-insights/generative-ai-in-the-pharmaceutical-industry-moving-from-hype-to-reality) | Mckinsey.com | 2024-01-09 |
 | [Autonomous synthesis robot uses AI to speed up chemical discovery](https://www.sciencedaily.com/releases/2024/01/240125145938.htm) | Science Daily | 2024-01-25 |
@@ -20,15 +19,16 @@
 | [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/) | Growbyginkgo.com | 2024-01-10 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/e523290ec8a1c2ba) | Biztoc.com | 2024-01-23 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/a16c60cb5db1ee5c) | Biztoc.com | 2024-01-23 |
-| [Tech’s biggest losers in 2023](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b5933dc-e752-40c3-8cfb-14f48bbacac0) | Yahoo Entertainment | 2023-12-29 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://finance.yahoo.com/news/martin-shkrelis-lifetime-drug-industry-155427290.html) | Yahoo Entertainment | 2024-01-23 |
 | [AI and robots join forces to cook up proteins faster](https://www.theregister.com/2024/01/15/ai_robot_protein_engineering/) | Theregister.com | 2024-01-15 |
 | [Medicare drug price negotiations hit critical phase](https://www.marketwatch.com/story/medicare-drug-price-negotiations-hit-critical-phase-1f52a7e2) | MarketWatch | 2024-01-18 |
-| [Weight-loss drugs will remain out of reach for millions in 2024 as employers and insurance companies reduce coverage](https://www.businessinsider.com/weight-loss-drug-insurance-coverage-access-employer-2023-12) | Business Insider | 2023-12-30 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [AI And Pharmaceutical Research: A Partnership That Can Save Lives](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/24/ai-and-pharmaceutical-research-a-partnership-that-can-save-lives/) | Forbes | 2024-01-24 |
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
+| [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
+| [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
+| [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/?utm_source=feed) | The Atlantic | 2024-01-17 |
 
 ## News for Life Sciences
 
@@ -40,7 +40,6 @@
 | [Value of life](https://en.wikipedia.org/wiki/Value_of_life) | Wikipedia.org | 2024-01-08 |
 | [生活の質を上げる。シチズンの健康志向なスマートウォッチ](https://www.gizmodo.jp/2024/01/cz-smart-youq-nasa-ibm-alertness-monitor-watch-1.html) | Gizmodo.jp | 2024-01-18 |
 | [For this beetle, 'date night' comes every other day](https://www.sciencedaily.com/releases/2024/01/240118170552.htm) | Science Daily | 2024-01-18 |
-| [Why you shouldn't be scared of spiders, according to a biology professor](https://www.businessinsider.com/why-you-should-not-be-scared-spiders-arachnophobia-expert-2023-12) | Business Insider | 2023-12-30 |
 | [A marsupial in Australia will sacrifice sleep for sex, before dying and being eaten by its mate, say scientists](https://www.businessinsider.com/antechinuses-marsupial-australia-study-sacrifice-sleep-sex-eaten-by-mate-2024-1) | Business Insider | 2024-01-26 |
 | [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life) | Andreinc.net | 2024-01-21 |
 | [Protecting newborns: Research lays the groundwork for a lifesaving vaccine](https://www.sciencedaily.com/releases/2024/01/240109121112.htm) | Science Daily | 2024-01-09 |
@@ -52,6 +51,7 @@
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
 | [Scientist identify candidate genes associated with albinism in Wels catfish](https://phys.org/news/2024-01-scientist-candidate-genes-albinism-wels.html) | Phys.Org | 2024-01-29 |
 | [Researchers discover compound that fights leukemia, lymphoma](https://www.sciencedaily.com/releases/2024/01/240113142212.htm) | Science Daily | 2024-01-13 |
+| [Young science writer award goes national](https://www.bbc.co.uk/news/science-environment-68134476) | BBC News | 2024-01-30 |
 | [Climatetech, AI And Life Sciences Spearhead New Year Funding Hopes](https://www.forbes.com/sites/trevorclawson/2024/01/11/climatetech-ai-and-life-sciences-spearhead-new-year-funding-hopes/) | Forbes | 2024-01-11 |
 | [Learn How AI Expands Life Sciences Growth Potential](https://www.forbes.com/sites/sap/2024/01/19/learn-how-ai-expands-life-sciences-growth-potential/) | Forbes | 2024-01-19 |
 | [Boston Biz Journal reporter Green switches to life sciences beat](https://biztoc.com/x/2a6dd211a5eafc31) | Biztoc.com | 2024-01-09 |
@@ -76,6 +76,7 @@
 | [Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor) | Slashdot.org | 2024-01-18 |
 | [Apple Says Vision Pro Does Not Support Hard Contact Lenses](https://www.macrumors.com/2024/01/19/apple-says-vision-pro-no-hard-contact-lenses/) | MacRumors | 2024-01-19 |
 | [The MouthPad turns your tongue into a mouse for your phone](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_54613a72-ca87-4fee-96a8-979b84a1ebb7) | Yahoo Entertainment | 2024-01-11 |
+| [Neuralink: Elon Musk says first human has been implanted with brain chip](https://readwrite.com/neuralink-elon-musk-says-first-human-has-been-implanted-with-brain-chip/) | ReadWrite | 2024-01-30 |
 | [Masimo CEO: Apple Watch Blood Oxygen Sensor is Not Reliable, Customers Are 'Better Off Without It'](https://www.macrumors.com/2024/01/18/masimo-ceo-apple-blood-oxygen-sensor-unreliable/) | MacRumors | 2024-01-18 |
 | [The best of CES 2024](https://www.engadget.com/the-best-of-ces-2024-220054009.html) | Engadget | 2024-01-11 |
 | [Testing Your C Knowledge With This One Simple Quiz](https://hackaday.com/2024/01/23/testing-your-c-knowledge-with-this-one-simple-quiz/) | Hackaday | 2024-01-23 |
@@ -88,7 +89,6 @@
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
 | [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
 | [Ozempic and other weight-loss drugs’ popularity set these stocks up for big gains](https://www.marketwatch.com/story/ozempic-and-other-weight-loss-drugs-popularity-set-these-stocks-up-for-big-gains-fa2a3f33) | MarketWatch | 2024-01-04 |
-| [Masimo CEO says Apple Watch users better off without blood oxygen feature, calls it unreliable](https://9to5mac.com/2024/01/18/masimo-apple-watch-blood-oxygen/) | 9to5Mac | 2024-01-18 |
 
 ## News for Healthcare Sector
 
@@ -110,15 +110,15 @@
 | [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
 | [The best jobs of 2024, according to Indeed](https://qz.com/best-jobs-2024-indeed-mental-healthcare-1851190781) | Quartz India | 2024-01-24 |
-| [Tech news recap: the biggest stories of 2023](https://readwrite.com/tech-news-recap-the-biggest-stories-of-2023/) | ReadWrite | 2023-12-29 |
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
-| [2024 Healthcare Cybersecurity: Mastering The Fundamentals](https://www.forbes.com/sites/davidchou/2023/12/29/2024-healthcare-cybersecurity-mastering-the-fundamentals/) | Forbes | 2023-12-29 |
 | [18 Business Ideas for Nurses](https://smallbiztrends.com/2024/01/business-ideas-for-nurses.html) | Small Business Trends | 2024-01-03 |
 | [Healthcare Interoperability Considerations We Can’t Ignore In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/01/03/healthcare-interoperability-considerations-we-cant-ignore-in-2024/) | Forbes | 2024-01-03 |
 | [UK water giant admits attackers broke into system as gang holds it to ransom](https://www.theregister.com/2024/01/23/southern_water_confirms_cyberattack/) | Theregister.com | 2024-01-23 |
 | [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
+| [Healthcare Vendors Race Towards Ambient Technology](https://www.forbes.com/sites/davidchou/2024/01/22/healthcare-vendors-race-towards-ambient-technology/) | Forbes | 2024-01-23 |
+| [IIT Kanpur files ‘record-breaking’ 122 IPRs in 2023](https://indianexpress.com/article/education/iit-kanpur-files-record-breaking-122-iprs-in-2023-9093135/) | The Indian Express | 2024-01-03 |
 
 ## News for Pharma Market Trends
 
@@ -138,7 +138,9 @@
 | [Digital Storage And Memory Projections For 2024, Part 3](https://www.forbes.com/sites/tomcoughlin/2023/12/31/digital-storage-and-memory-projections-for-2024-part-3/) | Forbes | 2023-12-31 |
 | [Daily Voice | This investment professional expects no major surprises in budget; pegs on chemical space](https://www.moneycontrol.com/news/business/budget/daily-voice-this-investment-professional-expects-no-major-surprises-in-budget-pegs-on-chemical-space-12135401.html) | Moneycontrol | 2024-01-28 |
 | [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
+| [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
 | [Morning market: BSE Sensex up by 600 pts, Nifty 50 at 21,600 level](https://www.thehindubusinessline.com/markets/morning-market-bse-sensex-up-by-600-pts-nifty-50-at-21600-level/article67755034.ece) | BusinessLine | 2024-01-19 |
+| [Radiotheranostics Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2024/01/30/2819681/0/en/Radiotheranostics-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2024-01-30 |
 | [Opthalmic Topical Therapeutics Market Set to Reach $21.7 Billion by 2030: Santen Pharma, Sun Pharma, and Novartis Dominating via Strategic Alliances, R&D Investments, and New Product Developments](https://www.globenewswire.com/news-release/2024/01/24/2814901/28124/en/Opthalmic-Topical-Therapeutics-Market-Set-to-Reach-21-7-Billion-by-2030-Santen-Pharma-Sun-Pharma-and-Novartis-Dominating-via-Strategic-Alliances-R-D-Investments-and-New-Product-Dev.html) | GlobeNewswire | 2024-01-24 |
 | [Mid-day Mood | Indices recover from early losses amid gains in financial stocks, IT sees profit-booking](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-recover-from-early-losses-amid-gains-in-financial-stocks-it-sees-profit-booking-12059501.html) | Moneycontrol | 2024-01-16 |
 | [Buzzing Stocks: LT Finance, RBL Bank, Lupin, Grasim, Dabur, Utkarsh SFB, others in news](https://www.moneycontrol.com/news/photos/business/stocks/buzzing-stocks-lt-finance-rbl-bank-lupin-grasim-dabur-utkarsh-sfb-others-in-news-12001211.html) | Moneycontrol | 2024-01-05 |
@@ -147,8 +149,6 @@
 | [6 Stocks And 1 ETF That Benefit From Ozempic's Popularity](https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/) | Forbes | 2024-01-16 |
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
 | [Moneycontrol Pro Panorama | Stay focused, stay nimble](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-stay-focused-stay-nimble-11981871.html) | Moneycontrol | 2024-01-01 |
-| [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
-| [Liquid Filled Capsules Market to Reach $ 2,113.9 Million by 2034, Driven by Drug Delivery Innovation | Future Market Insights, Inc.](https://www.prnewswire.co.uk/news-releases/liquid-filled-capsules-market-to-reach--2-113-9-million-by-2034--driven-by-drug-delivery-innovation--future-market-insights-inc-302029589.html) | PR Newswire UK | 2024-01-09 |
 
 ## News for FDA Regulations
 
@@ -156,7 +156,6 @@
 | ----- | ------ | --------- |
 | [Florida is about to get cheaper prescription drugs thanks to Canada](https://www.businessinsider.com/florida-cheaper-prescription-drugs-canada-fda-approval-2024-1) | Business Insider | 2024-01-05 |
 | [Canada vows to defend its drug supply against Florida importation plan](https://arstechnica.com/science/2024/01/canada-vows-to-defend-its-drug-supply-against-florida-importation-plan/) | Ars Technica | 2024-01-09 |
-| [Amazon sold energy supplements for men that secretly contained erectile dysfunction treatments like Viagra, warns FDA](https://www.businessinsider.com/amazon-receives-fda-warning-over-male-energy-supplements-containing-viagra-2023-12) | Business Insider | 2023-12-29 |
 | [Florida Can Import Prescription Drugs from Canada, U.S. Regulators Say](https://time.com/6552432/florida-can-import-prescription-drugs-from-canada/) | Time | 2024-01-05 |
 | [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529) | Hacker News | 2024-01-16 |
 | [What would a second Trump presidency look like for health care?](https://www.npr.org/sections/health-shots/2024/01/16/1224938442/what-would-a-second-trump-presidency-look-like-for-health-care) | NPR | 2024-01-16 |
@@ -177,6 +176,7 @@
 | [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
 | [Florida can import prescription drugs from Canada, US regulators say](https://www.bostonglobe.com/2024/01/05/business/florida-prescription-drugs-canada/) | The Boston Globe | 2024-01-05 |
 | [The pros and cons of compounding pharmacies](https://theweek.com/health/pros-cons-compounding-pharmacies) | The Week Magazine | 2024-01-04 |
-| [The 14 predictions that came true in 2023 — and the 7 that didn’t](https://www.vox.com/future-perfect/24006533/2023-predictions-revisited-trump-biden-politics) | Vox | 2023-12-29 |
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
+| [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
+| [From today, new regulations make it harder to access vapes. Here's what's changing](https://theconversation.com/from-today-new-regulations-make-it-harder-to-access-vapes-heres-whats-changing-218816) | The Conversation Africa | 2023-12-31 |
 
