@@ -26,8 +26,8 @@
 | [AI And Pharmaceutical Research: A Partnership That Can Save Lives](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/24/ai-and-pharmaceutical-research-a-partnership-that-can-save-lives/) | Forbes | 2024-01-24 |
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
-| [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
 | [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
+| [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
 | [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/?utm_source=feed) | The Atlantic | 2024-01-17 |
 
 ## News for Life Sciences
@@ -77,6 +77,7 @@
 | [Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor) | Slashdot.org | 2024-01-18 |
 | [Apple Says Vision Pro Does Not Support Hard Contact Lenses](https://www.macrumors.com/2024/01/19/apple-says-vision-pro-no-hard-contact-lenses/) | MacRumors | 2024-01-19 |
 | [The MouthPad turns your tongue into a mouse for your phone](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_54613a72-ca87-4fee-96a8-979b84a1ebb7) | Yahoo Entertainment | 2024-01-11 |
+| [You can now sign up to try a $2,000 AI headband that a startup says will help control your dreams](https://www.businessinsider.com/startup-prophetic-launches-ai-powered-dream-headband-2024-1) | Business Insider | 2024-01-30 |
 | [Neuralink: Elon Musk says first human has been implanted with brain chip](https://readwrite.com/neuralink-elon-musk-says-first-human-has-been-implanted-with-brain-chip/) | ReadWrite | 2024-01-30 |
 | [Masimo CEO: Apple Watch Blood Oxygen Sensor is Not Reliable, Customers Are 'Better Off Without It'](https://www.macrumors.com/2024/01/18/masimo-ceo-apple-blood-oxygen-sensor-unreliable/) | MacRumors | 2024-01-18 |
 | [The best of CES 2024](https://www.engadget.com/the-best-of-ces-2024-220054009.html) | Engadget | 2024-01-11 |
@@ -88,7 +89,6 @@
 | [Your next Samsung smartwatch could come with glucose monitoring](https://phandroid.com/2024/01/24/your-next-samsung-smartwatch-could-come-with-glucose-monitoring/) | Phandroid - News for Android | 2024-01-24 |
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
-| [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
 
 ## News for Healthcare Sector
 
@@ -112,13 +112,13 @@
 | [The best jobs of 2024, according to Indeed](https://qz.com/best-jobs-2024-indeed-mental-healthcare-1851190781) | Quartz India | 2024-01-24 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/2cdb065ccac3dc1c) | Biztoc.com | 2024-01-30 |
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
+| [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
+| [Why Sen. Brian Schatz thinks child safety bills should trump the First Amendment](https://www.theverge.com/24054658/senator-brian-schatz-congress-kosa-first-amendment-regulation-decoder-interview) | The Verge | 2024-01-30 |
 | [18 Business Ideas for Nurses](https://smallbiztrends.com/2024/01/business-ideas-for-nurses.html) | Small Business Trends | 2024-01-03 |
 | [Healthcare Interoperability Considerations We Can’t Ignore In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/01/03/healthcare-interoperability-considerations-we-cant-ignore-in-2024/) | Forbes | 2024-01-03 |
 | [UK water giant admits attackers broke into system as gang holds it to ransom](https://www.theregister.com/2024/01/23/southern_water_confirms_cyberattack/) | Theregister.com | 2024-01-23 |
-| [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
-| [Healthcare Vendors Race Towards Ambient Technology](https://www.forbes.com/sites/davidchou/2024/01/22/healthcare-vendors-race-towards-ambient-technology/) | Forbes | 2024-01-23 |
 
 ## News for Pharma Market Trends
 
