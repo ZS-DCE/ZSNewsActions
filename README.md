@@ -36,6 +36,7 @@
 | ----- | ------ | --------- |
 | [Gut health: Goat milk firm's poo post-box tests microbiome](https://www.bbc.co.uk/news/uk-wales-68047167) | BBC News | 2024-01-21 |
 | [Rediscovering the Pleasure of Working Together](https://www.wired.com/story/rediscovering-the-pleasure-of-working-together/) | Wired | 2024-01-08 |
+| ['Boohoo' - how are voters reacting to the MP who 'couldn't afford' mortgage?](https://www.bbc.co.uk/news/uk-england-norfolk-68141420) | BBC News | 2024-01-30 |
 | [Dr. Deborah Birx: "To be cavalier about getting repetitive COVID infections is really a huge mistake"](https://boingboing.net/2024/01/12/dr-deborah-birx-to-be-cavalier-about-getting-repetitive-covid-infections-is-really-a-huge-mistake.html) | Boing Boing | 2024-01-12 |
 | [Value of life](https://en.wikipedia.org/wiki/Value_of_life) | Wikipedia.org | 2024-01-08 |
 | [生活の質を上げる。シチズンの健康志向なスマートウォッチ](https://www.gizmodo.jp/2024/01/cz-smart-youq-nasa-ibm-alertness-monitor-watch-1.html) | Gizmodo.jp | 2024-01-18 |
@@ -58,7 +59,6 @@
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
 | [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
 | [Women exposed to toxic metals may experience earlier aging of their ovaries](https://www.sciencedaily.com/releases/2024/01/240125150035.htm) | Science Daily | 2024-01-25 |
-| [Cryo-microscopy reveals nano-sized copy machine implicated in origin of life](https://phys.org/news/2024-01-cryo-microscopy-reveals-nano-sized.html) | Phys.Org | 2024-01-16 |
 
 ## News for Medical Devices
 
@@ -72,6 +72,7 @@
 | [Vibrating belt that treats low bone density gets FDA approval](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_425d6212-41f3-4fd6-b0f5-e4d2bc0a1c81) | Yahoo Entertainment | 2024-01-22 |
 | [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [AEDs are being increasingly mandated across the US, but bystanders aren't using them](https://abcnews.go.com/Health/lifesaving-aeds-increasingly-mandated-bystanders-not-using/story?id=106260242) | ABC News | 2024-01-10 |
+| [China Plans to Take on Elon Musk’s Neuralink in 2025](https://gizmodo.com/elon-musk-neuralink-china-brain-computer-chip-1851208928) | Gizmodo.com | 2024-01-30 |
 | [Japan will no longer require floppy disks for submitting some official documents](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f99e441-7778-4920-b693-18220009b0be) | Yahoo Entertainment | 2024-01-29 |
 | [Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor) | Slashdot.org | 2024-01-18 |
 | [Apple Says Vision Pro Does Not Support Hard Contact Lenses](https://www.macrumors.com/2024/01/19/apple-says-vision-pro-no-hard-contact-lenses/) | MacRumors | 2024-01-19 |
@@ -88,7 +89,6 @@
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [New York's weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing) | AppleInsider | 2024-01-11 |
 | [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
-| [Ozempic and other weight-loss drugs’ popularity set these stocks up for big gains](https://www.marketwatch.com/story/ozempic-and-other-weight-loss-drugs-popularity-set-these-stocks-up-for-big-gains-fa2a3f33) | MarketWatch | 2024-01-04 |
 
 ## News for Healthcare Sector
 
@@ -110,6 +110,7 @@
 | [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
 | [The best jobs of 2024, according to Indeed](https://qz.com/best-jobs-2024-indeed-mental-healthcare-1851190781) | Quartz India | 2024-01-24 |
+| [Health Care Roundup: Market Talk](https://biztoc.com/x/2cdb065ccac3dc1c) | Biztoc.com | 2024-01-30 |
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
@@ -118,7 +119,6 @@
 | [UK water giant admits attackers broke into system as gang holds it to ransom](https://www.theregister.com/2024/01/23/southern_water_confirms_cyberattack/) | Theregister.com | 2024-01-23 |
 | [Private-equity hospitals put Medicare patients at risk, new research says](https://www.marketwatch.com/story/private-equity-hospitals-put-medicare-patients-at-risk-new-research-says-dbf56319) | MarketWatch | 2024-01-03 |
 | [Healthcare Vendors Race Towards Ambient Technology](https://www.forbes.com/sites/davidchou/2024/01/22/healthcare-vendors-race-towards-ambient-technology/) | Forbes | 2024-01-23 |
-| [IIT Kanpur files ‘record-breaking’ 122 IPRs in 2023](https://indianexpress.com/article/education/iit-kanpur-files-record-breaking-122-iprs-in-2023-9093135/) | The Indian Express | 2024-01-03 |
 
 ## News for Pharma Market Trends
 
