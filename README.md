@@ -20,6 +20,7 @@
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/e523290ec8a1c2ba) | Biztoc.com | 2024-01-23 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/a16c60cb5db1ee5c) | Biztoc.com | 2024-01-23 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://finance.yahoo.com/news/martin-shkrelis-lifetime-drug-industry-155427290.html) | Yahoo Entertainment | 2024-01-23 |
+| [The US uses endangered monkeys to test drugs. This law could free them.](https://www.vox.com/future-perfect/24055003/long-tailed-macaques-biomedical-testing-ozempic-covid-endangered-species-act-cambodia) | Vox | 2024-01-31 |
 | [AI and robots join forces to cook up proteins faster](https://www.theregister.com/2024/01/15/ai_robot_protein_engineering/) | Theregister.com | 2024-01-15 |
 | [Medicare drug price negotiations hit critical phase](https://www.marketwatch.com/story/medicare-drug-price-negotiations-hit-critical-phase-1f52a7e2) | MarketWatch | 2024-01-18 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
@@ -28,7 +29,6 @@
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
 | [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
 | [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
-| [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/?utm_source=feed) | The Atlantic | 2024-01-17 |
 
 ## News for Life Sciences
 
