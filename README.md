@@ -17,6 +17,7 @@
 | [Nvidia dives deeper into AI drug development with Amgen, Recursion partnerships](https://www.marketwatch.com/story/nvidia-dives-deeper-into-ai-drug-development-with-amgen-recursion-partnerships-de481c8b) | MarketWatch | 2024-01-08 |
 | [‘Pharma Bro’ Martin Shkreli Still Banned For Life From Pharmaceutical Industry](https://www.forbes.com/sites/zacharyfolk/2024/01/23/pharma-bro-martin-shkreli-still-banned-for-life-from-pharmaceutical-industry/) | Forbes | 2024-01-23 |
 | [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/) | Growbyginkgo.com | 2024-01-10 |
+| [Medicinal drugs pollute the St. Lawrence River, presenting possible risk to aquatic organisms: Study](https://phys.org/news/2024-01-medicinal-drugs-pollute-st-lawrence.html) | Phys.Org | 2024-01-31 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/e523290ec8a1c2ba) | Biztoc.com | 2024-01-23 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/a16c60cb5db1ee5c) | Biztoc.com | 2024-01-23 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://finance.yahoo.com/news/martin-shkrelis-lifetime-drug-industry-155427290.html) | Yahoo Entertainment | 2024-01-23 |
@@ -28,7 +29,6 @@
 | [Can Denmark's world beating drugs maker stay ahead?](https://www.bbc.co.uk/news/business-67701940) | BBC News | 2024-01-05 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
 | [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
-| [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
 
 ## News for Life Sciences
 
