@@ -52,13 +52,13 @@
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
 | [Scientist identify candidate genes associated with albinism in Wels catfish](https://phys.org/news/2024-01-scientist-candidate-genes-albinism-wels.html) | Phys.Org | 2024-01-29 |
 | [Researchers discover compound that fights leukemia, lymphoma](https://www.sciencedaily.com/releases/2024/01/240113142212.htm) | Science Daily | 2024-01-13 |
+| [A clutch stretch goes a long way](https://www.sciencedaily.com/releases/2024/02/240201212853.htm) | Science Daily | 2024-02-02 |
 | [Young science writer award goes national](https://www.bbc.co.uk/news/science-environment-68134476) | BBC News | 2024-01-30 |
 | [Climatetech, AI And Life Sciences Spearhead New Year Funding Hopes](https://www.forbes.com/sites/trevorclawson/2024/01/11/climatetech-ai-and-life-sciences-spearhead-new-year-funding-hopes/) | Forbes | 2024-01-11 |
 | [Learn How AI Expands Life Sciences Growth Potential](https://www.forbes.com/sites/sap/2024/01/19/learn-how-ai-expands-life-sciences-growth-potential/) | Forbes | 2024-01-19 |
 | [9 politicians you didn't know had won Grammy awards — and 7 who have been nominated](https://www.businessinsider.com/grammy-winners-history-politicians-presidents) | Business Insider | 2024-02-03 |
 | [Boston Biz Journal reporter Green switches to life sciences beat](https://biztoc.com/x/2a6dd211a5eafc31) | Biztoc.com | 2024-01-09 |
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
-| [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
 
 ## News for Medical Devices
 
@@ -136,8 +136,8 @@
 | [Daily Voice | This fund manager sees another 10% upside in market, bets on domestic tourism](https://www.moneycontrol.com/news/business/markets/daily-voice-this-fund-manager-sees-another-10-upside-in-market-bets-on-domestic-tourism-12057651.html) | Moneycontrol | 2024-01-16 |
 | [Daily Voice | This investment professional expects no major surprises in budget; pegs on chemical space](https://www.moneycontrol.com/news/business/budget/daily-voice-this-investment-professional-expects-no-major-surprises-in-budget-pegs-on-chemical-space-12135401.html) | Moneycontrol | 2024-01-28 |
 | [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
-| [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
 | [Morning market: BSE Sensex up by 600 pts, Nifty 50 at 21,600 level](https://www.thehindubusinessline.com/markets/morning-market-bse-sensex-up-by-600-pts-nifty-50-at-21600-level/article67755034.ece) | BusinessLine | 2024-01-19 |
+| [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
 | [Radiotheranostics Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2024/01/30/2819681/0/en/Radiotheranostics-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2024-01-30 |
 | [Opthalmic Topical Therapeutics Market Set to Reach $21.7 Billion by 2030: Santen Pharma, Sun Pharma, and Novartis Dominating via Strategic Alliances, R&D Investments, and New Product Developments](https://www.globenewswire.com/news-release/2024/01/24/2814901/28124/en/Opthalmic-Topical-Therapeutics-Market-Set-to-Reach-21-7-Billion-by-2030-Santen-Pharma-Sun-Pharma-and-Novartis-Dominating-via-Strategic-Alliances-R-D-Investments-and-New-Product-Dev.html) | GlobeNewswire | 2024-01-24 |
 | [Mid-day Mood | Indices recover from early losses amid gains in financial stocks, IT sees profit-booking](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-recover-from-early-losses-amid-gains-in-financial-stocks-it-sees-profit-booking-12059501.html) | Moneycontrol | 2024-01-16 |
