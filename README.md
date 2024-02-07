@@ -103,6 +103,7 @@
 | [Here are Wall Street’s favorite stocks in the sector expected to grow profits the most in 2024](https://www.marketwatch.com/story/here-are-wall-streets-favorite-stocks-in-the-sector-expected-to-grow-profits-the-most-in-2024-a1b0ac87) | MarketWatch | 2024-01-09 |
 | [Do what this deal-making CEO does and find ‘AI-proof’ industries for your money](https://www.marketwatch.com/story/do-what-this-deal-making-ceo-does-and-find-ai-proof-industries-for-your-money-d6eb9042) | MarketWatch | 2024-02-05 |
 | [Nvidia will sell advanced GPUs to India after China exports blocked](https://readwrite.com/nvidia-will-sell-advanced-gpus-to-india-after-china-exports-blocked/) | ReadWrite | 2024-01-12 |
+| [UK invests £100M in AI research and regulation, £45M in quantum](https://thenextweb.com/news/uk-invests-ai-research-regulation-quantum) | The Next Web | 2024-02-06 |
 | [What is Wegovy worth to your employer? Companies wrestle with obesity drugs’ costs, long-term value.](https://www.marketwatch.com/story/what-is-wegovy-worth-to-your-employer-companies-wrestle-with-obesity-drugs-costs-long-term-value-520b37c4) | MarketWatch | 2024-01-10 |
 | [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
@@ -118,7 +119,6 @@
 | [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
 | [Why Sen. Brian Schatz thinks child safety bills should trump the First Amendment](https://www.theverge.com/24054658/senator-brian-schatz-congress-kosa-first-amendment-regulation-decoder-interview) | The Verge | 2024-01-30 |
 | [UK water giant admits attackers broke into system as gang holds it to ransom](https://www.theregister.com/2024/01/23/southern_water_confirms_cyberattack/) | Theregister.com | 2024-01-23 |
-| [Healthcare Vendors Race Towards Ambient Technology](https://www.forbes.com/sites/davidchou/2024/01/22/healthcare-vendors-race-towards-ambient-technology/) | Forbes | 2024-01-23 |
 
 ## News for Pharma Market Trends
 
