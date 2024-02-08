@@ -44,6 +44,7 @@
 | [For this beetle, 'date night' comes every other day](https://www.sciencedaily.com/releases/2024/01/240118170552.htm) | Science Daily | 2024-01-18 |
 | [A marsupial in Australia will sacrifice sleep for sex, before dying and being eaten by its mate, say scientists](https://www.businessinsider.com/antechinuses-marsupial-australia-study-sacrifice-sleep-sex-eaten-by-mate-2024-1) | Business Insider | 2024-01-26 |
 | [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life) | Andreinc.net | 2024-01-21 |
+| [Improving quality of life and sleep in people with memory problems without using drugs](https://www.sciencedaily.com/releases/2024/02/240206161443.htm) | Science Daily | 2024-02-06 |
 | [Protecting newborns: Research lays the groundwork for a lifesaving vaccine](https://www.sciencedaily.com/releases/2024/01/240109121112.htm) | Science Daily | 2024-01-09 |
 | [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [The Internet Has Thoughts on Ken Getting an Oscar Nomination Over Barbie](https://time.com/6565502/margot-robbie-ryan-gosling-greta-gerwig-barbie-oscars/) | Time | 2024-01-23 |
@@ -58,7 +59,6 @@
 | [9 politicians you didn't know had won Grammy awards — and 7 who have been nominated](https://www.businessinsider.com/grammy-winners-history-politicians-presidents) | Business Insider | 2024-02-03 |
 | [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
-| [Boston Biz Journal reporter Green switches to life sciences beat](https://biztoc.com/x/2a6dd211a5eafc31) | Biztoc.com | 2024-01-09 |
 
 ## News for Medical Devices
 
@@ -104,6 +104,7 @@
 | [Nvidia will sell advanced GPUs to India after China exports blocked](https://readwrite.com/nvidia-will-sell-advanced-gpus-to-india-after-china-exports-blocked/) | ReadWrite | 2024-01-12 |
 | [UK invests £100M in AI research and regulation, £45M in quantum](https://thenextweb.com/news/uk-invests-ai-research-regulation-quantum) | The Next Web | 2024-02-06 |
 | [What is Wegovy worth to your employer? Companies wrestle with obesity drugs’ costs, long-term value.](https://www.marketwatch.com/story/what-is-wegovy-worth-to-your-employer-companies-wrestle-with-obesity-drugs-costs-long-term-value-520b37c4) | MarketWatch | 2024-01-10 |
+| [Layoffs are plaguing the healthcare industry, too](https://qz.com/healthcare-industry-layoffs-pfizer-amazon-health-1851231629) | Quartz India | 2024-02-06 |
 | [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
 | [Ignore Uncle Sam's 'voluntary' cybersecurity goals for hospitals at your peril](https://www.theregister.com/2024/02/05/us_voluntary_cybersecurity_goals_hospitals/) | Theregister.com | 2024-02-05 |
@@ -118,7 +119,6 @@
 | [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
 | [Eli Lilly sold $176 million of weight loss drug Zepbound in just four weeks](https://qz.com/eli-lilly-zepbound-fourth-quarter-report-176-million-1851229714) | Quartz India | 2024-02-06 |
 | [Why Sen. Brian Schatz thinks child safety bills should trump the First Amendment](https://www.theverge.com/24054658/senator-brian-schatz-congress-kosa-first-amendment-regulation-decoder-interview) | The Verge | 2024-01-30 |
-| [UK water giant admits attackers broke into system as gang holds it to ransom](https://www.theregister.com/2024/01/23/southern_water_confirms_cyberattack/) | Theregister.com | 2024-01-23 |
 
 ## News for Pharma Market Trends
 
