@@ -106,6 +106,7 @@
 | [What is Wegovy worth to your employer? Companies wrestle with obesity drugs’ costs, long-term value.](https://www.marketwatch.com/story/what-is-wegovy-worth-to-your-employer-companies-wrestle-with-obesity-drugs-costs-long-term-value-520b37c4) | MarketWatch | 2024-01-10 |
 | [Layoffs are plaguing the healthcare industry, too](https://qz.com/healthcare-industry-layoffs-pfizer-amazon-health-1851231629) | Quartz India | 2024-02-06 |
 | [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
+| [From the U.S. Senate to Diplomacy—John Kerry’s Leadership Lessons](https://hbr.org/podcast/2024/02/from-the-u-s-senate-to-diplomacy-john-kerrys-leadership-lessons) | Harvard Business Review | 2024-02-07 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
 | [Ignore Uncle Sam's 'voluntary' cybersecurity goals for hospitals at your peril](https://www.theregister.com/2024/02/05/us_voluntary_cybersecurity_goals_hospitals/) | Theregister.com | 2024-02-05 |
 | [New Cybersecurity Performance Goals From HHS For Healthcare](https://www.forbes.com/sites/davidchou/2024/02/05/new-cybersecurity-performance-goals-from-hhs-for-healthcare/) | Forbes | 2024-02-05 |
@@ -118,7 +119,6 @@
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
 | [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
-| [Eli Lilly sold $176 million of weight loss drug Zepbound in just four weeks](https://qz.com/eli-lilly-zepbound-fourth-quarter-report-176-million-1851229714) | Quartz India | 2024-02-06 |
 
 ## News for Pharma Market Trends
 
