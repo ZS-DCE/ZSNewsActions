@@ -43,12 +43,12 @@
 | [生活の質を上げる。シチズンの健康志向なスマートウォッチ](https://www.gizmodo.jp/2024/01/cz-smart-youq-nasa-ibm-alertness-monitor-watch-1.html) | Gizmodo.jp | 2024-01-18 |
 | [For this beetle, 'date night' comes every other day](https://www.sciencedaily.com/releases/2024/01/240118170552.htm) | Science Daily | 2024-01-18 |
 | [A marsupial in Australia will sacrifice sleep for sex, before dying and being eaten by its mate, say scientists](https://www.businessinsider.com/antechinuses-marsupial-australia-study-sacrifice-sleep-sex-eaten-by-mate-2024-1) | Business Insider | 2024-01-26 |
+| [Mimas' surprise: Tiny moon of Saturn holds young ocean beneath icy shell](https://www.sciencedaily.com/releases/2024/02/240207120512.htm) | Science Daily | 2024-02-07 |
 | [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life) | Andreinc.net | 2024-01-21 |
 | [Improving quality of life and sleep in people with memory problems without using drugs](https://www.sciencedaily.com/releases/2024/02/240206161443.htm) | Science Daily | 2024-02-06 |
 | [Protecting newborns: Research lays the groundwork for a lifesaving vaccine](https://www.sciencedaily.com/releases/2024/01/240109121112.htm) | Science Daily | 2024-01-09 |
 | [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [The Internet Has Thoughts on Ken Getting an Oscar Nomination Over Barbie](https://time.com/6565502/margot-robbie-ryan-gosling-greta-gerwig-barbie-oscars/) | Time | 2024-01-23 |
-| [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/) | Eukaryotewritesblog.com | 2024-01-07 |
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
 | [Scientist identify candidate genes associated with albinism in Wels catfish](https://phys.org/news/2024-01-scientist-candidate-genes-albinism-wels.html) | Phys.Org | 2024-01-29 |
 | [Researchers discover compound that fights leukemia, lymphoma](https://www.sciencedaily.com/releases/2024/01/240113142212.htm) | Science Daily | 2024-01-13 |
@@ -109,16 +109,16 @@
 | [From the U.S. Senate to Diplomacy—John Kerry’s Leadership Lessons](https://hbr.org/podcast/2024/02/from-the-u-s-senate-to-diplomacy-john-kerrys-leadership-lessons) | Harvard Business Review | 2024-02-07 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
 | [Ignore Uncle Sam's 'voluntary' cybersecurity goals for hospitals at your peril](https://www.theregister.com/2024/02/05/us_voluntary_cybersecurity_goals_hospitals/) | Theregister.com | 2024-02-05 |
-| [New Cybersecurity Performance Goals From HHS For Healthcare](https://www.forbes.com/sites/davidchou/2024/02/05/new-cybersecurity-performance-goals-from-hhs-for-healthcare/) | Forbes | 2024-02-05 |
 | [The best jobs of 2024, according to Indeed](https://qz.com/best-jobs-2024-indeed-mental-healthcare-1851190781) | Quartz India | 2024-01-24 |
+| [New Cybersecurity Performance Goals From HHS For Healthcare](https://www.forbes.com/sites/davidchou/2024/02/05/new-cybersecurity-performance-goals-from-hhs-for-healthcare/) | Forbes | 2024-02-05 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/2cdb065ccac3dc1c) | Biztoc.com | 2024-01-30 |
 | [The assassinations at Jenin hospital should not surprise anyone](https://www.aljazeera.com/opinions/2024/2/1/the-assassinations-at-jenin-hospital-should-not-surprise-anyone) | Al Jazeera English | 2024-02-01 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
+| [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
 | [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
-| [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
 
 ## News for Pharma Market Trends
 
