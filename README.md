@@ -24,11 +24,11 @@
 | [AI and robots join forces to cook up proteins faster](https://www.theregister.com/2024/01/15/ai_robot_protein_engineering/) | Theregister.com | 2024-01-15 |
 | [Medicare drug price negotiations hit critical phase](https://www.marketwatch.com/story/medicare-drug-price-negotiations-hit-critical-phase-1f52a7e2) | MarketWatch | 2024-01-18 |
 | [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
+| [Construction Industry Grapples With Its Top Killer: Drug Overdose...](https://dnyuz.com/2024/02/08/construction-industry-grapples-with-its-top-killer-drug-overdose/) | Dnyuz.com | 2024-02-08 |
 | [AI And Pharmaceutical Research: A Partnership That Can Save Lives](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/24/ai-and-pharmaceutical-research-a-partnership-that-can-save-lives/) | Forbes | 2024-01-24 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
 | [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
 | [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
-| [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
 
 ## News for Life Sciences
 
@@ -159,6 +159,7 @@
 | [What would a second Trump presidency look like for health care?](https://www.npr.org/sections/health-shots/2024/01/16/1224938442/what-would-a-second-trump-presidency-look-like-for-health-care) | NPR | 2024-01-16 |
 | [Agribusiness 2024: A Fresh Look At Upcoming Food Safety Regulations](https://www.forbes.com/sites/sap/2024/01/09/agribusiness-2024-a-fresh-look-at-upcoming-food-safety-regulations/) | Forbes | 2024-01-09 |
 | [Marijuana Is Big Business In U.S., But Inconsistent Regulations Persist](https://www.forbes.com/sites/joshuacohen/2024/02/02/marijuana-is-big-business-in-us-but-inconsistent-regulations-persist/) | Forbes | 2024-02-02 |
+| [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
 | [The Telemedicine Revolution: How Legislative Changes Transformed Healthcare](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/05/the-telemedicine-revolution-how-legislative-changes-transformed-healthcare/) | Forbes | 2024-02-05 |
 | [At trade meet, India seeks more pharma inspections & easier visas, US flags laptop import monitoring](https://indianexpress.com/article/business/at-trade-meet-india-seeks-more-pharma-inspections-easier-visas-us-flags-laptop-import-monitoring-9107316/) | The Indian Express | 2024-01-12 |
 | [One-Third Of US Marijuana Users Would Turn To Illegal Market With Marijuana Rescheduling To Pharmacy-Only Sales, Poll Suggests](https://www.forbes.com/sites/dariosabaghi/2024/01/26/one-third-of-us-marijuana-users-would-turn-to-illegal-market-with-marijuana-rescheduling-to-pharmacy-only-sales-poll-suggests/) | Forbes | 2024-01-26 |
@@ -178,5 +179,4 @@
 | [Deadly Drug Tianeptine 'Significant Risk' in US](https://www.newsweek.com/deadly-drug-tianeptine-significant-risk-us-1866367) | Newsweek | 2024-02-02 |
 | [Welldoc® and Databricks: Enhancing Cardiometabolic Care with Improved Data for Tailored Interventions](https://www.databricks.com/blog/welldocr-and-databricks-enhancing-cardiometabolic-care-improved-data-tailored-interventions) | Databricks.com | 2024-02-02 |
 | [U.S. government “authorized” COVID injections by misapplying laws forged to deal with weapons of mass destruction](https://www.naturalnews.com/2024-01-31-government-covid-vaccines-weapons-mass-destruction-emergency.html) | Naturalnews.com | 2024-01-31 |
-| [San Francisco drug overdose deaths hit all-time high in 2023 with FENTANYL largely to blame](https://www.naturalnews.com/2024-02-06-sf-drug-overdose-deaths-all-time-high.html) | Naturalnews.com | 2024-02-06 |
 
