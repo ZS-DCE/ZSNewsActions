@@ -66,6 +66,7 @@
 | ----- | ------ | --------- |
 | [Google Will Now Back Right-to-Repair](https://gizmodo.com/google-android-pixel-jumps-on-right-to-repair-bandwagon-1851162802) | Gizmodo.com | 2024-01-12 |
 | [Trend of the Week: Tech Gets Horny at CES](https://gizmodo.com/trend-of-the-week-tech-gets-horny-at-ces-1851164305) | Gizmodo.com | 2024-01-15 |
+| [Samsung gets FDA approval for a sleep apnea feature on Galaxy Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4606fe-5d3d-4c75-8417-1a2cb887e741) | Yahoo Entertainment | 2024-02-09 |
 | [Movano’s smart ring is the rare CES health gadget that will actually ship](https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024) | The Verge | 2024-01-09 |
 | [Apple Vision Pro Teardown and Stress Test: Those Fake Eyes Can Take a Beating](https://gizmodo.com/apple-vision-pro-teardown-stress-test-1851225919) | Gizmodo.com | 2024-02-05 |
 | [Apple Details Using Vision Pro With Certain Medical Conditions](https://www.macrumors.com/2024/01/19/vision-pro-medical-conditions/) | MacRumors | 2024-01-19 |
@@ -76,6 +77,7 @@
 | [China Plans to Take on Elon Musk’s Neuralink in 2025](https://gizmodo.com/elon-musk-neuralink-china-brain-computer-chip-1851208928) | Gizmodo.com | 2024-01-30 |
 | [Japan will no longer require floppy disks for submitting some official documents](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f99e441-7778-4920-b693-18220009b0be) | Yahoo Entertainment | 2024-01-29 |
 | [Apple Again Banned From Selling Watches In US With Blood Oxygen Sensor](https://apple.slashdot.org/story/24/01/18/0027214/apple-again-banned-from-selling-watches-in-us-with-blood-oxygen-sensor) | Slashdot.org | 2024-01-18 |
+| [Better Living Through Biomedical Engineering](https://hackaday.com/2024/02/09/better-living-through-biomedical-engineering/) | Hackaday | 2024-02-09 |
 | [Apple Says Vision Pro Does Not Support Hard Contact Lenses](https://www.macrumors.com/2024/01/19/apple-says-vision-pro-no-hard-contact-lenses/) | MacRumors | 2024-01-19 |
 | [The MouthPad turns your tongue into a mouse for your phone](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_54613a72-ca87-4fee-96a8-979b84a1ebb7) | Yahoo Entertainment | 2024-01-11 |
 | [You can now sign up to try a $2,000 AI headband that a startup says will help control your dreams](https://www.businessinsider.com/startup-prophetic-launches-ai-powered-dream-headband-2024-1) | Business Insider | 2024-01-30 |
@@ -87,8 +89,6 @@
 | [Apple Watch Series 9 and Ultra 2 sales ban resumes tomorrow, appeals court rules](https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-ban-part-two/) | 9to5Mac | 2024-01-17 |
 | [NSA admits to buying Americans’ web browsing data from brokers without warrants](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaefc147-df40-4654-a416-ffa33d5ddcef) | Yahoo Entertainment | 2024-01-26 |
 | [A Gen Z diabetic said a 3-month supply of insulin pumps would cost her $1,800 — even with insurance](https://www.businessinsider.com/insulin-price-cap-costs-diabetes-supplies-pump-monitor-tiktok-2024-2) | Business Insider | 2024-02-03 |
-| [Your next Samsung smartwatch could come with glucose monitoring](https://phandroid.com/2024/01/24/your-next-samsung-smartwatch-could-come-with-glucose-monitoring/) | Phandroid - News for Android | 2024-01-24 |
-| [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 
 ## News for Healthcare Sector
 
@@ -173,10 +173,10 @@
 | [Fact Check: Is Commercial Chocolate Milk Made from Expired Milk?](https://www.snopes.com/fact-check/chocolate-milk-made-from-expired/) | Snopes.com | 2024-02-06 |
 | [Robotic device burned a woman’s small intestine during surgery, lawsuit alleges](https://www.nbcnews.com/health/health-news/robotic-device-burned-womans-small-intestine-surgery-lawsuit-alleges-rcna137998) | NBC News | 2024-02-09 |
 | [Challenges In The At-Home Medical Testing Space And How To Move The Industry Forward](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/26/challenges-in-the-at-home-medical-testing-space-and-how-to-move-the-industry-forward/) | Forbes | 2024-01-26 |
+| [Hologic AI-powered cancer screening system wins FDA approval](https://www.mobihealthnews.com/news/hologic-ai-powered-cancer-screening-system-wins-fda-approval) | MobiHealthNews | 2024-02-09 |
 | [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
 | [Why is there an ADHD medication shortage in 2024?](https://www.cbsnews.com/news/adhd-medication-shortage-cause/) | CBS News | 2024-02-08 |
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
 | [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
-| [Deadly Drug Tianeptine 'Significant Risk' in US](https://www.newsweek.com/deadly-drug-tianeptine-significant-risk-us-1866367) | Newsweek | 2024-02-02 |
 
