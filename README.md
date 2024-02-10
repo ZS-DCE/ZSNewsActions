@@ -5,16 +5,13 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | ['Pharma Bro' Martin Shkreli's lifetime ban from pharmaceutical industry upheld](https://abcnews.go.com/Business/judge-upholds-pharma-bro-martin-shkrelis-ban-pharmaceutical/story?id=106612918) | ABC News | 2024-01-23 |
-| [Isomorphic Labs partners with pharmaceutical firms for AI-driven drug discovery](https://readwrite.com/isomorphic-labs-partners-with-pharmaceutical-firms-for-ai-driven-drug-discovery/) | ReadWrite | 2024-01-08 |
 | [Bernie Sanders on What Americans Need to Understand About Big Pharma](https://time.com/6692568/bernie-sanders-pharma-drug-prices-interview/) | Time | 2024-02-07 |
 | [Big Pharma CEOs grilled on Capitol Hill over drug prices: 4 key takeaways](https://abcnews.go.com/Business/big-pharma-ceos-grilled-capitol-hill-takeaways/story?id=107057364) | ABC News | 2024-02-08 |
 | [Seniors could soon get a big break on drug prices](https://www.marketwatch.com/story/seniors-could-soon-get-a-big-break-on-drug-prices-0d8f784b) | MarketWatch | 2024-02-01 |
-| [Generative AI in the pharmaceutical industry: Moving from hype to reality](https://www.mckinsey.com/industries/life-sciences/our-insights/generative-ai-in-the-pharmaceutical-industry-moving-from-hype-to-reality) | Mckinsey.com | 2024-01-09 |
 | [Autonomous synthesis robot uses AI to speed up chemical discovery](https://www.sciencedaily.com/releases/2024/01/240125145938.htm) | Science Daily | 2024-01-25 |
 | [What to know about January's annual drug price hikes](https://www.npr.org/sections/health-shots/2024/01/17/1225083485/what-to-know-about-januarys-annual-drug-price-hikes) | NPR | 2024-01-17 |
 | [Is your medication out of stock? Here’s how to get it anyway.](https://www.vox.com/even-better/24062409/medication-shortage-drug-stock-medicine-pharmaceutical-supply-chain-angels-for-change) | Vox | 2024-02-06 |
 | [J&J, Merck and Bristol Myers CEOs, under fire on Capitol Hill, seek to turn up heat on drug-market middlemen](https://www.marketwatch.com/story/j-j-merck-and-bristol-myers-ceos-under-fire-on-capitol-hill-seek-to-turn-up-heat-on-drug-market-middlemen-abe1fc39) | MarketWatch | 2024-02-08 |
-| [Nvidia dives deeper into AI drug development with Amgen, Recursion partnerships](https://www.marketwatch.com/story/nvidia-dives-deeper-into-ai-drug-development-with-amgen-recursion-partnerships-de481c8b) | MarketWatch | 2024-01-08 |
 | [Large-scale mapping of pig genes could lead to greener agriculture, pave the way for new human medicines](https://phys.org/news/2024-01-large-scale-pig-genes-greener.html) | Phys.Org | 2024-01-09 |
 | [‘Pharma Bro’ Martin Shkreli Still Banned For Life From Pharmaceutical Industry](https://www.forbes.com/sites/zacharyfolk/2024/01/23/pharma-bro-martin-shkreli-still-banned-for-life-from-pharmaceutical-industry/) | Forbes | 2024-01-23 |
 | [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/) | Growbyginkgo.com | 2024-01-10 |
@@ -25,20 +22,21 @@
 | [The US uses endangered monkeys to test drugs. This law could free them.](https://www.vox.com/future-perfect/24055003/long-tailed-macaques-biomedical-testing-ozempic-covid-endangered-species-act-cambodia) | Vox | 2024-01-31 |
 | [AI and robots join forces to cook up proteins faster](https://www.theregister.com/2024/01/15/ai_robot_protein_engineering/) | Theregister.com | 2024-01-15 |
 | [Medicare drug price negotiations hit critical phase](https://www.marketwatch.com/story/medicare-drug-price-negotiations-hit-critical-phase-1f52a7e2) | MarketWatch | 2024-01-18 |
-| [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [Construction Industry Grapples With Its Top Killer: Drug Overdose...](https://dnyuz.com/2024/02/08/construction-industry-grapples-with-its-top-killer-drug-overdose/) | Dnyuz.com | 2024-02-08 |
 | [AI And Pharmaceutical Research: A Partnership That Can Save Lives](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/24/ai-and-pharmaceutical-research-a-partnership-that-can-save-lives/) | Forbes | 2024-01-24 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
+| [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
+| [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
+| [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
+| [How Pharma Can Borrow A Page From Digital Health Investors’ Playbook](https://www.forbes.com/sites/forbestechcouncil/2024/01/31/how-pharma-can-borrow-a-page-from-digital-health-investors-playbook/) | Forbes | 2024-01-31 |
 
 ## News for Life Sciences
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Gut health: Goat milk firm's poo post-box tests microbiome](https://www.bbc.co.uk/news/uk-wales-68047167) | BBC News | 2024-01-21 |
-| [Rediscovering the Pleasure of Working Together](https://www.wired.com/story/rediscovering-the-pleasure-of-working-together/) | Wired | 2024-01-08 |
 | ['Boohoo' - how are voters reacting to the MP who 'couldn't afford' mortgage?](https://www.bbc.co.uk/news/uk-england-norfolk-68141420) | BBC News | 2024-01-30 |
 | [Dr. Deborah Birx: "To be cavalier about getting repetitive COVID infections is really a huge mistake"](https://boingboing.net/2024/01/12/dr-deborah-birx-to-be-cavalier-about-getting-repetitive-covid-infections-is-really-a-huge-mistake.html) | Boing Boing | 2024-01-12 |
-| [Value of life](https://en.wikipedia.org/wiki/Value_of_life) | Wikipedia.org | 2024-01-08 |
 | [From moon 'dust' to moon 'soil': Graduate student grows chickpeas in amended moondust](https://phys.org/news/2024-01-moon-soil-student-chickpeas-amended.html) | Phys.Org | 2024-01-31 |
 | [生活の質を上げる。シチズンの健康志向なスマートウォッチ](https://www.gizmodo.jp/2024/01/cz-smart-youq-nasa-ibm-alertness-monitor-watch-1.html) | Gizmodo.jp | 2024-01-18 |
 | [For this beetle, 'date night' comes every other day](https://www.sciencedaily.com/releases/2024/01/240118170552.htm) | Science Daily | 2024-01-18 |
@@ -59,6 +57,8 @@
 | [Learn How AI Expands Life Sciences Growth Potential](https://www.forbes.com/sites/sap/2024/01/19/learn-how-ai-expands-life-sciences-growth-potential/) | Forbes | 2024-01-19 |
 | [9 politicians you didn't know had won Grammy awards — and 7 who have been nominated](https://www.businessinsider.com/grammy-winners-history-politicians-presidents) | Business Insider | 2024-02-03 |
 | [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
+| [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
+| [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 
 ## News for Medical Devices
 
@@ -72,7 +72,6 @@
 | [Future smartphones might never need charging again thanks to this battery](https://www.androidcentral.com/phones/betavolt-technology-developing-radionuclide-battery) | Android Central | 2024-01-12 |
 | [How Healthy Is Your Heart? Find Out at Home Without Any Equipment - CNET](https://www.cnet.com/health/medical/how-healthy-is-your-heart-find-out-at-home-without-equipment/) | CNET | 2024-02-06 |
 | [Vibrating belt that treats low bone density gets FDA approval](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_425d6212-41f3-4fd6-b0f5-e4d2bc0a1c81) | Yahoo Entertainment | 2024-01-22 |
-| [The End of One-Size-Fits-All Health Care](https://www.wired.com/story/the-end-of-one-size-fits-all-health-care/) | Wired | 2024-01-08 |
 | [AEDs are being increasingly mandated across the US, but bystanders aren't using them](https://abcnews.go.com/Health/lifesaving-aeds-increasingly-mandated-bystanders-not-using/story?id=106260242) | ABC News | 2024-01-10 |
 | [China Plans to Take on Elon Musk’s Neuralink in 2025](https://gizmodo.com/elon-musk-neuralink-china-brain-computer-chip-1851208928) | Gizmodo.com | 2024-01-30 |
 | [Japan will no longer require floppy disks for submitting some official documents](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f99e441-7778-4920-b693-18220009b0be) | Yahoo Entertainment | 2024-01-29 |
@@ -89,6 +88,7 @@
 | [NSA admits to buying Americans’ web browsing data from brokers without warrants](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaefc147-df40-4654-a416-ffa33d5ddcef) | Yahoo Entertainment | 2024-01-26 |
 | [A Gen Z diabetic said a 3-month supply of insulin pumps would cost her $1,800 — even with insurance](https://www.businessinsider.com/insulin-price-cap-costs-diabetes-supplies-pump-monitor-tiktok-2024-2) | Business Insider | 2024-02-03 |
 | [Your next Samsung smartwatch could come with glucose monitoring](https://phandroid.com/2024/01/24/your-next-samsung-smartwatch-could-come-with-glucose-monitoring/) | Phandroid - News for Android | 2024-01-24 |
+| [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 
 ## News for Healthcare Sector
 
@@ -117,8 +117,8 @@
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
 | [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
-| [Tech sector powers stock market higher with the Nasdaq jumping 2%](https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-sector-nasdaq-surge-ces-conference-2024-1) | Business Insider | 2024-01-08 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
+| [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
 
 ## News for Pharma Market Trends
 
@@ -126,8 +126,8 @@
 | ----- | ------ | --------- |
 | [Five Major Themes From The 2024 JP Morgan Healthcare Conference](https://www.forbes.com/sites/juergeneckhardt/2024/01/16/five-major-themes-from-the-2024-jp-morgan-healthcare-conference/) | Forbes | 2024-01-16 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-227-12216261.html) | Moneycontrol | 2024-02-08 |
+| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-228-12225971.html) | Moneycontrol | 2024-02-09 |
 | [Nifty on a strong base, to maintain bullish trend: Analysts](https://economictimes.indiatimes.com/markets/stocks/news/nifty-on-a-strong-base-to-maintain-bullish-trend-analysts/articleshow/107064299.cms) | The Times of India | 2024-01-23 |
-| [Five AI-Powered Drug Discovery (AIDD) Industry Predictions For 2024](https://www.forbes.com/sites/alexzhavoronkov/2024/01/08/five-ai-powered-drug-discovery-aidd-industry-predictions-for-2024/) | Forbes | 2024-01-08 |
 | [Moneycontrol Pro Panorama | Ciplaâs results reassure pharma investors Â Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-ciplas-results-reassure-pharma-investors-12108781.html) | Moneycontrol | 2024-01-23 |
 | [Mid-day Mood | Indices erase early gains; banks, FMCG, metals a drag](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-erase-early-gains-banks-fmcg-metals-a-drag-12106891.html) | Moneycontrol | 2024-01-23 |
 | [Non-tech industries can offer job security to tech talent right now](https://www.techspot.com/news/101551-non-tech-industries-can-offer-job-security-tech.html) | TechSpot | 2024-01-17 |
@@ -137,7 +137,6 @@
 | [Daily Voice | This fund manager sees another 10% upside in market, bets on domestic tourism](https://www.moneycontrol.com/news/business/markets/daily-voice-this-fund-manager-sees-another-10-upside-in-market-bets-on-domestic-tourism-12057651.html) | Moneycontrol | 2024-01-16 |
 | [How The 2024 Super Bowl Party Foods Will Be Different](https://www.forbes.com/sites/phillempert/2024/02/07/how-the-2024-super-bowl-party-foods-will-be-different/) | Forbes | 2024-02-07 |
 | [Daily Voice | This investment professional expects no major surprises in budget; pegs on chemical space](https://www.moneycontrol.com/news/business/budget/daily-voice-this-investment-professional-expects-no-major-surprises-in-budget-pegs-on-chemical-space-12135401.html) | Moneycontrol | 2024-01-28 |
-| [The Wellness Company: How antivaccine grift becomes plain old quackery](https://sciencebasedmedicine.org/the-wellness-company-how-antivaccine-grift-becomes-plain-old-quackery/) | Sciencebasedmedicine.org | 2024-01-08 |
 | [Morning market: BSE Sensex up by 600 pts, Nifty 50 at 21,600 level](https://www.thehindubusinessline.com/markets/morning-market-bse-sensex-up-by-600-pts-nifty-50-at-21600-level/article67755034.ece) | BusinessLine | 2024-01-19 |
 | [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
 | [Radiotheranostics Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2024/01/30/2819681/0/en/Radiotheranostics-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2024-01-30 |
@@ -149,6 +148,7 @@
 | [Share Market Highlights 11 January 2024: Sensex, Nifty end marginally in green; Oil and Gas stocks shine](https://www.thehindubusinessline.com/markets/stock-market-highlights-11-january-2024/article67727041.ece) | BusinessLine | 2024-01-11 |
 | [Global Pharmacogenomics Technology Market Report 2023-2028: Personalized Medicine Market Surges Amidst Growing Chronic Diseases and Pharma Investments; Oncology Leads with a Focus on Targeted Cancer Treatments](https://www.globenewswire.com/news-release/2024/02/05/2823284/28124/en/Global-Pharmacogenomics-Technology-Market-Report-2023-2028-Personalized-Medicine-Market-Surges-Amidst-Growing-Chronic-Diseases-and-Pharma-Investments-Oncology-Leads-with-a-Focus-on.html) | GlobeNewswire | 2024-02-05 |
 | [Viatris Earnings History – When Does VTRS Report?](https://zacjohnson.com/viatris-vtrs-earnings-report/) | Zacjohnson.com | 2024-02-05 |
+| [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
 
 ## News for FDA Regulations
 
@@ -171,6 +171,7 @@
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [Supreme Court ruling on use of abortion pill could impact November elections](https://www.naturalnews.com/2024-01-18-supreme-court-abortion-pill-ruling-affect-elections.html) | Naturalnews.com | 2024-01-18 |
 | [Fact Check: Is Commercial Chocolate Milk Made from Expired Milk?](https://www.snopes.com/fact-check/chocolate-milk-made-from-expired/) | Snopes.com | 2024-02-06 |
+| [Robotic device burned a woman’s small intestine during surgery, lawsuit alleges](https://www.nbcnews.com/health/health-news/robotic-device-burned-womans-small-intestine-surgery-lawsuit-alleges-rcna137998) | NBC News | 2024-02-09 |
 | [Challenges In The At-Home Medical Testing Space And How To Move The Industry Forward](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/26/challenges-in-the-at-home-medical-testing-space-and-how-to-move-the-industry-forward/) | Forbes | 2024-01-26 |
 | [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
 | [Why is there an ADHD medication shortage in 2024?](https://www.cbsnews.com/news/adhd-medication-shortage-cause/) | CBS News | 2024-02-08 |
@@ -178,5 +179,4 @@
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
 | [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
 | [Deadly Drug Tianeptine 'Significant Risk' in US](https://www.newsweek.com/deadly-drug-tianeptine-significant-risk-us-1866367) | Newsweek | 2024-02-02 |
-| [Welldoc® and Databricks: Enhancing Cardiometabolic Care with Improved Data for Tailored Interventions](https://www.databricks.com/blog/welldocr-and-databricks-enhancing-cardiometabolic-care-improved-data-tailored-interventions) | Databricks.com | 2024-02-02 |
 
