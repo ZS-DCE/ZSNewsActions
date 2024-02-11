@@ -106,6 +106,7 @@
 | [Layoffs are plaguing the healthcare industry, too](https://qz.com/healthcare-industry-layoffs-pfizer-amazon-health-1851231629) | Quartz India | 2024-02-06 |
 | [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [From the U.S. Senate to Diplomacy—John Kerry’s Leadership Lessons](https://hbr.org/podcast/2024/02/from-the-u-s-senate-to-diplomacy-john-kerrys-leadership-lessons) | Harvard Business Review | 2024-02-07 |
+| [Republicans see Latino voters in Nevada as key to retaking the White House in 2024](https://www.npr.org/2024/02/10/1230546093/republicans-see-latino-voters-in-nevada-as-key-to-retaking-the-white-house-in-20) | NPR | 2024-02-10 |
 | [Zimbabwe nurses seek better conditions abroad but fear for patients at home](https://www.aljazeera.com/features/2024/2/9/zimbabwe-nurses-seek-better-conditions-abroad-but-fear-for-patients-at-home) | Al Jazeera English | 2024-02-09 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
 | [Ignore Uncle Sam's 'voluntary' cybersecurity goals for hospitals at your peril](https://www.theregister.com/2024/02/05/us_voluntary_cybersecurity_goals_hospitals/) | Theregister.com | 2024-02-05 |
@@ -118,7 +119,6 @@
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
 | [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
-| [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
 
 ## News for Pharma Market Trends
 
