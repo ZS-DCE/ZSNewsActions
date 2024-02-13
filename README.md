@@ -64,7 +64,6 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Google Will Now Back Right-to-Repair](https://gizmodo.com/google-android-pixel-jumps-on-right-to-repair-bandwagon-1851162802) | Gizmodo.com | 2024-01-12 |
 | [Trend of the Week: Tech Gets Horny at CES](https://gizmodo.com/trend-of-the-week-tech-gets-horny-at-ces-1851164305) | Gizmodo.com | 2024-01-15 |
 | [Samsung gets FDA approval for a sleep apnea feature on Galaxy Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4606fe-5d3d-4c75-8417-1a2cb887e741) | Yahoo Entertainment | 2024-02-09 |
 | [Apple Vision Pro Teardown and Stress Test: Those Fake Eyes Can Take a Beating](https://gizmodo.com/apple-vision-pro-teardown-stress-test-1851225919) | Gizmodo.com | 2024-02-05 |
@@ -89,6 +88,7 @@
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
 | [How to Live a Healthy Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle) | Wikihow.com | 2024-02-06 |
+| [Masimo CEO says Apple Watch users better off without blood oxygen feature, calls it unreliable](https://9to5mac.com/2024/01/18/masimo-apple-watch-blood-oxygen/) | 9to5Mac | 2024-01-18 |
 
 ## News for Healthcare Sector
 
