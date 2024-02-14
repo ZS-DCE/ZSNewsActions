@@ -26,9 +26,9 @@
 | [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
 | [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
+| [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
 | [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
 | [How Pharma Can Borrow A Page From Digital Health Investors’ Playbook](https://www.forbes.com/sites/forbestechcouncil/2024/01/31/how-pharma-can-borrow-a-page-from-digital-health-investors-playbook/) | Forbes | 2024-01-31 |
-| [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/?utm_source=feed) | The Atlantic | 2024-01-17 |
 
 ## News for Life Sciences
 
