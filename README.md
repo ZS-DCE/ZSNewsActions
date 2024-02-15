@@ -28,7 +28,7 @@
 | [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
 | [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
 | [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
-| [How Pharma Can Borrow A Page From Digital Health Investors’ Playbook](https://www.forbes.com/sites/forbestechcouncil/2024/01/31/how-pharma-can-borrow-a-page-from-digital-health-investors-playbook/) | Forbes | 2024-01-31 |
+| [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 
 ## News for Life Sciences
 
@@ -50,7 +50,6 @@
 | [Key moment in the evolution of life on Earth captured in fossils](https://www.sciencedaily.com/releases/2024/01/240115121239.htm) | Science Daily | 2024-01-15 |
 | [Scientist identify candidate genes associated with albinism in Wels catfish](https://phys.org/news/2024-01-scientist-candidate-genes-albinism-wels.html) | Phys.Org | 2024-01-29 |
 | [Researchers are one step closer to diagnosing CTE during life, rather than after death](https://www.sciencedaily.com/releases/2024/02/240207195120.htm) | Science Daily | 2024-02-08 |
-| [Researchers discover compound that fights leukemia, lymphoma](https://www.sciencedaily.com/releases/2024/01/240113142212.htm) | Science Daily | 2024-01-13 |
 | [A clutch stretch goes a long way](https://www.sciencedaily.com/releases/2024/02/240201212853.htm) | Science Daily | 2024-02-02 |
 | [Young science writer award goes national](https://www.bbc.co.uk/news/science-environment-68134476) | BBC News | 2024-01-30 |
 | [Learn How AI Expands Life Sciences Growth Potential](https://www.forbes.com/sites/sap/2024/01/19/learn-how-ai-expands-life-sciences-growth-potential/) | Forbes | 2024-01-19 |
@@ -59,6 +58,7 @@
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
+| [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
 
 ## News for Medical Devices
 
@@ -96,7 +96,6 @@
 | ----- | ------ | --------- |
 | [The number of new commercial mortgages plummeted 47% last year](https://www.businessinsider.com/federal-reserve-interest-rates-commercial-real-estate-market-mortgages-crash-2024-2) | Business Insider | 2024-02-13 |
 | [The case for healthcare stocks](https://www.marketwatch.com/story/the-case-for-healthcare-stocks-72f5f58c) | MarketWatch | 2024-01-19 |
-| [Asia's green path](https://www.businessinsider.com/sc/southeast-asia-commitment-to-sustainability-advancements-sunway-city) | Business Insider | 2024-01-12 |
 | [The top 4 ways big corporations are fueling global wealth inequality: report](https://www.businessinsider.com/the-4-ways-corporations-fueling-wealth-inequality-2024-1) | Business Insider | 2024-01-28 |
 | [Tech leads stock market’s January rally by wide margin. Watch out for February.](https://www.marketwatch.com/story/tech-leads-stock-markets-january-rally-by-wide-margin-watch-out-for-february-6e1f6d34) | MarketWatch | 2024-01-22 |
 | [A Burger King employee who's worked there for 50 years says she loves her job so much she even comes to work when she's sick or in pain](https://www.businessinsider.com/burger-king-worker-50-years-sick-in-pain-employee-job-2024-1) | Business Insider | 2024-01-29 |
@@ -119,6 +118,7 @@
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
+| [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
 
 ## News for Pharma Market Trends
 
@@ -159,7 +159,6 @@
 | [Marijuana Is Big Business In U.S., But Inconsistent Regulations Persist](https://www.forbes.com/sites/joshuacohen/2024/02/02/marijuana-is-big-business-in-us-but-inconsistent-regulations-persist/) | Forbes | 2024-02-02 |
 | [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
 | [The Telemedicine Revolution: How Legislative Changes Transformed Healthcare](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/05/the-telemedicine-revolution-how-legislative-changes-transformed-healthcare/) | Forbes | 2024-02-05 |
-| [At trade meet, India seeks more pharma inspections & easier visas, US flags laptop import monitoring](https://indianexpress.com/article/business/at-trade-meet-india-seeks-more-pharma-inspections-easier-visas-us-flags-laptop-import-monitoring-9107316/) | The Indian Express | 2024-01-12 |
 | [One-Third Of US Marijuana Users Would Turn To Illegal Market With Marijuana Rescheduling To Pharmacy-Only Sales, Poll Suggests](https://www.forbes.com/sites/dariosabaghi/2024/01/26/one-third-of-us-marijuana-users-would-turn-to-illegal-market-with-marijuana-rescheduling-to-pharmacy-only-sales-poll-suggests/) | Forbes | 2024-01-26 |
 | [Adulteration of Herbal Supplements Continues](https://sciencebasedmedicine.org/adulteration-of-herbal-supplements-continues/) | Sciencebasedmedicine.org | 2024-01-31 |
 | [Pop Star: How Pepsi Got Its Name](https://www.mentalfloss.com/posts/pepsi-name-origin) | Mental Floss | 2024-02-09 |
@@ -174,9 +173,10 @@
 | [Hologic AI-powered cancer screening system wins FDA approval](https://www.mobihealthnews.com/news/hologic-ai-powered-cancer-screening-system-wins-fda-approval) | MobiHealthNews | 2024-02-09 |
 | [Dangerous FDA ruling allows research trials get away with skipping informed consent](https://www.naturalnews.com/2024-02-12-dangerous-fda-trials-skipping-informed-consent.html) | Naturalnews.com | 2024-02-12 |
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
-| [One simple strategy that could undermine Team Trump's newest anti-abortion agenda](https://www.msnbc.com/opinion/msnbc-opinion/trump-white-house-ban-abortion-pill-stockpile-rcna133589) | MSNBC | 2024-01-13 |
 | [Why is there an ADHD medication shortage in 2024?](https://www.cbsnews.com/news/adhd-medication-shortage-cause/) | CBS News | 2024-02-08 |
 | [‘Come and Take It’: Congress’ War Over ZYN Nicotine Pouches](https://www.thedailybeast.com/come-and-take-it-congress-war-over-zyn-nicotine-pouches) | Daily Beast | 2024-02-11 |
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
+| [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
+| [Deadly Drug Tianeptine 'Significant Risk' in US](https://www.newsweek.com/deadly-drug-tianeptine-significant-risk-us-1866367) | Newsweek | 2024-02-02 |
 
