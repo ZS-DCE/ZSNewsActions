@@ -13,6 +13,7 @@
 | [J&J, Merck and Bristol Myers CEOs, under fire on Capitol Hill, seek to turn up heat on drug-market middlemen](https://www.marketwatch.com/story/j-j-merck-and-bristol-myers-ceos-under-fire-on-capitol-hill-seek-to-turn-up-heat-on-drug-market-middlemen-abe1fc39) | MarketWatch | 2024-02-08 |
 | [Is your medication out of stock? Here’s how to get it anyway.](https://www.vox.com/even-better/24062409/medication-shortage-drug-stock-medicine-pharmaceutical-supply-chain-angels-for-change) | Vox | 2024-02-06 |
 | [‘Pharma Bro’ Martin Shkreli Still Banned For Life From Pharmaceutical Industry](https://www.forbes.com/sites/zacharyfolk/2024/01/23/pharma-bro-martin-shkreli-still-banned-for-life-from-pharmaceutical-industry/) | Forbes | 2024-01-23 |
+| [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
 | [Medicinal drugs pollute the St. Lawrence River, presenting possible risk to aquatic organisms: Study](https://phys.org/news/2024-01-medicinal-drugs-pollute-st-lawrence.html) | Phys.Org | 2024-01-31 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/e523290ec8a1c2ba) | Biztoc.com | 2024-01-23 |
 | [Martin Shkreli's lifetime drug industry ban is upheld](https://biztoc.com/x/a16c60cb5db1ee5c) | Biztoc.com | 2024-01-23 |
@@ -28,7 +29,6 @@
 | [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
 | [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
 | [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
-| [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 
 ## News for Life Sciences
 
@@ -107,6 +107,7 @@
 | [From the U.S. Senate to Diplomacy—John Kerry’s Leadership Lessons](https://hbr.org/podcast/2024/02/from-the-u-s-senate-to-diplomacy-john-kerrys-leadership-lessons) | Harvard Business Review | 2024-02-07 |
 | [Republicans see Latino voters in Nevada as key to retaking the White House in 2024](https://www.npr.org/2024/02/10/1230546093/republicans-see-latino-voters-in-nevada-as-key-to-retaking-the-white-house-in-20) | NPR | 2024-02-10 |
 | [Zimbabwe nurses seek better conditions abroad but fear for patients at home](https://www.aljazeera.com/features/2024/2/9/zimbabwe-nurses-seek-better-conditions-abroad-but-fear-for-patients-at-home) | Al Jazeera English | 2024-02-09 |
+| [Paramount, NBC, and more: A timeline of 2024 media layoffs](https://qz.com/2024-media-layoffs-1851253400) | Quartz India | 2024-02-15 |
 | [Navigating Innovation As A Nonprofit Leader In Healthcare](https://www.forbes.com/sites/forbesnonprofitcouncil/2024/01/29/navigating-innovation-as-a-nonprofit-leader-in-healthcare/) | Forbes | 2024-01-29 |
 | [Ignore Uncle Sam's 'voluntary' cybersecurity goals for hospitals at your peril](https://www.theregister.com/2024/02/05/us_voluntary_cybersecurity_goals_hospitals/) | Theregister.com | 2024-02-05 |
 | [The best jobs of 2024, according to Indeed](https://qz.com/best-jobs-2024-indeed-mental-healthcare-1851190781) | Quartz India | 2024-01-24 |
@@ -118,7 +119,6 @@
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [Northern Ireland grinds to a freezing halt over public pay dispute](https://www.aljazeera.com/news/2024/1/18/northern-ireland-grinds-to-a-freezing-halt-over-public-pay-dispute) | Al Jazeera English | 2024-01-18 |
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
-| [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
 
 ## News for Pharma Market Trends
 
@@ -131,6 +131,7 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-231-12261301.html) | Moneycontrol | 2024-02-14 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-229-12237621.html) | Moneycontrol | 2024-02-12 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-232-12272271.html) | Moneycontrol | 2024-02-15 |
+| [Moneycontrol Pro Panorama | Start-up ethos put to test](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-start-up-ethos-put-to-test-12279571.html) | Moneycontrol | 2024-02-15 |
 | [Moneycontrol Pro Panorama | Ciplaâs results reassure pharma investors Â Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-ciplas-results-reassure-pharma-investors-12108781.html) | Moneycontrol | 2024-01-23 |
 | [Mid-day Mood | Indices erase early gains; banks, FMCG, metals a drag](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-erase-early-gains-banks-fmcg-metals-a-drag-12106891.html) | Moneycontrol | 2024-01-23 |
 | [Non-tech industries can offer job security to tech talent right now](https://www.techspot.com/news/101551-non-tech-industries-can-offer-job-security-tech.html) | TechSpot | 2024-01-17 |
@@ -148,7 +149,6 @@
 | [6 Stocks And 1 ETF That Benefit From Ozempic's Popularity](https://www.forbes.com/sites/investor-hub/article/6-stocks-and-1-etf-that-benefit-from-ozempics-popularity/) | Forbes | 2024-01-16 |
 | [Global Pharmacogenomics Technology Market Report 2023-2028: Personalized Medicine Market Surges Amidst Growing Chronic Diseases and Pharma Investments; Oncology Leads with a Focus on Targeted Cancer Treatments](https://www.globenewswire.com/news-release/2024/02/05/2823284/28124/en/Global-Pharmacogenomics-Technology-Market-Report-2023-2028-Personalized-Medicine-Market-Surges-Amidst-Growing-Chronic-Diseases-and-Pharma-Investments-Oncology-Leads-with-a-Focus-on.html) | GlobeNewswire | 2024-02-05 |
 | [Viatris Earnings History – When Does VTRS Report?](https://zacjohnson.com/viatris-vtrs-earnings-report/) | Zacjohnson.com | 2024-02-05 |
-| [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
 
 ## News for FDA Regulations
 
@@ -156,6 +156,7 @@
 | ----- | ------ | --------- |
 | [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529) | Hacker News | 2024-01-16 |
 | [What would a second Trump presidency look like for health care?](https://www.npr.org/sections/health-shots/2024/01/16/1224938442/what-would-a-second-trump-presidency-look-like-for-health-care) | NPR | 2024-01-16 |
+| [Top Biden health official to allies: Push White House to ban menthol](https://www.politico.com/news/2024/02/15/robert-califf-fda-chief-biden-menthol-cigarette-ban-00141549) | Politico | 2024-02-15 |
 | [Marijuana Is Big Business In U.S., But Inconsistent Regulations Persist](https://www.forbes.com/sites/joshuacohen/2024/02/02/marijuana-is-big-business-in-us-but-inconsistent-regulations-persist/) | Forbes | 2024-02-02 |
 | [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
 | [The Telemedicine Revolution: How Legislative Changes Transformed Healthcare](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/05/the-telemedicine-revolution-how-legislative-changes-transformed-healthcare/) | Forbes | 2024-02-05 |
@@ -178,5 +179,4 @@
 | [‘Come and Take It’: Congress’ War Over ZYN Nicotine Pouches](https://www.thedailybeast.com/come-and-take-it-congress-war-over-zyn-nicotine-pouches) | Daily Beast | 2024-02-11 |
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
-| [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
 
