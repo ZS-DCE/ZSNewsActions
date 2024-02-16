@@ -130,6 +130,7 @@
 | [Nifty on a strong base, to maintain bullish trend: Analysts](https://economictimes.indiatimes.com/markets/stocks/news/nifty-on-a-strong-base-to-maintain-bullish-trend-analysts/articleshow/107064299.cms) | The Times of India | 2024-01-23 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-231-12261301.html) | Moneycontrol | 2024-02-14 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-229-12237621.html) | Moneycontrol | 2024-02-12 |
+| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-232-12272271.html) | Moneycontrol | 2024-02-15 |
 | [Moneycontrol Pro Panorama | Ciplaâs results reassure pharma investors Â Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-ciplas-results-reassure-pharma-investors-12108781.html) | Moneycontrol | 2024-01-23 |
 | [Mid-day Mood | Indices erase early gains; banks, FMCG, metals a drag](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-erase-early-gains-banks-fmcg-metals-a-drag-12106891.html) | Moneycontrol | 2024-01-23 |
 | [Non-tech industries can offer job security to tech talent right now](https://www.techspot.com/news/101551-non-tech-industries-can-offer-job-security-tech.html) | TechSpot | 2024-01-17 |
@@ -148,7 +149,6 @@
 | [Global Pharmacogenomics Technology Market Report 2023-2028: Personalized Medicine Market Surges Amidst Growing Chronic Diseases and Pharma Investments; Oncology Leads with a Focus on Targeted Cancer Treatments](https://www.globenewswire.com/news-release/2024/02/05/2823284/28124/en/Global-Pharmacogenomics-Technology-Market-Report-2023-2028-Personalized-Medicine-Market-Surges-Amidst-Growing-Chronic-Diseases-and-Pharma-Investments-Oncology-Leads-with-a-Focus-on.html) | GlobeNewswire | 2024-02-05 |
 | [Viatris Earnings History – When Does VTRS Report?](https://zacjohnson.com/viatris-vtrs-earnings-report/) | Zacjohnson.com | 2024-02-05 |
 | [Smart Inhalers Market Will Reach US$ 235.7 Million by 2033, By Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/16/2809619/0/en/Smart-Inhalers-Market-Will-Reach-US-235-7-Million-by-2033-By-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-16 |
-| [Global Pharmaceutical Logistics Market to Reach $183 Billion by 2031 Owing To the Rapid Increase in Demand for Temperature-controlled Pharmaceuticals | Says Coherent Market Insights](https://www.globenewswire.com/news-release/2024/02/12/2827363/0/en/Global-Pharmaceutical-Logistics-Market-to-Reach-183-Billion-by-2031-Owing-To-the-Rapid-Increase-in-Demand-for-Temperature-controlled-Pharmaceuticals-Says-Coherent-Market-Insights.html) | GlobeNewswire | 2024-02-12 |
 
 ## News for FDA Regulations
 
@@ -163,6 +163,7 @@
 | [Adulteration of Herbal Supplements Continues](https://sciencebasedmedicine.org/adulteration-of-herbal-supplements-continues/) | Sciencebasedmedicine.org | 2024-01-31 |
 | [Pop Star: How Pepsi Got Its Name](https://www.mentalfloss.com/posts/pepsi-name-origin) | Mental Floss | 2024-02-09 |
 | [More Than 500,000 Beds Recalled For Breaking And Causing Injuries](https://www.forbes.com/sites/jamesfarrell/2024/01/18/more-than-500000-beds-recalled-for-breaking-and-causing-injuries/) | Forbes | 2024-01-18 |
+| [InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI](https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/) | Forbes | 2024-02-15 |
 | [Placebo Effects and Direct-to-Consumer Advertising](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202401/placebo-effects-and-direct-to-consumer-advertising) | Psychology Today | 2024-01-19 |
 | [How AI is quietly changing everyday life](https://www.politico.com/news/2024/02/04/how-ai-is-quietly-changing-everyday-life-00138341) | Politico | 2024-02-04 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
@@ -178,5 +179,4 @@
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
 | [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
-| [Deadly Drug Tianeptine 'Significant Risk' in US](https://www.newsweek.com/deadly-drug-tianeptine-significant-risk-us-1866367) | Newsweek | 2024-02-02 |
 
