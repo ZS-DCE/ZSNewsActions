@@ -9,7 +9,6 @@
 | [Big Pharma CEOs grilled on Capitol Hill over drug prices: 4 key takeaways](https://abcnews.go.com/Business/big-pharma-ceos-grilled-capitol-hill-takeaways/story?id=107057364) | ABC News | 2024-02-08 |
 | [Seniors could soon get a big break on drug prices](https://www.marketwatch.com/story/seniors-could-soon-get-a-big-break-on-drug-prices-0d8f784b) | MarketWatch | 2024-02-01 |
 | [Autonomous synthesis robot uses AI to speed up chemical discovery](https://www.sciencedaily.com/releases/2024/01/240125145938.htm) | Science Daily | 2024-01-25 |
-| [What to know about January's annual drug price hikes](https://www.npr.org/sections/health-shots/2024/01/17/1225083485/what-to-know-about-januarys-annual-drug-price-hikes) | NPR | 2024-01-17 |
 | [J&J, Merck and Bristol Myers CEOs, under fire on Capitol Hill, seek to turn up heat on drug-market middlemen](https://www.marketwatch.com/story/j-j-merck-and-bristol-myers-ceos-under-fire-on-capitol-hill-seek-to-turn-up-heat-on-drug-market-middlemen-abe1fc39) | MarketWatch | 2024-02-08 |
 | [Is your medication out of stock? Here’s how to get it anyway.](https://www.vox.com/even-better/24062409/medication-shortage-drug-stock-medicine-pharmaceutical-supply-chain-angels-for-change) | Vox | 2024-02-06 |
 | [‘Pharma Bro’ Martin Shkreli Still Banned For Life From Pharmaceutical Industry](https://www.forbes.com/sites/zacharyfolk/2024/01/23/pharma-bro-martin-shkreli-still-banned-for-life-from-pharmaceutical-industry/) | Forbes | 2024-01-23 |
@@ -29,6 +28,7 @@
 | [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
 | [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
 | [Applying a small voltage to a catalyst can increase the rates of common reactions used in manufacturing, study finds](https://phys.org/news/2024-02-small-voltage-catalyst-common-reactions.html) | Phys.Org | 2024-02-15 |
+| [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 
 ## News for Life Sciences
 
