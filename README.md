@@ -46,8 +46,8 @@
 | [Improving quality of life and sleep in people with memory problems without using drugs](https://www.sciencedaily.com/releases/2024/02/240206161443.htm) | Science Daily | 2024-02-06 |
 | [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [The Internet Has Thoughts on Ken Getting an Oscar Nomination Over Barbie](https://time.com/6565502/margot-robbie-ryan-gosling-greta-gerwig-barbie-oscars/) | Time | 2024-01-23 |
-| [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/) | Worldsensorium.com | 2024-02-14 |
 | [Scientists identify “universal network” of microbes for decomposing flesh](https://arstechnica.com/science/2024/02/how-a-corpses-microbiome-can-help-scientists-nail-down-time-of-death/) | Ars Technica | 2024-02-12 |
+| [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/) | Worldsensorium.com | 2024-02-14 |
 | [Scientist identify candidate genes associated with albinism in Wels catfish](https://phys.org/news/2024-01-scientist-candidate-genes-albinism-wels.html) | Phys.Org | 2024-01-29 |
 | [Researchers are one step closer to diagnosing CTE during life, rather than after death](https://www.sciencedaily.com/releases/2024/02/240207195120.htm) | Science Daily | 2024-02-08 |
 | [A clutch stretch goes a long way](https://www.sciencedaily.com/releases/2024/02/240201212853.htm) | Science Daily | 2024-02-02 |
@@ -173,10 +173,10 @@
 | [Challenges In The At-Home Medical Testing Space And How To Move The Industry Forward](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/26/challenges-in-the-at-home-medical-testing-space-and-how-to-move-the-industry-forward/) | Forbes | 2024-01-26 |
 | [Hologic AI-powered cancer screening system wins FDA approval](https://www.mobihealthnews.com/news/hologic-ai-powered-cancer-screening-system-wins-fda-approval) | MobiHealthNews | 2024-02-09 |
 | [Dangerous FDA ruling allows research trials get away with skipping informed consent](https://www.naturalnews.com/2024-02-12-dangerous-fda-trials-skipping-informed-consent.html) | Naturalnews.com | 2024-02-12 |
+| [Key Addiction Points You Need to Know](https://www.psychologytoday.com/intl/blog/addiction-outlook/202402/key-addiction-points-you-need-to-know) | Psychology Today | 2024-02-17 |
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
 | [Why is there an ADHD medication shortage in 2024?](https://www.cbsnews.com/news/adhd-medication-shortage-cause/) | CBS News | 2024-02-08 |
 | [How To Find—And Keep—Customers With The Highest Lifetime Value](https://www.forbes.com/sites/forbestechcouncil/2024/02/15/how-to-find-and-keep-customers-with-the-highest-lifetime-value/) | Forbes | 2024-02-15 |
 | [‘Come and Take It’: Congress’ War Over ZYN Nicotine Pouches](https://www.thedailybeast.com/come-and-take-it-congress-war-over-zyn-nicotine-pouches) | Daily Beast | 2024-02-11 |
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
-| [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
 
