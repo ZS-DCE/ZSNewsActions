@@ -39,7 +39,6 @@
 | [Life on Mars: NASA calls for volunteers to take part in year-long simulation](https://readwrite.com/life-on-mars-nasa-calls-for-volunteers-to-take-part-in-year-long-simulation/) | ReadWrite | 2024-02-19 |
 | ['Boohoo' - how are voters reacting to the MP who 'couldn't afford' mortgage?](https://www.bbc.co.uk/news/uk-england-norfolk-68141420) | BBC News | 2024-01-30 |
 | [From moon 'dust' to moon 'soil': Graduate student grows chickpeas in amended moondust](https://phys.org/news/2024-01-moon-soil-student-chickpeas-amended.html) | Phys.Org | 2024-01-31 |
-| [For this beetle, 'date night' comes every other day](https://www.sciencedaily.com/releases/2024/01/240118170552.htm) | Science Daily | 2024-01-18 |
 | [A marsupial in Australia will sacrifice sleep for sex, before dying and being eaten by its mate, say scientists](https://www.businessinsider.com/antechinuses-marsupial-australia-study-sacrifice-sleep-sex-eaten-by-mate-2024-1) | Business Insider | 2024-01-26 |
 | [Mimas' surprise: Tiny moon of Saturn holds young ocean beneath icy shell](https://www.sciencedaily.com/releases/2024/02/240207120512.htm) | Science Daily | 2024-02-07 |
 | [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life) | Andreinc.net | 2024-01-21 |
@@ -53,12 +52,13 @@
 | [Researchers are one step closer to diagnosing CTE during life, rather than after death](https://www.sciencedaily.com/releases/2024/02/240207195120.htm) | Science Daily | 2024-02-08 |
 | [A clutch stretch goes a long way](https://www.sciencedaily.com/releases/2024/02/240201212853.htm) | Science Daily | 2024-02-02 |
 | [Young science writer award goes national](https://www.bbc.co.uk/news/science-environment-68134476) | BBC News | 2024-01-30 |
-| [Learn How AI Expands Life Sciences Growth Potential](https://www.forbes.com/sites/sap/2024/01/19/learn-how-ai-expands-life-sciences-growth-potential/) | Forbes | 2024-01-19 |
 | [9 politicians you didn't know had won Grammy awards — and 7 who have been nominated](https://www.businessinsider.com/grammy-winners-history-politicians-presidents) | Business Insider | 2024-02-03 |
 | [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
+| [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
+| [Women exposed to toxic metals may experience earlier aging of their ovaries](https://www.sciencedaily.com/releases/2024/01/240125150035.htm) | Science Daily | 2024-01-25 |
 
 ## News for Medical Devices
 
@@ -66,14 +66,12 @@
 | ----- | ------ | --------- |
 | [Samsung gets FDA approval for a sleep apnea feature on Galaxy Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4606fe-5d3d-4c75-8417-1a2cb887e741) | Yahoo Entertainment | 2024-02-09 |
 | [Apple Vision Pro Teardown and Stress Test: Those Fake Eyes Can Take a Beating](https://gizmodo.com/apple-vision-pro-teardown-stress-test-1851225919) | Gizmodo.com | 2024-02-05 |
-| [Apple Details Using Vision Pro With Certain Medical Conditions](https://www.macrumors.com/2024/01/19/vision-pro-medical-conditions/) | MacRumors | 2024-01-19 |
 | [How Healthy Is Your Heart? Find Out at Home Without Any Equipment - CNET](https://www.cnet.com/health/medical/how-healthy-is-your-heart-find-out-at-home-without-equipment/) | CNET | 2024-02-06 |
 | [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/) | Wired | 2024-02-12 |
 | [Vibrating belt that treats low bone density gets FDA approval](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_425d6212-41f3-4fd6-b0f5-e4d2bc0a1c81) | Yahoo Entertainment | 2024-01-22 |
 | [China Plans to Take on Elon Musk’s Neuralink in 2025](https://gizmodo.com/elon-musk-neuralink-china-brain-computer-chip-1851208928) | Gizmodo.com | 2024-01-30 |
 | [Japan will no longer require floppy disks for submitting some official documents](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f99e441-7778-4920-b693-18220009b0be) | Yahoo Entertainment | 2024-01-29 |
 | [Better Living Through Biomedical Engineering](https://hackaday.com/2024/02/09/better-living-through-biomedical-engineering/) | Hackaday | 2024-02-09 |
-| [Apple Says Vision Pro Does Not Support Hard Contact Lenses](https://www.macrumors.com/2024/01/19/apple-says-vision-pro-no-hard-contact-lenses/) | MacRumors | 2024-01-19 |
 | [You can now sign up to try a $2,000 AI headband that a startup says will help control your dreams](https://www.businessinsider.com/startup-prophetic-launches-ai-powered-dream-headband-2024-1) | Business Insider | 2024-01-30 |
 | [Neuralink: Elon Musk says first human has been implanted with brain chip](https://readwrite.com/neuralink-elon-musk-says-first-human-has-been-implanted-with-brain-chip/) | ReadWrite | 2024-01-30 |
 | [Testing Your C Knowledge With This One Simple Quiz](https://hackaday.com/2024/01/23/testing-your-c-knowledge-with-this-one-simple-quiz/) | Hackaday | 2024-01-23 |
@@ -86,16 +84,17 @@
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
 | [How to Live a Healthy Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle) | Wikihow.com | 2024-02-06 |
-| [Masimo CEO says Apple Watch users better off without blood oxygen feature, calls it unreliable](https://9to5mac.com/2024/01/18/masimo-apple-watch-blood-oxygen/) | 9to5Mac | 2024-01-18 |
 | [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 | [Oura CEO calls Apple Watch sales ban a 'David and Goliath story,' says he'll keep an eye on Samsung's rival smart ring](https://www.businessinsider.com/oura-ceo-samsung-galaxy-ring-apple-watch-patent-dispute-2024-1) | Business Insider | 2024-01-25 |
+| [Neuralink's Brain Chip Is Now in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-now-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-30 |
+| [Neuralink's Brain Chip Is Running in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-running-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-31 |
+| [How Implanted Brain Chips Like Neuralink Could Change Our Lives](https://time.com/6590258/nueralink-brain-implant-chip-first-human/) | Time | 2024-01-30 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [The number of new commercial mortgages plummeted 47% last year](https://www.businessinsider.com/federal-reserve-interest-rates-commercial-real-estate-market-mortgages-crash-2024-2) | Business Insider | 2024-02-13 |
-| [The case for healthcare stocks](https://www.marketwatch.com/story/the-case-for-healthcare-stocks-72f5f58c) | MarketWatch | 2024-01-19 |
 | [The top 4 ways big corporations are fueling global wealth inequality: report](https://www.businessinsider.com/the-4-ways-corporations-fueling-wealth-inequality-2024-1) | Business Insider | 2024-01-28 |
 | [Tech leads stock market’s January rally by wide margin. Watch out for February.](https://www.marketwatch.com/story/tech-leads-stock-markets-january-rally-by-wide-margin-watch-out-for-february-6e1f6d34) | MarketWatch | 2024-01-22 |
 | [A Burger King employee who's worked there for 50 years says she loves her job so much she even comes to work when she's sick or in pain](https://www.businessinsider.com/burger-king-worker-50-years-sick-in-pain-employee-job-2024-1) | Business Insider | 2024-01-29 |
@@ -103,7 +102,6 @@
 | [UK invests £100M in AI research and regulation, £45M in quantum](https://thenextweb.com/news/uk-invests-ai-research-regulation-quantum) | The Next Web | 2024-02-06 |
 | [Mark Huntley on Unlocking Healthcare Sector SEO Opportunities in 2024](https://socialmediaexplorer.com/business-innovation-2/mark-huntley-on-unlocking-healthcare-sector-seo-opportunities-in-2024/) | Socialmediaexplorer.com | 2024-02-12 |
 | [Layoffs are plaguing the healthcare industry, too](https://qz.com/healthcare-industry-layoffs-pfizer-amazon-health-1851231629) | Quartz India | 2024-02-06 |
-| [One sector is camouflaging the market’s recent deterioration. It can only last so long, says this technical analyst.](https://www.marketwatch.com/story/one-sector-is-camouflaging-the-markets-recent-deterioration-it-can-only-last-so-long-says-this-technical-analyst-265aa68e) | MarketWatch | 2024-01-19 |
 | [From the U.S. Senate to Diplomacy—John Kerry’s Leadership Lessons](https://hbr.org/podcast/2024/02/from-the-u-s-senate-to-diplomacy-john-kerrys-leadership-lessons) | Harvard Business Review | 2024-02-07 |
 | [Republicans see Latino voters in Nevada as key to retaking the White House in 2024](https://www.npr.org/2024/02/10/1230546093/republicans-see-latino-voters-in-nevada-as-key-to-retaking-the-white-house-in-20) | NPR | 2024-02-10 |
 | [Zimbabwe nurses seek better conditions abroad but fear for patients at home](https://www.aljazeera.com/features/2024/2/9/zimbabwe-nurses-seek-better-conditions-abroad-but-fear-for-patients-at-home) | Al Jazeera English | 2024-02-09 |
@@ -119,6 +117,8 @@
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
 | [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
+| [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
+| [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
 
 ## News for Pharma Market Trends
 
@@ -138,7 +138,6 @@
 | [Mid-day Mood | Nifty, Sensex inch higher on buying in auto stocks, focus onÂ fundamentals](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-inch-higher-on-buying-in-auto-stocks-focus-on-fundamentals-12287941.html) | Moneycontrol | 2024-02-16 |
 | [How The 2024 Super Bowl Party Foods Will Be Different](https://www.forbes.com/sites/phillempert/2024/02/07/how-the-2024-super-bowl-party-foods-will-be-different/) | Forbes | 2024-02-07 |
 | [Daily Voice | This investment professional expects no major surprises in budget; pegs on chemical space](https://www.moneycontrol.com/news/business/budget/daily-voice-this-investment-professional-expects-no-major-surprises-in-budget-pegs-on-chemical-space-12135401.html) | Moneycontrol | 2024-01-28 |
-| [Morning market: BSE Sensex up by 600 pts, Nifty 50 at 21,600 level](https://www.thehindubusinessline.com/markets/morning-market-bse-sensex-up-by-600-pts-nifty-50-at-21600-level/article67755034.ece) | BusinessLine | 2024-01-19 |
 | [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
 | [Radiotheranostics Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2024/01/30/2819681/0/en/Radiotheranostics-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2024-01-30 |
 | [Opthalmic Topical Therapeutics Market Set to Reach $21.7 Billion by 2030: Santen Pharma, Sun Pharma, and Novartis Dominating via Strategic Alliances, R&D Investments, and New Product Developments](https://www.globenewswire.com/news-release/2024/01/24/2814901/28124/en/Opthalmic-Topical-Therapeutics-Market-Set-to-Reach-21-7-Billion-by-2030-Santen-Pharma-Sun-Pharma-and-Novartis-Dominating-via-Strategic-Alliances-R-D-Investments-and-New-Product-Dev.html) | GlobeNewswire | 2024-01-24 |
@@ -149,6 +148,7 @@
 | [Global Pharmaceutical Logistics Market to Reach $183 Billion by 2031 Owing To the Rapid Increase in Demand for Temperature-controlled Pharmaceuticals | Says Coherent Market Insights](https://www.globenewswire.com/news-release/2024/02/12/2827363/0/en/Global-Pharmaceutical-Logistics-Market-to-Reach-183-Billion-by-2031-Owing-To-the-Rapid-Increase-in-Demand-for-Temperature-controlled-Pharmaceuticals-Says-Coherent-Market-Insights.html) | GlobeNewswire | 2024-02-12 |
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
 | [Martin Edwards Net Worth – How Much Is Martin Edwards Worth?](https://zacjohnson.com/martin-edwards-net-worth-2/) | Zacjohnson.com | 2024-01-23 |
+| [Ocugen to Present at Pharma Market Research Conference](https://www.globenewswire.com/news-release/2024/01/31/2821084/0/en/Ocugen-to-Present-at-Pharma-Market-Research-Conference.html) | GlobeNewswire | 2024-01-31 |
 
 ## News for FDA Regulations
 
@@ -161,9 +161,7 @@
 | [One-Third Of US Marijuana Users Would Turn To Illegal Market With Marijuana Rescheduling To Pharmacy-Only Sales, Poll Suggests](https://www.forbes.com/sites/dariosabaghi/2024/01/26/one-third-of-us-marijuana-users-would-turn-to-illegal-market-with-marijuana-rescheduling-to-pharmacy-only-sales-poll-suggests/) | Forbes | 2024-01-26 |
 | [Adulteration of Herbal Supplements Continues](https://sciencebasedmedicine.org/adulteration-of-herbal-supplements-continues/) | Sciencebasedmedicine.org | 2024-01-31 |
 | [Pop Star: How Pepsi Got Its Name](https://www.mentalfloss.com/posts/pepsi-name-origin) | Mental Floss | 2024-02-09 |
-| [More Than 500,000 Beds Recalled For Breaking And Causing Injuries](https://www.forbes.com/sites/jamesfarrell/2024/01/18/more-than-500000-beds-recalled-for-breaking-and-causing-injuries/) | Forbes | 2024-01-18 |
 | [InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI](https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/) | Forbes | 2024-02-15 |
-| [Placebo Effects and Direct-to-Consumer Advertising](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202401/placebo-effects-and-direct-to-consumer-advertising) | Psychology Today | 2024-01-19 |
 | [How AI is quietly changing everyday life](https://www.politico.com/news/2024/02/04/how-ai-is-quietly-changing-everyday-life-00138341) | Politico | 2024-02-04 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [Fact Check: Is Commercial Chocolate Milk Made from Expired Milk?](https://www.snopes.com/fact-check/chocolate-milk-made-from-expired/) | Snopes.com | 2024-02-06 |
@@ -179,4 +177,6 @@
 | [‘Come and Take It’: Congress’ War Over ZYN Nicotine Pouches](https://www.thedailybeast.com/come-and-take-it-congress-war-over-zyn-nicotine-pouches) | Daily Beast | 2024-02-11 |
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
+| [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
+| [Deadly Drug Tianeptine 'Significant Risk' in US](https://www.newsweek.com/deadly-drug-tianeptine-significant-risk-us-1866367) | Newsweek | 2024-02-02 |
 
