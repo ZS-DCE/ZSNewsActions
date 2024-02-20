@@ -36,6 +36,7 @@
 | ----- | ------ | --------- |
 | [Gut health: Goat milk firm's poo post-box tests microbiome](https://www.bbc.co.uk/news/uk-wales-68047167) | BBC News | 2024-01-21 |
 | [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/) | Wired | 2024-02-11 |
+| [Life on Mars: NASA calls for volunteers to take part in year-long simulation](https://readwrite.com/life-on-mars-nasa-calls-for-volunteers-to-take-part-in-year-long-simulation/) | ReadWrite | 2024-02-19 |
 | ['Boohoo' - how are voters reacting to the MP who 'couldn't afford' mortgage?](https://www.bbc.co.uk/news/uk-england-norfolk-68141420) | BBC News | 2024-01-30 |
 | [From moon 'dust' to moon 'soil': Graduate student grows chickpeas in amended moondust](https://phys.org/news/2024-01-moon-soil-student-chickpeas-amended.html) | Phys.Org | 2024-01-31 |
 | [For this beetle, 'date night' comes every other day](https://www.sciencedaily.com/releases/2024/01/240118170552.htm) | Science Daily | 2024-01-18 |
@@ -45,6 +46,7 @@
 | [Improving quality of life and sleep in people with memory problems without using drugs](https://www.sciencedaily.com/releases/2024/02/240206161443.htm) | Science Daily | 2024-02-06 |
 | [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [The Internet Has Thoughts on Ken Getting an Oscar Nomination Over Barbie](https://time.com/6565502/margot-robbie-ryan-gosling-greta-gerwig-barbie-oscars/) | Time | 2024-01-23 |
+| [Big new idea introduced with the help of tiny plankton](https://www.sciencedaily.com/releases/2024/02/240215142136.htm) | Science Daily | 2024-02-15 |
 | [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/) | Worldsensorium.com | 2024-02-14 |
 | [Scientists identify “universal network” of microbes for decomposing flesh](https://arstechnica.com/science/2024/02/how-a-corpses-microbiome-can-help-scientists-nail-down-time-of-death/) | Ars Technica | 2024-02-12 |
 | [Scientist identify candidate genes associated with albinism in Wels catfish](https://phys.org/news/2024-01-scientist-candidate-genes-albinism-wels.html) | Phys.Org | 2024-01-29 |
@@ -57,8 +59,6 @@
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
-| [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
-| [Women exposed to toxic metals may experience earlier aging of their ovaries](https://www.sciencedaily.com/releases/2024/01/240125150035.htm) | Science Daily | 2024-01-25 |
 
 ## News for Medical Devices
 
