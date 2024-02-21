@@ -56,9 +56,9 @@
 | [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
+| [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
 | [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
-| [Women exposed to toxic metals may experience earlier aging of their ovaries](https://www.sciencedaily.com/releases/2024/01/240125150035.htm) | Science Daily | 2024-01-25 |
 
 ## News for Medical Devices
 
