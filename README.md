@@ -95,6 +95,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [The number of new commercial mortgages plummeted 47% last year](https://www.businessinsider.com/federal-reserve-interest-rates-commercial-real-estate-market-mortgages-crash-2024-2) | Business Insider | 2024-02-13 |
+| [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
 | [The top 4 ways big corporations are fueling global wealth inequality: report](https://www.businessinsider.com/the-4-ways-corporations-fueling-wealth-inequality-2024-1) | Business Insider | 2024-01-28 |
 | [Tech leads stock market’s January rally by wide margin. Watch out for February.](https://www.marketwatch.com/story/tech-leads-stock-markets-january-rally-by-wide-margin-watch-out-for-february-6e1f6d34) | MarketWatch | 2024-01-22 |
 | [A Burger King employee who's worked there for 50 years says she loves her job so much she even comes to work when she's sick or in pain](https://www.businessinsider.com/burger-king-worker-50-years-sick-in-pain-employee-job-2024-1) | Business Insider | 2024-01-29 |
@@ -118,7 +119,6 @@
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
 | [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
 | [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
-| [How Stock Outs Or Shortages Affect Private Healthcare And Consumers](https://www.forbes.com/sites/quora/2024/02/03/how-stock-outs-or-shortages-affect-private-healthcare-and-consumers/) | Forbes | 2024-02-03 |
 
 ## News for Pharma Market Trends
 
@@ -154,6 +154,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
 | [Top Biden health official to allies: Push White House to ban menthol](https://www.politico.com/news/2024/02/15/robert-califf-fda-chief-biden-menthol-cigarette-ban-00141549) | Politico | 2024-02-15 |
 | [Marijuana Is Big Business In U.S., But Inconsistent Regulations Persist](https://www.forbes.com/sites/joshuacohen/2024/02/02/marijuana-is-big-business-in-us-but-inconsistent-regulations-persist/) | Forbes | 2024-02-02 |
 | [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
@@ -178,5 +179,4 @@
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
 | [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
-| [Deadly Drug Tianeptine 'Significant Risk' in US](https://www.newsweek.com/deadly-drug-tianeptine-significant-risk-us-1866367) | Newsweek | 2024-02-02 |
 
