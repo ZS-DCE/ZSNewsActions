@@ -117,8 +117,8 @@
 | [The assassinations at Jenin hospital should not surprise anyone](https://www.aljazeera.com/opinions/2024/2/1/the-assassinations-at-jenin-hospital-should-not-surprise-anyone) | Al Jazeera English | 2024-02-01 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
+| [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 | [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
-| [Elon Musk has egg on his face](https://www.marketwatch.com/story/elon-musk-has-egg-on-his-face-5ee6c762) | MarketWatch | 2024-01-26 |
 
 ## News for Pharma Market Trends
 
@@ -165,6 +165,7 @@
 | [InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI](https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/) | Forbes | 2024-02-15 |
 | [How AI is quietly changing everyday life](https://www.politico.com/news/2024/02/04/how-ai-is-quietly-changing-everyday-life-00138341) | Politico | 2024-02-04 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
+| [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 | [Fact Check: Is Commercial Chocolate Milk Made from Expired Milk?](https://www.snopes.com/fact-check/chocolate-milk-made-from-expired/) | Snopes.com | 2024-02-06 |
 | [What Is Bovine Colostrum, And Why Do People Want To Drink It?](https://www.forbes.com/sites/ninashapiro/2024/02/15/what-is-bovine-colostrum-and-why-do-people-want-to-drink-it/) | Forbes | 2024-02-16 |
 | [Robotic device burned a woman’s small intestine during surgery, lawsuit alleges](https://www.nbcnews.com/health/health-news/robotic-device-burned-womans-small-intestine-surgery-lawsuit-alleges-rcna137998) | NBC News | 2024-02-09 |
@@ -178,5 +179,4 @@
 | [‘Come and Take It’: Congress’ War Over ZYN Nicotine Pouches](https://www.thedailybeast.com/come-and-take-it-congress-war-over-zyn-nicotine-pouches) | Daily Beast | 2024-02-11 |
 | [Tianeptine: why lawmakers fear a new kind of opioid](https://theweek.com/health/tianeptine-health-crisis-fda-opioids) | The Week Magazine | 2024-01-26 |
 | [Repealing the Affordable Care Act? What a second Trump term might mean for health care](https://www.usatoday.com/story/news/health/2024/01/23/trump-health-care-plan-second-term/72280611007/) | USA Today | 2024-01-23 |
-| [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
 
