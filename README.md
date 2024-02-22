@@ -25,10 +25,10 @@
 | [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
 | [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
+| [Which Industry is Likely to Benefit the Most from Generative AI](https://www.noupe.com/business-online/which-industry-is-likely-to-benefit-the-most-from-generative-ai.html) | Noupe.com | 2024-02-21 |
 | [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
 | [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
 | [Applying a small voltage to a catalyst can increase the rates of common reactions used in manufacturing, study finds](https://phys.org/news/2024-02-small-voltage-catalyst-common-reactions.html) | Phys.Org | 2024-02-15 |
-| [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 
 ## News for Life Sciences
 
@@ -135,6 +135,7 @@
 | [Moneycontrol Pro Panorama | Ciplaâs results reassure pharma investors Â Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-ciplas-results-reassure-pharma-investors-12108781.html) | Moneycontrol | 2024-01-23 |
 | [Mid-day Mood | Indices erase early gains; banks, FMCG, metals a drag](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-erase-early-gains-banks-fmcg-metals-a-drag-12106891.html) | Moneycontrol | 2024-01-23 |
 | [Mid-day Mood | Nifty, Sensex inch higher on buying in auto stocks, focus onÂ fundamentals](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-inch-higher-on-buying-in-auto-stocks-focus-on-fundamentals-12287941.html) | Moneycontrol | 2024-02-16 |
+| [Mid-day Mood | Nifty, Sensex trade flat as IT, Media stocks drag; focus on FOMC minutes](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-trade-flat-as-it-media-stocks-drag-focus-on-fomc-minutes-12319761.html) | Moneycontrol | 2024-02-21 |
 | [How The 2024 Super Bowl Party Foods Will Be Different](https://www.forbes.com/sites/phillempert/2024/02/07/how-the-2024-super-bowl-party-foods-will-be-different/) | Forbes | 2024-02-07 |
 | [Daily Voice | This investment professional expects no major surprises in budget; pegs on chemical space](https://www.moneycontrol.com/news/business/budget/daily-voice-this-investment-professional-expects-no-major-surprises-in-budget-pegs-on-chemical-space-12135401.html) | Moneycontrol | 2024-01-28 |
 | [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
@@ -148,7 +149,6 @@
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
 | [Martin Edwards Net Worth – How Much Is Martin Edwards Worth?](https://zacjohnson.com/martin-edwards-net-worth-2/) | Zacjohnson.com | 2024-01-23 |
 | [Ocugen to Present at Pharma Market Research Conference](https://www.globenewswire.com/news-release/2024/01/31/2821084/0/en/Ocugen-to-Present-at-Pharma-Market-Research-Conference.html) | GlobeNewswire | 2024-01-31 |
-| [Ocugen to Present at Pharma Market Research Conference](https://www.marketscreener.com/quote/stock/OCUGEN-INC-19157135/news/Ocugen-to-Present-at-Pharma-Market-Research-Conference-45852578/) | Marketscreener.com | 2024-01-31 |
 
 ## News for FDA Regulations
 
