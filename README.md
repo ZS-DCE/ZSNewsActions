@@ -52,13 +52,13 @@
 | [Researchers are one step closer to diagnosing CTE during life, rather than after death](https://www.sciencedaily.com/releases/2024/02/240207195120.htm) | Science Daily | 2024-02-08 |
 | [A clutch stretch goes a long way](https://www.sciencedaily.com/releases/2024/02/240201212853.htm) | Science Daily | 2024-02-02 |
 | [Young science writer award goes national](https://www.bbc.co.uk/news/science-environment-68134476) | BBC News | 2024-01-30 |
+| [Pioneering LLM Applications In Healthcare And The Life Sciences](https://www.forbes.com/sites/aparnadhinakaran/2024/02/21/pioneering-llm-applications-in-healthcare-and-the-life-sciences/) | Forbes | 2024-02-21 |
 | [9 politicians you didn't know had won Grammy awards — and 7 who have been nominated](https://www.businessinsider.com/grammy-winners-history-politicians-presidents) | Business Insider | 2024-02-03 |
 | [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
-| [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
 
 ## News for Medical Devices
 
