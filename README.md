@@ -11,6 +11,7 @@
 | [Autonomous synthesis robot uses AI to speed up chemical discovery](https://www.sciencedaily.com/releases/2024/01/240125145938.htm) | Science Daily | 2024-01-25 |
 | [J&J, Merck and Bristol Myers CEOs, under fire on Capitol Hill, seek to turn up heat on drug-market middlemen](https://www.marketwatch.com/story/j-j-merck-and-bristol-myers-ceos-under-fire-on-capitol-hill-seek-to-turn-up-heat-on-drug-market-middlemen-abe1fc39) | MarketWatch | 2024-02-08 |
 | [Is your medication out of stock? Here’s how to get it anyway.](https://www.vox.com/even-better/24062409/medication-shortage-drug-stock-medicine-pharmaceutical-supply-chain-angels-for-change) | Vox | 2024-02-06 |
+| [Ozempic and Wegovy sales are so hot they're propelling Denmark's GDP](https://qz.com/denmark-novo-nordisk-ozempic-wegovy-demand-1851272044) | Quartz India | 2024-02-20 |
 | [‘Pharma Bro’ Martin Shkreli Still Banned For Life From Pharmaceutical Industry](https://www.forbes.com/sites/zacharyfolk/2024/01/23/pharma-bro-martin-shkreli-still-banned-for-life-from-pharmaceutical-industry/) | Forbes | 2024-01-23 |
 | [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
 | [Medicinal drugs pollute the St. Lawrence River, presenting possible risk to aquatic organisms: Study](https://phys.org/news/2024-01-medicinal-drugs-pollute-st-lawrence.html) | Phys.Org | 2024-01-31 |
@@ -28,7 +29,6 @@
 | [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
 | [Applying a small voltage to a catalyst can increase the rates of common reactions used in manufacturing, study finds](https://phys.org/news/2024-02-small-voltage-catalyst-common-reactions.html) | Phys.Org | 2024-02-15 |
 | [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
-| [How Pharma Can Borrow A Page From Digital Health Investors’ Playbook](https://www.forbes.com/sites/forbestechcouncil/2024/01/31/how-pharma-can-borrow-a-page-from-digital-health-investors-playbook/) | Forbes | 2024-01-31 |
 
 ## News for Life Sciences
 
