@@ -56,9 +56,9 @@
 | [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
+| [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
 | [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
-| [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
 
 ## News for Medical Devices
 
@@ -134,7 +134,6 @@
 | [Moneycontrol Pro Panorama | Start-up ethos put to test](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-start-up-ethos-put-to-test-12279571.html) | Moneycontrol | 2024-02-15 |
 | [Moneycontrol Pro Panorama | Ciplaâs results reassure pharma investors Â Â](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-ciplas-results-reassure-pharma-investors-12108781.html) | Moneycontrol | 2024-01-23 |
 | [Mid-day Mood | Indices erase early gains; banks, FMCG, metals a drag](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-erase-early-gains-banks-fmcg-metals-a-drag-12106891.html) | Moneycontrol | 2024-01-23 |
-| [Pharma riding on strong tailwinds into 2024](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/pharma-riding-on-strong-tailwinds-into-2024/article67759028.ece) | BusinessLine | 2024-01-20 |
 | [Mid-day Mood | Nifty, Sensex inch higher on buying in auto stocks, focus onÂ fundamentals](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-inch-higher-on-buying-in-auto-stocks-focus-on-fundamentals-12287941.html) | Moneycontrol | 2024-02-16 |
 | [How The 2024 Super Bowl Party Foods Will Be Different](https://www.forbes.com/sites/phillempert/2024/02/07/how-the-2024-super-bowl-party-foods-will-be-different/) | Forbes | 2024-02-07 |
 | [Daily Voice | This investment professional expects no major surprises in budget; pegs on chemical space](https://www.moneycontrol.com/news/business/budget/daily-voice-this-investment-professional-expects-no-major-surprises-in-budget-pegs-on-chemical-space-12135401.html) | Moneycontrol | 2024-01-28 |
@@ -149,6 +148,7 @@
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
 | [Martin Edwards Net Worth – How Much Is Martin Edwards Worth?](https://zacjohnson.com/martin-edwards-net-worth-2/) | Zacjohnson.com | 2024-01-23 |
 | [Ocugen to Present at Pharma Market Research Conference](https://www.globenewswire.com/news-release/2024/01/31/2821084/0/en/Ocugen-to-Present-at-Pharma-Market-Research-Conference.html) | GlobeNewswire | 2024-01-31 |
+| [Ocugen to Present at Pharma Market Research Conference](https://www.marketscreener.com/quote/stock/OCUGEN-INC-19157135/news/Ocugen-to-Present-at-Pharma-Market-Research-Conference-45852578/) | Marketscreener.com | 2024-01-31 |
 
 ## News for FDA Regulations
 
