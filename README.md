@@ -136,6 +136,7 @@
 | [Mid-day Mood | Indices erase early gains; banks, FMCG, metals a drag](https://www.moneycontrol.com/news/business/markets/mid-day-mood-indices-erase-early-gains-banks-fmcg-metals-a-drag-12106891.html) | Moneycontrol | 2024-01-23 |
 | [Mid-day Mood | Nifty, Sensex inch higher on buying in auto stocks, focus onÂ fundamentals](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-inch-higher-on-buying-in-auto-stocks-focus-on-fundamentals-12287941.html) | Moneycontrol | 2024-02-16 |
 | [Mid-day Mood | Nifty, Sensex trade flat as IT, Media stocks drag; focus on FOMC minutes](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-trade-flat-as-it-media-stocks-drag-focus-on-fomc-minutes-12319761.html) | Moneycontrol | 2024-02-21 |
+| [Media Briefing: Publishers say Q1 is ‘off like a rocket’ after a lousy 2023](http://digiday.com/media/media-briefing-publishers-say-q1-is-off-like-a-rocket-after-a-lousy-2023/) | Digiday | 2024-02-22 |
 | [How The 2024 Super Bowl Party Foods Will Be Different](https://www.forbes.com/sites/phillempert/2024/02/07/how-the-2024-super-bowl-party-foods-will-be-different/) | Forbes | 2024-02-07 |
 | [Daily Voice | This investment professional expects no major surprises in budget; pegs on chemical space](https://www.moneycontrol.com/news/business/budget/daily-voice-this-investment-professional-expects-no-major-surprises-in-budget-pegs-on-chemical-space-12135401.html) | Moneycontrol | 2024-01-28 |
 | [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
@@ -148,7 +149,6 @@
 | [Global Pharmaceutical Logistics Market to Reach $183 Billion by 2031 Owing To the Rapid Increase in Demand for Temperature-controlled Pharmaceuticals | Says Coherent Market Insights](https://www.globenewswire.com/news-release/2024/02/12/2827363/0/en/Global-Pharmaceutical-Logistics-Market-to-Reach-183-Billion-by-2031-Owing-To-the-Rapid-Increase-in-Demand-for-Temperature-controlled-Pharmaceuticals-Says-Coherent-Market-Insights.html) | GlobeNewswire | 2024-02-12 |
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
 | [Martin Edwards Net Worth – How Much Is Martin Edwards Worth?](https://zacjohnson.com/martin-edwards-net-worth-2/) | Zacjohnson.com | 2024-01-23 |
-| [Ocugen to Present at Pharma Market Research Conference](https://www.globenewswire.com/news-release/2024/01/31/2821084/0/en/Ocugen-to-Present-at-Pharma-Market-Research-Conference.html) | GlobeNewswire | 2024-01-31 |
 
 ## News for FDA Regulations
 
