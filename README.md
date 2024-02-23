@@ -45,6 +45,7 @@
 | [Improving quality of life and sleep in people with memory problems without using drugs](https://www.sciencedaily.com/releases/2024/02/240206161443.htm) | Science Daily | 2024-02-06 |
 | [Shallow soda lakes show promise as cradles of life on Earth](https://www.sciencedaily.com/releases/2024/01/240122182834.htm) | Science Daily | 2024-01-22 |
 | [The Internet Has Thoughts on Ken Getting an Oscar Nomination Over Barbie](https://time.com/6565502/margot-robbie-ryan-gosling-greta-gerwig-barbie-oscars/) | Time | 2024-01-23 |
+| [Three years later, search for life on Mars continues](https://www.sciencedaily.com/releases/2024/02/240222122312.htm) | Science Daily | 2024-02-22 |
 | [Big new idea introduced with the help of tiny plankton](https://www.sciencedaily.com/releases/2024/02/240215142136.htm) | Science Daily | 2024-02-15 |
 | [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/) | Worldsensorium.com | 2024-02-14 |
 | [Scientists identify “universal network” of microbes for decomposing flesh](https://arstechnica.com/science/2024/02/how-a-corpses-microbiome-can-help-scientists-nail-down-time-of-death/) | Ars Technica | 2024-02-12 |
@@ -58,7 +59,6 @@
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
-| [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
 
 ## News for Medical Devices
 
@@ -71,6 +71,7 @@
 | [Apple Vision Pro Teardown and Stress Test: Those Fake Eyes Can Take a Beating](https://gizmodo.com/apple-vision-pro-teardown-stress-test-1851225919) | Gizmodo.com | 2024-02-05 |
 | [How Healthy Is Your Heart? Find Out at Home Without Any Equipment - CNET](https://www.cnet.com/health/medical/how-healthy-is-your-heart-find-out-at-home-without-equipment/) | CNET | 2024-02-06 |
 | [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/) | Wired | 2024-02-12 |
+| [US FDA issue warning over smartwatches and smart rings](https://readwrite.com/fda-warns-of-smart-devices-that-claim-to-report-blood-glucose-levels/) | ReadWrite | 2024-02-22 |
 | [Vibrating belt that treats low bone density gets FDA approval](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_425d6212-41f3-4fd6-b0f5-e4d2bc0a1c81) | Yahoo Entertainment | 2024-01-22 |
 | [China Plans to Take on Elon Musk’s Neuralink in 2025](https://gizmodo.com/elon-musk-neuralink-china-brain-computer-chip-1851208928) | Gizmodo.com | 2024-01-30 |
 | [Japan will no longer require floppy disks for submitting some official documents](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f99e441-7778-4920-b693-18220009b0be) | Yahoo Entertainment | 2024-01-29 |
@@ -88,7 +89,6 @@
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/01/24/apple-watch-ban-news/) | 9to5Mac | 2024-01-24 |
 | [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
 | [How to Live a Healthy Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle) | Wikihow.com | 2024-02-06 |
-| [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 
 ## News for Healthcare Sector
 
@@ -148,7 +148,7 @@
 | [Global Pharmaceutical Logistics Market to Reach $183 Billion by 2031 Owing To the Rapid Increase in Demand for Temperature-controlled Pharmaceuticals | Says Coherent Market Insights](https://www.globenewswire.com/news-release/2024/02/12/2827363/0/en/Global-Pharmaceutical-Logistics-Market-to-Reach-183-Billion-by-2031-Owing-To-the-Rapid-Increase-in-Demand-for-Temperature-controlled-Pharmaceuticals-Says-Coherent-Market-Insights.html) | GlobeNewswire | 2024-02-12 |
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
 | [Martin Edwards Net Worth – How Much Is Martin Edwards Worth?](https://zacjohnson.com/martin-edwards-net-worth-2/) | Zacjohnson.com | 2024-01-23 |
-| [Ocugen to Present at Pharma Market Research Conference](https://www.globenewswire.com/news-release/2024/01/31/2821084/0/en/Ocugen-to-Present-at-Pharma-Market-Research-Conference.html) | GlobeNewswire | 2024-01-31 |
+| [Ocugen to Present at Pharma Market Research Conference](https://www.marketscreener.com/quote/stock/OCUGEN-INC-19157135/news/Ocugen-to-Present-at-Pharma-Market-Research-Conference-45852578/) | Marketscreener.com | 2024-01-31 |
 
 ## News for FDA Regulations
 
