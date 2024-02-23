@@ -23,12 +23,12 @@
 | [Weight-loss drugs aren't a magic bullet. Lifestyle changes are key to lasting health](https://www.npr.org/sections/health-shots/2024/02/12/1229920739/weight-loss-drugs-ozempic-arent-magic-bullet-lifestyle-changes-lasting-health) | NPR | 2024-02-12 |
 | [Construction Industry Grapples With Its Top Killer: Drug Overdose...](https://dnyuz.com/2024/02/08/construction-industry-grapples-with-its-top-killer-drug-overdose/) | Dnyuz.com | 2024-02-08 |
 | [AI And Pharmaceutical Research: A Partnership That Can Save Lives](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/24/ai-and-pharmaceutical-research-a-partnership-that-can-save-lives/) | Forbes | 2024-01-24 |
-| [What Got The Pharma Industry Here Won’t Get It There: Navigating A Complex Path Forward](https://www.forbes.com/sites/forbesfinancecouncil/2024/01/22/what-got-the-pharma-industry-here-wont-get-it-there-navigating-a-complex-path-forward/) | Forbes | 2024-01-22 |
 | [Martin Shkreli ban from pharmaceutical industry upheld by US court](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc01379e-9de6-45fc-8346-8b314a746a2a) | Yahoo Entertainment | 2024-01-24 |
 | [Appeals court upholds Martin Shkreli's lifetime ban from pharmaceutical industry](https://www.upi.com/Top_News/US/2024/01/24/Martin-Shkreli-lifetime-ban-upheld/3741706069322/) | UPI.com | 2024-01-24 |
 | [Which Industry is Likely to Benefit the Most from Generative AI](https://www.noupe.com/business-online/which-industry-is-likely-to-benefit-the-most-from-generative-ai.html) | Noupe.com | 2024-02-21 |
 | [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
 | [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
+| [Applying a small voltage to a catalyst can increase the rates of common reactions used in manufacturing, study finds](https://phys.org/news/2024-02-small-voltage-catalyst-common-reactions.html) | Phys.Org | 2024-02-15 |
 
 ## News for Life Sciences
 
@@ -57,8 +57,8 @@
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
-| [Ireland’s life sciences M&As surged in value last year](https://biztoc.com/x/69657513ab1e8664) | Biztoc.com | 2024-01-22 |
 | [Joe Lewis, billionaire owner of Tottenham Hotspur football club, pleads guilty to insider trading](https://www.marketwatch.com/story/joe-lewis-billionaire-owner-of-tottenham-hotspur-football-club-pleads-guilty-to-insider-trading-29d462c3) | MarketWatch | 2024-01-24 |
+| [Women exposed to toxic metals may experience earlier aging of their ovaries](https://www.sciencedaily.com/releases/2024/01/240125150035.htm) | Science Daily | 2024-01-25 |
 
 ## News for Medical Devices
 
@@ -142,13 +142,13 @@
 | [Pfizer Layoffs – Pfizer Job Cuts and Business Future](https://zacjohnson.com/pfizer-layoffs/) | Zacjohnson.com | 2024-01-30 |
 | [Radiotheranostics Market Current Trends and Future Scope Analysis Report](https://www.globenewswire.com/news-release/2024/01/30/2819681/0/en/Radiotheranostics-Market-Current-Trends-and-Future-Scope-Analysis-Report.html) | GlobeNewswire | 2024-01-30 |
 | [Opthalmic Topical Therapeutics Market Set to Reach $21.7 Billion by 2030: Santen Pharma, Sun Pharma, and Novartis Dominating via Strategic Alliances, R&D Investments, and New Product Developments](https://www.globenewswire.com/news-release/2024/01/24/2814901/28124/en/Opthalmic-Topical-Therapeutics-Market-Set-to-Reach-21-7-Billion-by-2030-Santen-Pharma-Sun-Pharma-and-Novartis-Dominating-via-Strategic-Alliances-R-D-Investments-and-New-Product-Dev.html) | GlobeNewswire | 2024-01-24 |
-| [Gelatin Market Expected to Reach $5.7 Billion by 2030, Projection by Persistence Market Research](https://www.globenewswire.com/news-release/2024/01/22/2812697/0/en/Gelatin-Market-Expected-to-Reach-5-7-Billion-by-2030-Projection-by-Persistence-Market-Research.html) | GlobeNewswire | 2024-01-22 |
 | [Bank Nifty in for correction; 2 pharma stocks to buy now: Meghana Malkan](https://economictimes.indiatimes.com/markets/expert-view/bank-nifty-in-for-correction-2-pharma-stocks-to-buy-now-meghana-malkan/articleshow/107077327.cms) | The Times of India | 2024-01-23 |
 | [Global Pharmacogenomics Technology Market Report 2023-2028: Personalized Medicine Market Surges Amidst Growing Chronic Diseases and Pharma Investments; Oncology Leads with a Focus on Targeted Cancer Treatments](https://www.globenewswire.com/news-release/2024/02/05/2823284/28124/en/Global-Pharmacogenomics-Technology-Market-Report-2023-2028-Personalized-Medicine-Market-Surges-Amidst-Growing-Chronic-Diseases-and-Pharma-Investments-Oncology-Leads-with-a-Focus-on.html) | GlobeNewswire | 2024-02-05 |
 | [Viatris Earnings History – When Does VTRS Report?](https://zacjohnson.com/viatris-vtrs-earnings-report/) | Zacjohnson.com | 2024-02-05 |
 | [Global Pharmaceutical Logistics Market to Reach $183 Billion by 2031 Owing To the Rapid Increase in Demand for Temperature-controlled Pharmaceuticals | Says Coherent Market Insights](https://www.globenewswire.com/news-release/2024/02/12/2827363/0/en/Global-Pharmaceutical-Logistics-Market-to-Reach-183-Billion-by-2031-Owing-To-the-Rapid-Increase-in-Demand-for-Temperature-controlled-Pharmaceuticals-Says-Coherent-Market-Insights.html) | GlobeNewswire | 2024-02-12 |
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
 | [Martin Edwards Net Worth – How Much Is Martin Edwards Worth?](https://zacjohnson.com/martin-edwards-net-worth-2/) | Zacjohnson.com | 2024-01-23 |
+| [Ocugen to Present at Pharma Market Research Conference](https://www.marketscreener.com/quote/stock/OCUGEN-INC-19157135/news/Ocugen-to-Present-at-Pharma-Market-Research-Conference-45852578/) | Marketscreener.com | 2024-01-31 |
 
 ## News for FDA Regulations
 
