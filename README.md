@@ -147,8 +147,8 @@
 | [Viatris Earnings History – When Does VTRS Report?](https://zacjohnson.com/viatris-vtrs-earnings-report/) | Zacjohnson.com | 2024-02-05 |
 | [Global Pharmaceutical Logistics Market to Reach $183 Billion by 2031 Owing To the Rapid Increase in Demand for Temperature-controlled Pharmaceuticals | Says Coherent Market Insights](https://www.globenewswire.com/news-release/2024/02/12/2827363/0/en/Global-Pharmaceutical-Logistics-Market-to-Reach-183-Billion-by-2031-Owing-To-the-Rapid-Increase-in-Demand-for-Temperature-controlled-Pharmaceuticals-Says-Coherent-Market-Insights.html) | GlobeNewswire | 2024-02-12 |
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
+| [Clinical Trial Imaging Market To Reach USD 2.5 Billion By 2032 Report By DataHorizzon Research](https://www.globenewswire.com/news-release/2024/02/23/2834377/0/en/Clinical-Trial-Imaging-Market-To-Reach-USD-2-5-Billion-By-2032-Report-By-DataHorizzon-Research.html) | GlobeNewswire | 2024-02-23 |
 | [Martin Edwards Net Worth – How Much Is Martin Edwards Worth?](https://zacjohnson.com/martin-edwards-net-worth-2/) | Zacjohnson.com | 2024-01-23 |
-| [Ocugen to Present at Pharma Market Research Conference](https://www.marketscreener.com/quote/stock/OCUGEN-INC-19157135/news/Ocugen-to-Present-at-Pharma-Market-Research-Conference-45852578/) | Marketscreener.com | 2024-01-31 |
 
 ## News for FDA Regulations
 
