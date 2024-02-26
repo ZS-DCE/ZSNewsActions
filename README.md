@@ -73,6 +73,7 @@
 | [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/) | Wired | 2024-02-12 |
 | [US FDA issue warning over smartwatches and smart rings](https://readwrite.com/fda-warns-of-smart-devices-that-claim-to-report-blood-glucose-levels/) | ReadWrite | 2024-02-22 |
 | [China Plans to Take on Elon Musk’s Neuralink in 2025](https://gizmodo.com/elon-musk-neuralink-china-brain-computer-chip-1851208928) | Gizmodo.com | 2024-01-30 |
+| [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references) | Stanford.edu | 2024-02-24 |
 | [Japan will no longer require floppy disks for submitting some official documents](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f99e441-7778-4920-b693-18220009b0be) | Yahoo Entertainment | 2024-01-29 |
 | [Better Living Through Biomedical Engineering](https://hackaday.com/2024/02/09/better-living-through-biomedical-engineering/) | Hackaday | 2024-02-09 |
 | [You can now sign up to try a $2,000 AI headband that a startup says will help control your dreams](https://www.businessinsider.com/startup-prophetic-launches-ai-powered-dream-headband-2024-1) | Business Insider | 2024-01-30 |
@@ -88,7 +89,6 @@
 | [How to Live a Healthy Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle) | Wikihow.com | 2024-02-06 |
 | [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 | [Oura CEO calls Apple Watch sales ban a 'David and Goliath story,' says he'll keep an eye on Samsung's rival smart ring](https://www.businessinsider.com/oura-ceo-samsung-galaxy-ring-apple-watch-patent-dispute-2024-1) | Business Insider | 2024-01-25 |
-| [Neuralink's Brain Chip Is Now in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-now-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-30 |
 
 ## News for Healthcare Sector
 
