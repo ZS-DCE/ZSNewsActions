@@ -131,6 +131,7 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-229-12237621.html) | Moneycontrol | 2024-02-12 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-232-12272271.html) | Moneycontrol | 2024-02-15 |
 | [Moneycontrol Pro Panorama | Start-up ethos put to test](https://www.moneycontrol.com/news/opinion/moneycontrol-pro-panorama-start-up-ethos-put-to-test-12279571.html) | Moneycontrol | 2024-02-15 |
+| [Mid-day Mood | Sensex, Nifty tumble as profit-booking drags heavyweights](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-tumble-as-profit-booking-drags-heavyweights-12349691.html) | Moneycontrol | 2024-02-26 |
 | [Mid-day Mood | Nifty, Sensex inch higher on buying in auto stocks, focus onÂ fundamentals](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-inch-higher-on-buying-in-auto-stocks-focus-on-fundamentals-12287941.html) | Moneycontrol | 2024-02-16 |
 | [Mid-day Mood | Nifty, Sensex trade flat as IT, Media stocks drag; focus on FOMC minutes](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-trade-flat-as-it-media-stocks-drag-focus-on-fomc-minutes-12319761.html) | Moneycontrol | 2024-02-21 |
 | [Media Briefing: Publishers say Q1 is ‘off like a rocket’ after a lousy 2023](http://digiday.com/media/media-briefing-publishers-say-q1-is-off-like-a-rocket-after-a-lousy-2023/) | Digiday | 2024-02-22 |
@@ -148,7 +149,6 @@
 | [Ocugen to Present at Pharma Market Research Conference](https://www.marketscreener.com/quote/stock/OCUGEN-INC-19157135/news/Ocugen-to-Present-at-Pharma-Market-Research-Conference-45852578/) | Marketscreener.com | 2024-01-31 |
 | [Aseptic Pharma Processing Market Poised for Robust Growth, New Study Projects Significant Opportunities in Packaging and Processing by 2030](https://www.globenewswire.com/news-release/2024/02/14/2829491/28124/en/Aseptic-Pharma-Processing-Market-Poised-for-Robust-Growth-New-Study-Projects-Significant-Opportunities-in-Packaging-and-Processing-by-2030.html) | GlobeNewswire | 2024-02-14 |
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
-| [India Contract Manufacturing Market Poised for Remarkable Growth, Size Expected to Reach USD 38.92 Billion by 2028](https://www.globenewswire.com/news-release/2024/01/31/2820632/28124/en/India-Contract-Manufacturing-Market-Poised-for-Remarkable-Growth-Size-Expected-to-Reach-USD-38-92-Billion-by-2028.html) | GlobeNewswire | 2024-01-31 |
 
 ## News for FDA Regulations
 
