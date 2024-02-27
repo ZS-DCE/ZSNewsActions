@@ -11,6 +11,7 @@
 | [Is your medication out of stock? Here’s how to get it anyway.](https://www.vox.com/even-better/24062409/medication-shortage-drug-stock-medicine-pharmaceutical-supply-chain-angels-for-change) | Vox | 2024-02-06 |
 | [New drug prices surged last year, fueled by treatments for rare diseases](https://qz.com/drug-prices-pharma-rare-diseases-2023-1851281956) | Quartz India | 2024-02-23 |
 | [Ozempic and Wegovy sales are so hot they're propelling Denmark's GDP](https://qz.com/denmark-novo-nordisk-ozempic-wegovy-demand-1851272044) | Quartz India | 2024-02-20 |
+| [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
 | [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
 | [Medicinal drugs pollute the St. Lawrence River, presenting possible risk to aquatic organisms: Study](https://phys.org/news/2024-01-medicinal-drugs-pollute-st-lawrence.html) | Phys.Org | 2024-01-31 |
 | [The US uses endangered monkeys to test drugs. This law could free them.](https://www.vox.com/future-perfect/24055003/long-tailed-macaques-biomedical-testing-ozempic-covid-endangered-species-act-cambodia) | Vox | 2024-01-31 |
@@ -28,7 +29,6 @@
 | [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
 | [Can Blockchain Solve Healthcare? Nigeria Bets On The Technology To Curb Fake Drugs](https://biztoc.com/x/e2a0dde1c8ff39cd) | Biztoc.com | 2024-02-11 |
 | [Merck, J&J and Bristol Myers CEOs face drug-pricing grilling on Capitol Hill, but experts cite deeper problems under the radar](https://www.marketwatch.com/story/merck-j-j-and-bristol-myers-ceos-face-drug-pricing-grilling-on-capitol-hill-but-experts-cite-deeper-problems-under-the-radar-3bd4055f) | MarketWatch | 2024-02-07 |
-| [How To Find—And Keep—Customers With The Highest Lifetime Value](https://www.forbes.com/sites/forbestechcouncil/2024/02/15/how-to-find-and-keep-customers-with-the-highest-lifetime-value/) | Forbes | 2024-02-15 |
 
 ## News for Life Sciences
 
@@ -39,7 +39,6 @@
 | [Life on Mars: NASA calls for volunteers to take part in year-long simulation](https://readwrite.com/life-on-mars-nasa-calls-for-volunteers-to-take-part-in-year-long-simulation/) | ReadWrite | 2024-02-19 |
 | ['Boohoo' - how are voters reacting to the MP who 'couldn't afford' mortgage?](https://www.bbc.co.uk/news/uk-england-norfolk-68141420) | BBC News | 2024-01-30 |
 | [From moon 'dust' to moon 'soil': Graduate student grows chickpeas in amended moondust](https://phys.org/news/2024-01-moon-soil-student-chickpeas-amended.html) | Phys.Org | 2024-01-31 |
-| [A marsupial in Australia will sacrifice sleep for sex, before dying and being eaten by its mate, say scientists](https://www.businessinsider.com/antechinuses-marsupial-australia-study-sacrifice-sleep-sex-eaten-by-mate-2024-1) | Business Insider | 2024-01-26 |
 | [New research reveals activation mechanism of Thoeris antiviral defense system](https://phys.org/news/2024-02-reveals-mechanism-thoeris-antiviral-defense.html) | Phys.Org | 2024-02-22 |
 | [Mimas' surprise: Tiny moon of Saturn holds young ocean beneath icy shell](https://www.sciencedaily.com/releases/2024/02/240207120512.htm) | Science Daily | 2024-02-07 |
 | [Alphabet's Verily Founder Andy Conrad Departs for VC Firm S32](https://finance.yahoo.com/news/alphabets-verily-founder-andy-conrad-140000507.html) | Yahoo Entertainment | 2024-02-22 |
@@ -59,6 +58,7 @@
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
+| [Study opens the door for developing gene drive strains for the population suppression of medfly](https://phys.org/news/2024-01-door-gene-strains-population-suppression.html) | Phys.Org | 2024-01-30 |
 
 ## News for Medical Devices
 
@@ -81,7 +81,6 @@
 | [Neuralink chip implant human can control computer mouse by thinking: Musk](https://readwrite.com/neuralink-chip-implant-human-can-control-computer-mouse-by-thinking-musk/) | ReadWrite | 2024-02-20 |
 | [Abbott Laboratories says FDA independent panel votes to approve heart device](https://www.marketwatch.com/story/abbott-laboratories-says-fda-independent-panel-votes-to-approve-heart-device-c796f12f) | MarketWatch | 2024-02-14 |
 | [MIT Researchers Build Tiny Tamper-Proof ID Tag Utilizing Terahertz Waves](https://it.slashdot.org/story/24/02/19/010202/mit-researchers-build-tiny-tamper-proof-id-tag-utilizing-terahertz-waves) | Slashdot.org | 2024-02-19 |
-| [NSA admits to buying Americans’ web browsing data from brokers without warrants](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaefc147-df40-4654-a416-ffa33d5ddcef) | Yahoo Entertainment | 2024-01-26 |
 | [A Gen Z diabetic said a 3-month supply of insulin pumps would cost her $1,800 — even with insurance](https://www.businessinsider.com/insulin-price-cap-costs-diabetes-supplies-pump-monitor-tiktok-2024-2) | Business Insider | 2024-02-03 |
 | [(Exact) Steps to Announce Caller Name on ALL Devices](https://www.quicksprout.com/announce-caller-name/) | Quicksprout.com | 2024-02-16 |
 | [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
@@ -89,6 +88,7 @@
 | [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 | [Neuralink's Brain Chip Is Now in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-now-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-30 |
 | [Neuralink's Brain Chip Is Running in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-running-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-31 |
+| [How Implanted Brain Chips Like Neuralink Could Change Our Lives](https://time.com/6590258/nueralink-brain-implant-chip-first-human/) | Time | 2024-01-30 |
 
 ## News for Healthcare Sector
 
@@ -159,7 +159,6 @@
 | [Marijuana Is Big Business In U.S., But Inconsistent Regulations Persist](https://www.forbes.com/sites/joshuacohen/2024/02/02/marijuana-is-big-business-in-us-but-inconsistent-regulations-persist/) | Forbes | 2024-02-02 |
 | [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
 | [The Telemedicine Revolution: How Legislative Changes Transformed Healthcare](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/05/the-telemedicine-revolution-how-legislative-changes-transformed-healthcare/) | Forbes | 2024-02-05 |
-| [One-Third Of US Marijuana Users Would Turn To Illegal Market With Marijuana Rescheduling To Pharmacy-Only Sales, Poll Suggests](https://www.forbes.com/sites/dariosabaghi/2024/01/26/one-third-of-us-marijuana-users-would-turn-to-illegal-market-with-marijuana-rescheduling-to-pharmacy-only-sales-poll-suggests/) | Forbes | 2024-01-26 |
 | [Your brain needs a really good lawyer](https://www.vox.com/future-perfect/24078512/brain-tech-privacy-rights-neurorights-colorado-yuste) | Vox | 2024-02-21 |
 | [Adulteration of Herbal Supplements Continues](https://sciencebasedmedicine.org/adulteration-of-herbal-supplements-continues/) | Sciencebasedmedicine.org | 2024-01-31 |
 | [Pop Star: How Pepsi Got Its Name](https://www.mentalfloss.com/posts/pepsi-name-origin) | Mental Floss | 2024-02-09 |
@@ -170,7 +169,6 @@
 | [Fact Check: Is Commercial Chocolate Milk Made from Expired Milk?](https://www.snopes.com/fact-check/chocolate-milk-made-from-expired/) | Snopes.com | 2024-02-06 |
 | [What Is Bovine Colostrum, And Why Do People Want To Drink It?](https://www.forbes.com/sites/ninashapiro/2024/02/15/what-is-bovine-colostrum-and-why-do-people-want-to-drink-it/) | Forbes | 2024-02-16 |
 | [Robotic device burned a woman’s small intestine during surgery, lawsuit alleges](https://www.nbcnews.com/health/health-news/robotic-device-burned-womans-small-intestine-surgery-lawsuit-alleges-rcna137998) | NBC News | 2024-02-09 |
-| [Challenges In The At-Home Medical Testing Space And How To Move The Industry Forward](https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/26/challenges-in-the-at-home-medical-testing-space-and-how-to-move-the-industry-forward/) | Forbes | 2024-01-26 |
 | [Does Red Cross Ask Potential Blood Donors If They've Received a COVID-19 Vaccine?](https://www.snopes.com//fact-check/red-cross-blood-covid-vaccine/) | Snopes.com | 2024-02-22 |
 | [Hologic AI-powered cancer screening system wins FDA approval](https://www.mobihealthnews.com/news/hologic-ai-powered-cancer-screening-system-wins-fda-approval) | MobiHealthNews | 2024-02-09 |
 | [Dangerous FDA ruling allows research trials get away with skipping informed consent](https://www.naturalnews.com/2024-02-12-dangerous-fda-trials-skipping-informed-consent.html) | Naturalnews.com | 2024-02-12 |
@@ -179,4 +177,6 @@
 | [Why is there an ADHD medication shortage in 2024?](https://www.cbsnews.com/news/adhd-medication-shortage-cause/) | CBS News | 2024-02-08 |
 | [How To Find—And Keep—Customers With The Highest Lifetime Value](https://www.forbes.com/sites/forbestechcouncil/2024/02/15/how-to-find-and-keep-customers-with-the-highest-lifetime-value/) | Forbes | 2024-02-15 |
 | [Food Recalls Rise as Urgent Warnings Issued Nationwide](https://www.newsweek.com/food-recalls-rise-fda-warnings-1872424) | Newsweek | 2024-02-22 |
+| [‘Come and Take It’: Congress’ War Over ZYN Nicotine Pouches](https://www.thedailybeast.com/come-and-take-it-congress-war-over-zyn-nicotine-pouches) | Daily Beast | 2024-02-11 |
+| [Here's what experts say to know about dietary supplements](https://www.cbsnews.com/news/dietary-supplements-protein-powders-what-to-watch-out-for/) | CBS News | 2024-02-07 |
 
