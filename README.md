@@ -95,6 +95,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [The number of new commercial mortgages plummeted 47% last year](https://www.businessinsider.com/federal-reserve-interest-rates-commercial-real-estate-market-mortgages-crash-2024-2) | Business Insider | 2024-02-13 |
+| [Nvidia’s AI sector contributes to significant earnings boost](https://readwrite.com/nvidias-ai-sector-contributes-to-significant-earnings-boost/) | ReadWrite | 2024-02-27 |
 | [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
 | [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
 | [Intelly App Design & UX: Navigating Healthcare Solutions](https://abduzeedo.com/node/88324) | Abduzeedo.com | 2024-02-22 |
@@ -118,7 +119,6 @@
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/2cdb065ccac3dc1c) | Biztoc.com | 2024-01-30 |
 | [The assassinations at Jenin hospital should not surprise anyone](https://www.aljazeera.com/opinions/2024/2/1/the-assassinations-at-jenin-hospital-should-not-surprise-anyone) | Al Jazeera English | 2024-02-01 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
-| [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
 
 ## News for Pharma Market Trends
 
