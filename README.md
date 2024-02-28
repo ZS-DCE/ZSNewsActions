@@ -66,6 +66,7 @@
 | ----- | ------ | --------- |
 | [Neuralink’s First Brain Implant Is Working. Elon Musk’s Transparency Isn’t](https://www.wired.com/story/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/) | Wired | 2024-02-21 |
 | [Don't use smartwatches and rings that claim to measure blood sugar without needles, the FDA warns](https://www.engadget.com/dont-use-smartwatches-and-rings-that-claim-to-measure-blood-sugar-without-needles-the-fda-warns-001745875.html) | Engadget | 2024-02-22 |
+| [All the Top New Gadgets at MWC 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-mwc-2024/) | Wired | 2024-02-26 |
 | [Apple iOS 17.4: iMessage Gets Post-Quantum Encryption in New Update](https://www.wired.com/story/apple-pq3-post-quantum-encryption/) | Wired | 2024-02-21 |
 | [Samsung gets FDA approval for a sleep apnea feature on Galaxy Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4606fe-5d3d-4c75-8417-1a2cb887e741) | Yahoo Entertainment | 2024-02-09 |
 | [Apple Vision Pro Teardown and Stress Test: Those Fake Eyes Can Take a Beating](https://gizmodo.com/apple-vision-pro-teardown-stress-test-1851225919) | Gizmodo.com | 2024-02-05 |
@@ -88,7 +89,6 @@
 | [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 | [Neuralink's Brain Chip Is Now in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-now-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-30 |
 | [Neuralink's Brain Chip Is Running in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-running-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-31 |
-| [How Implanted Brain Chips Like Neuralink Could Change Our Lives](https://time.com/6590258/nueralink-brain-implant-chip-first-human/) | Time | 2024-01-30 |
 
 ## News for Healthcare Sector
 
@@ -96,6 +96,7 @@
 | ----- | ------ | --------- |
 | [The number of new commercial mortgages plummeted 47% last year](https://www.businessinsider.com/federal-reserve-interest-rates-commercial-real-estate-market-mortgages-crash-2024-2) | Business Insider | 2024-02-13 |
 | [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
+| [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
 | [Intelly App Design & UX: Navigating Healthcare Solutions](https://abduzeedo.com/node/88324) | Abduzeedo.com | 2024-02-22 |
 | [The top 4 ways big corporations are fueling global wealth inequality: report](https://www.businessinsider.com/the-4-ways-corporations-fueling-wealth-inequality-2024-1) | Business Insider | 2024-01-28 |
 | [A Burger King employee who's worked there for 50 years says she loves her job so much she even comes to work when she's sick or in pain](https://www.businessinsider.com/burger-king-worker-50-years-sick-in-pain-employee-job-2024-1) | Business Insider | 2024-01-29 |
@@ -118,7 +119,6 @@
 | [The assassinations at Jenin hospital should not surprise anyone](https://www.aljazeera.com/opinions/2024/2/1/the-assassinations-at-jenin-hospital-should-not-surprise-anyone) | Al Jazeera English | 2024-02-01 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [3 Hidden Healthcare Stocks Poised for a Breakout This Year](https://biztoc.com/x/54da18a1a627f518) | Biztoc.com | 2024-01-30 |
-| [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 
 ## News for Pharma Market Trends
 
