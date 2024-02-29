@@ -39,6 +39,7 @@
 | [Life on Mars: NASA calls for volunteers to take part in year-long simulation](https://readwrite.com/life-on-mars-nasa-calls-for-volunteers-to-take-part-in-year-long-simulation/) | ReadWrite | 2024-02-19 |
 | ['Boohoo' - how are voters reacting to the MP who 'couldn't afford' mortgage?](https://www.bbc.co.uk/news/uk-england-norfolk-68141420) | BBC News | 2024-01-30 |
 | [From moon 'dust' to moon 'soil': Graduate student grows chickpeas in amended moondust](https://phys.org/news/2024-01-moon-soil-student-chickpeas-amended.html) | Phys.Org | 2024-01-31 |
+| [How molecular 'handedness' emerged in early biology](https://www.sciencedaily.com/releases/2024/02/240228115459.htm) | Science Daily | 2024-02-28 |
 | [New research reveals activation mechanism of Thoeris antiviral defense system](https://phys.org/news/2024-02-reveals-mechanism-thoeris-antiviral-defense.html) | Phys.Org | 2024-02-22 |
 | [Mimas' surprise: Tiny moon of Saturn holds young ocean beneath icy shell](https://www.sciencedaily.com/releases/2024/02/240207120512.htm) | Science Daily | 2024-02-07 |
 | [Alphabet's Verily Founder Andy Conrad Departs for VC Firm S32](https://finance.yahoo.com/news/alphabets-verily-founder-andy-conrad-140000507.html) | Yahoo Entertainment | 2024-02-22 |
@@ -58,7 +59,6 @@
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Even modern hydropower plants pose major threat to river habitats, finds study](https://phys.org/news/2024-02-modern-hydropower-pose-major-threat.html) | Phys.Org | 2024-02-27 |
 | [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
-| [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
 
 ## News for Medical Devices
 
