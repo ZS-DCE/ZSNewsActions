@@ -86,9 +86,9 @@
 | [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [A Gen Z diabetic said a 3-month supply of insulin pumps would cost her $1,800 — even with insurance](https://www.businessinsider.com/insulin-price-cap-costs-diabetes-supplies-pump-monitor-tiktok-2024-2) | Business Insider | 2024-02-03 |
 | [(Exact) Steps to Announce Caller Name on ALL Devices](https://www.quicksprout.com/announce-caller-name/) | Quicksprout.com | 2024-02-16 |
+| [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
 | [Sound-powered sensors stand to save millions of batteries](https://www.sciencedaily.com/releases/2024/01/240129122442.htm) | Science Daily | 2024-01-29 |
 | [How to Live a Healthy Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle) | Wikihow.com | 2024-02-06 |
-| [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 
 ## News for Healthcare Sector
 
@@ -146,9 +146,9 @@
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
 | [Clinical Trial Imaging Market To Reach USD 2.5 Billion By 2032 Report By DataHorizzon Research](https://www.globenewswire.com/news-release/2024/02/23/2834377/0/en/Clinical-Trial-Imaging-Market-To-Reach-USD-2-5-Billion-By-2032-Report-By-DataHorizzon-Research.html) | GlobeNewswire | 2024-02-23 |
 | [RLJ Lodging Trust (NYSE:RLJ) Q4 2023 Earnings Call Transcript](https://finance.yahoo.com/news/rlj-lodging-trust-nyse-rlj-154440463.html) | Yahoo Entertainment | 2024-02-28 |
+| [Computer-Assisted Coding Market revenue to hit USD 22 Billion by 2036, says Research Nester](https://www.globenewswire.com/news-release/2024/02/29/2837761/0/en/Computer-Assisted-Coding-Market-revenue-to-hit-USD-22-Billion-by-2036-says-Research-Nester.html) | GlobeNewswire | 2024-02-29 |
 | [Ocugen to Present at Pharma Market Research Conference](https://www.globenewswire.com/news-release/2024/01/31/2821084/0/en/Ocugen-to-Present-at-Pharma-Market-Research-Conference.html) | GlobeNewswire | 2024-01-31 |
 | [Ocugen to Present at Pharma Market Research Conference](https://www.marketscreener.com/quote/stock/OCUGEN-INC-19157135/news/Ocugen-to-Present-at-Pharma-Market-Research-Conference-45852578/) | Marketscreener.com | 2024-01-31 |
-| [Aseptic Pharma Processing Market Poised for Robust Growth, New Study Projects Significant Opportunities in Packaging and Processing by 2030](https://www.globenewswire.com/news-release/2024/02/14/2829491/28124/en/Aseptic-Pharma-Processing-Market-Poised-for-Robust-Growth-New-Study-Projects-Significant-Opportunities-in-Packaging-and-Processing-by-2030.html) | GlobeNewswire | 2024-02-14 |
 
 ## News for FDA Regulations
 
@@ -163,6 +163,7 @@
 | [The Telemedicine Revolution: How Legislative Changes Transformed Healthcare](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/05/the-telemedicine-revolution-how-legislative-changes-transformed-healthcare/) | Forbes | 2024-02-05 |
 | [Your brain needs a really good lawyer](https://www.vox.com/future-perfect/24078512/brain-tech-privacy-rights-neurorights-colorado-yuste) | Vox | 2024-02-21 |
 | [Adulteration of Herbal Supplements Continues](https://sciencebasedmedicine.org/adulteration-of-herbal-supplements-continues/) | Sciencebasedmedicine.org | 2024-01-31 |
+| [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
 | [Pop Star: How Pepsi Got Its Name](https://www.mentalfloss.com/posts/pepsi-name-origin) | Mental Floss | 2024-02-09 |
 | [InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI](https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/) | Forbes | 2024-02-15 |
 | [How AI is quietly changing everyday life](https://www.politico.com/news/2024/02/04/how-ai-is-quietly-changing-everyday-life-00138341) | Politico | 2024-02-04 |
@@ -178,5 +179,4 @@
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
 | [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 
