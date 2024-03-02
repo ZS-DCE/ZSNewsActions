@@ -15,6 +15,7 @@
 | [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
 | [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
 | [Medicinal drugs pollute the St. Lawrence River, presenting possible risk to aquatic organisms: Study](https://phys.org/news/2024-01-medicinal-drugs-pollute-st-lawrence.html) | Phys.Org | 2024-01-31 |
+| [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
 | [Weight-loss drugs aren't a magic bullet. Lifestyle changes are key to lasting health](https://www.npr.org/sections/health-shots/2024/02/12/1229920739/weight-loss-drugs-ozempic-arent-magic-bullet-lifestyle-changes-lasting-health) | NPR | 2024-02-12 |
@@ -28,7 +29,6 @@
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 | [Pharmaceutical group's lawsuit over Medicare drug price program dismissed](https://www.aol.com/news/pharmaceutical-groups-lawsuit-over-medicare-030745124.html) | AOL | 2024-02-13 |
-| [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
 
 ## News for Life Sciences
 
@@ -78,8 +78,8 @@
 | [Neuralink chip implant human can control computer mouse by thinking: Musk](https://readwrite.com/neuralink-chip-implant-human-can-control-computer-mouse-by-thinking-musk/) | ReadWrite | 2024-02-20 |
 | [Abbott Laboratories says FDA independent panel votes to approve heart device](https://www.marketwatch.com/story/abbott-laboratories-says-fda-independent-panel-votes-to-approve-heart-device-c796f12f) | MarketWatch | 2024-02-14 |
 | [Family Dollar has agreed to pay $42 million after storing food and medicine in a warehouse with a severe rodent infestation](https://www.businessinsider.com/family-dollar-rat-infestation-warehouse-arkansas-west-memphis-fda-rodent-2024-2) | Business Insider | 2024-02-27 |
-| [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [MIT Researchers Build Tiny Tamper-Proof ID Tag Utilizing Terahertz Waves](https://it.slashdot.org/story/24/02/19/010202/mit-researchers-build-tiny-tamper-proof-id-tag-utilizing-terahertz-waves) | Slashdot.org | 2024-02-19 |
+| [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [A Gen Z diabetic said a 3-month supply of insulin pumps would cost her $1,800 — even with insurance](https://www.businessinsider.com/insulin-price-cap-costs-diabetes-supplies-pump-monitor-tiktok-2024-2) | Business Insider | 2024-02-03 |
 | [(Exact) Steps to Announce Caller Name on ALL Devices](https://www.quicksprout.com/announce-caller-name/) | Quicksprout.com | 2024-02-16 |
 | [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
@@ -98,6 +98,7 @@
 | [The number of new commercial mortgages plummeted 47% last year](https://www.businessinsider.com/federal-reserve-interest-rates-commercial-real-estate-market-mortgages-crash-2024-2) | Business Insider | 2024-02-13 |
 | [Nvidia’s AI sector contributes to significant earnings boost](https://readwrite.com/nvidias-ai-sector-contributes-to-significant-earnings-boost/) | ReadWrite | 2024-02-27 |
 | [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
+| [Opinion: For politicians, AI will bring salvation or damnation — but nothing in between](https://thenextweb.com/news/politicians-are-ai-extremists) | The Next Web | 2024-03-01 |
 | [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
 | [Intelly App Design & UX: Navigating Healthcare Solutions](https://abduzeedo.com/node/88324) | Abduzeedo.com | 2024-02-22 |
 | [Do what this deal-making CEO does and find ‘AI-proof’ industries for your money](https://www.marketwatch.com/story/do-what-this-deal-making-ceo-does-and-find-ai-proof-industries-for-your-money-d6eb9042) | MarketWatch | 2024-02-05 |
@@ -118,7 +119,6 @@
 | [The assassinations at Jenin hospital should not surprise anyone](https://www.aljazeera.com/opinions/2024/2/1/the-assassinations-at-jenin-hospital-should-not-surprise-anyone) | Al Jazeera English | 2024-02-01 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
-| [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
 
 ## News for Pharma Market Trends
 
