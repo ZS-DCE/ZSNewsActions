@@ -5,16 +5,15 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Bernie Sanders on What Americans Need to Understand About Big Pharma](https://time.com/6692568/bernie-sanders-pharma-drug-prices-interview/) | Time | 2024-02-07 |
+| [Branding & Packaging Design Transformations in Pharma](https://abduzeedo.com/node/88342) | Abduzeedo.com | 2024-03-01 |
 | [Big Pharma CEOs grilled on Capitol Hill over drug prices: 4 key takeaways](https://abcnews.go.com/Business/big-pharma-ceos-grilled-capitol-hill-takeaways/story?id=107057364) | ABC News | 2024-02-08 |
 | [A Cyber Insurance Backstop](https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html) | Schneier.com | 2024-02-27 |
-| [Seniors could soon get a big break on drug prices](https://www.marketwatch.com/story/seniors-could-soon-get-a-big-break-on-drug-prices-0d8f784b) | MarketWatch | 2024-02-01 |
 | [J&J, Merck and Bristol Myers CEOs, under fire on Capitol Hill, seek to turn up heat on drug-market middlemen](https://www.marketwatch.com/story/j-j-merck-and-bristol-myers-ceos-under-fire-on-capitol-hill-seek-to-turn-up-heat-on-drug-market-middlemen-abe1fc39) | MarketWatch | 2024-02-08 |
 | [Is your medication out of stock? Here’s how to get it anyway.](https://www.vox.com/even-better/24062409/medication-shortage-drug-stock-medicine-pharmaceutical-supply-chain-angels-for-change) | Vox | 2024-02-06 |
 | [New drug prices surged last year, fueled by treatments for rare diseases](https://qz.com/drug-prices-pharma-rare-diseases-2023-1851281956) | Quartz India | 2024-02-23 |
 | [Ozempic and Wegovy sales are so hot they're propelling Denmark's GDP](https://qz.com/denmark-novo-nordisk-ozempic-wegovy-demand-1851272044) | Quartz India | 2024-02-20 |
 | [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
 | [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
-| [Medicinal drugs pollute the St. Lawrence River, presenting possible risk to aquatic organisms: Study](https://phys.org/news/2024-01-medicinal-drugs-pollute-st-lawrence.html) | Phys.Org | 2024-01-31 |
 | [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
@@ -24,11 +23,12 @@
 | [Why Chinese apps chose to film super-short soap operas in Southeast Asia](https://www.technologyreview.com/2024/02/28/1089104/chinese-soap-operasoutheast-asia/) | MIT Technology Review | 2024-02-28 |
 | [Which Industry is Likely to Benefit the Most from Generative AI](https://www.noupe.com/business-online/which-industry-is-likely-to-benefit-the-most-from-generative-ai.html) | Noupe.com | 2024-02-21 |
 | [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
-| [Paper calls for patient-first regulation of AI in healthcare](https://www.sciencedaily.com/releases/2024/01/240131144536.htm) | Science Daily | 2024-01-31 |
 | [Applying a small voltage to a catalyst can increase the rates of common reactions used in manufacturing, study finds](https://phys.org/news/2024-02-small-voltage-catalyst-common-reactions.html) | Phys.Org | 2024-02-15 |
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 | [Pharmaceutical group's lawsuit over Medicare drug price program dismissed](https://www.aol.com/news/pharmaceutical-groups-lawsuit-over-medicare-030745124.html) | AOL | 2024-02-13 |
+| [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
+| [Can Blockchain Solve Healthcare? Nigeria Bets On The Technology To Curb Fake Drugs](https://biztoc.com/x/e2a0dde1c8ff39cd) | Biztoc.com | 2024-02-11 |
 
 ## News for Life Sciences
 
@@ -85,10 +85,10 @@
 | [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
 | [How to Live a Healthy Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle) | Wikihow.com | 2024-02-06 |
 | [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
-| [Neuralink's Brain Chip Is Running in a Human. Your Skull Is Safe, for Now - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-running-in-a-human-your-skull-is-safe-for-now/) | CNET | 2024-01-31 |
 | [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
 | [Family Dollar will pay a $41 million fine because of a rat infestation](https://qz.com/family-dollar-dollar-tree-fine-warehouse-rat-infestatio-1851289259) | Quartz India | 2024-02-27 |
 | [What to Know About the Various Legal Disputes Over the Apple Watch](https://time.com/6692718/apple-watch-masimo-alivecor-patent-antitrust-legal-explainer/) | Time | 2024-02-08 |
+| [Cyberattacks on hospitals are likely to increase, putting lives at risk, experts warn](https://abcnews.go.com/Business/wireStory/cyberattacks-hospitals-increase-putting-lives-risk-experts-warn-107230487) | ABC News | 2024-02-14 |
 
 ## News for Healthcare Sector
 
@@ -116,9 +116,9 @@
 | [Weekend Leadership Roundup February 10, 2024](https://qz.com/weekend-leadership-roundup-february-10-2024-1851243162) | Quartz India | 2024-02-10 |
 | [Genetic Testing: The Good, the Bad, and the Costly](https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/genetic-testing-the-good-the-bad-and-the-costly/) | Forbes | 2024-02-13 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
-| [The assassinations at Jenin hospital should not surprise anyone](https://www.aljazeera.com/opinions/2024/2/1/the-assassinations-at-jenin-hospital-should-not-surprise-anyone) | Al Jazeera English | 2024-02-01 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
+| [New York Community Bancorp led increase in loan-loss reserves by big regional banks as lenders brace for potential downturn](https://www.marketwatch.com/story/new-york-community-bancorp-led-increase-in-loan-loss-reserves-by-big-regional-banks-as-lenders-brace-for-potential-downturn-1b44e19a) | MarketWatch | 2024-02-07 |
 
 ## News for Pharma Market Trends
 
@@ -160,6 +160,7 @@
 | [Marijuana Is Big Business In U.S., But Inconsistent Regulations Persist](https://www.forbes.com/sites/joshuacohen/2024/02/02/marijuana-is-big-business-in-us-but-inconsistent-regulations-persist/) | Forbes | 2024-02-02 |
 | [90% of US tattoo inks contain ingredients not listed on the label](https://newatlas.com/health-wellbeing/american-tattoo-inks-contain-harmful-unlisted-ingredients/) | New Atlas | 2024-02-27 |
 | [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
+| [CVS and Walgreens to start selling abortion pills this month](https://www.cbsnews.com/news/cvs-walgreens-mifepristone-abortion-pill/) | CBS News | 2024-03-01 |
 | [FDA to develop new "healthy" logo – here's what it could look like](https://www.cbsnews.com/news/healthy-logo-fda-which-foods-qualify/) | CBS News | 2024-02-27 |
 | [The Telemedicine Revolution: How Legislative Changes Transformed Healthcare](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/05/the-telemedicine-revolution-how-legislative-changes-transformed-healthcare/) | Forbes | 2024-02-05 |
 | [Your brain needs a really good lawyer](https://www.vox.com/future-perfect/24078512/brain-tech-privacy-rights-neurorights-colorado-yuste) | Vox | 2024-02-21 |
@@ -178,5 +179,4 @@
 | [Key Addiction Points You Need to Know](https://www.psychologytoday.com/intl/blog/addiction-outlook/202402/key-addiction-points-you-need-to-know) | Psychology Today | 2024-02-17 |
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
-| [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
 
