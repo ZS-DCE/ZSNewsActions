@@ -48,7 +48,6 @@
 | [Scientists identify “universal network” of microbes for decomposing flesh](https://arstechnica.com/science/2024/02/how-a-corpses-microbiome-can-help-scientists-nail-down-time-of-death/) | Ars Technica | 2024-02-12 |
 | [Researchers are one step closer to diagnosing CTE during life, rather than after death](https://www.sciencedaily.com/releases/2024/02/240207195120.htm) | Science Daily | 2024-02-08 |
 | [Pioneering LLM Applications In Healthcare And The Life Sciences](https://www.forbes.com/sites/aparnadhinakaran/2024/02/21/pioneering-llm-applications-in-healthcare-and-the-life-sciences/) | Forbes | 2024-02-21 |
-| [9 politicians you didn't know had won Grammy awards — and 7 who have been nominated](https://www.businessinsider.com/grammy-winners-history-politicians-presidents) | Business Insider | 2024-02-03 |
 | [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
@@ -59,6 +58,7 @@
 | [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
 | [Level Up Your R/Shiny Skills with Appsilon’s Tailored Workshops](https://www.r-bloggers.com/2024/02/level-up-your-r-shiny-skills-with-appsilons-tailored-workshops/) | R-bloggers.com | 2024-02-13 |
 | [How Property Owners Can Adapt To Life Science Tenants’ Changing Needs](https://www.forbes.com/sites/markzettl/2024/02/14/how-property-owners-can-adapt-to-life-science-tenants-changing-needs/) | Forbes | 2024-02-14 |
+| [Angewandte Wissenschaften: 83 Promotionsverfahren an Hochschulen](https://www.zeit.de/news/2024-02/14/83-promotionsverfahren-an-hochschulen) | Die Zeit | 2024-02-14 |
 
 ## News for Medical Devices
 
@@ -80,7 +80,6 @@
 | [Family Dollar has agreed to pay $42 million after storing food and medicine in a warehouse with a severe rodent infestation](https://www.businessinsider.com/family-dollar-rat-infestation-warehouse-arkansas-west-memphis-fda-rodent-2024-2) | Business Insider | 2024-02-27 |
 | [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [MIT Researchers Build Tiny Tamper-Proof ID Tag Utilizing Terahertz Waves](https://it.slashdot.org/story/24/02/19/010202/mit-researchers-build-tiny-tamper-proof-id-tag-utilizing-terahertz-waves) | Slashdot.org | 2024-02-19 |
-| [A Gen Z diabetic said a 3-month supply of insulin pumps would cost her $1,800 — even with insurance](https://www.businessinsider.com/insulin-price-cap-costs-diabetes-supplies-pump-monitor-tiktok-2024-2) | Business Insider | 2024-02-03 |
 | [(Exact) Steps to Announce Caller Name on ALL Devices](https://www.quicksprout.com/announce-caller-name/) | Quicksprout.com | 2024-02-16 |
 | [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
 | [How to Live a Healthy Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle) | Wikihow.com | 2024-02-06 |
@@ -89,6 +88,7 @@
 | [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
 | [Family Dollar will pay a $41 million fine because of a rat infestation](https://qz.com/family-dollar-dollar-tree-fine-warehouse-rat-infestatio-1851289259) | Quartz India | 2024-02-27 |
 | [What to Know About the Various Legal Disputes Over the Apple Watch](https://time.com/6692718/apple-watch-masimo-alivecor-patent-antitrust-legal-explainer/) | Time | 2024-02-08 |
+| [Cyberattacks on hospitals are likely to increase, putting lives at risk, experts warn](https://abcnews.go.com/Business/wireStory/cyberattacks-hospitals-increase-putting-lives-risk-experts-warn-107230487) | ABC News | 2024-02-14 |
 
 ## News for Healthcare Sector
 
