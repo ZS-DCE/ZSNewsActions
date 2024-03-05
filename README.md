@@ -74,6 +74,7 @@
 | [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/) | Wired | 2024-02-12 |
 | [US FDA issue warning over smartwatches and smart rings](https://readwrite.com/fda-warns-of-smart-devices-that-claim-to-report-blood-glucose-levels/) | ReadWrite | 2024-02-22 |
 | [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references) | Stanford.edu | 2024-02-24 |
+| [Google's upcoming 'Satellite SOS' feature is reportedly on the way for Pixels](https://www.androidcentral.com/phones/google-satellite-sos-pixel-feature-spotted) | Android Central | 2024-03-04 |
 | [Better Living Through Biomedical Engineering](https://hackaday.com/2024/02/09/better-living-through-biomedical-engineering/) | Hackaday | 2024-02-09 |
 | [Neuralink chip implant human can control computer mouse by thinking: Musk](https://readwrite.com/neuralink-chip-implant-human-can-control-computer-mouse-by-thinking-musk/) | ReadWrite | 2024-02-20 |
 | [Abbott Laboratories says FDA independent panel votes to approve heart device](https://www.marketwatch.com/story/abbott-laboratories-says-fda-independent-panel-votes-to-approve-heart-device-c796f12f) | MarketWatch | 2024-02-14 |
@@ -88,7 +89,6 @@
 | [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
 | [Family Dollar will pay a $41 million fine because of a rat infestation](https://qz.com/family-dollar-dollar-tree-fine-warehouse-rat-infestatio-1851289259) | Quartz India | 2024-02-27 |
 | [What to Know About the Various Legal Disputes Over the Apple Watch](https://time.com/6692718/apple-watch-masimo-alivecor-patent-antitrust-legal-explainer/) | Time | 2024-02-08 |
-| [Cyberattacks on hospitals are likely to increase, putting lives at risk, experts warn](https://abcnews.go.com/Business/wireStory/cyberattacks-hospitals-increase-putting-lives-risk-experts-warn-107230487) | ABC News | 2024-02-14 |
 
 ## News for Healthcare Sector
 
@@ -112,13 +112,13 @@
 | [Zimbabwe nurses seek better conditions abroad but fear for patients at home](https://www.aljazeera.com/features/2024/2/9/zimbabwe-nurses-seek-better-conditions-abroad-but-fear-for-patients-at-home) | Al Jazeera English | 2024-02-09 |
 | [Paramount, NBC, and more: A timeline of 2024 media layoffs](https://qz.com/2024-media-layoffs-1851253400) | Quartz India | 2024-02-15 |
 | [Ignore Uncle Sam's 'voluntary' cybersecurity goals for hospitals at your peril](https://www.theregister.com/2024/02/05/us_voluntary_cybersecurity_goals_hospitals/) | Theregister.com | 2024-02-05 |
+| [Branding and Visual Identity: Ovumlab's Innovative Approach](https://abduzeedo.com/node/88346) | Abduzeedo.com | 2024-03-04 |
 | [New Cybersecurity Performance Goals From HHS For Healthcare](https://www.forbes.com/sites/davidchou/2024/02/05/new-cybersecurity-performance-goals-from-hhs-for-healthcare/) | Forbes | 2024-02-05 |
 | [These are the software roles you can leverage for remote working](https://venturebeat.com/programming-development/these-are-the-software-roles-you-can-leverage-for-remote-working/) | VentureBeat | 2024-02-20 |
 | [Weekend Leadership Roundup February 10, 2024](https://qz.com/weekend-leadership-roundup-february-10-2024-1851243162) | Quartz India | 2024-02-10 |
 | [Genetic Testing: The Good, the Bad, and the Costly](https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/genetic-testing-the-good-the-bad-and-the-costly/) | Forbes | 2024-02-13 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
-| [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 
 ## News for Pharma Market Trends
 
@@ -148,7 +148,7 @@
 | [Aseptic Pharma Processing Market Poised for Robust Growth, New Study Projects Significant Opportunities in Packaging and Processing by 2030](https://www.globenewswire.com/news-release/2024/02/14/2829491/28124/en/Aseptic-Pharma-Processing-Market-Poised-for-Robust-Growth-New-Study-Projects-Significant-Opportunities-in-Packaging-and-Processing-by-2030.html) | GlobeNewswire | 2024-02-14 |
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
 | [Share Market Highlights 5 February 2024: Sensex falls 354 pts; Nifty settles above 21,750 pts; Tata Motors gains 5.8%, UPL slumps over 10%](https://www.thehindubusinessline.com/markets/stock-market-highlights-5-february-2024/article67810781.ece) | BusinessLine | 2024-02-05 |
-| [Market Trading Guide: Titan, Tata Steel among 5 stock recommendations for Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-titan-tata-steel-among-5-stock-recommendations-for-tuesday/stock-ideas/slideshow/107433939.cms) | The Times of India | 2024-02-05 |
+| [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
 
 ## News for FDA Regulations
 
