@@ -15,6 +15,7 @@
 | [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
 | [China Sentences Pirate Site Operators, Huge Win For Japan’s Anime Industry](https://torrentfreak.com/china-sentences-pirate-site-operators-huge-win-for-japans-anime-industry-240304/) | Torrentfreak.com | 2024-03-04 |
 | [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
+| [Ozempic and Wegovy are lifting Denmark's GDP, report says](https://qz.com/novo-nordisk-ozempic-wegovy-denmark-gdp-1851309063) | Quartz India | 2024-03-05 |
 | [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
@@ -22,13 +23,12 @@
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
 | [Construction Industry Grapples With Its Top Killer: Drug Overdose...](https://dnyuz.com/2024/02/08/construction-industry-grapples-with-its-top-killer-drug-overdose/) | Dnyuz.com | 2024-02-08 |
 | [Why Chinese apps chose to film super-short soap operas in Southeast Asia](https://www.technologyreview.com/2024/02/28/1089104/chinese-soap-operasoutheast-asia/) | MIT Technology Review | 2024-02-28 |
+| [What an American Approach to AI Regulation Should Look Like](https://time.com/6848922/ai-regulation/) | Time | 2024-03-05 |
 | [Which Industry is Likely to Benefit the Most from Generative AI](https://www.noupe.com/business-online/which-industry-is-likely-to-benefit-the-most-from-generative-ai.html) | Noupe.com | 2024-02-21 |
 | [This Potential Cancer Treatment Requires Modern Alchemy](https://www.scientificamerican.com/article/this-potential-cancer-treatment-requires-modern-alchemy/) | Scientific American | 2024-02-13 |
 | [Applying a small voltage to a catalyst can increase the rates of common reactions used in manufacturing, study finds](https://phys.org/news/2024-02-small-voltage-catalyst-common-reactions.html) | Phys.Org | 2024-02-15 |
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
-| [Pharmaceutical group's lawsuit over Medicare drug price program dismissed](https://www.aol.com/news/pharmaceutical-groups-lawsuit-over-medicare-030745124.html) | AOL | 2024-02-13 |
-| [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
 
 ## News for Life Sciences
 
@@ -99,6 +99,7 @@
 | [Change Healthcare hack continues to inflict major damage](https://readwrite.com/change-healthcare-hack-continues-to-inflict-major-damage/) | ReadWrite | 2024-03-02 |
 | [Nvidia’s AI sector contributes to significant earnings boost](https://readwrite.com/nvidias-ai-sector-contributes-to-significant-earnings-boost/) | ReadWrite | 2024-02-27 |
 | [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
+| [Inside a prison healthcare company's ownership shell game](https://www.businessinsider.com/prison-health-company-yescare-ceded-financial-control-to-insider-entities-2024-3) | Business Insider | 2024-03-05 |
 | [Opinion: For politicians, AI will bring salvation or damnation — but nothing in between](https://thenextweb.com/news/politicians-are-ai-extremists) | The Next Web | 2024-03-01 |
 | [4 Tech Jobs Likely to Be Dominated By AI](https://readwrite.com/tech-jobs-ldominated-by-ai/) | ReadWrite | 2024-03-05 |
 | [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
@@ -118,7 +119,6 @@
 | [Weekend Leadership Roundup February 10, 2024](https://qz.com/weekend-leadership-roundup-february-10-2024-1851243162) | Quartz India | 2024-02-10 |
 | [Genetic Testing: The Good, the Bad, and the Costly](https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/genetic-testing-the-good-the-bad-and-the-costly/) | Forbes | 2024-02-13 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
-| [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 
 ## News for Pharma Market Trends
 
