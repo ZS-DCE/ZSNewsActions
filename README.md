@@ -73,6 +73,7 @@
 | [How Healthy Is Your Heart? Find Out at Home Without Any Equipment - CNET](https://www.cnet.com/health/medical/how-healthy-is-your-heart-find-out-at-home-without-equipment/) | CNET | 2024-02-06 |
 | [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/) | Wired | 2024-02-12 |
 | [US FDA issue warning over smartwatches and smart rings](https://readwrite.com/fda-warns-of-smart-devices-that-claim-to-report-blood-glucose-levels/) | ReadWrite | 2024-02-22 |
+| [Oregon OKs right-to-repair bill that bans the blocking of aftermarket parts](https://arstechnica.com/tech-policy/2024/03/oregon-oks-right-to-repair-bill-that-bans-the-blocking-of-aftermarket-parts/) | Ars Technica | 2024-03-05 |
 | [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references) | Stanford.edu | 2024-02-24 |
 | [Google's upcoming 'Satellite SOS' feature is reportedly on the way for Pixels](https://www.androidcentral.com/phones/google-satellite-sos-pixel-feature-spotted) | Android Central | 2024-03-04 |
 | [Better Living Through Biomedical Engineering](https://hackaday.com/2024/02/09/better-living-through-biomedical-engineering/) | Hackaday | 2024-02-09 |
@@ -88,7 +89,6 @@
 | [Scientists shine new light on the future of nanoelectronic devices](https://phys.org/news/2024-03-scientists-future-nanoelectronic-devices.html) | Phys.Org | 2024-03-04 |
 | [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 | [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
-| [Family Dollar will pay a $41 million fine because of a rat infestation](https://qz.com/family-dollar-dollar-tree-fine-warehouse-rat-infestatio-1851289259) | Quartz India | 2024-02-27 |
 
 ## News for Healthcare Sector
 
@@ -100,6 +100,7 @@
 | [Nvidia’s AI sector contributes to significant earnings boost](https://readwrite.com/nvidias-ai-sector-contributes-to-significant-earnings-boost/) | ReadWrite | 2024-02-27 |
 | [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
 | [Opinion: For politicians, AI will bring salvation or damnation — but nothing in between](https://thenextweb.com/news/politicians-are-ai-extremists) | The Next Web | 2024-03-01 |
+| [4 Tech Jobs Likely to Be Dominated By AI](https://readwrite.com/tech-jobs-ldominated-by-ai/) | ReadWrite | 2024-03-05 |
 | [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
 | [Intelly App Design & UX: Navigating Healthcare Solutions](https://abduzeedo.com/node/88324) | Abduzeedo.com | 2024-02-22 |
 | [UK invests £100M in AI research and regulation, £45M in quantum](https://thenextweb.com/news/uk-invests-ai-research-regulation-quantum) | The Next Web | 2024-02-06 |
@@ -118,7 +119,6 @@
 | [Genetic Testing: The Good, the Bad, and the Costly](https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/genetic-testing-the-good-the-bad-and-the-costly/) | Forbes | 2024-02-13 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
-| [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 
 ## News for Pharma Market Trends
 
