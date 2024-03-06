@@ -50,7 +50,6 @@
 | [Researchers are one step closer to diagnosing CTE during life, rather than after death](https://www.sciencedaily.com/releases/2024/02/240207195120.htm) | Science Daily | 2024-02-08 |
 | [Modeling the origins of life: New evidence for an 'RNA World'](https://www.sciencedaily.com/releases/2024/03/240304195250.htm) | Science Daily | 2024-03-05 |
 | [Pioneering LLM Applications In Healthcare And The Life Sciences](https://www.forbes.com/sites/aparnadhinakaran/2024/02/21/pioneering-llm-applications-in-healthcare-and-the-life-sciences/) | Forbes | 2024-02-21 |
-| [Meet 'Dr. Tatiana,' the professor getting people on TikTok excited about physics](https://www.npr.org/2024/02/05/1228878552/dr-tatiana-physics-professor-tiktok-profile-youtube) | NPR | 2024-02-05 |
 | [Looking into the possibility of volcanic lighting being the spark that ignited life on Earth](https://phys.org/news/2024-02-possibility-volcanic-ignited-life-earth.html) | Phys.Org | 2024-02-06 |
 | [Over 500,000 pounds of human garbage litter the moon. A group of scientists says we have entered the 'lunar Anthropocene.'](https://www.businessinsider.com/over-half-a-million-pounds-human-trash-litters-moon-2024-2) | Business Insider | 2024-02-07 |
 | [Even modern hydropower plants pose major threat to river habitats, finds study](https://phys.org/news/2024-02-modern-hydropower-pose-major-threat.html) | Phys.Org | 2024-02-27 |
@@ -59,6 +58,7 @@
 | [Giant Antarctic sea spiders reproductive mystery solved](https://www.sciencedaily.com/releases/2024/02/240218211136.htm) | Science Daily | 2024-02-19 |
 | [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
 | [Level Up Your R/Shiny Skills with Appsilon’s Tailored Workshops](https://www.r-bloggers.com/2024/02/level-up-your-r-shiny-skills-with-appsilons-tailored-workshops/) | R-bloggers.com | 2024-02-13 |
+| [How Property Owners Can Adapt To Life Science Tenants’ Changing Needs](https://www.forbes.com/sites/markzettl/2024/02/14/how-property-owners-can-adapt-to-life-science-tenants-changing-needs/) | Forbes | 2024-02-14 |
 
 ## News for Medical Devices
 
@@ -102,7 +102,6 @@
 | [Opinion: For politicians, AI will bring salvation or damnation — but nothing in between](https://thenextweb.com/news/politicians-are-ai-extremists) | The Next Web | 2024-03-01 |
 | [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
 | [Intelly App Design & UX: Navigating Healthcare Solutions](https://abduzeedo.com/node/88324) | Abduzeedo.com | 2024-02-22 |
-| [Do what this deal-making CEO does and find ‘AI-proof’ industries for your money](https://www.marketwatch.com/story/do-what-this-deal-making-ceo-does-and-find-ai-proof-industries-for-your-money-d6eb9042) | MarketWatch | 2024-02-05 |
 | [UK invests £100M in AI research and regulation, £45M in quantum](https://thenextweb.com/news/uk-invests-ai-research-regulation-quantum) | The Next Web | 2024-02-06 |
 | [AI is having a 1995 moment](https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2) | Business Insider | 2024-02-23 |
 | [Mark Huntley on Unlocking Healthcare Sector SEO Opportunities in 2024](https://socialmediaexplorer.com/business-innovation-2/mark-huntley-on-unlocking-healthcare-sector-seo-opportunities-in-2024/) | Socialmediaexplorer.com | 2024-02-12 |
@@ -119,6 +118,7 @@
 | [Genetic Testing: The Good, the Bad, and the Costly](https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/genetic-testing-the-good-the-bad-and-the-costly/) | Forbes | 2024-02-13 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
+| [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 
 ## News for Pharma Market Trends
 
@@ -138,8 +138,6 @@
 | [How The 2024 Super Bowl Party Foods Will Be Different](https://www.forbes.com/sites/phillempert/2024/02/07/how-the-2024-super-bowl-party-foods-will-be-different/) | Forbes | 2024-02-07 |
 | [Using AI To Modernize Drug Development And Lessons Learned](https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/) | Forbes | 2024-02-23 |
 | [Pharma E-Commerce Market Report 2024: Global Trends, Forecast and Competitive Analysis to 2030 Featuring Amazon, Apotek, CVS Health, L Rowland & Co, Mckesson, Netmeds Marketplace, and Optum](https://www.globenewswire.com/news-release/2024/02/26/2834876/28124/en/Pharma-E-Commerce-Market-Report-2024-Global-Trends-Forecast-and-Competitive-Analysis-to-2030-Featuring-Amazon-Apotek-CVS-Health-L-Rowland-Co-Mckesson-Netmeds-Marketplace-and-Optum.html) | GlobeNewswire | 2024-02-26 |
-| [Global Pharmacogenomics Technology Market Report 2023-2028: Personalized Medicine Market Surges Amidst Growing Chronic Diseases and Pharma Investments; Oncology Leads with a Focus on Targeted Cancer Treatments](https://www.globenewswire.com/news-release/2024/02/05/2823284/28124/en/Global-Pharmacogenomics-Technology-Market-Report-2023-2028-Personalized-Medicine-Market-Surges-Amidst-Growing-Chronic-Diseases-and-Pharma-Investments-Oncology-Leads-with-a-Focus-on.html) | GlobeNewswire | 2024-02-05 |
-| [Viatris Earnings History – When Does VTRS Report?](https://zacjohnson.com/viatris-vtrs-earnings-report/) | Zacjohnson.com | 2024-02-05 |
 | [Global Pharmaceutical Logistics Market to Reach $183 Billion by 2031 Owing To the Rapid Increase in Demand for Temperature-controlled Pharmaceuticals | Says Coherent Market Insights](https://www.globenewswire.com/news-release/2024/02/12/2827363/0/en/Global-Pharmaceutical-Logistics-Market-to-Reach-183-Billion-by-2031-Owing-To-the-Rapid-Increase-in-Demand-for-Temperature-controlled-Pharmaceuticals-Says-Coherent-Market-Insights.html) | GlobeNewswire | 2024-02-12 |
 | [Constipation Treatment Market Projected to Reach $27.5 Billion by 2030, as Laxatives Segment Accelerates Globally](https://www.globenewswire.com/news-release/2024/03/04/2839876/28124/en/Constipation-Treatment-Market-Projected-to-Reach-27-5-Billion-by-2030-as-Laxatives-Segment-Accelerates-Globally.html) | GlobeNewswire | 2024-03-04 |
 | [Fertility Supplements Market to surpass $4.4 Bn by 2032, Says Global Market Insights Inc.](https://www.globenewswire.com/news-release/2024/02/08/2825644/0/en/Fertility-Supplements-Market-to-surpass-4-4-Bn-by-2032-Says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-08 |
@@ -149,6 +147,8 @@
 | [Aseptic Pharma Processing Market Poised for Robust Growth, New Study Projects Significant Opportunities in Packaging and Processing by 2030](https://www.globenewswire.com/news-release/2024/02/14/2829491/28124/en/Aseptic-Pharma-Processing-Market-Poised-for-Robust-Growth-New-Study-Projects-Significant-Opportunities-in-Packaging-and-Processing-by-2030.html) | GlobeNewswire | 2024-02-14 |
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
+| [Market Trading Guide: Titan, Tata Steel among 5 stock recommendations for Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-titan-tata-steel-among-5-stock-recommendations-for-tuesday/stock-ideas/slideshow/107433939.cms) | The Times of India | 2024-02-05 |
+| [Hypoparathyroidism Market is Expected to Exhibit Impressive Growth by 2032, Assesses DelveInsight | Leading Companies Developing Therapies - Ascendis Pharma, Amolyt Pharma, Bridgebio, Calcilytix Therapeutics](https://www.globenewswire.com/news-release/2024/02/05/2823781/0/en/Hypoparathyroidism-Market-is-Expected-to-Exhibit-Impressive-Growth-by-2032-Assesses-DelveInsight-Leading-Companies-Developing-Therapies-Ascendis-Pharma-Amolyt-Pharma-Bridgebio-Calc.html) | GlobeNewswire | 2024-02-05 |
 
 ## News for FDA Regulations
 
@@ -161,7 +161,6 @@
 | [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
 | [CVS and Walgreens to start selling abortion pills this month](https://www.cbsnews.com/news/cvs-walgreens-mifepristone-abortion-pill/) | CBS News | 2024-03-01 |
 | [FDA to develop new "healthy" logo – here's what it could look like](https://www.cbsnews.com/news/healthy-logo-fda-which-foods-qualify/) | CBS News | 2024-02-27 |
-| [The Telemedicine Revolution: How Legislative Changes Transformed Healthcare](https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/05/the-telemedicine-revolution-how-legislative-changes-transformed-healthcare/) | Forbes | 2024-02-05 |
 | [First Aid Kits for Businesses: Stay Prepared With Our Picks](https://smallbiztrends.com/2024/03/first-aid-kits-for-businesses.html) | Small Business Trends | 2024-03-03 |
 | [Your brain needs a really good lawyer](https://www.vox.com/future-perfect/24078512/brain-tech-privacy-rights-neurorights-colorado-yuste) | Vox | 2024-02-21 |
 | [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
@@ -179,4 +178,5 @@
 | [Key Addiction Points You Need to Know](https://www.psychologytoday.com/intl/blog/addiction-outlook/202402/key-addiction-points-you-need-to-know) | Psychology Today | 2024-02-17 |
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
+| [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
 
