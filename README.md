@@ -124,6 +124,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Il Makiage parent Oddity Tech’s earnings crush estimates as beauty consumer moves online](https://www.marketwatch.com/story/il-makiage-parent-oddity-techs-earnings-crush-estimates-as-beauty-consumer-moves-online-a9bd1a7c) | MarketWatch | 2024-03-05 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-227-12216261.html) | Moneycontrol | 2024-02-08 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-228-12225971.html) | Moneycontrol | 2024-02-09 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-234-12293881.html) | Moneycontrol | 2024-02-19 |
@@ -148,7 +149,6 @@
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
 | [Market Trading Guide: Titan, Tata Steel among 5 stock recommendations for Tuesday](https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-titan-tata-steel-among-5-stock-recommendations-for-tuesday/stock-ideas/slideshow/107433939.cms) | The Times of India | 2024-02-05 |
-| [Hypoparathyroidism Market is Expected to Exhibit Impressive Growth by 2032, Assesses DelveInsight | Leading Companies Developing Therapies - Ascendis Pharma, Amolyt Pharma, Bridgebio, Calcilytix Therapeutics](https://www.globenewswire.com/news-release/2024/02/05/2823781/0/en/Hypoparathyroidism-Market-is-Expected-to-Exhibit-Impressive-Growth-by-2032-Assesses-DelveInsight-Leading-Companies-Developing-Therapies-Ascendis-Pharma-Amolyt-Pharma-Bridgebio-Calc.html) | GlobeNewswire | 2024-02-05 |
 
 ## News for FDA Regulations
 
