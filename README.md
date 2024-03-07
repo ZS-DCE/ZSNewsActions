@@ -39,6 +39,7 @@
 | [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/) | Wired | 2024-03-06 |
 | [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/) | Wired | 2024-02-11 |
 | [Life on Mars: NASA calls for volunteers to take part in year-long simulation](https://readwrite.com/life-on-mars-nasa-calls-for-volunteers-to-take-part-in-year-long-simulation/) | ReadWrite | 2024-02-19 |
+| [Company Trying to Resurrect a Mammoth Makes a Stem Cell Breakthrough](https://gizmodo.com/colossal-biosciences-elephant-stem-cells-woolly-mammoth-1851312096) | Gizmodo.com | 2024-03-06 |
 | [How molecular 'handedness' emerged in early biology](https://www.sciencedaily.com/releases/2024/02/240228115459.htm) | Science Daily | 2024-02-28 |
 | [New research reveals activation mechanism of Thoeris antiviral defense system](https://phys.org/news/2024-02-reveals-mechanism-thoeris-antiviral-defense.html) | Phys.Org | 2024-02-22 |
 | [Mimas' surprise: Tiny moon of Saturn holds young ocean beneath icy shell](https://www.sciencedaily.com/releases/2024/02/240207120512.htm) | Science Daily | 2024-02-07 |
@@ -58,7 +59,6 @@
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
 | [We Should All Be Prepared To Design For Life — But Not As We Know It](https://www.core77.com/posts/129291/We-Should-All-Be-Prepared-To-Design-For-Life-%E2%80%94-But-Not-As-We-Know-It) | Core77.com | 2024-03-06 |
 | [Giant Antarctic sea spiders reproductive mystery solved](https://www.sciencedaily.com/releases/2024/02/240218211136.htm) | Science Daily | 2024-02-19 |
-| [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
 
 ## News for Medical Devices
 
