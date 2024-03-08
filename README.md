@@ -167,6 +167,7 @@
 | [Pop Star: How Pepsi Got Its Name](https://www.mentalfloss.com/posts/pepsi-name-origin) | Mental Floss | 2024-02-09 |
 | [CVS, Walgreens to begin filling prescriptions for abortion pill mifepristone](https://www.livescience.com/health/medicine-drugs/cvs-walgreens-to-begin-filling-prescriptions-for-abortion-pill-mifepristone) | Live Science | 2024-03-04 |
 | [InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI](https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/) | Forbes | 2024-02-15 |
+| [Seeing Beyond The Hype Of That One Neurotech Startup](https://www.forbes.com/sites/naveenrao/2024/03/07/seeing-beyond-the-hype-of-that-one-neurotech-startup/) | Forbes | 2024-03-07 |
 | [Med Tech Job Description: Templates for Hiring for Your Business](https://smallbiztrends.com/2024/02/med-tech-job-description.html) | Small Business Trends | 2024-02-07 |
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 | [What Is Bovine Colostrum, And Why Do People Want To Drink It?](https://www.forbes.com/sites/ninashapiro/2024/02/15/what-is-bovine-colostrum-and-why-do-people-want-to-drink-it/) | Forbes | 2024-02-16 |
@@ -178,5 +179,4 @@
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
 | [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 
