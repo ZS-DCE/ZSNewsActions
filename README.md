@@ -16,6 +16,7 @@
 | [Ozempic and Wegovy are lifting Denmark's GDP, report says](https://qz.com/novo-nordisk-ozempic-wegovy-denmark-gdp-1851309063) | Quartz India | 2024-03-05 |
 | [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
+| [Small countries, big firms](https://marginalrevolution.com/marginalrevolution/2024/03/small-countries-big-firms.html) | Marginalrevolution.com | 2024-03-08 |
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
 | [Weight-loss drugs aren't a magic bullet. Lifestyle changes are key to lasting health](https://www.npr.org/sections/health-shots/2024/02/12/1229920739/weight-loss-drugs-ozempic-arent-magic-bullet-lifestyle-changes-lasting-health) | NPR | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
@@ -28,7 +29,6 @@
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 | [Pharmaceutical group's lawsuit over Medicare drug price program dismissed](https://www.aol.com/news/pharmaceutical-groups-lawsuit-over-medicare-030745124.html) | AOL | 2024-02-13 |
-| [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
 
 ## News for Life Sciences
 
