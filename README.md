@@ -5,9 +5,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Branding & Packaging Design Transformations in Pharma](https://abduzeedo.com/node/88342) | Abduzeedo.com | 2024-03-01 |
-| [Big Pharma CEOs grilled on Capitol Hill over drug prices: 4 key takeaways](https://abcnews.go.com/Business/big-pharma-ceos-grilled-capitol-hill-takeaways/story?id=107057364) | ABC News | 2024-02-08 |
 | [A Cyber Insurance Backstop](https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html) | Schneier.com | 2024-02-27 |
-| [J&J, Merck and Bristol Myers CEOs, under fire on Capitol Hill, seek to turn up heat on drug-market middlemen](https://www.marketwatch.com/story/j-j-merck-and-bristol-myers-ceos-under-fire-on-capitol-hill-seek-to-turn-up-heat-on-drug-market-middlemen-abe1fc39) | MarketWatch | 2024-02-08 |
 | [New drug prices surged last year, fueled by treatments for rare diseases](https://qz.com/drug-prices-pharma-rare-diseases-2023-1851281956) | Quartz India | 2024-02-23 |
 | [Ozempic and Wegovy sales are so hot they're propelling Denmark's GDP](https://qz.com/denmark-novo-nordisk-ozempic-wegovy-demand-1851272044) | Quartz India | 2024-02-20 |
 | [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
@@ -20,7 +18,6 @@
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
 | [Weight-loss drugs aren't a magic bullet. Lifestyle changes are key to lasting health](https://www.npr.org/sections/health-shots/2024/02/12/1229920739/weight-loss-drugs-ozempic-arent-magic-bullet-lifestyle-changes-lasting-health) | NPR | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
-| [Construction Industry Grapples With Its Top Killer: Drug Overdose...](https://dnyuz.com/2024/02/08/construction-industry-grapples-with-its-top-killer-drug-overdose/) | Dnyuz.com | 2024-02-08 |
 | [Why Chinese apps chose to film super-short soap operas in Southeast Asia](https://www.technologyreview.com/2024/02/28/1089104/chinese-soap-operasoutheast-asia/) | MIT Technology Review | 2024-02-28 |
 | [What an American Approach to AI Regulation Should Look Like](https://time.com/6848922/ai-regulation/) | Time | 2024-03-05 |
 | [Which Industry is Likely to Benefit the Most from Generative AI](https://www.noupe.com/business-online/which-industry-is-likely-to-benefit-the-most-from-generative-ai.html) | Noupe.com | 2024-02-21 |
@@ -29,6 +26,9 @@
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 | [Pharmaceutical group's lawsuit over Medicare drug price program dismissed](https://www.aol.com/news/pharmaceutical-groups-lawsuit-over-medicare-030745124.html) | AOL | 2024-02-13 |
+| [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
+| [Can Blockchain Solve Healthcare? Nigeria Bets On The Technology To Curb Fake Drugs](https://biztoc.com/x/e2a0dde1c8ff39cd) | Biztoc.com | 2024-02-11 |
+| [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 
 ## News for Life Sciences
 
@@ -87,8 +87,8 @@
 | [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 | [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
 | [Family Dollar will pay a $41 million fine because of a rat infestation](https://qz.com/family-dollar-dollar-tree-fine-warehouse-rat-infestatio-1851289259) | Quartz India | 2024-02-27 |
-| [What to Know About the Various Legal Disputes Over the Apple Watch](https://time.com/6692718/apple-watch-masimo-alivecor-patent-antitrust-legal-explainer/) | Time | 2024-02-08 |
 | [Cyberattacks on hospitals are likely to increase, putting lives at risk, experts warn](https://abcnews.go.com/Business/wireStory/cyberattacks-hospitals-increase-putting-lives-risk-experts-warn-107230487) | ABC News | 2024-02-14 |
+| [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 
 ## News for Healthcare Sector
 
@@ -125,7 +125,6 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Il Makiage parent Oddity Tech’s earnings crush estimates as beauty consumer moves online](https://www.marketwatch.com/story/il-makiage-parent-oddity-techs-earnings-crush-estimates-as-beauty-consumer-moves-online-a9bd1a7c) | MarketWatch | 2024-03-05 |
-| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-227-12216261.html) | Moneycontrol | 2024-02-08 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-228-12225971.html) | Moneycontrol | 2024-02-09 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-234-12293881.html) | Moneycontrol | 2024-02-19 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-231-12261301.html) | Moneycontrol | 2024-02-14 |
@@ -149,6 +148,7 @@
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
+| [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
 
 ## News for FDA Regulations
 
@@ -159,7 +159,6 @@
 | [E-Cigarettes Can Help Smokers Quit](https://www.forbes.com/sites/paulhsieh/2024/02/29/e-cigarettes-can-help-smokers-quit/) | Forbes | 2024-02-29 |
 | [Top Biden health official to allies: Push White House to ban menthol](https://www.politico.com/news/2024/02/15/robert-califf-fda-chief-biden-menthol-cigarette-ban-00141549) | Politico | 2024-02-15 |
 | [90% of US tattoo inks contain ingredients not listed on the label](https://newatlas.com/health-wellbeing/american-tattoo-inks-contain-harmful-unlisted-ingredients/) | New Atlas | 2024-02-27 |
-| [Reproducible and Reliable Shiny Apps for Regulatory Submissions](https://www.r-bloggers.com/2024/02/reproducible-and-reliable-shiny-apps-for-regulatory-submissions/) | R-bloggers.com | 2024-02-08 |
 | [CVS and Walgreens to start selling abortion pills this month](https://www.cbsnews.com/news/cvs-walgreens-mifepristone-abortion-pill/) | CBS News | 2024-03-01 |
 | [FDA to develop new "healthy" logo – here's what it could look like](https://www.cbsnews.com/news/healthy-logo-fda-which-foods-qualify/) | CBS News | 2024-02-27 |
 | [First Aid Kits for Businesses: Stay Prepared With Our Picks](https://smallbiztrends.com/2024/03/first-aid-kits-for-businesses.html) | Small Business Trends | 2024-03-03 |
@@ -179,4 +178,5 @@
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
 | [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 
