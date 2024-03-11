@@ -44,21 +44,21 @@
 | [New research reveals activation mechanism of Thoeris antiviral defense system](https://phys.org/news/2024-02-reveals-mechanism-thoeris-antiviral-defense.html) | Phys.Org | 2024-02-22 |
 | [Alphabet's Verily Founder Andy Conrad Departs for VC Firm S32](https://finance.yahoo.com/news/alphabets-verily-founder-andy-conrad-140000507.html) | Yahoo Entertainment | 2024-02-22 |
 | [Three years later, search for life on Mars continues](https://www.sciencedaily.com/releases/2024/02/240222122312.htm) | Science Daily | 2024-02-22 |
+| [New study discovers how altered protein folding drives multicellular evolution](https://www.sciencedaily.com/releases/2024/03/240308142729.htm) | Science Daily | 2024-03-08 |
 | [Big new idea introduced with the help of tiny plankton](https://www.sciencedaily.com/releases/2024/02/240215142136.htm) | Science Daily | 2024-02-15 |
 | [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/) | Worldsensorium.com | 2024-02-14 |
 | [Scientists identify “universal network” of microbes for decomposing flesh](https://arstechnica.com/science/2024/02/how-a-corpses-microbiome-can-help-scientists-nail-down-time-of-death/) | Ars Technica | 2024-02-12 |
 | [VentureBeat to feature interviews with AWS, Microsoft, Google and more from Nvidia GTC 2024](https://venturebeat.com/ai/venturebeat-to-feature-interviews-with-aws-microsoft-google-and-more-from-nvidia-gtc-2024/) | VentureBeat | 2024-03-04 |
+| [Mutation solves a century-old mystery in meiosis](https://www.sciencedaily.com/releases/2024/03/240308123336.htm) | Science Daily | 2024-03-08 |
 | [Modeling the origins of life: New evidence for an 'RNA World'](https://www.sciencedaily.com/releases/2024/03/240304195250.htm) | Science Daily | 2024-03-05 |
+| ['Double life' of key immune protein reveals new strategies for treating cancer and autoimmune diseases](https://www.sciencedaily.com/releases/2024/03/240308142732.htm) | Science Daily | 2024-03-08 |
 | [Pioneering LLM Applications In Healthcare And The Life Sciences](https://www.forbes.com/sites/aparnadhinakaran/2024/02/21/pioneering-llm-applications-in-healthcare-and-the-life-sciences/) | Forbes | 2024-02-21 |
 | [Even modern hydropower plants pose major threat to river habitats, finds study](https://phys.org/news/2024-02-modern-hydropower-pose-major-threat.html) | Phys.Org | 2024-02-27 |
 | [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
+| [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
 | [We Should All Be Prepared To Design For Life — But Not As We Know It](https://www.core77.com/posts/129291/We-Should-All-Be-Prepared-To-Design-For-Life-%E2%80%94-But-Not-As-We-Know-It) | Core77.com | 2024-03-06 |
 | [Giant Antarctic sea spiders reproductive mystery solved](https://www.sciencedaily.com/releases/2024/02/240218211136.htm) | Science Daily | 2024-02-19 |
-| [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
-| [Level Up Your R/Shiny Skills with Appsilon’s Tailored Workshops](https://www.r-bloggers.com/2024/02/level-up-your-r-shiny-skills-with-appsilons-tailored-workshops/) | R-bloggers.com | 2024-02-13 |
-| [How Property Owners Can Adapt To Life Science Tenants’ Changing Needs](https://www.forbes.com/sites/markzettl/2024/02/14/how-property-owners-can-adapt-to-life-science-tenants-changing-needs/) | Forbes | 2024-02-14 |
-| [Angewandte Wissenschaften: 83 Promotionsverfahren an Hochschulen](https://www.zeit.de/news/2024-02/14/83-promotionsverfahren-an-hochschulen) | Die Zeit | 2024-02-14 |
 
 ## News for Medical Devices
 
