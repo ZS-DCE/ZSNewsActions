@@ -68,14 +68,13 @@
 | [Don't use smartwatches and rings that claim to measure blood sugar without needles, the FDA warns](https://www.engadget.com/dont-use-smartwatches-and-rings-that-claim-to-measure-blood-sugar-without-needles-the-fda-warns-001745875.html) | Engadget | 2024-02-22 |
 | [All the Top New Gadgets at MWC 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-mwc-2024/) | Wired | 2024-02-26 |
 | [Apple iOS 17.4: iMessage Gets Post-Quantum Encryption in New Update](https://www.wired.com/story/apple-pq3-post-quantum-encryption/) | Wired | 2024-02-21 |
-| [Samsung gets FDA approval for a sleep apnea feature on Galaxy Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc4606fe-5d3d-4c75-8417-1a2cb887e741) | Yahoo Entertainment | 2024-02-09 |
 | [Security News This Week: Russian Hackers Stole Microsoft Source Code—and the Attack Isn’t Over](https://www.wired.com/story/russia-hackers-microsoft-source-code/) | Wired | 2024-03-09 |
 | [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/) | Wired | 2024-02-12 |
 | [US FDA issue warning over smartwatches and smart rings](https://readwrite.com/fda-warns-of-smart-devices-that-claim-to-report-blood-glucose-levels/) | ReadWrite | 2024-02-22 |
 | [Oregon OKs right-to-repair bill that bans the blocking of aftermarket parts](https://arstechnica.com/tech-policy/2024/03/oregon-oks-right-to-repair-bill-that-bans-the-blocking-of-aftermarket-parts/) | Ars Technica | 2024-03-05 |
+| [A Copy of a Copy of a Copy: The Story of FDA Medical Device Clearances](https://wcedmisten.fyi/post/medical-device-analysis/) | Wcedmisten.fyi | 2024-03-10 |
 | [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references) | Stanford.edu | 2024-02-24 |
 | [Google's upcoming 'Satellite SOS' feature is reportedly on the way for Pixels](https://www.androidcentral.com/phones/google-satellite-sos-pixel-feature-spotted) | Android Central | 2024-03-04 |
-| [Better Living Through Biomedical Engineering](https://hackaday.com/2024/02/09/better-living-through-biomedical-engineering/) | Hackaday | 2024-02-09 |
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
 | [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
 | [Neuralink chip implant human can control computer mouse by thinking: Musk](https://readwrite.com/neuralink-chip-implant-human-can-control-computer-mouse-by-thinking-musk/) | ReadWrite | 2024-02-20 |
@@ -89,6 +88,7 @@
 | [Scientists shine new light on the future of nanoelectronic devices](https://phys.org/news/2024-03-scientists-future-nanoelectronic-devices.html) | Phys.Org | 2024-03-04 |
 | [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 | [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
+| [Family Dollar will pay a $41 million fine because of a rat infestation](https://qz.com/family-dollar-dollar-tree-fine-warehouse-rat-infestatio-1851289259) | Quartz India | 2024-02-27 |
 
 ## News for Healthcare Sector
 
@@ -109,7 +109,6 @@
 | [Mark Huntley on Unlocking Healthcare Sector SEO Opportunities in 2024](https://socialmediaexplorer.com/business-innovation-2/mark-huntley-on-unlocking-healthcare-sector-seo-opportunities-in-2024/) | Socialmediaexplorer.com | 2024-02-12 |
 | [Change Healthcare registers pulse after crippling ransomware attack](https://www.theregister.com/2024/03/08/change_healthcare_restores_first_system/) | Theregister.com | 2024-03-08 |
 | [Republicans see Latino voters in Nevada as key to retaking the White House in 2024](https://www.npr.org/2024/02/10/1230546093/republicans-see-latino-voters-in-nevada-as-key-to-retaking-the-white-house-in-20) | NPR | 2024-02-10 |
-| [Zimbabwe nurses seek better conditions abroad but fear for patients at home](https://www.aljazeera.com/features/2024/2/9/zimbabwe-nurses-seek-better-conditions-abroad-but-fear-for-patients-at-home) | Al Jazeera English | 2024-02-09 |
 | [Paramount, NBC, and more: A timeline of 2024 media layoffs](https://qz.com/2024-media-layoffs-1851253400) | Quartz India | 2024-02-15 |
 | [Branding and Visual Identity: Ovumlab's Innovative Approach](https://abduzeedo.com/node/88346) | Abduzeedo.com | 2024-03-04 |
 | [These are the software roles you can leverage for remote working](https://venturebeat.com/programming-development/these-are-the-software-roles-you-can-leverage-for-remote-working/) | VentureBeat | 2024-02-20 |
@@ -119,6 +118,7 @@
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 | ['An attack on the entire sector': Fallout from Change Healthcare hack continues](https://biztoc.com/x/3a8ab931656b35d9) | Biztoc.com | 2024-02-26 |
 | [A growing number of stocks are joining the market rally — even as Big Tech still gets most of the attention](https://www.marketwatch.com/story/a-growing-number-of-stocks-are-joining-the-market-rally-even-as-big-tech-still-gets-most-of-the-attention-a0231a08) | MarketWatch | 2024-02-24 |
+| [FBI: Critical infrastructure menaced by spike in ransomware](https://www.theregister.com/2024/03/06/fbi_ransomware_cybercrime_costs/) | Theregister.com | 2024-03-06 |
 
 ## News for Pharma Market Trends
 
@@ -146,9 +146,9 @@
 | [Aseptic Pharma Processing Market Poised for Robust Growth, New Study Projects Significant Opportunities in Packaging and Processing by 2030](https://www.globenewswire.com/news-release/2024/02/14/2829491/28124/en/Aseptic-Pharma-Processing-Market-Poised-for-Robust-Growth-New-Study-Projects-Significant-Opportunities-in-Packaging-and-Processing-by-2030.html) | GlobeNewswire | 2024-02-14 |
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
+| [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
-| [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 
 ## News for FDA Regulations
 
@@ -164,19 +164,19 @@
 | [First Aid Kits for Businesses: Stay Prepared With Our Picks](https://smallbiztrends.com/2024/03/first-aid-kits-for-businesses.html) | Small Business Trends | 2024-03-03 |
 | [Your brain needs a really good lawyer](https://www.vox.com/future-perfect/24078512/brain-tech-privacy-rights-neurorights-colorado-yuste) | Vox | 2024-02-21 |
 | [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
-| [Pop Star: How Pepsi Got Its Name](https://www.mentalfloss.com/posts/pepsi-name-origin) | Mental Floss | 2024-02-09 |
 | [CVS, Walgreens to begin filling prescriptions for abortion pill mifepristone](https://www.livescience.com/health/medicine-drugs/cvs-walgreens-to-begin-filling-prescriptions-for-abortion-pill-mifepristone) | Live Science | 2024-03-04 |
 | [InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI](https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/) | Forbes | 2024-02-15 |
 | [Seeing Beyond The Hype Of That One Neurotech Startup](https://www.forbes.com/sites/naveenrao/2024/03/07/seeing-beyond-the-hype-of-that-one-neurotech-startup/) | Forbes | 2024-03-07 |
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 | [What Is Bovine Colostrum, And Why Do People Want To Drink It?](https://www.forbes.com/sites/ninashapiro/2024/02/15/what-is-bovine-colostrum-and-why-do-people-want-to-drink-it/) | Forbes | 2024-02-16 |
 | [Does Red Cross Ask Potential Blood Donors If They've Received a COVID-19 Vaccine?](https://www.snopes.com//fact-check/red-cross-blood-covid-vaccine/) | Snopes.com | 2024-02-22 |
-| [Hologic AI-powered cancer screening system wins FDA approval](https://www.mobihealthnews.com/news/hologic-ai-powered-cancer-screening-system-wins-fda-approval) | MobiHealthNews | 2024-02-09 |
-| [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 | [Dangerous FDA ruling allows research trials get away with skipping informed consent](https://www.naturalnews.com/2024-02-12-dangerous-fda-trials-skipping-informed-consent.html) | Naturalnews.com | 2024-02-12 |
+| [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 | [Key Addiction Points You Need to Know](https://www.psychologytoday.com/intl/blog/addiction-outlook/202402/key-addiction-points-you-need-to-know) | Psychology Today | 2024-02-17 |
 | [We have treatments for opioid addiction that work. So why is the problem getting worse?](https://www.vox.com/the-highlight/2024/1/16/24033590/treatment-opioid-addiction-crisis-2024) | Vox | 2024-02-12 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
 | [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [How To Find—And Keep—Customers With The Highest Lifetime Value](https://www.forbes.com/sites/forbestechcouncil/2024/02/15/how-to-find-and-keep-customers-with-the-highest-lifetime-value/) | Forbes | 2024-02-15 |
+| [This Pre-Roll Brand To Pay Creator $70K At ‘Ultimate Stoner Dream Job’](https://www.forbes.com/sites/benjaminadams/2024/03/04/this-pre-roll-brand-to-pay-creator-70k-at-ultimate-stoner-dream-job/) | Forbes | 2024-03-04 |
 
