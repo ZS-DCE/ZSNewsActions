@@ -7,6 +7,7 @@
 | [Branding & Packaging Design Transformations in Pharma](https://abduzeedo.com/node/88342) | Abduzeedo.com | 2024-03-01 |
 | [A Cyber Insurance Backstop](https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html) | Schneier.com | 2024-02-27 |
 | [New drug prices surged last year, fueled by treatments for rare diseases](https://qz.com/drug-prices-pharma-rare-diseases-2023-1851281956) | Quartz India | 2024-02-23 |
+| [UK Medicines Regulator MHRA’s Role As Pharma “Enabler” During Pandemic Comes Under Microscope](https://www.nakedcapitalism.com/2024/03/uk-medicines-regulator-mhra-comes-under-microscope-over-vaccine-safety-and-efficacy.html) | Nakedcapitalism.com | 2024-03-12 |
 | [Ozempic and Wegovy sales are so hot they're propelling Denmark's GDP](https://qz.com/denmark-novo-nordisk-ozempic-wegovy-demand-1851272044) | Quartz India | 2024-02-20 |
 | [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
 | [China Sentences Pirate Site Operators, Huge Win For Japan’s Anime Industry](https://torrentfreak.com/china-sentences-pirate-site-operators-huge-win-for-japans-anime-industry-240304/) | Torrentfreak.com | 2024-03-04 |
@@ -28,7 +29,6 @@
 | [Pharmaceutical group's lawsuit over Medicare drug price program dismissed](https://www.aol.com/news/pharmaceutical-groups-lawsuit-over-medicare-030745124.html) | AOL | 2024-02-13 |
 | [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
 | [Can Blockchain Solve Healthcare? Nigeria Bets On The Technology To Curb Fake Drugs](https://biztoc.com/x/e2a0dde1c8ff39cd) | Biztoc.com | 2024-02-11 |
-| [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 
 ## News for Life Sciences
 
