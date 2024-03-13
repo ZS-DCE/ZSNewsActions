@@ -77,18 +77,18 @@
 | [Google's upcoming 'Satellite SOS' feature is reportedly on the way for Pixels](https://www.androidcentral.com/phones/google-satellite-sos-pixel-feature-spotted) | Android Central | 2024-03-04 |
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
 | [Neuralink chip implant human can control computer mouse by thinking: Musk](https://readwrite.com/neuralink-chip-implant-human-can-control-computer-mouse-by-thinking-musk/) | ReadWrite | 2024-02-20 |
-| [Abbott Laboratories says FDA independent panel votes to approve heart device](https://www.marketwatch.com/story/abbott-laboratories-says-fda-independent-panel-votes-to-approve-heart-device-c796f12f) | MarketWatch | 2024-02-14 |
 | [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
+| [Abbott Laboratories says FDA independent panel votes to approve heart device](https://www.marketwatch.com/story/abbott-laboratories-says-fda-independent-panel-votes-to-approve-heart-device-c796f12f) | MarketWatch | 2024-02-14 |
 | [Family Dollar has agreed to pay $42 million after storing food and medicine in a warehouse with a severe rodent infestation](https://www.businessinsider.com/family-dollar-rat-infestation-warehouse-arkansas-west-memphis-fda-rodent-2024-2) | Business Insider | 2024-02-27 |
 | [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [MIT Researchers Build Tiny Tamper-Proof ID Tag Utilizing Terahertz Waves](https://it.slashdot.org/story/24/02/19/010202/mit-researchers-build-tiny-tamper-proof-id-tag-utilizing-terahertz-waves) | Slashdot.org | 2024-02-19 |
+| [New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more](https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3) | Business Insider | 2024-03-11 |
 | [(Exact) Steps to Announce Caller Name on ALL Devices](https://www.quicksprout.com/announce-caller-name/) | Quicksprout.com | 2024-02-16 |
 | [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
 | [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 | [Scientists shine new light on the future of nanoelectronic devices](https://phys.org/news/2024-03-scientists-future-nanoelectronic-devices.html) | Phys.Org | 2024-03-04 |
 | [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 | [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
-| [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
 
 ## News for Healthcare Sector
 
@@ -111,6 +111,7 @@
 | [CEO says he tried to hire an AI researcher from Meta, and was told to 'come back to me when you have 10,000 H100 GPUs'](https://www.businessinsider.com/recruiting-ai-talent-ruthless-right-now-ai-ceo-2024-3) | Business Insider | 2024-03-11 |
 | [Mark Huntley on Unlocking Healthcare Sector SEO Opportunities in 2024](https://socialmediaexplorer.com/business-innovation-2/mark-huntley-on-unlocking-healthcare-sector-seo-opportunities-in-2024/) | Socialmediaexplorer.com | 2024-02-12 |
 | [Change Healthcare registers pulse after crippling ransomware attack](https://www.theregister.com/2024/03/08/change_healthcare_restores_first_system/) | Theregister.com | 2024-03-08 |
+| [White House and lawmakers increase pressure on UnitedHealth to ease providers' pain](https://www.theregister.com/2024/03/12/white_house_pressures_unitedhealth/) | Theregister.com | 2024-03-12 |
 | [Paramount, NBC, and more: A timeline of 2024 media layoffs](https://qz.com/2024-media-layoffs-1851253400) | Quartz India | 2024-02-15 |
 | [Branding and Visual Identity: Ovumlab's Innovative Approach](https://abduzeedo.com/node/88346) | Abduzeedo.com | 2024-03-04 |
 | [These are the software roles you can leverage for remote working](https://venturebeat.com/programming-development/these-are-the-software-roles-you-can-leverage-for-remote-working/) | VentureBeat | 2024-02-20 |
@@ -118,7 +119,6 @@
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
 | ['An attack on the entire sector': Fallout from Change Healthcare hack continues](https://biztoc.com/x/3a8ab931656b35d9) | Biztoc.com | 2024-02-26 |
-| [A growing number of stocks are joining the market rally — even as Big Tech still gets most of the attention](https://www.marketwatch.com/story/a-growing-number-of-stocks-are-joining-the-market-rally-even-as-big-tech-still-gets-most-of-the-attention-a0231a08) | MarketWatch | 2024-02-24 |
 
 ## News for Pharma Market Trends
 
