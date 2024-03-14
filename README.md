@@ -14,6 +14,7 @@
 | [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
 | [Ozempic and Wegovy are lifting Denmark's GDP, report says](https://qz.com/novo-nordisk-ozempic-wegovy-denmark-gdp-1851309063) | Quartz India | 2024-03-05 |
 | [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
+| [Ozempic And Wegovy Rivals: Here Are The Companies Working On Competitor Weight Loss Drugs](https://www.forbes.com/sites/roberthart/2024/03/13/ozempic-and-wegovy-rivals-here-are-the-companies-working-on-competitor-weight-loss-drugs/) | Forbes | 2024-03-13 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
 | [Small countries, big firms](https://marginalrevolution.com/marginalrevolution/2024/03/small-countries-big-firms.html) | Marginalrevolution.com | 2024-03-08 |
@@ -28,7 +29,6 @@
 | [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 | [Pharmaceutical group's lawsuit over Medicare drug price program dismissed](https://www.aol.com/news/pharmaceutical-groups-lawsuit-over-medicare-030745124.html) | AOL | 2024-02-13 |
 | [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
-| [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 
 ## News for Life Sciences
 
@@ -43,9 +43,10 @@
 | [How molecular 'handedness' emerged in early biology](https://www.sciencedaily.com/releases/2024/02/240228115459.htm) | Science Daily | 2024-02-28 |
 | [New research reveals activation mechanism of Thoeris antiviral defense system](https://phys.org/news/2024-02-reveals-mechanism-thoeris-antiviral-defense.html) | Phys.Org | 2024-02-22 |
 | [Alphabet's Verily Founder Andy Conrad Departs for VC Firm S32](https://finance.yahoo.com/news/alphabets-verily-founder-andy-conrad-140000507.html) | Yahoo Entertainment | 2024-02-22 |
+| [How Nebraska wrestler Peyton Robb defeated flesh-eating bacteria](https://www.espn.com/college-sports/story/_/id/39711387/peyton-robb-nebraska-flesh-eating-bacteria) | ESPN | 2024-03-13 |
 | [Three years later, search for life on Mars continues](https://www.sciencedaily.com/releases/2024/02/240222122312.htm) | Science Daily | 2024-02-22 |
-| [Big new idea introduced with the help of tiny plankton](https://www.sciencedaily.com/releases/2024/02/240215142136.htm) | Science Daily | 2024-02-15 |
 | [New study discovers how altered protein folding drives multicellular evolution](https://www.sciencedaily.com/releases/2024/03/240308142729.htm) | Science Daily | 2024-03-08 |
+| [Big new idea introduced with the help of tiny plankton](https://www.sciencedaily.com/releases/2024/02/240215142136.htm) | Science Daily | 2024-02-15 |
 | [Unearthing the Oldest Forest on Earth](https://worldsensorium.com/unearthing-the-oldest-forest-on-earth-two-hours-from-new-york-city-you-can-travel-back-nearly-400-million-years/) | Worldsensorium.com | 2024-02-14 |
 | [VentureBeat to feature interviews with AWS, Microsoft, Google and more from Nvidia GTC 2024](https://venturebeat.com/ai/venturebeat-to-feature-interviews-with-aws-microsoft-google-and-more-from-nvidia-gtc-2024/) | VentureBeat | 2024-03-04 |
 | [Mutation solves a century-old mystery in meiosis](https://www.sciencedaily.com/releases/2024/03/240308123336.htm) | Science Daily | 2024-03-08 |
@@ -58,7 +59,6 @@
 | [Common hair loss and prostate drug may also cut heart disease risk in men and mice](https://www.sciencedaily.com/releases/2024/02/240220203309.htm) | Science Daily | 2024-02-21 |
 | [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
-| [We Should All Be Prepared To Design For Life — But Not As We Know It](https://www.core77.com/posts/129291/We-Should-All-Be-Prepared-To-Design-For-Life-%E2%80%94-But-Not-As-We-Know-It) | Core77.com | 2024-03-06 |
 
 ## News for Medical Devices
 
@@ -117,8 +117,8 @@
 | [These are the software roles you can leverage for remote working](https://venturebeat.com/programming-development/these-are-the-software-roles-you-can-leverage-for-remote-working/) | VentureBeat | 2024-02-20 |
 | [Genetic Testing: The Good, the Bad, and the Costly](https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/genetic-testing-the-good-the-bad-and-the-costly/) | Forbes | 2024-02-13 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
+| [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
-| ['An attack on the entire sector': Fallout from Change Healthcare hack continues](https://biztoc.com/x/3a8ab931656b35d9) | Biztoc.com | 2024-02-26 |
 
 ## News for Pharma Market Trends
 
