@@ -26,9 +26,9 @@
 | [Applying a small voltage to a catalyst can increase the rates of common reactions used in manufacturing, study finds](https://phys.org/news/2024-02-small-voltage-catalyst-common-reactions.html) | Phys.Org | 2024-02-15 |
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
-| [23andMe wants to double down on DNA data mining with its business in a tailspin](https://qz.com/23andme-dna-data-mining-1851254269) | Quartz India | 2024-02-14 |
 | [FTC’s Misguided Antitrust Regulation Threatens Pharma Innovation](https://www.forbes.com/sites/stanfleming/2024/02/14/ftcs-misguided-antitrust-regulation-threatens-pharma-innovation/) | Forbes | 2024-02-14 |
 | [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
+| [Viking Weight Loss Drug Targets Ozempic And Mounjaro Makers’ Supremacy — What To Know](https://www.forbes.com/sites/roberthart/2024/02/28/viking-weight-loss-drug-targets-ozempic-and-mounjaro-makers-supremacy---what-to-know/) | Forbes | 2024-02-28 |
 
 ## News for Life Sciences
 
@@ -85,10 +85,10 @@
 | [(Exact) Steps to Announce Caller Name on ALL Devices](https://www.quicksprout.com/announce-caller-name/) | Quicksprout.com | 2024-02-16 |
 | [New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more](https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3) | Business Insider | 2024-03-11 |
 | [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
-| [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) | Frontiersin.org | 2024-02-14 |
 | [Scientists shine new light on the future of nanoelectronic devices](https://phys.org/news/2024-03-scientists-future-nanoelectronic-devices.html) | Phys.Org | 2024-03-04 |
 | [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 | [UK Pledges Action On 'Biased' Medical Devices](https://www.forbes.com/sites/emmawoollacott/2024/03/12/uk-pledges-action-on-biased-medical-devices/) | Forbes | 2024-03-12 |
+| [A new test could predict how heart attack patients will respond to mechanical pumps](https://www.sciencedaily.com/releases/2024/02/240214203335.htm) | Science Daily | 2024-02-15 |
 
 ## News for Healthcare Sector
 
@@ -146,8 +146,8 @@
 | [Aseptic Pharma Processing Market Poised for Robust Growth, New Study Projects Significant Opportunities in Packaging and Processing by 2030](https://www.globenewswire.com/news-release/2024/02/14/2829491/28124/en/Aseptic-Pharma-Processing-Market-Poised-for-Robust-Growth-New-Study-Projects-Significant-Opportunities-in-Packaging-and-Processing-by-2030.html) | GlobeNewswire | 2024-02-14 |
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
-| [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
+| [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 
 ## News for FDA Regulations
