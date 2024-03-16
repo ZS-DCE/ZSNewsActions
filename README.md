@@ -45,8 +45,8 @@
 | [Alphabet's Verily Founder Andy Conrad Departs for VC Firm S32](https://finance.yahoo.com/news/alphabets-verily-founder-andy-conrad-140000507.html) | Yahoo Entertainment | 2024-02-22 |
 | [How Nebraska wrestler Peyton Robb defeated flesh-eating bacteria](https://www.espn.com/college-sports/story/_/id/39711387/peyton-robb-nebraska-flesh-eating-bacteria) | ESPN | 2024-03-13 |
 | [Three years later, search for life on Mars continues](https://www.sciencedaily.com/releases/2024/02/240222122312.htm) | Science Daily | 2024-02-22 |
-| [Big new idea introduced with the help of tiny plankton](https://www.sciencedaily.com/releases/2024/02/240215142136.htm) | Science Daily | 2024-02-15 |
 | [New study discovers how altered protein folding drives multicellular evolution](https://www.sciencedaily.com/releases/2024/03/240308142729.htm) | Science Daily | 2024-03-08 |
+| [Big new idea introduced with the help of tiny plankton](https://www.sciencedaily.com/releases/2024/02/240215142136.htm) | Science Daily | 2024-02-15 |
 | [VentureBeat to feature interviews with AWS, Microsoft, Google and more from Nvidia GTC 2024](https://venturebeat.com/ai/venturebeat-to-feature-interviews-with-aws-microsoft-google-and-more-from-nvidia-gtc-2024/) | VentureBeat | 2024-03-04 |
 | [Mutation solves a century-old mystery in meiosis](https://www.sciencedaily.com/releases/2024/03/240308123336.htm) | Science Daily | 2024-03-08 |
 | [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children) | Wikipedia.org | 2024-03-12 |
@@ -137,6 +137,7 @@
 | [Using AI To Modernize Drug Development And Lessons Learned](https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/) | Forbes | 2024-02-23 |
 | [Pharma E-Commerce Market Report 2024: Global Trends, Forecast and Competitive Analysis to 2030 Featuring Amazon, Apotek, CVS Health, L Rowland & Co, Mckesson, Netmeds Marketplace, and Optum](https://www.globenewswire.com/news-release/2024/02/26/2834876/28124/en/Pharma-E-Commerce-Market-Report-2024-Global-Trends-Forecast-and-Competitive-Analysis-to-2030-Featuring-Amazon-Apotek-CVS-Health-L-Rowland-Co-Mckesson-Netmeds-Marketplace-and-Optum.html) | GlobeNewswire | 2024-02-26 |
 | [3 Pharma Stocks to Sell in March Before They Crash & Burn](https://biztoc.com/x/b85f9ab84f1d0312) | Biztoc.com | 2024-03-14 |
+| [Earnings momentum starting to slow down; margins may falter in Q4 & Q1: Pankaj Tibrewal](https://economictimes.indiatimes.com/markets/expert-view/earnings-momentum-is-starting-to-slow-down-margins-may-falter-in-q4-q1-pankaj-tibrewal/articleshow/108515645.cms) | The Times of India | 2024-03-15 |
 | [Indian pharma market registers 9% growth in February](https://www.moneycontrol.com/news/business/markets/indian-pharma-market-registers-9-growth-in-february-12420231.html) | Moneycontrol | 2024-03-07 |
 | [Constipation Treatment Market Projected to Reach $27.5 Billion by 2030, as Laxatives Segment Accelerates Globally](https://www.globenewswire.com/news-release/2024/03/04/2839876/28124/en/Constipation-Treatment-Market-Projected-to-Reach-27-5-Billion-by-2030-as-Laxatives-Segment-Accelerates-Globally.html) | GlobeNewswire | 2024-03-04 |
 | [Clinical Trial Imaging Market To Reach USD 2.5 Billion By 2032 Report By DataHorizzon Research](https://www.globenewswire.com/news-release/2024/02/23/2834377/0/en/Clinical-Trial-Imaging-Market-To-Reach-USD-2-5-Billion-By-2032-Report-By-DataHorizzon-Research.html) | GlobeNewswire | 2024-02-23 |
@@ -148,7 +149,6 @@
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Epilepsy Treatment Drugs Market to hit USD 12.3 Bn by 2032, says Global Market Insights Inc](https://www.globenewswire.com/news-release/2024/02/20/2831478/0/en/Epilepsy-Treatment-Drugs-Market-to-hit-USD-12-3-Bn-by-2032-says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-20 |
-| [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
 
 ## News for FDA Regulations
 
