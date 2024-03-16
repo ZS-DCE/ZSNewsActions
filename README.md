@@ -13,8 +13,8 @@
 | [China Sentences Pirate Site Operators, Huge Win For Japan’s Anime Industry](https://torrentfreak.com/china-sentences-pirate-site-operators-huge-win-for-japans-anime-industry-240304/) | Torrentfreak.com | 2024-03-04 |
 | [Tiger Global slashes stakes in Magnificent Seven while piling into semiconductor makers](https://www.marketwatch.com/story/tiger-global-slashes-stakes-in-magnificent-seven-while-piling-into-semiconductor-makers-0f77f27d) | MarketWatch | 2024-02-15 |
 | [Ozempic and Wegovy are lifting Denmark's GDP, report says](https://qz.com/novo-nordisk-ozempic-wegovy-denmark-gdp-1851309063) | Quartz India | 2024-03-05 |
-| [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Ozempic And Wegovy Rivals: Here Are The Companies Working On Competitor Weight Loss Drugs](https://www.forbes.com/sites/roberthart/2024/03/13/ozempic-and-wegovy-rivals-here-are-the-companies-working-on-competitor-weight-loss-drugs/) | Forbes | 2024-03-13 |
+| [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Fake Ozempic Is Surging](https://time.com/6907653/fake-ozempic-surging-uk/) | Time | 2024-03-13 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
@@ -99,6 +99,7 @@
 | [Joe Biden's pre-election spending spree created an 'economy on speed,' economist says](https://www.businessinsider.com/biden-government-morici-unemployment-national-debt-jobs-fiscal-stimulus-spending-2024-3) | Business Insider | 2024-03-11 |
 | [Nvidia’s AI sector contributes to significant earnings boost](https://readwrite.com/nvidias-ai-sector-contributes-to-significant-earnings-boost/) | ReadWrite | 2024-02-27 |
 | [Healthcare startups are rushing to sell AI to hospital systems. But a new survey suggests many simply aren't ready for it.](https://www.businessinsider.com/most-hospitals-dont-have-policies-for-new-ai-tech-survey-2024-2) | Business Insider | 2024-02-20 |
+| [Why weight-loss drugs like Ozempic are a game-changer for the global economy](https://www.businessinsider.com/economic-outlook-ozempic-economy-obesity-gdp-productivity-healthcare-novo-nordisk-2024-3) | Business Insider | 2024-03-15 |
 | [Inside a prison healthcare company's ownership shell game](https://www.businessinsider.com/prison-health-company-yescare-ceded-financial-control-to-insider-entities-2024-3) | Business Insider | 2024-03-05 |
 | [Opinion: For politicians, AI will bring salvation or damnation — but nothing in between](https://thenextweb.com/news/politicians-are-ai-extremists) | The Next Web | 2024-03-01 |
 | [4 Tech Jobs Likely to Be Dominated By AI](https://readwrite.com/tech-jobs-ldominated-by-ai/) | ReadWrite | 2024-03-05 |
@@ -118,7 +119,6 @@
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [How to Start a Medical Supply Business](https://smallbiztrends.com/2024/02/how-to-start-a-medical-supply-business.html) | Small Business Trends | 2024-02-20 |
-| ['An attack on the entire sector': Fallout from Change Healthcare hack continues](https://biztoc.com/x/3a8ab931656b35d9) | Biztoc.com | 2024-02-26 |
 
 ## News for Pharma Market Trends
 
@@ -147,8 +147,8 @@
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
 | [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
+| [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
-| [Epilepsy Treatment Drugs Market to hit USD 12.3 Bn by 2032, says Global Market Insights Inc](https://www.globenewswire.com/news-release/2024/02/20/2831478/0/en/Epilepsy-Treatment-Drugs-Market-to-hit-USD-12-3-Bn-by-2032-says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-20 |
 
 ## News for FDA Regulations
 
