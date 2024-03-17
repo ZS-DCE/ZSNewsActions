@@ -16,8 +16,8 @@
 | [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Fake Ozempic Is Surging](https://time.com/6907653/fake-ozempic-surging-uk/) | Time | 2024-03-13 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
-| [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
 | [Small countries, big firms](https://marginalrevolution.com/marginalrevolution/2024/03/small-countries-big-firms.html) | Marginalrevolution.com | 2024-03-08 |
+| [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
 | [Why Chinese apps chose to film super-short soap operas in Southeast Asia](https://www.technologyreview.com/2024/02/28/1089104/chinese-soap-operasoutheast-asia/) | MIT Technology Review | 2024-02-28 |
 | [What an American Approach to AI Regulation Should Look Like](https://time.com/6848922/ai-regulation/) | Time | 2024-03-05 |
@@ -39,6 +39,7 @@
 | [There’s a New Theory About Where Dark Matter Is Hiding](https://www.wired.com/story/dimension-physicists-missing-dark-matter-universe-gravity-physics-gravitons/) | Wired | 2024-02-25 |
 | [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/) | Wired | 2024-03-06 |
 | [Life on Mars: NASA calls for volunteers to take part in year-long simulation](https://readwrite.com/life-on-mars-nasa-calls-for-volunteers-to-take-part-in-year-long-simulation/) | ReadWrite | 2024-02-19 |
+| [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702) | Medium | 2024-03-16 |
 | [Company Trying to Resurrect a Mammoth Makes a Stem Cell Breakthrough](https://gizmodo.com/colossal-biosciences-elephant-stem-cells-woolly-mammoth-1851312096) | Gizmodo.com | 2024-03-06 |
 | [How molecular 'handedness' emerged in early biology](https://www.sciencedaily.com/releases/2024/02/240228115459.htm) | Science Daily | 2024-02-28 |
 | [New research reveals activation mechanism of Thoeris antiviral defense system](https://phys.org/news/2024-02-reveals-mechanism-thoeris-antiviral-defense.html) | Phys.Org | 2024-02-22 |
@@ -58,7 +59,6 @@
 | [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [Microplastics found in every human placenta tested](https://www.sciencedaily.com/releases/2024/02/240220144335.htm) | Science Daily | 2024-02-20 |
 | [We Should All Be Prepared To Design For Life — But Not As We Know It](https://www.core77.com/posts/129291/We-Should-All-Be-Prepared-To-Design-For-Life-%E2%80%94-But-Not-As-We-Know-It) | Core77.com | 2024-03-06 |
-| [Giant Antarctic sea spiders reproductive mystery solved](https://www.sciencedaily.com/releases/2024/02/240218211136.htm) | Science Daily | 2024-02-19 |
 
 ## News for Medical Devices
 
