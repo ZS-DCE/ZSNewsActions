@@ -23,12 +23,12 @@
 | [Why Chinese apps chose to film super-short soap operas in Southeast Asia](https://www.technologyreview.com/2024/02/28/1089104/chinese-soap-operasoutheast-asia/) | MIT Technology Review | 2024-02-28 |
 | [What an American Approach to AI Regulation Should Look Like](https://time.com/6848922/ai-regulation/) | Time | 2024-03-05 |
 | [Which Industry is Likely to Benefit the Most from Generative AI](https://www.noupe.com/business-online/which-industry-is-likely-to-benefit-the-most-from-generative-ai.html) | Noupe.com | 2024-02-21 |
+| [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [Viking Weight Loss Drug Targets Ozempic And Mounjaro Makers’ Supremacy — What To Know](https://www.forbes.com/sites/roberthart/2024/02/28/viking-weight-loss-drug-targets-ozempic-and-mounjaro-makers-supremacy---what-to-know/) | Forbes | 2024-02-28 |
-| [AI-driven lab speeds catalysis research](https://phys.org/news/2024-02-ai-driven-lab-catalysis.html) | Phys.Org | 2024-02-27 |
 
 ## News for Life Sciences
 
@@ -66,6 +66,7 @@
 | ----- | ------ | --------- |
 | [Neuralink’s First Brain Implant Is Working. Elon Musk’s Transparency Isn’t](https://www.wired.com/story/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/) | Wired | 2024-02-21 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [All the Top New Gadgets at MWC 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-mwc-2024/) | Wired | 2024-02-26 |
 | [Apple iOS 17.4: iMessage Gets Post-Quantum Encryption in New Update](https://www.wired.com/story/apple-pq3-post-quantum-encryption/) | Wired | 2024-02-21 |
 | [Security News This Week: Russian Hackers Stole Microsoft Source Code—and the Attack Isn’t Over](https://www.wired.com/story/russia-hackers-microsoft-source-code/) | Wired | 2024-03-09 |
@@ -88,7 +89,6 @@
 | [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
 | [Apple looks beyond health for a large array of future Apple Watch sensors](https://appleinsider.com/articles/24/03/14/apple-looks-beyond-health-for-a-large-array-of-future-apple-watch-sensors) | AppleInsider | 2024-03-14 |
 | [Scientists shine new light on the future of nanoelectronic devices](https://phys.org/news/2024-03-scientists-future-nanoelectronic-devices.html) | Phys.Org | 2024-03-04 |
-| [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 
 ## News for Healthcare Sector
 
@@ -129,6 +129,7 @@
 | [Mid-day Mood | Sensex, Nifty down; small, midcaps hammered over valuation concerns](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-small-midcaps-hammered-over-valuation-concerns-12411001.html) | Moneycontrol | 2024-03-06 |
 | [Mid-day Mood | Sensex, Nifty tumble as profit-booking drags heavyweights](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-tumble-as-profit-booking-drags-heavyweights-12349691.html) | Moneycontrol | 2024-02-26 |
 | [Pay Attention to the Trend](https://gothamgal.com/2024/03/pay-attention-to-the-trend/) | Gothamgal.com | 2024-03-12 |
+| [How AI insights improve decision making](https://sproutsocial.com/insights/ai-insights/) | Sproutsocial.com | 2024-03-19 |
 | [Indian health tech seen growing to $20B by 2028: report](https://www.mobihealthnews.com/news/asia/indian-health-tech-seen-growing-20b-2028-report) | MobiHealthNews | 2024-03-13 |
 | [Mid-day Mood | Nifty, Sensex trade flat as IT, Media stocks drag; focus on FOMC minutes](https://www.moneycontrol.com/news/business/markets/mid-day-mood-nifty-sensex-trade-flat-as-it-media-stocks-drag-focus-on-fomc-minutes-12319761.html) | Moneycontrol | 2024-02-21 |
 | [Media Briefing: Publishers say Q1 is ‘off like a rocket’ after a lousy 2023](http://digiday.com/media/media-briefing-publishers-say-q1-is-off-like-a-rocket-after-a-lousy-2023/) | Digiday | 2024-02-22 |
@@ -148,7 +149,6 @@
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Epilepsy Treatment Drugs Market to hit USD 12.3 Bn by 2032, says Global Market Insights Inc](https://www.globenewswire.com/news-release/2024/02/20/2831478/0/en/Epilepsy-Treatment-Drugs-Market-to-hit-USD-12-3-Bn-by-2032-says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-20 |
-| [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
 
 ## News for FDA Regulations
 
@@ -172,9 +172,9 @@
 | [Does Red Cross Ask Potential Blood Donors If They've Received a COVID-19 Vaccine?](https://www.snopes.com//fact-check/red-cross-blood-covid-vaccine/) | Snopes.com | 2024-02-22 |
 | [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
 | [AirPods Pro reportedly will gain a hearing aid mode with iOS 18 - no hardware update needed](https://www.zdnet.com/article/airpods-pro-reportedly-will-gain-a-hearing-aid-mode-with-ios-18-no-hardware-update-needed/) | ZDNet | 2024-03-11 |
+| [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Sonatype SBOM Manager identifies and mitigates vulnerabilities within the software supply chain](https://www.helpnetsecurity.com/2024/03/19/sonatype-sbom-manager/) | Help Net Security | 2024-03-19 |
 | [This Pre-Roll Brand To Pay Creator $70K At ‘Ultimate Stoner Dream Job’](https://www.forbes.com/sites/benjaminadams/2024/03/04/this-pre-roll-brand-to-pay-creator-70k-at-ultimate-stoner-dream-job/) | Forbes | 2024-03-04 |
