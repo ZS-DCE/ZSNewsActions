@@ -26,9 +26,9 @@
 | [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
 | [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
+| [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
-| [Viking Weight Loss Drug Targets Ozempic And Mounjaro Makers’ Supremacy — What To Know](https://www.forbes.com/sites/roberthart/2024/02/28/viking-weight-loss-drug-targets-ozempic-and-mounjaro-makers-supremacy---what-to-know/) | Forbes | 2024-02-28 |
 
 ## News for Life Sciences
 
@@ -49,8 +49,8 @@
 | [VentureBeat to feature interviews with AWS, Microsoft, Google and more from Nvidia GTC 2024](https://venturebeat.com/ai/venturebeat-to-feature-interviews-with-aws-microsoft-google-and-more-from-nvidia-gtc-2024/) | VentureBeat | 2024-03-04 |
 | [Mutation solves a century-old mystery in meiosis](https://www.sciencedaily.com/releases/2024/03/240308123336.htm) | Science Daily | 2024-03-08 |
 | [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children) | Wikipedia.org | 2024-03-12 |
-| [Modeling the origins of life: New evidence for an 'RNA World'](https://www.sciencedaily.com/releases/2024/03/240304195250.htm) | Science Daily | 2024-03-05 |
 | [Q&A: Why researchers need accessible training to understand and leverage artificial intelligence in the life sciences](https://phys.org/news/2024-03-qa-accessible-leverage-artificial-intelligence.html) | Phys.Org | 2024-03-12 |
+| [Modeling the origins of life: New evidence for an 'RNA World'](https://www.sciencedaily.com/releases/2024/03/240304195250.htm) | Science Daily | 2024-03-05 |
 | ['Double life' of key immune protein reveals new strategies for treating cancer and autoimmune diseases](https://www.sciencedaily.com/releases/2024/03/240308142732.htm) | Science Daily | 2024-03-08 |
 | [Pioneering LLM Applications In Healthcare And The Life Sciences](https://www.forbes.com/sites/aparnadhinakaran/2024/02/21/pioneering-llm-applications-in-healthcare-and-the-life-sciences/) | Forbes | 2024-02-21 |
 | [Even modern hydropower plants pose major threat to river habitats, finds study](https://phys.org/news/2024-02-modern-hydropower-pose-major-threat.html) | Phys.Org | 2024-02-27 |
@@ -126,6 +126,7 @@
 | ----- | ------ | --------- |
 | [Il Makiage parent Oddity Tech’s earnings crush estimates as beauty consumer moves online](https://www.marketwatch.com/story/il-makiage-parent-oddity-techs-earnings-crush-estimates-as-beauty-consumer-moves-online-a9bd1a7c) | MarketWatch | 2024-03-05 |
 | [2024 Trends In Private Equity And Mergers And Acquisitions](https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/19/2024-trends-in-private-equity-and-mergers-and-acquisitions/) | Forbes | 2024-03-19 |
+| [Mid-day Mood | Sensex, Nifty down as investors cautious ahead of Fed outcome; all sectors in red](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-as-investors-cautious-ahead-of-fed-outcome-all-sectors-in-red-12491901.html) | Moneycontrol | 2024-03-20 |
 | [Mid-day Mood | Sensex, Nifty down; small, midcaps hammered over valuation concerns](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-small-midcaps-hammered-over-valuation-concerns-12411001.html) | Moneycontrol | 2024-03-06 |
 | [Mid-day Mood | Sensex, Nifty tumble as profit-booking drags heavyweights](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-tumble-as-profit-booking-drags-heavyweights-12349691.html) | Moneycontrol | 2024-02-26 |
 | [Pay Attention to the Trend](https://gothamgal.com/2024/03/pay-attention-to-the-trend/) | Gothamgal.com | 2024-03-12 |
@@ -148,7 +149,6 @@
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
-| [Epilepsy Treatment Drugs Market to hit USD 12.3 Bn by 2032, says Global Market Insights Inc](https://www.globenewswire.com/news-release/2024/02/20/2831478/0/en/Epilepsy-Treatment-Drugs-Market-to-hit-USD-12-3-Bn-by-2032-says-Global-Market-Insights-Inc.html) | GlobeNewswire | 2024-02-20 |
 
 ## News for FDA Regulations
 
