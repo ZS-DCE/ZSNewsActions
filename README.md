@@ -57,8 +57,8 @@
 | [Even modern hydropower plants pose major threat to river habitats, finds study](https://phys.org/news/2024-02-modern-hydropower-pose-major-threat.html) | Phys.Org | 2024-02-27 |
 | [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [We Should All Be Prepared To Design For Life — But Not As We Know It](https://www.core77.com/posts/129291/We-Should-All-Be-Prepared-To-Design-For-Life-%E2%80%94-But-Not-As-We-Know-It) | Core77.com | 2024-03-06 |
+| [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 | [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
-| [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
 
 ## News for Medical Devices
 
@@ -144,8 +144,8 @@
 | [Constipation Treatment Market Projected to Reach $27.5 Billion by 2030, as Laxatives Segment Accelerates Globally](https://www.globenewswire.com/news-release/2024/03/04/2839876/28124/en/Constipation-Treatment-Market-Projected-to-Reach-27-5-Billion-by-2030-as-Laxatives-Segment-Accelerates-Globally.html) | GlobeNewswire | 2024-03-04 |
 | [Clinical Trial Imaging Market To Reach USD 2.5 Billion By 2032 Report By DataHorizzon Research](https://www.globenewswire.com/news-release/2024/02/23/2834377/0/en/Clinical-Trial-Imaging-Market-To-Reach-USD-2-5-Billion-By-2032-Report-By-DataHorizzon-Research.html) | GlobeNewswire | 2024-02-23 |
 | [RLJ Lodging Trust (NYSE:RLJ) Q4 2023 Earnings Call Transcript](https://finance.yahoo.com/news/rlj-lodging-trust-nyse-rlj-154440463.html) | Yahoo Entertainment | 2024-02-28 |
-| [Insights Into the Generic Drugs Market in Canada, 2024-2032, Featuring Apotex, Mylan Pharmaceuticals, Pharmascience, Sandoz, Sun Pharma Industries, and Teva Pharmaceutical Industries](https://www.globenewswire.com/news-release/2024/03/21/2850031/28124/en/Insights-Into-the-Generic-Drugs-Market-in-Canada-2024-2032-Featuring-Apotex-Mylan-Pharmaceuticals-Pharmascience-Sandoz-Sun-Pharma-Industries-and-Teva-Pharmaceutical-Industries.html) | GlobeNewswire | 2024-03-21 |
 | [Computer-Assisted Coding Market revenue to hit USD 22 Billion by 2036, says Research Nester](https://www.globenewswire.com/news-release/2024/02/29/2837761/0/en/Computer-Assisted-Coding-Market-revenue-to-hit-USD-22-Billion-by-2036-says-Research-Nester.html) | GlobeNewswire | 2024-02-29 |
+| [Insights Into the Generic Drugs Market in Canada, 2024-2032, Featuring Apotex, Mylan Pharmaceuticals, Pharmascience, Sandoz, Sun Pharma Industries, and Teva Pharmaceutical Industries](https://www.globenewswire.com/news-release/2024/03/21/2850031/28124/en/Insights-Into-the-Generic-Drugs-Market-in-Canada-2024-2032-Featuring-Apotex-Mylan-Pharmaceuticals-Pharmascience-Sandoz-Sun-Pharma-Industries-and-Teva-Pharmaceutical-Industries.html) | GlobeNewswire | 2024-03-21 |
 | [Germany Pharmaceutical 3PL Market Review and Forecast 2020-2029: Digital Prescription Models Drive Surge in Online Pharmacy Demand, Reshaping Healthcare Landscape](https://www.globenewswire.com/news-release/2024/02/21/2832933/28124/en/Germany-Pharmaceutical-3PL-Market-Review-and-Forecast-2020-2029-Digital-Prescription-Models-Drive-Surge-in-Online-Pharmacy-Demand-Reshaping-Healthcare-Landscape.html) | GlobeNewswire | 2024-02-21 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
 | [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
@@ -161,14 +161,15 @@
 | [CVS and Walgreens to start selling abortion pills this month](https://www.cbsnews.com/news/cvs-walgreens-mifepristone-abortion-pill/) | CBS News | 2024-03-01 |
 | [On Pi Day, FDA revokes regulations for frozen cherry pie](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5bc9e0e2-3cd2-4da4-9b2d-a23c9b087fd4) | Yahoo Entertainment | 2024-03-14 |
 | [FDA to develop new "healthy" logo – here's what it could look like](https://www.cbsnews.com/news/healthy-logo-fda-which-foods-qualify/) | CBS News | 2024-02-27 |
+| [After Nearly 20 Years, They Finally Freed the Frozen Cherry Pie](https://reason.com/2024/03/21/after-nearly-20-years-they-finally-freed-the-frozen-cherry-pie/) | Reason | 2024-03-21 |
 | [First Aid Kits for Businesses: Stay Prepared With Our Picks](https://smallbiztrends.com/2024/03/first-aid-kits-for-businesses.html) | Small Business Trends | 2024-03-03 |
 | [Your brain needs a really good lawyer](https://www.vox.com/future-perfect/24078512/brain-tech-privacy-rights-neurorights-colorado-yuste) | Vox | 2024-02-21 |
 | [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
 | [CVS, Walgreens to begin filling prescriptions for abortion pill mifepristone](https://www.livescience.com/health/medicine-drugs/cvs-walgreens-to-begin-filling-prescriptions-for-abortion-pill-mifepristone) | Live Science | 2024-03-04 |
 | [Seeing Beyond The Hype Of That One Neurotech Startup](https://www.forbes.com/sites/naveenrao/2024/03/07/seeing-beyond-the-hype-of-that-one-neurotech-startup/) | Forbes | 2024-03-07 |
 | [Texas Appeals Court Rules That Dad Can Deny His Teen Contraceptives](https://www.thedailybeast.com/texas-appeals-court-rules-that-dad-can-deny-his-teen-contraceptives) | Daily Beast | 2024-03-12 |
-| [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 | [Does Red Cross Ask Potential Blood Donors If They've Received a COVID-19 Vaccine?](https://www.snopes.com//fact-check/red-cross-blood-covid-vaccine/) | Snopes.com | 2024-02-22 |
+| [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 | [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
 | [AirPods Pro reportedly will gain a hearing aid mode with iOS 18 - no hardware update needed](https://www.zdnet.com/article/airpods-pro-reportedly-will-gain-a-hearing-aid-mode-with-ios-18-no-hardware-update-needed/) | ZDNet | 2024-03-11 |
@@ -178,5 +179,4 @@
 | [Sonatype SBOM Manager identifies and mitigates vulnerabilities within the software supply chain](https://www.helpnetsecurity.com/2024/03/19/sonatype-sbom-manager/) | Help Net Security | 2024-03-19 |
 | [This Pre-Roll Brand To Pay Creator $70K At ‘Ultimate Stoner Dream Job’](https://www.forbes.com/sites/benjaminadams/2024/03/04/this-pre-roll-brand-to-pay-creator-70k-at-ultimate-stoner-dream-job/) | Forbes | 2024-03-04 |
 | [Food Recalls Rise as Urgent Warnings Issued Nationwide](https://www.newsweek.com/food-recalls-rise-fda-warnings-1872424) | Newsweek | 2024-02-22 |
-| [An invisible chemical is poisoning thousands of unsuspecting warehouse workers](http://grist.org/accountability/ethylene-oxide-georgia-medical-supply-warehouses-worker-health/) | Grist | 2024-02-29 |
 
