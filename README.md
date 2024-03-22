@@ -12,8 +12,8 @@
 | [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
 | [China Sentences Pirate Site Operators, Huge Win For Japan’s Anime Industry](https://torrentfreak.com/china-sentences-pirate-site-operators-huge-win-for-japans-anime-industry-240304/) | Torrentfreak.com | 2024-03-04 |
 | [Ozempic and Wegovy are lifting Denmark's GDP, report says](https://qz.com/novo-nordisk-ozempic-wegovy-denmark-gdp-1851309063) | Quartz India | 2024-03-05 |
-| [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Ozempic And Wegovy Rivals: Here Are The Companies Working On Competitor Weight Loss Drugs](https://www.forbes.com/sites/roberthart/2024/03/13/ozempic-and-wegovy-rivals-here-are-the-companies-working-on-competitor-weight-loss-drugs/) | Forbes | 2024-03-13 |
+| [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Fake Ozempic Is Surging](https://time.com/6907653/fake-ozempic-surging-uk/) | Time | 2024-03-13 |
 | [Top Five Imperatives For Healthcare And Pharmaceutical Leaders In 2024](https://www.forbes.com/sites/forbestechcouncil/2024/02/21/top-five-imperatives-for-healthcare-and-pharmaceutical-leaders-in-2024/) | Forbes | 2024-02-21 |
 | [Should Big Pharma pay poor countries for finding new diseases?](https://www.vox.com/future-perfect/24084899/new-vaccines-pandemic-treaty-who-pharma-africa) | Vox | 2024-02-28 |
@@ -100,6 +100,7 @@
 | [Nvidia’s AI sector contributes to significant earnings boost](https://readwrite.com/nvidias-ai-sector-contributes-to-significant-earnings-boost/) | ReadWrite | 2024-02-27 |
 | [Why weight-loss drugs like Ozempic are a game-changer for the global economy](https://www.businessinsider.com/economic-outlook-ozempic-economy-obesity-gdp-productivity-healthcare-novo-nordisk-2024-3) | Business Insider | 2024-03-15 |
 | [Inside a prison healthcare company's ownership shell game](https://www.businessinsider.com/prison-health-company-yescare-ceded-financial-control-to-insider-entities-2024-3) | Business Insider | 2024-03-05 |
+| [Future-first thinking](https://www.businessinsider.com/sc/how-investment-is-unlocking-innovation-in-the-quantum-and-space-sectors) | Business Insider | 2024-03-21 |
 | [Opinion: For politicians, AI will bring salvation or damnation — but nothing in between](https://thenextweb.com/news/politicians-are-ai-extremists) | The Next Web | 2024-03-01 |
 | [4 Tech Jobs Likely to Be Dominated By AI](https://readwrite.com/tech-jobs-ldominated-by-ai/) | ReadWrite | 2024-03-05 |
 | [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
@@ -118,7 +119,6 @@
 | ['An attack on the entire sector': Fallout from Change Healthcare hack continues](https://biztoc.com/x/3a8ab931656b35d9) | Biztoc.com | 2024-02-26 |
 | [A growing number of stocks are joining the market rally — even as Big Tech still gets most of the attention](https://www.marketwatch.com/story/a-growing-number-of-stocks-are-joining-the-market-rally-even-as-big-tech-still-gets-most-of-the-attention-a0231a08) | MarketWatch | 2024-02-24 |
 | [FBI: Critical infrastructure menaced by spike in ransomware](https://www.theregister.com/2024/03/06/fbi_ransomware_cybercrime_costs/) | Theregister.com | 2024-03-06 |
-| [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
 
 ## News for Pharma Market Trends
 
