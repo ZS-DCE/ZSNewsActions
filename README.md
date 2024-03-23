@@ -38,6 +38,7 @@
 | ['Monumental' Experiment Suggests How Life on Earth May Have Started](https://science.slashdot.org/story/24/03/09/224218/monumental-experiment-suggests-how-life-on-earth-may-have-started) | Slashdot.org | 2024-03-10 |
 | [There’s a New Theory About Where Dark Matter Is Hiding](https://www.wired.com/story/dimension-physicists-missing-dark-matter-universe-gravity-physics-gravitons/) | Wired | 2024-02-25 |
 | [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/) | Wired | 2024-03-06 |
+| [New Ultrablack Coating on Telescopes Could Reveal More of the Universe](https://gizmodo.com/improve-space-telescopes-ultrablack-coating-light-1851356614) | Gizmodo.com | 2024-03-22 |
 | [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702) | Medium | 2024-03-16 |
 | [Company Trying to Resurrect a Mammoth Makes a Stem Cell Breakthrough](https://gizmodo.com/colossal-biosciences-elephant-stem-cells-woolly-mammoth-1851312096) | Gizmodo.com | 2024-03-06 |
 | [How molecular 'handedness' emerged in early biology](https://www.sciencedaily.com/releases/2024/02/240228115459.htm) | Science Daily | 2024-02-28 |
@@ -58,7 +59,6 @@
 | [We Should All Be Prepared To Design For Life — But Not As We Know It](https://www.core77.com/posts/129291/We-Should-All-Be-Prepared-To-Design-For-Life-%E2%80%94-But-Not-As-We-Know-It) | Core77.com | 2024-03-06 |
 | [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 | [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
-| [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
 
 ## News for Medical Devices
 
