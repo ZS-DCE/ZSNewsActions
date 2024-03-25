@@ -7,7 +7,6 @@
 | [Pharma-Backed Democrats Are Fighting to Keep Drugs Expensive](https://jacobin.com/2024/03/pharma-drug-price-negotiations-democrats) | Jacobin.com | 2024-03-17 |
 | [Branding & Packaging Design Transformations in Pharma](https://abduzeedo.com/node/88342) | Abduzeedo.com | 2024-03-01 |
 | [A Cyber Insurance Backstop](https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html) | Schneier.com | 2024-02-27 |
-| [New drug prices surged last year, fueled by treatments for rare diseases](https://qz.com/drug-prices-pharma-rare-diseases-2023-1851281956) | Quartz India | 2024-02-23 |
 | [UK Medicines Regulator MHRA’s Role As Pharma “Enabler” During Pandemic Comes Under Microscope](https://www.nakedcapitalism.com/2024/03/uk-medicines-regulator-mhra-comes-under-microscope-over-vaccine-safety-and-efficacy.html) | Nakedcapitalism.com | 2024-03-12 |
 | [Spoiler Alert: Bernie Sanders Is No Friend Of The Consumer. His Recent Senate Hearing Proves It.](https://www.forbes.com/sites/ritanumerof/2024/02/26/spoiler-alert-bernie-sanders-is-no-friend-of-the-consumer-his-recent-senate-hearing-proves-it/) | Forbes | 2024-02-26 |
 | [China Sentences Pirate Site Operators, Huge Win For Japan’s Anime Industry](https://torrentfreak.com/china-sentences-pirate-site-operators-huge-win-for-japans-anime-industry-240304/) | Torrentfreak.com | 2024-03-04 |
@@ -21,14 +20,15 @@
 | [Why Chinese apps chose to film super-short soap operas in Southeast Asia](https://www.technologyreview.com/2024/02/28/1089104/chinese-soap-operasoutheast-asia/) | MIT Technology Review | 2024-02-28 |
 | [What an American Approach to AI Regulation Should Look Like](https://time.com/6848922/ai-regulation/) | Time | 2024-03-05 |
 | [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
-| [‘Port Charles’ Actor David Gail Cause Of Death Determined, Mother Speaks Out Against Fentanyl Epidemic](http://deadline.com/2024/02/david-gail-cause-of-death-2-1235836114/) | Deadline | 2024-02-24 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
-| [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
+| [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [Viking Weight Loss Drug Targets Ozempic And Mounjaro Makers’ Supremacy — What To Know](https://www.forbes.com/sites/roberthart/2024/02/28/viking-weight-loss-drug-targets-ozempic-and-mounjaro-makers-supremacy---what-to-know/) | Forbes | 2024-02-28 |
 | [AI-driven lab speeds catalysis research](https://phys.org/news/2024-02-ai-driven-lab-catalysis.html) | Phys.Org | 2024-02-27 |
 | [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
+| [Amazon will now deliver Eil Lilly's weight loss drug Zepbound](https://qz.com/eli-lilly-zepbound-amazon-pharmacy-lilly-direct-1851332240) | Quartz India | 2024-03-13 |
+| [The world's most expensive drug has a new price tag: $4.25 million](https://qz.com/orchard-therapeutics-lenmeldy-worlds-most-expensive-dru-1851353742) | Quartz India | 2024-03-20 |
 
 ## News for Life Sciences
 
@@ -106,7 +106,6 @@
 | [Hope for accountability as Covid inquiry begins hearing evidence in Wales](https://www.bbc.com/news/articles/cmmgqev76ndo) | BBC News | 2024-02-26 |
 | [I moved from Denmark to the US. I prefer the US, but there are some things the Danish do better.](https://www.businessinsider.com/moved-to-usa-denmark-pros-prefer-america-2024-3) | Business Insider | 2024-03-09 |
 | [The AI dolls to tackle loneliness of South Korea’s elderly (and watch them)](https://readwrite.com/the-ai-dolls-to-tackle-loneliness-of-south-koreas-elderly-and-watch-them/) | ReadWrite | 2024-03-11 |
-| [AI is having a 1995 moment](https://www.businessinsider.com/ai-boom-nvidia-1995-moment-analyst-2024-2) | Business Insider | 2024-02-23 |
 | [CEO says he tried to hire an AI researcher from Meta, and was told to 'come back to me when you have 10,000 H100 GPUs'](https://www.businessinsider.com/recruiting-ai-talent-ruthless-right-now-ai-ceo-2024-3) | Business Insider | 2024-03-11 |
 | [Change Healthcare registers pulse after crippling ransomware attack](https://www.theregister.com/2024/03/08/change_healthcare_restores_first_system/) | Theregister.com | 2024-03-08 |
 | [White House and lawmakers increase pressure on UnitedHealth to ease providers' pain](https://www.theregister.com/2024/03/12/white_house_pressures_unitedhealth/) | Theregister.com | 2024-03-12 |
@@ -116,9 +115,10 @@
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0d0b2ab40fe75cf8) | Biztoc.com | 2024-02-27 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | ['An attack on the entire sector': Fallout from Change Healthcare hack continues](https://biztoc.com/x/3a8ab931656b35d9) | Biztoc.com | 2024-02-26 |
-| [A growing number of stocks are joining the market rally — even as Big Tech still gets most of the attention](https://www.marketwatch.com/story/a-growing-number-of-stocks-are-joining-the-market-rally-even-as-big-tech-still-gets-most-of-the-attention-a0231a08) | MarketWatch | 2024-02-24 |
 | [FBI: Critical infrastructure menaced by spike in ransomware](https://www.theregister.com/2024/03/06/fbi_ransomware_cybercrime_costs/) | Theregister.com | 2024-03-06 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
+| [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
+| [How femtech is closing the gender gap in health data](https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data) | The Next Web | 2024-03-05 |
 
 ## News for Pharma Market Trends
 
@@ -133,7 +133,6 @@
 | [Pay Attention to the Trend](https://gothamgal.com/2024/03/pay-attention-to-the-trend/) | Gothamgal.com | 2024-03-12 |
 | [How AI insights improve decision making](https://sproutsocial.com/insights/ai-insights/) | Sproutsocial.com | 2024-03-19 |
 | [Indian health tech seen growing to $20B by 2028: report](https://www.mobihealthnews.com/news/asia/indian-health-tech-seen-growing-20b-2028-report) | MobiHealthNews | 2024-03-13 |
-| [Using AI To Modernize Drug Development And Lessons Learned](https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/) | Forbes | 2024-02-23 |
 | [Pharma E-Commerce Market Report 2024: Global Trends, Forecast and Competitive Analysis to 2030 Featuring Amazon, Apotek, CVS Health, L Rowland & Co, Mckesson, Netmeds Marketplace, and Optum](https://www.globenewswire.com/news-release/2024/02/26/2834876/28124/en/Pharma-E-Commerce-Market-Report-2024-Global-Trends-Forecast-and-Competitive-Analysis-to-2030-Featuring-Amazon-Apotek-CVS-Health-L-Rowland-Co-Mckesson-Netmeds-Marketplace-and-Optum.html) | GlobeNewswire | 2024-02-26 |
 | [3 Pharma Stocks to Sell in March Before They Crash & Burn](https://biztoc.com/x/b85f9ab84f1d0312) | Biztoc.com | 2024-03-14 |
 | [Earnings momentum starting to slow down; margins may falter in Q4 & Q1: Pankaj Tibrewal](https://economictimes.indiatimes.com/markets/expert-view/earnings-momentum-is-starting-to-slow-down-margins-may-falter-in-q4-q1-pankaj-tibrewal/articleshow/108515645.cms) | The Times of India | 2024-03-15 |
@@ -149,6 +148,7 @@
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
+| [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
 
 ## News for FDA Regulations
 
