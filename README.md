@@ -5,6 +5,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [The Next Big Battle Over Abortion Has Begun](https://www.wired.com/story/abortion-pill-mifepristone-scotus-roe-v-wade/) | Wired | 2024-03-25 |
+| [What's at stake in the Supreme Court mifepristone case](https://www.npr.org/sections/health-shots/2024/03/25/1240282129/mifepristone-supreme-court-fda-medication-abortion-explainer) | NPR | 2024-03-25 |
 | [Pharma-Backed Democrats Are Fighting to Keep Drugs Expensive](https://jacobin.com/2024/03/pharma-drug-price-negotiations-democrats) | Jacobin.com | 2024-03-17 |
 | [Branding & Packaging Design Transformations in Pharma](https://abduzeedo.com/node/88342) | Abduzeedo.com | 2024-03-01 |
 | [A Cyber Insurance Backstop](https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html) | Schneier.com | 2024-02-27 |
@@ -28,7 +29,6 @@
 | [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [Viking Weight Loss Drug Targets Ozempic And Mounjaro Makers’ Supremacy — What To Know](https://www.forbes.com/sites/roberthart/2024/02/28/viking-weight-loss-drug-targets-ozempic-and-mounjaro-makers-supremacy---what-to-know/) | Forbes | 2024-02-28 |
-| [AI-driven lab speeds catalysis research](https://phys.org/news/2024-02-ai-driven-lab-catalysis.html) | Phys.Org | 2024-02-27 |
 
 ## News for Life Sciences
 
@@ -177,6 +177,6 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [What's in tattoo ink? Expert says some additives aren't on the packaging](https://www.cbsnews.com/news/whats-in-tattoo-ink-potentially-concerning-additives/) | CBS News | 2024-03-23 |
+| [Supreme Court To Revisit Abortion Debate Amid Medication Access Dispute](https://www.ibtimes.com/supreme-court-revisit-abortion-debate-amid-medication-access-dispute-3728044) | International Business Times | 2024-03-25 |
 | [Sonatype SBOM Manager identifies and mitigates vulnerabilities within the software supply chain](https://www.helpnetsecurity.com/2024/03/19/sonatype-sbom-manager/) | Help Net Security | 2024-03-19 |
-| [This Pre-Roll Brand To Pay Creator $70K At ‘Ultimate Stoner Dream Job’](https://www.forbes.com/sites/benjaminadams/2024/03/04/this-pre-roll-brand-to-pay-creator-70k-at-ultimate-stoner-dream-job/) | Forbes | 2024-03-04 |
 
