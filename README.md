@@ -36,7 +36,6 @@
 | ----- | ------ | --------- |
 | [An ‘RNA World’ Could Have Kickstarted Life on Earth](https://gizmodo.com/rna-world-could-have-kickstarted-first-life-on-earth-1851310245) | Gizmodo.com | 2024-03-06 |
 | ['Monumental' Experiment Suggests How Life on Earth May Have Started](https://science.slashdot.org/story/24/03/09/224218/monumental-experiment-suggests-how-life-on-earth-may-have-started) | Slashdot.org | 2024-03-10 |
-| [There’s a New Theory About Where Dark Matter Is Hiding](https://www.wired.com/story/dimension-physicists-missing-dark-matter-universe-gravity-physics-gravitons/) | Wired | 2024-02-25 |
 | [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/) | Wired | 2024-03-06 |
 | [New Ultrablack Coating on Telescopes Could Reveal More of the Universe](https://gizmodo.com/improve-space-telescopes-ultrablack-coating-light-1851356614) | Gizmodo.com | 2024-03-22 |
 | [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702) | Medium | 2024-03-16 |
@@ -59,6 +58,7 @@
 | [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
 | [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
 | [Indian-American computer engineer honoured with Texas’ highest academic award](https://indianexpress.com/article/world/indian-american-computer-engineer-honoured-with-texas-highest-academic-award-9180953/) | The Indian Express | 2024-02-26 |
+| [Satellites burning up in our atmosphere may not be as harmless as first thought](https://www.businessinsider.com/satellites-burn-atmosphere-particles-stratosphere-climate-ozone-2024-2) | Business Insider | 2024-03-02 |
 
 ## News for Medical Devices
 
@@ -70,7 +70,6 @@
 | [Oregon OKs right-to-repair bill that bans the blocking of aftermarket parts](https://arstechnica.com/tech-policy/2024/03/oregon-oks-right-to-repair-bill-that-bans-the-blocking-of-aftermarket-parts/) | Ars Technica | 2024-03-05 |
 | [Apple Preparing to Sell Refurbished Ultra 2 and Series 9 Watches in U.S.](https://www.macrumors.com/2024/03/19/refurbished-apple-watch-ultra-2-series-9-coming/) | MacRumors | 2024-03-19 |
 | [A Copy of a Copy of a Copy: The Story of FDA Medical Device Clearances](https://wcedmisten.fyi/post/medical-device-analysis/) | Wcedmisten.fyi | 2024-03-10 |
-| [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references) | Stanford.edu | 2024-02-24 |
 | [Google's upcoming 'Satellite SOS' feature is reportedly on the way for Pixels](https://www.androidcentral.com/phones/google-satellite-sos-pixel-feature-spotted) | Android Central | 2024-03-04 |
 | [Google spotted working on a new category system for Drive users](https://www.androidcentral.com/apps-software/google-drive-category-system-spotted) | Android Central | 2024-03-15 |
 | [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700) | Hacker News | 2024-03-18 |
@@ -89,6 +88,7 @@
 | [Scientists shine new light on the future of nanoelectronic devices](https://phys.org/news/2024-03-scientists-future-nanoelectronic-devices.html) | Phys.Org | 2024-03-04 |
 | [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 | [UK Pledges Action On 'Biased' Medical Devices](https://www.forbes.com/sites/emmawoollacott/2024/03/12/uk-pledges-action-on-biased-medical-devices/) | Forbes | 2024-03-12 |
+| [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
 
 ## News for Healthcare Sector
 
@@ -133,6 +133,7 @@
 | [Pay Attention to the Trend](https://gothamgal.com/2024/03/pay-attention-to-the-trend/) | Gothamgal.com | 2024-03-12 |
 | [How AI insights improve decision making](https://sproutsocial.com/insights/ai-insights/) | Sproutsocial.com | 2024-03-19 |
 | [Indian health tech seen growing to $20B by 2028: report](https://www.mobihealthnews.com/news/asia/indian-health-tech-seen-growing-20b-2028-report) | MobiHealthNews | 2024-03-13 |
+| [A B2B marketplace from Science Exchange aims to make life easier for buyers](https://www.digitalcommerce360.com/2024/03/25/science-exchange-b2b-marketplace-aims-to-make-life-easier-for-buyers/) | DigitalCommerce360 | 2024-03-25 |
 | [Pharma E-Commerce Market Report 2024: Global Trends, Forecast and Competitive Analysis to 2030 Featuring Amazon, Apotek, CVS Health, L Rowland & Co, Mckesson, Netmeds Marketplace, and Optum](https://www.globenewswire.com/news-release/2024/02/26/2834876/28124/en/Pharma-E-Commerce-Market-Report-2024-Global-Trends-Forecast-and-Competitive-Analysis-to-2030-Featuring-Amazon-Apotek-CVS-Health-L-Rowland-Co-Mckesson-Netmeds-Marketplace-and-Optum.html) | GlobeNewswire | 2024-02-26 |
 | [3 Pharma Stocks to Sell in March Before They Crash & Burn](https://biztoc.com/x/b85f9ab84f1d0312) | Biztoc.com | 2024-03-14 |
 | [Earnings momentum starting to slow down; margins may falter in Q4 & Q1: Pankaj Tibrewal](https://economictimes.indiatimes.com/markets/expert-view/earnings-momentum-is-starting-to-slow-down-margins-may-falter-in-q4-q1-pankaj-tibrewal/articleshow/108515645.cms) | The Times of India | 2024-03-15 |
@@ -148,7 +149,6 @@
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
-| [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
 
 ## News for FDA Regulations
 
@@ -172,11 +172,11 @@
 | [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 | [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
-| [AirPods Pro reportedly will gain a hearing aid mode with iOS 18 - no hardware update needed](https://www.zdnet.com/article/airpods-pro-reportedly-will-gain-a-hearing-aid-mode-with-ios-18-no-hardware-update-needed/) | ZDNet | 2024-03-11 |
 | [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
+| [AirPods Pro reportedly will gain a hearing aid mode with iOS 18 - no hardware update needed](https://www.zdnet.com/article/airpods-pro-reportedly-will-gain-a-hearing-aid-mode-with-ios-18-no-hardware-update-needed/) | ZDNet | 2024-03-11 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Supreme Court Will Hear Arguments Tuesday on FDA  Mifepristone Approval Process](https://truthout.org/articles/supreme-court-will-hear-arguments-tuesday-on-fda-mifepristone-approval-process/) | Truthout | 2024-03-25 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [What's in tattoo ink? Expert says some additives aren't on the packaging](https://www.cbsnews.com/news/whats-in-tattoo-ink-potentially-concerning-additives/) | CBS News | 2024-03-23 |
 | [Supreme Court To Revisit Abortion Debate Amid Medication Access Dispute](https://www.ibtimes.com/supreme-court-revisit-abortion-debate-amid-medication-access-dispute-3728044) | International Business Times | 2024-03-25 |
-| [Sonatype SBOM Manager identifies and mitigates vulnerabilities within the software supply chain](https://www.helpnetsecurity.com/2024/03/19/sonatype-sbom-manager/) | Help Net Security | 2024-03-19 |
+| [What's in tattoo ink? Expert says some additives aren't on the packaging](https://www.cbsnews.com/news/whats-in-tattoo-ink-potentially-concerning-additives/) | CBS News | 2024-03-23 |
 
