@@ -22,8 +22,8 @@
 | [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
-| [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
+| [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [Viking Weight Loss Drug Targets Ozempic And Mounjaro Makers’ Supremacy — What To Know](https://www.forbes.com/sites/roberthart/2024/02/28/viking-weight-loss-drug-targets-ozempic-and-mounjaro-makers-supremacy---what-to-know/) | Forbes | 2024-02-28 |
 | [AI-driven lab speeds catalysis research](https://phys.org/news/2024-02-ai-driven-lab-catalysis.html) | Phys.Org | 2024-02-27 |
 | [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
@@ -76,8 +76,8 @@
 | [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700) | Hacker News | 2024-03-18 |
 | [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
-| [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
 | [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
+| [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
 | [Family Dollar has agreed to pay $42 million after storing food and medicine in a warehouse with a severe rodent infestation](https://www.businessinsider.com/family-dollar-rat-infestation-warehouse-arkansas-west-memphis-fda-rodent-2024-2) | Business Insider | 2024-02-27 |
 | [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [3 lies women have been told about their bodies, according to a female doctor](https://www.yahoo.com/news/3-lies-women-told-bodies-004231568.html) | Yahoo Entertainment | 2024-03-16 |
@@ -163,6 +163,7 @@
 | [FDA to develop new "healthy" logo – here's what it could look like](https://www.cbsnews.com/news/healthy-logo-fda-which-foods-qualify/) | CBS News | 2024-02-27 |
 | [After Nearly 20 Years, They Finally Freed the Frozen Cherry Pie](https://reason.com/2024/03/21/after-nearly-20-years-they-finally-freed-the-frozen-cherry-pie/) | Reason | 2024-03-21 |
 | [First Aid Kits for Businesses: Stay Prepared With Our Picks](https://smallbiztrends.com/2024/03/first-aid-kits-for-businesses.html) | Small Business Trends | 2024-03-03 |
+| [Supreme Court To Weigh Doctors’ Challenge To Removal Of Abortion Pill Safety Regulations](https://dailycaller.com/2024/03/24/supreme-court-weigh-doctors-challenge-removal-abortion-pill-safety-regulations/) | The Daily Caller | 2024-03-24 |
 | [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
 | [CVS, Walgreens to begin filling prescriptions for abortion pill mifepristone](https://www.livescience.com/health/medicine-drugs/cvs-walgreens-to-begin-filling-prescriptions-for-abortion-pill-mifepristone) | Live Science | 2024-03-04 |
 | [Seeing Beyond The Hype Of That One Neurotech Startup](https://www.forbes.com/sites/naveenrao/2024/03/07/seeing-beyond-the-hype-of-that-one-neurotech-startup/) | Forbes | 2024-03-07 |
@@ -178,5 +179,4 @@
 | [Sonatype SBOM Manager identifies and mitigates vulnerabilities within the software supply chain](https://www.helpnetsecurity.com/2024/03/19/sonatype-sbom-manager/) | Help Net Security | 2024-03-19 |
 | [This Pre-Roll Brand To Pay Creator $70K At ‘Ultimate Stoner Dream Job’](https://www.forbes.com/sites/benjaminadams/2024/03/04/this-pre-roll-brand-to-pay-creator-70k-at-ultimate-stoner-dream-job/) | Forbes | 2024-03-04 |
 | [An invisible chemical is poisoning thousands of unsuspecting warehouse workers](http://grist.org/accountability/ethylene-oxide-georgia-medical-supply-warehouses-worker-health/) | Grist | 2024-02-29 |
-| [CVS and Walgreens Will Start Selling Abortion Pills This Month](https://19thnews.org/2024/03/where-to-get-mifepristone-abortion-pill-cvs-walgreens/) | 19thnews.org | 2024-03-02 |
 
