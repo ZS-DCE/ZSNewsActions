@@ -146,15 +146,16 @@
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
+| [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
 | [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
 | [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
-| [ETMarkets Smart Talk: FY25 outlook! Pradeep Gupta bullish on IT, auto, pharma & NBFCs](https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-fy25-outlook-pradeep-gupta-bullish-on-it-auto-pharma-nbfcs/articleshow/108191220.cms) | The Times of India | 2024-03-04 |
 
 ## News for FDA Regulations
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Noticing more product recalls lately? It's not just you.](https://www.businessinsider.com/food-product-recalls-increasing-cinnamon-2024-3) | Business Insider | 2024-03-07 |
+| [Key moments as Supreme Court questioned legality of abortion pill challenge](https://abcnews.go.com/Politics/live-updates/abortion-pill-supreme-court-hearing/?id=108467730) | ABC News | 2024-03-26 |
 | [E-Cigarettes Can Help Smokers Quit](https://www.forbes.com/sites/paulhsieh/2024/02/29/e-cigarettes-can-help-smokers-quit/) | Forbes | 2024-02-29 |
 | [Here’s Why The FDA Is Changing What It Means To Be A Frozen Cherry Pie](https://www.forbes.com/sites/jamesfarrell/2024/03/14/heres-why-the-fda-is-changing-what-it-means-to-be-a-frozen-cherry-pie/) | Forbes | 2024-03-14 |
 | [Baltimore's Francis Scott Key Bridge collapses; SCOTUS takes on abortion pill case](https://www.npr.org/2024/03/26/1240866250/up-first-newsletter-baltimore-bridge-collapse-scotus-abortion-pill) | NPR | 2024-03-26 |
@@ -166,6 +167,7 @@
 | [How the anti-abortion movement shaped the US fertility industry](https://www.vox.com/policy/2024/3/26/24104638/abortion-ivf-duckworth-regulation-reproductive-technology) | Vox | 2024-03-26 |
 | [After Nearly 20 Years, They Finally Freed the Frozen Cherry Pie](https://reason.com/2024/03/21/after-nearly-20-years-they-finally-freed-the-frozen-cherry-pie/) | Reason | 2024-03-21 |
 | [First Aid Kits for Businesses: Stay Prepared With Our Picks](https://smallbiztrends.com/2024/03/first-aid-kits-for-businesses.html) | Small Business Trends | 2024-03-03 |
+| [What The Abortion Pill Supreme Court Case Could Mean For Healthcare](https://www.forbes.com/sites/hollycorbett/2024/03/26/what-the-abortion-pill-supreme-court-case-could-mean-for-healthcare/) | Forbes | 2024-03-26 |
 | [Supreme Court To Weigh Doctors’ Challenge To Removal Of Abortion Pill Safety Regulations](https://dailycaller.com/2024/03/24/supreme-court-weigh-doctors-challenge-removal-abortion-pill-safety-regulations/) | The Daily Caller | 2024-03-24 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/03/26/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-03-26 |
 | [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
@@ -177,6 +179,4 @@
 | [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 | [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 | [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://www.r-bloggers.com/2024/02/escape-the-spreadsheet-inferno-switch-to-shiny-for-clinical-trial-reporting/) | R-bloggers.com | 2024-02-28 |
-| [Lead-tainted applesauce sailed through gaps in food-safety system](https://www.bostonglobe.com/2024/02/27/nation/lead-tainted-applesauce-sailed-through-gaps-food-safety-system/) | The Boston Globe | 2024-02-27 |
-| [AirPods Pro reportedly will gain a hearing aid mode with iOS 18 - no hardware update needed](https://www.zdnet.com/article/airpods-pro-reportedly-will-gain-a-hearing-aid-mode-with-ios-18-no-hardware-update-needed/) | ZDNet | 2024-03-11 |
 
