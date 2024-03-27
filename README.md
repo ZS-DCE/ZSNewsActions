@@ -177,6 +177,6 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Supreme Court Will Hear Arguments Tuesday on FDA  Mifepristone Approval Process](https://truthout.org/articles/supreme-court-will-hear-arguments-tuesday-on-fda-mifepristone-approval-process/) | Truthout | 2024-03-25 |
+| [US Supreme Court to weigh restrictions on abortion pill](https://www.yahoo.com/news/us-supreme-court-weigh-restrictions-012144397.html) | Yahoo Entertainment | 2024-03-26 |
 | [What's in tattoo ink? Expert says some additives aren't on the packaging](https://www.cbsnews.com/news/whats-in-tattoo-ink-potentially-concerning-additives/) | CBS News | 2024-03-23 |
-| [Supreme Court To Revisit Abortion Debate Amid Medication Access Dispute](https://www.ibtimes.com/supreme-court-revisit-abortion-debate-amid-medication-access-dispute-3728044) | International Business Times | 2024-03-25 |
 
