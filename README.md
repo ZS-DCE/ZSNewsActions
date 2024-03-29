@@ -115,8 +115,8 @@
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [FBI: Critical infrastructure menaced by spike in ransomware](https://www.theregister.com/2024/03/06/fbi_ransomware_cybercrime_costs/) | Theregister.com | 2024-03-06 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
-| [How femtech is closing the gender gap in health data](https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data) | The Next Web | 2024-03-05 |
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
+| [How femtech is closing the gender gap in health data](https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data) | The Next Web | 2024-03-05 |
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
 | [ALPHV is singling out healthcare sector, say FBI and CISA](https://www.malwarebytes.com/blog/news/2024/02/alphv-is-singling-out-healthcare-sector-say-fbi-and-cisa) | Malwarebytes.com | 2024-02-28 |
 
@@ -174,8 +174,8 @@
 | [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
 | [CVS, Walgreens to begin filling prescriptions for abortion pill mifepristone](https://www.livescience.com/health/medicine-drugs/cvs-walgreens-to-begin-filling-prescriptions-for-abortion-pill-mifepristone) | Live Science | 2024-03-04 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Seeing Beyond The Hype Of That One Neurotech Startup](https://www.forbes.com/sites/naveenrao/2024/03/07/seeing-beyond-the-hype-of-that-one-neurotech-startup/) | Forbes | 2024-03-07 |
 | [U.S. Supreme Court takes up Texas case challenging abortion pill access](https://www.upi.com/Top_News/US/2024/03/26/SCOTUS-Texas-abortion-pill-access/6181711453952/) | UPI.com | 2024-03-26 |
+| [Seeing Beyond The Hype Of That One Neurotech Startup](https://www.forbes.com/sites/naveenrao/2024/03/07/seeing-beyond-the-hype-of-that-one-neurotech-startup/) | Forbes | 2024-03-07 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Texas Appeals Court Rules That Dad Can Deny His Teen Contraceptives](https://www.thedailybeast.com/texas-appeals-court-rules-that-dad-can-deny-his-teen-contraceptives) | Daily Beast | 2024-03-12 |
 | [MDMA-Assisted Therapy For PTSD: The History And Science Behind The Hype](https://www.forbes.com/sites/sarahsinclair/2024/03/27/mdma-assisted-therapy-for-ptsd-the-history-and-science-behind-the-hype/) | Forbes | 2024-03-27 |
