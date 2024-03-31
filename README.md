@@ -76,8 +76,8 @@
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
 | [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
-| [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
 | [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
+| [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
 | [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [3 lies women have been told about their bodies, according to a female doctor](https://www.yahoo.com/news/3-lies-women-told-bodies-004231568.html) | Yahoo Entertainment | 2024-03-16 |
 | [New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more](https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3) | Business Insider | 2024-03-11 |
