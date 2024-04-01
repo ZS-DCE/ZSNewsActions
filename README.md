@@ -78,23 +78,22 @@
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
 | [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
 | [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
-| [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [3 lies women have been told about their bodies, according to a female doctor](https://www.yahoo.com/news/3-lies-women-told-bodies-004231568.html) | Yahoo Entertainment | 2024-03-16 |
 | [New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more](https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3) | Business Insider | 2024-03-11 |
-| [Garmin SOS report details all the times its InReach satellites saved people's lives last year](https://www.androidcentral.com/wearables/garmin-2023-sos-report-shows-how-satellite-saves-lives) | Android Central | 2024-02-29 |
 | [Apple looks beyond health for a large array of future Apple Watch sensors](https://appleinsider.com/articles/24/03/14/apple-looks-beyond-health-for-a-large-array-of-future-apple-watch-sensors) | AppleInsider | 2024-03-14 |
 | [What is on-device AI processing, and why is it important?](https://www.androidcentral.com/apps-software/why-on-device-ai-processing-is-important) | Android Central | 2024-03-20 |
 | [Scientists shine new light on the future of nanoelectronic devices](https://phys.org/news/2024-03-scientists-future-nanoelectronic-devices.html) | Phys.Org | 2024-03-04 |
-| [Detailed study demonstrates how pulse oximeters significantly overestimate oxygen readings in people with darker skin tones](https://www.sciencedaily.com/releases/2024/02/240229124630.htm) | Science Daily | 2024-02-29 |
 | [UK Pledges Action On 'Biased' Medical Devices](https://www.forbes.com/sites/emmawoollacott/2024/03/12/uk-pledges-action-on-biased-medical-devices/) | Forbes | 2024-03-12 |
 | [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
 | [The 5 best meditation apps for 2024](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_34a382e2-745f-4234-b774-9bd1593e3138) | Yahoo Entertainment | 2024-03-22 |
+| [The S in IoT stands for security. You'll never secure all the Things](https://www.theregister.com/2024/03/09/opinion_column_security_sjvn/) | Theregister.com | 2024-03-09 |
+| [‘Immediate Action’ Needed On Racially Biased Medical Devices In U.K.](https://www.forbes.com/sites/katherinehignett/2024/03/11/immediate-action-needed-on-racially-biased-medical-devices-in-uk/) | Forbes | 2024-03-11 |
+| [Office 2024 for Mac will be available as a one-off purchase](https://9to5mac.com/2024/03/20/office-2024-for-mac/) | 9to5Mac | 2024-03-20 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| ['Boomer nation' runs the US, and investors should focus on 3 sectors to capitalize, hedge fund manager says](https://markets.businessinsider.com/news/stocks/baby-boomer-stocks-economy-investing-strategy-biotech-healthcare-tourism-cruises-2024-2) | Business Insider | 2024-02-29 |
 | [Change Healthcare hack continues to inflict major damage](https://readwrite.com/change-healthcare-hack-continues-to-inflict-major-damage/) | ReadWrite | 2024-03-02 |
 | [Joe Biden's pre-election spending spree created an 'economy on speed,' economist says](https://www.businessinsider.com/biden-government-morici-unemployment-national-debt-jobs-fiscal-stimulus-spending-2024-3) | Business Insider | 2024-03-11 |
 | [Why weight-loss drugs like Ozempic are a game-changer for the global economy](https://www.businessinsider.com/economic-outlook-ozempic-economy-obesity-gdp-productivity-healthcare-novo-nordisk-2024-3) | Business Insider | 2024-03-15 |
@@ -119,6 +118,7 @@
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
 | [How femtech is closing the gender gap in health data](https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data) | The Next Web | 2024-03-05 |
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
+| [I retired from Amazon at 34 and chose to enjoy retirement in Canada, where I only need $1,000 a month to live well](https://www.businessinsider.com/amazon-worker-financial-independence-retire-early-fire-in-canada-cheaper-2024-3) | Business Insider | 2024-03-05 |
 
 ## News for Pharma Market Trends
 
@@ -139,7 +139,6 @@
 | [German Cannabis Legalization Uncertainty Is Spooking Investors](https://www.insurancejournal.com/news/international/2024/03/21/765913.htm) | Insurance Journal | 2024-03-21 |
 | [Constipation Treatment Market Projected to Reach $27.5 Billion by 2030, as Laxatives Segment Accelerates Globally](https://www.globenewswire.com/news-release/2024/03/04/2839876/28124/en/Constipation-Treatment-Market-Projected-to-Reach-27-5-Billion-by-2030-as-Laxatives-Segment-Accelerates-Globally.html) | GlobeNewswire | 2024-03-04 |
 | [Insights Into the Generic Drugs Market in Canada, 2024-2032, Featuring Apotex, Mylan Pharmaceuticals, Pharmascience, Sandoz, Sun Pharma Industries, and Teva Pharmaceutical Industries](https://www.globenewswire.com/news-release/2024/03/21/2850031/28124/en/Insights-Into-the-Generic-Drugs-Market-in-Canada-2024-2032-Featuring-Apotex-Mylan-Pharmaceuticals-Pharmascience-Sandoz-Sun-Pharma-Industries-and-Teva-Pharmaceutical-Industries.html) | GlobeNewswire | 2024-03-21 |
-| [Computer-Assisted Coding Market revenue to hit USD 22 Billion by 2036, says Research Nester](https://www.globenewswire.com/news-release/2024/02/29/2837761/0/en/Computer-Assisted-Coding-Market-revenue-to-hit-USD-22-Billion-by-2036-says-Research-Nester.html) | GlobeNewswire | 2024-02-29 |
 | [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
@@ -149,6 +148,7 @@
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
 | [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
 | [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
+| [ETMarkets Smart Talk: FY25 outlook! Pradeep Gupta bullish on IT, auto, pharma & NBFCs](https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-fy25-outlook-pradeep-gupta-bullish-on-it-auto-pharma-nbfcs/articleshow/108191220.cms) | The Times of India | 2024-03-04 |
 
 ## News for FDA Regulations
 
@@ -156,7 +156,6 @@
 | ----- | ------ | --------- |
 | [Noticing more product recalls lately? It's not just you.](https://www.businessinsider.com/food-product-recalls-increasing-cinnamon-2024-3) | Business Insider | 2024-03-07 |
 | [Key moments as Supreme Court questioned legality of abortion pill challenge](https://abcnews.go.com/Politics/live-updates/abortion-pill-supreme-court-hearing/?id=108467730) | ABC News | 2024-03-26 |
-| [E-Cigarettes Can Help Smokers Quit](https://www.forbes.com/sites/paulhsieh/2024/02/29/e-cigarettes-can-help-smokers-quit/) | Forbes | 2024-02-29 |
 | [Here’s Why The FDA Is Changing What It Means To Be A Frozen Cherry Pie](https://www.forbes.com/sites/jamesfarrell/2024/03/14/heres-why-the-fda-is-changing-what-it-means-to-be-a-frozen-cherry-pie/) | Forbes | 2024-03-14 |
 | [Baltimore's Francis Scott Key Bridge collapses; SCOTUS takes on abortion pill case](https://www.npr.org/2024/03/26/1240866250/up-first-newsletter-baltimore-bridge-collapse-scotus-abortion-pill) | NPR | 2024-03-26 |
 | [Faye Webster, the War on Drugs, David Byrne and Devo Share Rarities for Abortion Access Fundraiser](http://www.rollingstone.com/music/music-news/faye-webster-the-war-on-drugs-abortion-rights-charity-album-1234994381/) | Rolling Stone | 2024-03-26 |
@@ -169,7 +168,6 @@
 | [What The Abortion Pill Supreme Court Case Could Mean For Healthcare](https://www.forbes.com/sites/hollycorbett/2024/03/26/what-the-abortion-pill-supreme-court-case-could-mean-for-healthcare/) | Forbes | 2024-03-26 |
 | [Supreme Court To Weigh Doctors’ Challenge To Removal Of Abortion Pill Safety Regulations](https://dailycaller.com/2024/03/24/supreme-court-weigh-doctors-challenge-removal-abortion-pill-safety-regulations/) | The Daily Caller | 2024-03-24 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/03/26/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-03-26 |
-| [New safety rules ahead for toxic gas used to sterilize medical devices](https://www.cbsnews.com/news/ethylene-oxide-new-epa-rules/) | CBS News | 2024-02-29 |
 | [CVS, Walgreens to begin filling prescriptions for abortion pill mifepristone](https://www.livescience.com/health/medicine-drugs/cvs-walgreens-to-begin-filling-prescriptions-for-abortion-pill-mifepristone) | Live Science | 2024-03-04 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [U.S. Supreme Court takes up Texas case challenging abortion pill access](https://www.upi.com/Top_News/US/2024/03/26/SCOTUS-Texas-abortion-pill-access/6181711453952/) | UPI.com | 2024-03-26 |
@@ -179,4 +177,6 @@
 | [MDMA-Assisted Therapy For PTSD: The History And Science Behind The Hype](https://www.forbes.com/sites/sarahsinclair/2024/03/27/mdma-assisted-therapy-for-ptsd-the-history-and-science-behind-the-hype/) | Forbes | 2024-03-27 |
 | [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
+| [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
+| [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 
