@@ -75,8 +75,8 @@
 | [Elon Musk's Neuralink brain implant to ultimately help humans merge with AI is sparking debate over safety and ethics](https://www.businessinsider.com/neuralink) | Business Insider | 2024-03-27 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
 | [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
-| [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
+| [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
 | [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
 | [Family Dollar is fined over $40 million due to a rodent infestation in its warehouse](https://www.npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse) | NPR | 2024-02-29 |
 | [3 lies women have been told about their bodies, according to a female doctor](https://www.yahoo.com/news/3-lies-women-told-bodies-004231568.html) | Yahoo Entertainment | 2024-03-16 |
@@ -110,6 +110,7 @@
 | [White House and lawmakers increase pressure on UnitedHealth to ease providers' pain](https://www.theregister.com/2024/03/12/white_house_pressures_unitedhealth/) | Theregister.com | 2024-03-12 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [Branding and Visual Identity: Ovumlab's Innovative Approach](https://abduzeedo.com/node/88346) | Abduzeedo.com | 2024-03-04 |
+| [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
@@ -118,7 +119,6 @@
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
 | [How femtech is closing the gender gap in health data](https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data) | The Next Web | 2024-03-05 |
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
-| [I retired from Amazon at 34 and chose to enjoy retirement in Canada, where I only need $1,000 a month to live well](https://www.businessinsider.com/amazon-worker-financial-independence-retire-early-fire-in-canada-cheaper-2024-3) | Business Insider | 2024-03-05 |
 
 ## News for Pharma Market Trends
 
