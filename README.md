@@ -22,13 +22,13 @@
 | [What's Driving Big Pharma's Recent Market Performance?](https://www.forbes.com/sites/forbesfinancecouncil/2024/03/25/whats-driving-big-pharmas-recent-market-performance/) | Forbes | 2024-03-25 |
 | [Small countries, big firms](https://marginalrevolution.com/marginalrevolution/2024/03/small-countries-big-firms.html) | Marginalrevolution.com | 2024-03-08 |
 | [What an American Approach to AI Regulation Should Look Like](https://time.com/6848922/ai-regulation/) | Time | 2024-03-05 |
+| [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
 | [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [5 dead, over 100 hospitalised from recalled Japanese health supplements](https://indianexpress.com/article/world/5-dead-100-hospitalised-recalled-japanese-health-supplements-9240134/) | The Indian Express | 2024-03-29 |
 | [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
-| [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
 
 ## News for Life Sciences
 
