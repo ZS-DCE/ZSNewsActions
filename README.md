@@ -58,7 +58,7 @@
 | [Lsd ed Ecstasy per scopi terapeutici, boom dei titoli di settore](https://www.ilsole24ore.com/art/lsd-ed-ecstasy-scopi-terapeutici-boom-titoli-settore-AFCe4SED) | Il Sole 24 Ore | 2024-03-28 |
 | [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 | [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
-| [Tiny magnetic particles in air pollution linked to development of Alzheimer's](https://www.sciencedaily.com/releases/2024/02/240229182937.htm) | Science Daily | 2024-02-29 |
+| [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
 
 ## News for Medical Devices
 
