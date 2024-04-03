@@ -8,14 +8,12 @@
 | [What's at stake in the Supreme Court mifepristone case](https://www.npr.org/sections/health-shots/2024/03/25/1240282129/mifepristone-supreme-court-fda-medication-abortion-explainer) | NPR | 2024-03-25 |
 | [The Key to Preserving a Long-Term Competitive Advantage](https://hbr.org/podcast/2024/03/the-key-to-preserving-a-long-term-competitive-advantage) | Harvard Business Review | 2024-03-27 |
 | [Pharma-Backed Democrats Are Fighting to Keep Drugs Expensive](https://jacobin.com/2024/03/pharma-drug-price-negotiations-democrats) | Jacobin.com | 2024-03-17 |
-| [Branding & Packaging Design Transformations in Pharma](https://abduzeedo.com/node/88342) | Abduzeedo.com | 2024-03-01 |
 | [SCOTUS mifepristone case: Justices focus on anti-abortion groups’ legal standing](https://arstechnica.com/science/2024/03/abortion-pill-case-scotus-skeptical-of-anti-abortion-groups-legal-standing/) | Ars Technica | 2024-03-26 |
 | [UK Medicines Regulator MHRA’s Role As Pharma “Enabler” During Pandemic Comes Under Microscope](https://www.nakedcapitalism.com/2024/03/uk-medicines-regulator-mhra-comes-under-microscope-over-vaccine-safety-and-efficacy.html) | Nakedcapitalism.com | 2024-03-12 |
 | [China Sentences Pirate Site Operators, Huge Win For Japan’s Anime Industry](https://torrentfreak.com/china-sentences-pirate-site-operators-huge-win-for-japans-anime-industry-240304/) | Torrentfreak.com | 2024-03-04 |
 | [Ozempic and Wegovy are lifting Denmark's GDP, report says](https://qz.com/novo-nordisk-ozempic-wegovy-denmark-gdp-1851309063) | Quartz India | 2024-03-05 |
 | [The Global Pharmaceutical Industry Isn’t Investing in Products for the Greatest Burden of Human Disease – Are Non-Profits a Solution?](https://www.nakedcapitalism.com/2024/03/the-global-pharmaceutical-industry-isnt-investing-in-products-for-the-greatest-burden-of-human-disease-are-non-profits-a-solution.html) | Nakedcapitalism.com | 2024-03-30 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
-| [What to Know About Anant Ambani’s Star-Studded Indian Billionaire Pre-Wedding](https://time.com/6836783/anant-ambani-indian-billionaire-wedding-celebrations-guest-list/) | Time | 2024-03-01 |
 | [Ozempic And Wegovy Rivals: Here Are The Companies Working On Competitor Weight Loss Drugs](https://www.forbes.com/sites/roberthart/2024/03/13/ozempic-and-wegovy-rivals-here-are-the-companies-working-on-competitor-weight-loss-drugs/) | Forbes | 2024-03-13 |
 | [The weight loss drug shortage is hitting Eli Lily’s Zepbound](https://qz.com/eli-lilly-zepbound-shortage-amazon-riteaid-1851374847) | Quartz India | 2024-03-29 |
 | [Fake Ozempic Is Surging](https://time.com/6907653/fake-ozempic-surging-uk/) | Time | 2024-03-13 |
@@ -27,8 +25,10 @@
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [5 dead, over 100 hospitalised from recalled Japanese health supplements](https://indianexpress.com/article/world/5-dead-100-hospitalised-recalled-japanese-health-supplements-9240134/) | The Indian Express | 2024-03-29 |
-| [How some bacteria are cleaning up our messy water supply](https://www.technologyreview.com/2024/03/01/1089351/metaformin-bacteria-wastewater-proteins/) | MIT Technology Review | 2024-03-01 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
+| [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
+| [The world's most expensive drug has a new price tag: $4.25 million](https://qz.com/orchard-therapeutics-lenmeldy-worlds-most-expensive-dru-1851353742) | Quartz India | 2024-03-20 |
+| [Amazon will now deliver Eil Lilly's weight loss drug Zepbound](https://qz.com/eli-lilly-zepbound-amazon-pharmacy-lilly-direct-1851332240) | Quartz India | 2024-03-13 |
 
 ## News for Life Sciences
 
@@ -94,13 +94,11 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Change Healthcare hack continues to inflict major damage](https://readwrite.com/change-healthcare-hack-continues-to-inflict-major-damage/) | ReadWrite | 2024-03-02 |
 | [Joe Biden's pre-election spending spree created an 'economy on speed,' economist says](https://www.businessinsider.com/biden-government-morici-unemployment-national-debt-jobs-fiscal-stimulus-spending-2024-3) | Business Insider | 2024-03-11 |
 | [Why weight-loss drugs like Ozempic are a game-changer for the global economy](https://www.businessinsider.com/economic-outlook-ozempic-economy-obesity-gdp-productivity-healthcare-novo-nordisk-2024-3) | Business Insider | 2024-03-15 |
 | [Inside a prison healthcare company's ownership shell game](https://www.businessinsider.com/prison-health-company-yescare-ceded-financial-control-to-insider-entities-2024-3) | Business Insider | 2024-03-05 |
 | [Future-first thinking](https://www.businessinsider.com/sc/how-investment-is-unlocking-innovation-in-the-quantum-and-space-sectors) | Business Insider | 2024-03-21 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Opinion: For politicians, AI will bring salvation or damnation — but nothing in between](https://thenextweb.com/news/politicians-are-ai-extremists) | The Next Web | 2024-03-01 |
 | [4 Tech Jobs Likely to Be Dominated By AI](https://readwrite.com/tech-jobs-ldominated-by-ai/) | ReadWrite | 2024-03-05 |
 | [I moved from Denmark to the US. I prefer the US, but there are some things the Danish do better.](https://www.businessinsider.com/moved-to-usa-denmark-pros-prefer-america-2024-3) | Business Insider | 2024-03-09 |
 | [The AI dolls to tackle loneliness of South Korea’s elderly (and watch them)](https://readwrite.com/the-ai-dolls-to-tackle-loneliness-of-south-koreas-elderly-and-watch-them/) | ReadWrite | 2024-03-11 |
@@ -119,6 +117,8 @@
 | [How femtech is closing the gender gap in health data](https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data) | The Next Web | 2024-03-05 |
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
 | [I retired from Amazon at 34 and chose to enjoy retirement in Canada, where I only need $1,000 a month to live well](https://www.businessinsider.com/amazon-worker-financial-independence-retire-early-fire-in-canada-cheaper-2024-3) | Business Insider | 2024-03-05 |
+| [International effort to disrupt cybercrime moves into operational phase](https://www.theregister.com/2024/03/14/wef_cybercrime_atlas/) | Theregister.com | 2024-03-14 |
+| [Modernize To Thrive: Transitioning To The Cloud In The Public Sector](https://www.forbes.com/sites/insights-amazon-web-services-public-sector/2024/03/15/modernize-to-thrive-transitioning-to-the-cloud-in-the-public-sector/) | Forbes | 2024-03-15 |
 
 ## News for Pharma Market Trends
 
@@ -160,7 +160,6 @@
 | [Baltimore's Francis Scott Key Bridge collapses; SCOTUS takes on abortion pill case](https://www.npr.org/2024/03/26/1240866250/up-first-newsletter-baltimore-bridge-collapse-scotus-abortion-pill) | NPR | 2024-03-26 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Faye Webster, the War on Drugs, David Byrne and Devo Share Rarities for Abortion Access Fundraiser](http://www.rollingstone.com/music/music-news/faye-webster-the-war-on-drugs-abortion-rights-charity-album-1234994381/) | Rolling Stone | 2024-03-26 |
-| [CVS and Walgreens to start selling abortion pills this month](https://www.cbsnews.com/news/cvs-walgreens-mifepristone-abortion-pill/) | CBS News | 2024-03-01 |
 | [On Pi Day, FDA revokes regulations for frozen cherry pie](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5bc9e0e2-3cd2-4da4-9b2d-a23c9b087fd4) | Yahoo Entertainment | 2024-03-14 |
 | [Anti-Abortion Doctors Struggle to Explain Mifepristone Harms Before Supreme Court](http://theintercept.com/2024/03/27/abortion-mifepristone-supreme-court/) | The Intercept | 2024-03-27 |
 | [How the anti-abortion movement shaped the US fertility industry](https://www.vox.com/policy/2024/3/26/24104638/abortion-ivf-duckworth-regulation-reproductive-technology) | Vox | 2024-03-26 |
@@ -179,4 +178,5 @@
 | [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
+| [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 
