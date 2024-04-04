@@ -51,8 +51,8 @@
 | [Sense makers: How standards are enabling data reuse in the life sciences](https://phys.org/news/2024-03-makers-standards-enabling-reuse-life.html) | Phys.Org | 2024-03-20 |
 | [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children) | Wikipedia.org | 2024-03-12 |
 | [Q&A: Why researchers need accessible training to understand and leverage artificial intelligence in the life sciences](https://phys.org/news/2024-03-qa-accessible-leverage-artificial-intelligence.html) | Phys.Org | 2024-03-12 |
-| [Artemis Mission: Making NASA’s New Moon Suits](https://makezine.com/article/science/artemis-mission-making-nasas-new-moon-suits/) | Makezine.com | 2024-04-02 |
 | [Modeling the origins of life: New evidence for an 'RNA World'](https://www.sciencedaily.com/releases/2024/03/240304195250.htm) | Science Daily | 2024-03-05 |
+| [Artemis Mission: Making NASA’s New Moon Suits](https://makezine.com/article/science/artemis-mission-making-nasas-new-moon-suits/) | Makezine.com | 2024-04-02 |
 | ['Double life' of key immune protein reveals new strategies for treating cancer and autoimmune diseases](https://www.sciencedaily.com/releases/2024/03/240308142732.htm) | Science Daily | 2024-03-08 |
 | [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement) | Columbia.edu | 2024-03-26 |
@@ -107,6 +107,7 @@
 | [White House and lawmakers increase pressure on UnitedHealth to ease providers' pain](https://www.theregister.com/2024/03/12/white_house_pressures_unitedhealth/) | Theregister.com | 2024-03-12 |
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [Branding and Visual Identity: Ovumlab's Innovative Approach](https://abduzeedo.com/node/88346) | Abduzeedo.com | 2024-03-04 |
+| [Turnover is killing healthcare from the inside](https://socialmediaexplorer.com/content-marketing-2/turnover-is-killing-healthcare-from-the-inside/) | Socialmediaexplorer.com | 2024-04-03 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
@@ -118,7 +119,6 @@
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
 | [I retired from Amazon at 34 and chose to enjoy retirement in Canada, where I only need $1,000 a month to live well](https://www.businessinsider.com/amazon-worker-financial-independence-retire-early-fire-in-canada-cheaper-2024-3) | Business Insider | 2024-03-05 |
 | [International effort to disrupt cybercrime moves into operational phase](https://www.theregister.com/2024/03/14/wef_cybercrime_atlas/) | Theregister.com | 2024-03-14 |
-| [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
 
 ## News for Pharma Market Trends
 
