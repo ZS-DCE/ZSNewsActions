@@ -28,7 +28,7 @@
 | [5 dead, over 100 hospitalised from recalled Japanese health supplements](https://indianexpress.com/article/world/5-dead-100-hospitalised-recalled-japanese-health-supplements-9240134/) | The Indian Express | 2024-03-29 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
-| [Amazon will now deliver Eil Lilly's weight loss drug Zepbound](https://qz.com/eli-lilly-zepbound-amazon-pharmacy-lilly-direct-1851332240) | Quartz India | 2024-03-13 |
+| [The world's most expensive drug has a new price tag: $4.25 million](https://qz.com/orchard-therapeutics-lenmeldy-worlds-most-expensive-dru-1851353742) | Quartz India | 2024-03-20 |
 
 ## News for Life Sciences
 
@@ -78,6 +78,7 @@
 | [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
 | [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
+| [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [3 lies women have been told about their bodies, according to a female doctor](https://www.yahoo.com/news/3-lies-women-told-bodies-004231568.html) | Yahoo Entertainment | 2024-03-16 |
 | [New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more](https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3) | Business Insider | 2024-03-11 |
 | [Apple looks beyond health for a large array of future Apple Watch sensors](https://appleinsider.com/articles/24/03/14/apple-looks-beyond-health-for-a-large-array-of-future-apple-watch-sensors) | AppleInsider | 2024-03-14 |
@@ -88,7 +89,6 @@
 | [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
 | [The 5 best meditation apps for 2024](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_34a382e2-745f-4234-b774-9bd1593e3138) | Yahoo Entertainment | 2024-03-22 |
 | [The S in IoT stands for security. You'll never secure all the Things](https://www.theregister.com/2024/03/09/opinion_column_security_sjvn/) | Theregister.com | 2024-03-09 |
-| [‘Immediate Action’ Needed On Racially Biased Medical Devices In U.K.](https://www.forbes.com/sites/katherinehignett/2024/03/11/immediate-action-needed-on-racially-biased-medical-devices-in-uk/) | Forbes | 2024-03-11 |
 
 ## News for Healthcare Sector
 
@@ -103,6 +103,7 @@
 | [I moved from Denmark to the US. I prefer the US, but there are some things the Danish do better.](https://www.businessinsider.com/moved-to-usa-denmark-pros-prefer-america-2024-3) | Business Insider | 2024-03-09 |
 | [The AI dolls to tackle loneliness of South Korea’s elderly (and watch them)](https://readwrite.com/the-ai-dolls-to-tackle-loneliness-of-south-koreas-elderly-and-watch-them/) | ReadWrite | 2024-03-11 |
 | [CEO says he tried to hire an AI researcher from Meta, and was told to 'come back to me when you have 10,000 H100 GPUs'](https://www.businessinsider.com/recruiting-ai-talent-ruthless-right-now-ai-ceo-2024-3) | Business Insider | 2024-03-11 |
+| [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [Change Healthcare registers pulse after crippling ransomware attack](https://www.theregister.com/2024/03/08/change_healthcare_restores_first_system/) | Theregister.com | 2024-03-08 |
 | [9 AI jobs you can get without being an expert coder, from product designer to sales engineer](https://www.businessinsider.com/ai-jobs-without-coding-2024-4) | Business Insider | 2024-04-03 |
 | [It's time to stop downsizing health care, the Pentagon says. This couple can't wait](https://www.npr.org/2024/04/03/1240724195/pentagon-outsource-healthcare-tricare) | NPR | 2024-04-03 |
@@ -118,7 +119,6 @@
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
 | [How femtech is closing the gender gap in health data](https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data) | The Next Web | 2024-03-05 |
-| [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
 
 ## News for Pharma Market Trends
 
@@ -137,11 +137,11 @@
 | [3 Pharma Stocks to Sell in March Before They Crash & Burn](https://biztoc.com/x/b85f9ab84f1d0312) | Biztoc.com | 2024-03-14 |
 | [Earnings momentum starting to slow down; margins may falter in Q4 & Q1: Pankaj Tibrewal](https://economictimes.indiatimes.com/markets/expert-view/earnings-momentum-is-starting-to-slow-down-margins-may-falter-in-q4-q1-pankaj-tibrewal/articleshow/108515645.cms) | The Times of India | 2024-03-15 |
 | [Indian pharma market registers 9% growth in February](https://www.moneycontrol.com/news/business/markets/indian-pharma-market-registers-9-growth-in-february-12420231.html) | Moneycontrol | 2024-03-07 |
-| [German Cannabis Legalization Uncertainty Is Spooking Investors](https://www.insurancejournal.com/news/international/2024/03/21/765913.htm) | Insurance Journal | 2024-03-21 |
 | [Constipation Treatment Market Projected to Reach $27.5 Billion by 2030, as Laxatives Segment Accelerates Globally](https://www.globenewswire.com/news-release/2024/03/04/2839876/28124/en/Constipation-Treatment-Market-Projected-to-Reach-27-5-Billion-by-2030-as-Laxatives-Segment-Accelerates-Globally.html) | GlobeNewswire | 2024-03-04 |
+| [German Cannabis Legalization Uncertainty Is Spooking Investors](https://www.insurancejournal.com/news/international/2024/03/21/765913.htm) | Insurance Journal | 2024-03-21 |
 | [Insights Into the Generic Drugs Market in Canada, 2024-2032, Featuring Apotex, Mylan Pharmaceuticals, Pharmascience, Sandoz, Sun Pharma Industries, and Teva Pharmaceutical Industries](https://www.globenewswire.com/news-release/2024/03/21/2850031/28124/en/Insights-Into-the-Generic-Drugs-Market-in-Canada-2024-2032-Featuring-Apotex-Mylan-Pharmaceuticals-Pharmascience-Sandoz-Sun-Pharma-Industries-and-Teva-Pharmaceutical-Industries.html) | GlobeNewswire | 2024-03-21 |
-| [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
 | [Respiratory Drugs Market Projected to Expand by USD 30.23 Billion with a 6.38% CAGR by 2027](https://www.globenewswire.com/news-release/2024/03/04/2839477/28124/en/Respiratory-Drugs-Market-Projected-to-Expand-by-USD-30-23-Billion-with-a-6-38-CAGR-by-2027.html) | GlobeNewswire | 2024-03-04 |
+| [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
 | [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Global Pregabalin Market Size To Worth USD 2.18 Billion By 2033 | CAGR of 2.82%](https://www.globenewswire.com/news-release/2024/03/29/2854706/0/en/Global-Pregabalin-Market-Size-To-Worth-USD-2-18-Billion-By-2033-CAGR-of-2-82.html) | GlobeNewswire | 2024-03-29 |
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
