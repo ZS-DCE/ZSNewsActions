@@ -23,12 +23,12 @@
 | [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [5 dead, over 100 hospitalised from recalled Japanese health supplements](https://indianexpress.com/article/world/5-dead-100-hospitalised-recalled-japanese-health-supplements-9240134/) | The Indian Express | 2024-03-29 |
+| [Pfizer accused of ‘bringing discredit’ on pharmaceutical industry after Covid social media posts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de71aa20-c6d5-4fb0-b6ea-891b2764246e) | Yahoo Entertainment | 2024-04-06 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
-| [The world's most expensive drug has a new price tag: $4.25 million](https://qz.com/orchard-therapeutics-lenmeldy-worlds-most-expensive-dru-1851353742) | Quartz India | 2024-03-20 |
 | [Amazon will now deliver Eil Lilly's weight loss drug Zepbound](https://qz.com/eli-lilly-zepbound-amazon-pharmacy-lilly-direct-1851332240) | Quartz India | 2024-03-13 |
-| [Nurses, Feeling Burnt Out? Apply Your Skill Set To A New Career](https://www.forbes.com/sites/cherylrobinson/2024/04/02/nurses-feeling-burnt-out-apply-your-skill-set-to-a-new-career/) | Forbes | 2024-04-02 |
+| [The world's most expensive drug has a new price tag: $4.25 million](https://qz.com/orchard-therapeutics-lenmeldy-worlds-most-expensive-dru-1851353742) | Quartz India | 2024-03-20 |
 
 ## News for Life Sciences
 
