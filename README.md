@@ -34,12 +34,9 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [An ‘RNA World’ Could Have Kickstarted Life on Earth](https://gizmodo.com/rna-world-could-have-kickstarted-first-life-on-earth-1851310245) | Gizmodo.com | 2024-03-06 |
 | ['Monumental' Experiment Suggests How Life on Earth May Have Started](https://science.slashdot.org/story/24/03/09/224218/monumental-experiment-suggests-how-life-on-earth-may-have-started) | Slashdot.org | 2024-03-10 |
-| [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/) | Wired | 2024-03-06 |
 | [New Ultrablack Coating on Telescopes Could Reveal More of the Universe](https://gizmodo.com/improve-space-telescopes-ultrablack-coating-light-1851356614) | Gizmodo.com | 2024-03-22 |
 | [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702) | Medium | 2024-03-16 |
-| [Company Trying to Resurrect a Mammoth Makes a Stem Cell Breakthrough](https://gizmodo.com/colossal-biosciences-elephant-stem-cells-woolly-mammoth-1851312096) | Gizmodo.com | 2024-03-06 |
 | [Best-selling psychologist of Thinking, Fast and Slow, dies at 90](https://www.npr.org/2024/03/27/1241206604/thinking-fast-slow-psychology-behavioral-economics-daniel-kahneman-obit-nobel) | NPR | 2024-03-27 |
 | [Signs of life would be detectable in single ice grain emitted from extraterrestrial moons](https://www.sciencedaily.com/releases/2024/03/240322145406.htm) | Science Daily | 2024-03-22 |
 | [How Nebraska wrestler Peyton Robb defeated flesh-eating bacteria](https://www.espn.com/college-sports/story/_/id/39711387/peyton-robb-nebraska-flesh-eating-bacteria) | ESPN | 2024-03-13 |
@@ -56,9 +53,12 @@
 | [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/) | Time | 2024-04-03 |
 | [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement) | Columbia.edu | 2024-03-26 |
-| [We Should All Be Prepared To Design For Life — But Not As We Know It](https://www.core77.com/posts/129291/We-Should-All-Be-Prepared-To-Design-For-Life-%E2%80%94-But-Not-As-We-Know-It) | Core77.com | 2024-03-06 |
 | [Lsd ed Ecstasy per scopi terapeutici, boom dei titoli di settore](https://www.ilsole24ore.com/art/lsd-ed-ecstasy-scopi-terapeutici-boom-titoli-settore-AFCe4SED) | Il Sole 24 Ore | 2024-03-28 |
 | [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
+| [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
+| [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
+| [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
+| [Signs of life detectable in single ice grain emitted from extraterrestrial moons, experimental setup shows](https://phys.org/news/2024-03-life-ice-grain-emitted-extraterrestrial.html) | Phys.Org | 2024-03-22 |
 
 ## News for Medical Devices
 
@@ -81,6 +81,7 @@
 | [Prince Andrew's infamous BBC interview... as dramatised by Netflix](https://www.bbc.co.uk/news/uk-68739026) | BBC News | 2024-04-05 |
 | [New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more](https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3) | Business Insider | 2024-03-11 |
 | [Apple looks beyond health for a large array of future Apple Watch sensors](https://appleinsider.com/articles/24/03/14/apple-looks-beyond-health-for-a-large-array-of-future-apple-watch-sensors) | AppleInsider | 2024-03-14 |
+| [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/04/06/apple-watch-ban-news/) | 9to5Mac | 2024-04-06 |
 | [What is on-device AI processing, and why is it important?](https://www.androidcentral.com/apps-software/why-on-device-ai-processing-is-important) | Android Central | 2024-03-20 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
@@ -88,7 +89,6 @@
 | [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
 | [The 5 best meditation apps for 2024](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_34a382e2-745f-4234-b774-9bd1593e3138) | Yahoo Entertainment | 2024-03-22 |
-| [The S in IoT stands for security. You'll never secure all the Things](https://www.theregister.com/2024/03/09/opinion_column_security_sjvn/) | Theregister.com | 2024-03-09 |
 
 ## News for Healthcare Sector
 
@@ -113,12 +113,12 @@
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
+| [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [FBI: Critical infrastructure menaced by spike in ransomware](https://www.theregister.com/2024/03/06/fbi_ransomware_cybercrime_costs/) | Theregister.com | 2024-03-06 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
-| [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 
 ## News for Pharma Market Trends
 
@@ -127,7 +127,6 @@
 | [2024 Trends In Private Equity And Mergers And Acquisitions](https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/19/2024-trends-in-private-equity-and-mergers-and-acquisitions/) | Forbes | 2024-03-19 |
 | [Large caps gear up to drive market; capital goods, insurance, auto, pharma gain momentum](https://www.moneycontrol.com/news/business/large-caps-gear-up-to-drive-market-capital-goods-insurance-auto-pharma-gain-momentum-12567181.html) | Moneycontrol | 2024-04-03 |
 | [Mid-day Mood | Sensex, Nifty down as investors cautious ahead of Fed outcome; all sectors in red](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-as-investors-cautious-ahead-of-fed-outcome-all-sectors-in-red-12491901.html) | Moneycontrol | 2024-03-20 |
-| [Mid-day Mood | Sensex, Nifty down; small, midcaps hammered over valuation concerns](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-small-midcaps-hammered-over-valuation-concerns-12411001.html) | Moneycontrol | 2024-03-06 |
 | [Expo West: The Ozempic Effect on Snacking, Clean Labels and More Trends](https://www.adweek.com/brand-marketing/national-product-expo-west-2024-food-trends-ozempic-snacking-clean-labels/) | Adweek | 2024-03-20 |
 | [Pay Attention to the Trend](https://gothamgal.com/2024/03/pay-attention-to-the-trend/) | Gothamgal.com | 2024-03-12 |
 | [How AI insights improve decision making](https://sproutsocial.com/insights/ai-insights/) | Sproutsocial.com | 2024-03-19 |
@@ -139,16 +138,17 @@
 | [German Cannabis Legalization Uncertainty Is Spooking Investors](https://www.insurancejournal.com/news/international/2024/03/21/765913.htm) | Insurance Journal | 2024-03-21 |
 | [Insights Into the Generic Drugs Market in Canada, 2024-2032, Featuring Apotex, Mylan Pharmaceuticals, Pharmascience, Sandoz, Sun Pharma Industries, and Teva Pharmaceutical Industries](https://www.globenewswire.com/news-release/2024/03/21/2850031/28124/en/Insights-Into-the-Generic-Drugs-Market-in-Canada-2024-2032-Featuring-Apotex-Mylan-Pharmaceuticals-Pharmascience-Sandoz-Sun-Pharma-Industries-and-Teva-Pharmaceutical-Industries.html) | GlobeNewswire | 2024-03-21 |
 | [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
-| [Biden Is Right. The US Generally Pays Double That of Other Countries for Rx Drugs.](https://kffhealthnews.org/news/article/fact-check-biden-prescription-drug-prices-nation-comparison/) | Kffhealthnews.org | 2024-03-06 |
 | [Global Pregabalin Market Size To Worth USD 2.18 Billion By 2033 | CAGR of 2.82%](https://www.globenewswire.com/news-release/2024/03/29/2854706/0/en/Global-Pregabalin-Market-Size-To-Worth-USD-2-18-Billion-By-2033-CAGR-of-2-82.html) | GlobeNewswire | 2024-03-29 |
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
 | [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
-| [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
 | [Global Menopause Market Size, Share & Trends Analysis Report 2024 - A USD 24.4 Billion Market by 2030 with a Robust CAGR of 5.37%](https://www.globenewswire.com/news-release/2024/03/19/2848837/28124/en/Global-Menopause-Market-Size-Share-Trends-Analysis-Report-2024-A-USD-24-4-Billion-Market-by-2030-with-a-Robust-CAGR-of-5-37.html) | GlobeNewswire | 2024-03-19 |
 | [Successful 2024 Annual General Meeting of SCHOTT Pharma: Shareholders approve all items on the agenda](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Successful-2024-Annual-General-Meeting-of-SCHOTT-Pharma-Shareholders-approve-all-items-on-the-agend-46199615/) | Marketscreener.com | 2024-03-14 |
+| [Global Microbiome Manufacturing Industry Research 2024: A $187 Billion Market by 2035 with Close to 170 Trials Evaluating Microbiome Therapeutics to Treat Infectious Diseases and Oncological Disorders](https://www.globenewswire.com/news-release/2024/04/05/2858379/28124/en/Global-Microbiome-Manufacturing-Industry-Research-2024-A-187-Billion-Market-by-2035-with-Close-to-170-Trials-Evaluating-Microbiome-Therapeutics-to-Treat-Infectious-Diseases-and-Onc.html) | GlobeNewswire | 2024-04-05 |
+| [Global Small Molecule Innovator CDMO Market Forecasted to Reach USD 64.78 Billion by 2028](https://www.globenewswire.com/news-release/2024/04/01/2855041/28124/en/Global-Small-Molecule-Innovator-CDMO-Market-Forecasted-to-Reach-USD-64-78-Billion-by-2028.html) | GlobeNewswire | 2024-04-01 |
+| [OptimizeRx Corporation (NASDAQ:OPRX) Q4 2023 Earnings Call Transcript](https://finance.yahoo.com/news/optimizerx-corporation-nasdaq-oprx-q4-190248344.html) | Yahoo Entertainment | 2024-04-01 |
 
 ## News for FDA Regulations
 
