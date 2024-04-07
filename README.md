@@ -118,13 +118,12 @@
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
-| [I retired from Amazon at 34 and chose to enjoy retirement in Canada, where I only need $1,000 a month to live well](https://www.businessinsider.com/amazon-worker-financial-independence-retire-early-fire-in-canada-cheaper-2024-3) | Business Insider | 2024-03-05 |
+| [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 
 ## News for Pharma Market Trends
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Il Makiage parent Oddity Tech’s earnings crush estimates as beauty consumer moves online](https://www.marketwatch.com/story/il-makiage-parent-oddity-techs-earnings-crush-estimates-as-beauty-consumer-moves-online-a9bd1a7c) | MarketWatch | 2024-03-05 |
 | [2024 Trends In Private Equity And Mergers And Acquisitions](https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/19/2024-trends-in-private-equity-and-mergers-and-acquisitions/) | Forbes | 2024-03-19 |
 | [Large caps gear up to drive market; capital goods, insurance, auto, pharma gain momentum](https://www.moneycontrol.com/news/business/large-caps-gear-up-to-drive-market-capital-goods-insurance-auto-pharma-gain-momentum-12567181.html) | Moneycontrol | 2024-04-03 |
 | [Mid-day Mood | Sensex, Nifty down as investors cautious ahead of Fed outcome; all sectors in red](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-as-investors-cautious-ahead-of-fed-outcome-all-sectors-in-red-12491901.html) | Moneycontrol | 2024-03-20 |
@@ -149,6 +148,7 @@
 | [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
 | [Jefferies raises Tarsus Pharma stock target to $44 on strong launch](https://www.investing.com/news/stock-market-news/jefferies-raises-tarsus-pharma-stock-target-to-44-on-strong-launch-93CH-3327344) | Investing.com | 2024-03-06 |
 | [Global Menopause Market Size, Share & Trends Analysis Report 2024 - A USD 24.4 Billion Market by 2030 with a Robust CAGR of 5.37%](https://www.globenewswire.com/news-release/2024/03/19/2848837/28124/en/Global-Menopause-Market-Size-Share-Trends-Analysis-Report-2024-A-USD-24-4-Billion-Market-by-2030-with-a-Robust-CAGR-of-5-37.html) | GlobeNewswire | 2024-03-19 |
+| [Capecitabine Global Market Report 2024](https://www.globenewswire.com/news-release/2024/03/06/2841121/28124/en/Capecitabine-Global-Market-Report-2024.html) | GlobeNewswire | 2024-03-06 |
 
 ## News for FDA Regulations
 
