@@ -27,8 +27,8 @@
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
-| [Amazon will now deliver Eil Lilly's weight loss drug Zepbound](https://qz.com/eli-lilly-zepbound-amazon-pharmacy-lilly-direct-1851332240) | Quartz India | 2024-03-13 |
 | [The world's most expensive drug has a new price tag: $4.25 million](https://qz.com/orchard-therapeutics-lenmeldy-worlds-most-expensive-dru-1851353742) | Quartz India | 2024-03-20 |
+| [Amazon will now deliver Eil Lilly's weight loss drug Zepbound](https://qz.com/eli-lilly-zepbound-amazon-pharmacy-lilly-direct-1851332240) | Quartz India | 2024-03-13 |
 
 ## News for Life Sciences
 
@@ -134,7 +134,6 @@
 | [A B2B marketplace from Science Exchange aims to make life easier for buyers](https://www.digitalcommerce360.com/2024/03/25/science-exchange-b2b-marketplace-aims-to-make-life-easier-for-buyers/) | DigitalCommerce360 | 2024-03-25 |
 | [3 Pharma Stocks to Sell in March Before They Crash & Burn](https://biztoc.com/x/b85f9ab84f1d0312) | Biztoc.com | 2024-03-14 |
 | [Earnings momentum starting to slow down; margins may falter in Q4 & Q1: Pankaj Tibrewal](https://economictimes.indiatimes.com/markets/expert-view/earnings-momentum-is-starting-to-slow-down-margins-may-falter-in-q4-q1-pankaj-tibrewal/articleshow/108515645.cms) | The Times of India | 2024-03-15 |
-| [Indian pharma market registers 9% growth in February](https://www.moneycontrol.com/news/business/markets/indian-pharma-market-registers-9-growth-in-february-12420231.html) | Moneycontrol | 2024-03-07 |
 | [German Cannabis Legalization Uncertainty Is Spooking Investors](https://www.insurancejournal.com/news/international/2024/03/21/765913.htm) | Insurance Journal | 2024-03-21 |
 | [Insights Into the Generic Drugs Market in Canada, 2024-2032, Featuring Apotex, Mylan Pharmaceuticals, Pharmascience, Sandoz, Sun Pharma Industries, and Teva Pharmaceutical Industries](https://www.globenewswire.com/news-release/2024/03/21/2850031/28124/en/Insights-Into-the-Generic-Drugs-Market-in-Canada-2024-2032-Featuring-Apotex-Mylan-Pharmaceuticals-Pharmascience-Sandoz-Sun-Pharma-Industries-and-Teva-Pharmaceutical-Industries.html) | GlobeNewswire | 2024-03-21 |
 | [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
@@ -149,12 +148,12 @@
 | [Global Microbiome Manufacturing Industry Research 2024: A $187 Billion Market by 2035 with Close to 170 Trials Evaluating Microbiome Therapeutics to Treat Infectious Diseases and Oncological Disorders](https://www.globenewswire.com/news-release/2024/04/05/2858379/28124/en/Global-Microbiome-Manufacturing-Industry-Research-2024-A-187-Billion-Market-by-2035-with-Close-to-170-Trials-Evaluating-Microbiome-Therapeutics-to-Treat-Infectious-Diseases-and-Onc.html) | GlobeNewswire | 2024-04-05 |
 | [Global Small Molecule Innovator CDMO Market Forecasted to Reach USD 64.78 Billion by 2028](https://www.globenewswire.com/news-release/2024/04/01/2855041/28124/en/Global-Small-Molecule-Innovator-CDMO-Market-Forecasted-to-Reach-USD-64-78-Billion-by-2028.html) | GlobeNewswire | 2024-04-01 |
 | [OptimizeRx Corporation (NASDAQ:OPRX) Q4 2023 Earnings Call Transcript](https://finance.yahoo.com/news/optimizerx-corporation-nasdaq-oprx-q4-190248344.html) | Yahoo Entertainment | 2024-04-01 |
+| [Global Anterior Uveitis Treatment Market by Treatment Type (Anti-Tumor Necrosis Factor Agents, Corticosteroids, Cycloplegic Agents), Distribution Channel - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/19/2849013/28124/en/Global-Anterior-Uveitis-Treatment-Market-by-Treatment-Type-Anti-Tumor-Necrosis-Factor-Agents-Corticosteroids-Cycloplegic-Agents-Distribution-Channel-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-19 |
 
 ## News for FDA Regulations
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Noticing more product recalls lately? It's not just you.](https://www.businessinsider.com/food-product-recalls-increasing-cinnamon-2024-3) | Business Insider | 2024-03-07 |
 | [Key moments as Supreme Court questioned legality of abortion pill challenge](https://abcnews.go.com/Politics/live-updates/abortion-pill-supreme-court-hearing/?id=108467730) | ABC News | 2024-03-26 |
 | [Here’s Why The FDA Is Changing What It Means To Be A Frozen Cherry Pie](https://www.forbes.com/sites/jamesfarrell/2024/03/14/heres-why-the-fda-is-changing-what-it-means-to-be-a-frozen-cherry-pie/) | Forbes | 2024-03-14 |
 | [Baltimore's Francis Scott Key Bridge collapses; SCOTUS takes on abortion pill case](https://www.npr.org/2024/03/26/1240866250/up-first-newsletter-baltimore-bridge-collapse-scotus-abortion-pill) | NPR | 2024-03-26 |
@@ -169,7 +168,6 @@
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/03/26/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-03-26 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [U.S. Supreme Court takes up Texas case challenging abortion pill access](https://www.upi.com/Top_News/US/2024/03/26/SCOTUS-Texas-abortion-pill-access/6181711453952/) | UPI.com | 2024-03-26 |
-| [Seeing Beyond The Hype Of That One Neurotech Startup](https://www.forbes.com/sites/naveenrao/2024/03/07/seeing-beyond-the-hype-of-that-one-neurotech-startup/) | Forbes | 2024-03-07 |
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Texas Appeals Court Rules That Dad Can Deny His Teen Contraceptives](https://www.thedailybeast.com/texas-appeals-court-rules-that-dad-can-deny-his-teen-contraceptives) | Daily Beast | 2024-03-12 |
@@ -179,4 +177,6 @@
 | [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
 | [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 | [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
+| [The Forced-Birthers Finally Went Too Far Even for This Supreme Court](https://www.thenation.com/?post_type=article&#038;p=492807) | Thenation.com | 2024-03-27 |
+| [Civil rights, medical groups sue FDA over ‘almost unconscionable’ delay in banning menthol tobacco products](https://www.advocate.com/menthol-cigarette-ban-fda-lawsuit) | Advocate.com | 2024-04-04 |
 
