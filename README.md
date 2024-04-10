@@ -41,15 +41,12 @@
 | [Signs of life would be detectable in single ice grain emitted from extraterrestrial moons](https://www.sciencedaily.com/releases/2024/03/240322145406.htm) | Science Daily | 2024-03-22 |
 | [How Nebraska wrestler Peyton Robb defeated flesh-eating bacteria](https://www.espn.com/college-sports/story/_/id/39711387/peyton-robb-nebraska-flesh-eating-bacteria) | ESPN | 2024-03-13 |
 | [Study assesses geographical patterns and determinants of insect biodiversity in China](https://phys.org/news/2024-03-geographical-patterns-insect-biodiversity-china.html) | Phys.Org | 2024-03-26 |
-| [New study discovers how altered protein folding drives multicellular evolution](https://www.sciencedaily.com/releases/2024/03/240308142729.htm) | Science Daily | 2024-03-08 |
 | [New method reveals hidden activity of life below ground](https://phys.org/news/2024-04-method-reveals-hidden-life-ground.html) | Phys.Org | 2024-04-01 |
-| [Mutation solves a century-old mystery in meiosis](https://www.sciencedaily.com/releases/2024/03/240308123336.htm) | Science Daily | 2024-03-08 |
 | [Sense makers: How standards are enabling data reuse in the life sciences](https://phys.org/news/2024-03-makers-standards-enabling-reuse-life.html) | Phys.Org | 2024-03-20 |
 | [Q&A: Why researchers need accessible training to understand and leverage artificial intelligence in the life sciences](https://phys.org/news/2024-03-qa-accessible-leverage-artificial-intelligence.html) | Phys.Org | 2024-03-12 |
 | [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children) | Wikipedia.org | 2024-03-12 |
 | [Microba Life Sciences Ends Substantial Holding](https://biztoc.com/x/c435dbe432485167) | Biztoc.com | 2024-04-04 |
 | [Artemis Mission: Making NASA’s New Moon Suits](https://makezine.com/article/science/artemis-mission-making-nasas-new-moon-suits/) | Makezine.com | 2024-04-02 |
-| ['Double life' of key immune protein reveals new strategies for treating cancer and autoimmune diseases](https://www.sciencedaily.com/releases/2024/03/240308142732.htm) | Science Daily | 2024-03-08 |
 | [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/) | Time | 2024-04-03 |
 | [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement) | Columbia.edu | 2024-03-26 |
@@ -59,6 +56,9 @@
 | [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
 | [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
 | [Signs of life detectable in single ice grain emitted from extraterrestrial moons, experimental setup shows](https://phys.org/news/2024-03-life-ice-grain-emitted-extraterrestrial.html) | Phys.Org | 2024-03-22 |
+| [Between Psyche and Cyborg: Carl Jung’s Legacy and the Countercultural Courage to Reclaim the Deeply Human in a Posthuman Age](https://www.themarginalian.org/2024/03/29/jung-vs-borg/) | Themarginalian.org | 2024-03-30 |
+| [China's urban jungles: How city parks are winning the battle against concrete](https://phys.org/news/2024-03-china-urban-jungles-city-concrete.html) | Phys.Org | 2024-03-15 |
+| [F5: Larry Booth Shares the Places + Spaces That Captivate Him + More](https://design-milk.com/f5-larry-booth-shares-the-places-spaces-that-captivate-him-more/) | Design-milk.com | 2024-04-05 |
 
 ## News for Medical Devices
 
@@ -103,7 +103,6 @@
 | [The AI dolls to tackle loneliness of South Korea’s elderly (and watch them)](https://readwrite.com/the-ai-dolls-to-tackle-loneliness-of-south-koreas-elderly-and-watch-them/) | ReadWrite | 2024-03-11 |
 | [CEO says he tried to hire an AI researcher from Meta, and was told to 'come back to me when you have 10,000 H100 GPUs'](https://www.businessinsider.com/recruiting-ai-talent-ruthless-right-now-ai-ceo-2024-3) | Business Insider | 2024-03-11 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
-| [Change Healthcare registers pulse after crippling ransomware attack](https://www.theregister.com/2024/03/08/change_healthcare_restores_first_system/) | Theregister.com | 2024-03-08 |
 | [9 AI jobs you can get without being an expert coder, from product designer to sales engineer](https://www.businessinsider.com/ai-jobs-without-coding-2024-4) | Business Insider | 2024-04-03 |
 | [It's time to stop downsizing health care, the Pentagon says. This couple can't wait](https://www.npr.org/2024/04/03/1240724195/pentagon-outsource-healthcare-tricare) | NPR | 2024-04-03 |
 | [White House and lawmakers increase pressure on UnitedHealth to ease providers' pain](https://www.theregister.com/2024/03/12/white_house_pressures_unitedhealth/) | Theregister.com | 2024-03-12 |
@@ -112,13 +111,14 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
-| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
+| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
+| [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
 
 ## News for Pharma Market Trends
 
@@ -141,14 +141,14 @@
 | [Global Oral Solid Dosage Contract Manufacturing Market 2024-2030: Regional Trends for Tablets, Capsules, Powders, and Granules](https://www.globenewswire.com/news-release/2024/03/13/2845621/28124/en/Global-Oral-Solid-Dosage-Contract-Manufacturing-Market-2024-2030-Regional-Trends-for-Tablets-Capsules-Powders-and-Granules.html) | GlobeNewswire | 2024-03-13 |
 | [Global Pregabalin Market Size To Worth USD 2.18 Billion By 2033 | CAGR of 2.82%](https://www.globenewswire.com/news-release/2024/03/29/2854706/0/en/Global-Pregabalin-Market-Size-To-Worth-USD-2-18-Billion-By-2033-CAGR-of-2-82.html) | GlobeNewswire | 2024-03-29 |
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
-| [Co-development Deals in Pharmaceuticals and Biotechnology 2016 to 2024 Featuring 843 Market Players - Deals Listed by Company A-Z, Headline Value, Therapeutic Area, and Technology Type](https://www.globenewswire.com/news-release/2024/03/08/2843209/28124/en/Co-development-Deals-in-Pharmaceuticals-and-Biotechnology-2016-to-2024-Featuring-843-Market-Players-Deals-Listed-by-Company-A-Z-Headline-Value-Therapeutic-Area-and-Technology-Type.html) | GlobeNewswire | 2024-03-08 |
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
-| [Collaboration Deals in Pharmaceuticals Through 2019-2024 Featuring 1900+ Market Players](https://www.globenewswire.com/news-release/2024/03/08/2843214/28124/en/Collaboration-Deals-in-Pharmaceuticals-Through-2019-2024-Featuring-1900-Market-Players.html) | GlobeNewswire | 2024-03-08 |
 | [Global Menopause Market Size, Share & Trends Analysis Report 2024 - A USD 24.4 Billion Market by 2030 with a Robust CAGR of 5.37%](https://www.globenewswire.com/news-release/2024/03/19/2848837/28124/en/Global-Menopause-Market-Size-Share-Trends-Analysis-Report-2024-A-USD-24-4-Billion-Market-by-2030-with-a-Robust-CAGR-of-5-37.html) | GlobeNewswire | 2024-03-19 |
 | [Successful 2024 Annual General Meeting of SCHOTT Pharma: Shareholders approve all items on the agenda](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Successful-2024-Annual-General-Meeting-of-SCHOTT-Pharma-Shareholders-approve-all-items-on-the-agend-46199615/) | Marketscreener.com | 2024-03-14 |
 | [Global Microbiome Manufacturing Industry Research 2024: A $187 Billion Market by 2035 with Close to 170 Trials Evaluating Microbiome Therapeutics to Treat Infectious Diseases and Oncological Disorders](https://www.globenewswire.com/news-release/2024/04/05/2858379/28124/en/Global-Microbiome-Manufacturing-Industry-Research-2024-A-187-Billion-Market-by-2035-with-Close-to-170-Trials-Evaluating-Microbiome-Therapeutics-to-Treat-Infectious-Diseases-and-Onc.html) | GlobeNewswire | 2024-04-05 |
 | [Global Small Molecule Innovator CDMO Market Forecasted to Reach USD 64.78 Billion by 2028](https://www.globenewswire.com/news-release/2024/04/01/2855041/28124/en/Global-Small-Molecule-Innovator-CDMO-Market-Forecasted-to-Reach-USD-64-78-Billion-by-2028.html) | GlobeNewswire | 2024-04-01 |
+| [OptimizeRx Corporation (NASDAQ:OPRX) Q4 2023 Earnings Call Transcript](https://finance.yahoo.com/news/optimizerx-corporation-nasdaq-oprx-q4-190248344.html) | Yahoo Entertainment | 2024-04-01 |
+| [Global Anterior Uveitis Treatment Market by Treatment Type (Anti-Tumor Necrosis Factor Agents, Corticosteroids, Cycloplegic Agents), Distribution Channel - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/19/2849013/28124/en/Global-Anterior-Uveitis-Treatment-Market-by-Treatment-Type-Anti-Tumor-Necrosis-Factor-Agents-Corticosteroids-Cycloplegic-Agents-Distribution-Channel-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-19 |
 
 ## News for FDA Regulations
 
@@ -177,6 +177,6 @@
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
 | [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
-| [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 | [The Forced-Birthers Finally Went Too Far Even for This Supreme Court](https://www.thenation.com/?post_type=article&#038;p=492807) | Thenation.com | 2024-03-27 |
+| [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
 
