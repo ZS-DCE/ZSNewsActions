@@ -10,6 +10,7 @@
 | [Pharma-Backed Democrats Are Fighting to Keep Drugs Expensive](https://jacobin.com/2024/03/pharma-drug-price-negotiations-democrats) | Jacobin.com | 2024-03-17 |
 | [SCOTUS mifepristone case: Justices focus on anti-abortion groups’ legal standing](https://arstechnica.com/science/2024/03/abortion-pill-case-scotus-skeptical-of-anti-abortion-groups-legal-standing/) | Ars Technica | 2024-03-26 |
 | [State Of The Pharma Industry: Present And Future](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/08/state-of-the-pharma-industry-present-and-future/) | Forbes | 2024-04-08 |
+| [Are Direct-to-Consumer Drug Ads Becoming Fair and Balanced?](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202404/are-direct-to-consumer-drug-ads-becoming-fair-and-balanced) | Psychology Today | 2024-04-09 |
 | [UK Medicines Regulator MHRA’s Role As Pharma “Enabler” During Pandemic Comes Under Microscope](https://www.nakedcapitalism.com/2024/03/uk-medicines-regulator-mhra-comes-under-microscope-over-vaccine-safety-and-efficacy.html) | Nakedcapitalism.com | 2024-03-12 |
 | [The Global Pharmaceutical Industry Isn’t Investing in Products for the Greatest Burden of Human Disease – Are Non-Profits a Solution?](https://www.nakedcapitalism.com/2024/03/the-global-pharmaceutical-industry-isnt-investing-in-products-for-the-greatest-burden-of-human-disease-are-non-profits-a-solution.html) | Nakedcapitalism.com | 2024-03-30 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
@@ -28,7 +29,6 @@
 | [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
-| [Amazon will now deliver Eil Lilly's weight loss drug Zepbound](https://qz.com/eli-lilly-zepbound-amazon-pharmacy-lilly-direct-1851332240) | Quartz India | 2024-03-13 |
 
 ## News for Life Sciences
 
@@ -67,13 +67,14 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Security News This Week: Russian Hackers Stole Microsoft Source Code—and the Attack Isn’t Over](https://www.wired.com/story/russia-hackers-microsoft-source-code/) | Wired | 2024-03-09 |
 | [Apple Preparing to Sell Refurbished Ultra 2 and Series 9 Watches in U.S.](https://www.macrumors.com/2024/03/19/refurbished-apple-watch-ultra-2-series-9-coming/) | MacRumors | 2024-03-19 |
+| [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
 | [A Copy of a Copy of a Copy: The Story of FDA Medical Device Clearances](https://wcedmisten.fyi/post/medical-device-analysis/) | Wcedmisten.fyi | 2024-03-10 |
 | [Google spotted working on a new category system for Drive users](https://www.androidcentral.com/apps-software/google-drive-category-system-spotted) | Android Central | 2024-03-15 |
 | [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700) | Hacker News | 2024-03-18 |
 | [Elon Musk's Neuralink brain implant to ultimately help humans merge with AI is sparking debate over safety and ethics](https://www.businessinsider.com/neuralink) | Business Insider | 2024-03-27 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
-| [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
 | [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
+| [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
 | [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
 | [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
@@ -88,7 +89,6 @@
 | [UK Pledges Action On 'Biased' Medical Devices](https://www.forbes.com/sites/emmawoollacott/2024/03/12/uk-pledges-action-on-biased-medical-devices/) | Forbes | 2024-03-12 |
 | [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
-| [The 5 best meditation apps for 2024](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_34a382e2-745f-4234-b774-9bd1593e3138) | Yahoo Entertainment | 2024-03-22 |
 
 ## News for Healthcare Sector
 
@@ -110,8 +110,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
-| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
+| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -143,12 +143,12 @@
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
+| [Lyophilization Services for Biopharmaceuticals Global Report 2024, Featuring Profiles of Strides Pharma Science, Baxter, Catalent Pharma Solutions, W. L. Gore & Associates and Emergent BioSolutions](https://www.globenewswire.com/news-release/2024/04/09/2860205/28124/en/Lyophilization-Services-for-Biopharmaceuticals-Global-Report-2024-Featuring-Profiles-of-Strides-Pharma-Science-Baxter-Catalent-Pharma-Solutions-W-L-Gore-Associates-and-Emergent-Bio.html) | GlobeNewswire | 2024-04-09 |
 | [Global Menopause Market Size, Share & Trends Analysis Report 2024 - A USD 24.4 Billion Market by 2030 with a Robust CAGR of 5.37%](https://www.globenewswire.com/news-release/2024/03/19/2848837/28124/en/Global-Menopause-Market-Size-Share-Trends-Analysis-Report-2024-A-USD-24-4-Billion-Market-by-2030-with-a-Robust-CAGR-of-5-37.html) | GlobeNewswire | 2024-03-19 |
 | [Successful 2024 Annual General Meeting of SCHOTT Pharma: Shareholders approve all items on the agenda](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Successful-2024-Annual-General-Meeting-of-SCHOTT-Pharma-Shareholders-approve-all-items-on-the-agend-46199615/) | Marketscreener.com | 2024-03-14 |
 | [Global Microbiome Manufacturing Industry Research 2024: A $187 Billion Market by 2035 with Close to 170 Trials Evaluating Microbiome Therapeutics to Treat Infectious Diseases and Oncological Disorders](https://www.globenewswire.com/news-release/2024/04/05/2858379/28124/en/Global-Microbiome-Manufacturing-Industry-Research-2024-A-187-Billion-Market-by-2035-with-Close-to-170-Trials-Evaluating-Microbiome-Therapeutics-to-Treat-Infectious-Diseases-and-Onc.html) | GlobeNewswire | 2024-04-05 |
 | [Global Small Molecule Innovator CDMO Market Forecasted to Reach USD 64.78 Billion by 2028](https://www.globenewswire.com/news-release/2024/04/01/2855041/28124/en/Global-Small-Molecule-Innovator-CDMO-Market-Forecasted-to-Reach-USD-64-78-Billion-by-2028.html) | GlobeNewswire | 2024-04-01 |
 | [OptimizeRx Corporation (NASDAQ:OPRX) Q4 2023 Earnings Call Transcript](https://finance.yahoo.com/news/optimizerx-corporation-nasdaq-oprx-q4-190248344.html) | Yahoo Entertainment | 2024-04-01 |
-| [Global Anterior Uveitis Treatment Market by Treatment Type (Anti-Tumor Necrosis Factor Agents, Corticosteroids, Cycloplegic Agents), Distribution Channel - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/19/2849013/28124/en/Global-Anterior-Uveitis-Treatment-Market-by-Treatment-Type-Anti-Tumor-Necrosis-Factor-Agents-Corticosteroids-Cycloplegic-Agents-Distribution-Channel-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-19 |
 
 ## News for FDA Regulations
 
