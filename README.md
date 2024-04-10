@@ -46,8 +46,8 @@
 | [Mutation solves a century-old mystery in meiosis](https://www.sciencedaily.com/releases/2024/03/240308123336.htm) | Science Daily | 2024-03-08 |
 | [Sense makers: How standards are enabling data reuse in the life sciences](https://phys.org/news/2024-03-makers-standards-enabling-reuse-life.html) | Phys.Org | 2024-03-20 |
 | [Q&A: Why researchers need accessible training to understand and leverage artificial intelligence in the life sciences](https://phys.org/news/2024-03-qa-accessible-leverage-artificial-intelligence.html) | Phys.Org | 2024-03-12 |
-| [Microba Life Sciences Ends Substantial Holding](https://biztoc.com/x/c435dbe432485167) | Biztoc.com | 2024-04-04 |
 | [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children) | Wikipedia.org | 2024-03-12 |
+| [Microba Life Sciences Ends Substantial Holding](https://biztoc.com/x/c435dbe432485167) | Biztoc.com | 2024-04-04 |
 | [Artemis Mission: Making NASA’s New Moon Suits](https://makezine.com/article/science/artemis-mission-making-nasas-new-moon-suits/) | Makezine.com | 2024-04-02 |
 | ['Double life' of key immune protein reveals new strategies for treating cancer and autoimmune diseases](https://www.sciencedaily.com/releases/2024/03/240308142732.htm) | Science Daily | 2024-03-08 |
 | [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/) | Time | 2024-04-03 |
@@ -112,8 +112,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -126,6 +126,7 @@
 | ----- | ------ | --------- |
 | [2024 Trends In Private Equity And Mergers And Acquisitions](https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/19/2024-trends-in-private-equity-and-mergers-and-acquisitions/) | Forbes | 2024-03-19 |
 | [Large caps gear up to drive market; capital goods, insurance, auto, pharma gain momentum](https://www.moneycontrol.com/news/business/large-caps-gear-up-to-drive-market-capital-goods-insurance-auto-pharma-gain-momentum-12567181.html) | Moneycontrol | 2024-04-03 |
+| [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-268-12601291.html) | Moneycontrol | 2024-04-09 |
 | [Mid-day Mood | Sensex, Nifty down as investors cautious ahead of Fed outcome; all sectors in red](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-as-investors-cautious-ahead-of-fed-outcome-all-sectors-in-red-12491901.html) | Moneycontrol | 2024-03-20 |
 | [Expo West: The Ozempic Effect on Snacking, Clean Labels and More Trends](https://www.adweek.com/brand-marketing/national-product-expo-west-2024-food-trends-ozempic-snacking-clean-labels/) | Adweek | 2024-03-20 |
 | [Pay Attention to the Trend](https://gothamgal.com/2024/03/pay-attention-to-the-trend/) | Gothamgal.com | 2024-03-12 |
@@ -148,7 +149,6 @@
 | [Successful 2024 Annual General Meeting of SCHOTT Pharma: Shareholders approve all items on the agenda](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Successful-2024-Annual-General-Meeting-of-SCHOTT-Pharma-Shareholders-approve-all-items-on-the-agend-46199615/) | Marketscreener.com | 2024-03-14 |
 | [Global Microbiome Manufacturing Industry Research 2024: A $187 Billion Market by 2035 with Close to 170 Trials Evaluating Microbiome Therapeutics to Treat Infectious Diseases and Oncological Disorders](https://www.globenewswire.com/news-release/2024/04/05/2858379/28124/en/Global-Microbiome-Manufacturing-Industry-Research-2024-A-187-Billion-Market-by-2035-with-Close-to-170-Trials-Evaluating-Microbiome-Therapeutics-to-Treat-Infectious-Diseases-and-Onc.html) | GlobeNewswire | 2024-04-05 |
 | [Global Small Molecule Innovator CDMO Market Forecasted to Reach USD 64.78 Billion by 2028](https://www.globenewswire.com/news-release/2024/04/01/2855041/28124/en/Global-Small-Molecule-Innovator-CDMO-Market-Forecasted-to-Reach-USD-64-78-Billion-by-2028.html) | GlobeNewswire | 2024-04-01 |
-| [OptimizeRx Corporation (NASDAQ:OPRX) Q4 2023 Earnings Call Transcript](https://finance.yahoo.com/news/optimizerx-corporation-nasdaq-oprx-q4-190248344.html) | Yahoo Entertainment | 2024-04-01 |
 
 ## News for FDA Regulations
 
