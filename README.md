@@ -34,7 +34,6 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| ['Monumental' Experiment Suggests How Life on Earth May Have Started](https://science.slashdot.org/story/24/03/09/224218/monumental-experiment-suggests-how-life-on-earth-may-have-started) | Slashdot.org | 2024-03-10 |
 | [New Ultrablack Coating on Telescopes Could Reveal More of the Universe](https://gizmodo.com/improve-space-telescopes-ultrablack-coating-light-1851356614) | Gizmodo.com | 2024-03-22 |
 | [Researchers, please replace SQLite with DuckDB now](https://dirk-petersen.medium.com/researchers-please-replace-sqlite-with-duckdb-now-f038044a2702) | Medium | 2024-03-16 |
 | [Best-selling psychologist of Thinking, Fast and Slow, dies at 90](https://www.npr.org/2024/03/27/1241206604/thinking-fast-slow-psychology-behavioral-economics-daniel-kahneman-obit-nobel) | NPR | 2024-03-27 |
@@ -48,7 +47,6 @@
 | [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children) | Wikipedia.org | 2024-03-12 |
 | [Artemis Mission: Making NASA’s New Moon Suits](https://makezine.com/article/science/artemis-mission-making-nasas-new-moon-suits/) | Makezine.com | 2024-04-02 |
 | [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/) | Time | 2024-04-03 |
-| [The chef at London's Chishuru just won her first Michelin star. She started with a competition to open a pop-up restaurant.](https://www.businessinsider.com/london-restaurant-chishuru-michelin-star-chef-2024-3) | Business Insider | 2024-03-10 |
 | [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement) | Columbia.edu | 2024-03-26 |
 | [Lsd ed Ecstasy per scopi terapeutici, boom dei titoli di settore](https://www.ilsole24ore.com/art/lsd-ed-ecstasy-scopi-terapeutici-boom-titoli-settore-AFCe4SED) | Il Sole 24 Ore | 2024-03-28 |
 | [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
@@ -57,25 +55,23 @@
 | [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
 | [Signs of life detectable in single ice grain emitted from extraterrestrial moons, experimental setup shows](https://phys.org/news/2024-03-life-ice-grain-emitted-extraterrestrial.html) | Phys.Org | 2024-03-22 |
 | [Between Psyche and Cyborg: Carl Jung’s Legacy and the Countercultural Courage to Reclaim the Deeply Human in a Posthuman Age](https://www.themarginalian.org/2024/03/29/jung-vs-borg/) | Themarginalian.org | 2024-03-30 |
-| [F5: Larry Booth Shares the Places + Spaces That Captivate Him + More](https://design-milk.com/f5-larry-booth-shares-the-places-spaces-that-captivate-him-more/) | Design-milk.com | 2024-04-05 |
 | [China's urban jungles: How city parks are winning the battle against concrete](https://phys.org/news/2024-03-china-urban-jungles-city-concrete.html) | Phys.Org | 2024-03-15 |
+| [F5: Larry Booth Shares the Places + Spaces That Captivate Him + More](https://design-milk.com/f5-larry-booth-shares-the-places-spaces-that-captivate-him-more/) | Design-milk.com | 2024-04-05 |
+| [Hypoxia is widespread and increasing in the ocean off the Pacific Northwest coast, study shows](https://phys.org/news/2024-03-hypoxia-widespread-ocean-pacific-northwest.html) | Phys.Org | 2024-03-20 |
+| [History repeats as Coral Bay faces mass loss of coral and fish life](https://phys.org/news/2024-03-history-coral-bay-mass-loss.html) | Phys.Org | 2024-03-12 |
 
 ## News for Medical Devices
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Security News This Week: Russian Hackers Stole Microsoft Source Code—and the Attack Isn’t Over](https://www.wired.com/story/russia-hackers-microsoft-source-code/) | Wired | 2024-03-09 |
 | [Apple Preparing to Sell Refurbished Ultra 2 and Series 9 Watches in U.S.](https://www.macrumors.com/2024/03/19/refurbished-apple-watch-ultra-2-series-9-coming/) | MacRumors | 2024-03-19 |
 | [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
-| [A Copy of a Copy of a Copy: The Story of FDA Medical Device Clearances](https://wcedmisten.fyi/post/medical-device-analysis/) | Wcedmisten.fyi | 2024-03-10 |
 | [Google spotted working on a new category system for Drive users](https://www.androidcentral.com/apps-software/google-drive-category-system-spotted) | Android Central | 2024-03-15 |
 | [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700) | Hacker News | 2024-03-18 |
 | [Elon Musk's Neuralink brain implant to ultimately help humans merge with AI is sparking debate over safety and ethics](https://www.businessinsider.com/neuralink) | Business Insider | 2024-03-27 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
-| [Hackers use pirated software to hijack Mac, Android and Windows devices](https://www.foxnews.com/tech/hackers-use-pirated-software-to-hijack-mac-android-windows-devices) | Fox News | 2024-03-09 |
 | [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
-| [How to Watch 'Grey's Anatomy': Stream Season 20 Without Cable - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-greys-anatomy-stream-season-20-without-cable/) | CNET | 2024-03-09 |
 | [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [3 lies women have been told about their bodies, according to a female doctor](https://www.yahoo.com/news/3-lies-women-told-bodies-004231568.html) | Yahoo Entertainment | 2024-03-16 |
@@ -89,6 +85,10 @@
 | [UK Pledges Action On 'Biased' Medical Devices](https://www.forbes.com/sites/emmawoollacott/2024/03/12/uk-pledges-action-on-biased-medical-devices/) | Forbes | 2024-03-12 |
 | [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
+| [The 5 best meditation apps for 2024](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_34a382e2-745f-4234-b774-9bd1593e3138) | Yahoo Entertainment | 2024-03-22 |
+| [‘Immediate Action’ Needed On Racially Biased Medical Devices In U.K.](https://www.forbes.com/sites/katherinehignett/2024/03/11/immediate-action-needed-on-racially-biased-medical-devices-in-uk/) | Forbes | 2024-03-11 |
+| [Office 2024 for Mac will be available as a one-off purchase](https://9to5mac.com/2024/03/20/office-2024-for-mac/) | 9to5Mac | 2024-03-20 |
+| [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416) | Torringtontelegram.com | 2024-03-31 |
 
 ## News for Healthcare Sector
 
@@ -161,8 +161,8 @@
 | [Faye Webster, the War on Drugs, David Byrne and Devo Share Rarities for Abortion Access Fundraiser](http://www.rollingstone.com/music/music-news/faye-webster-the-war-on-drugs-abortion-rights-charity-album-1234994381/) | Rolling Stone | 2024-03-26 |
 | [On Pi Day, FDA revokes regulations for frozen cherry pie](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5bc9e0e2-3cd2-4da4-9b2d-a23c9b087fd4) | Yahoo Entertainment | 2024-03-14 |
 | [Anti-Abortion Doctors Struggle to Explain Mifepristone Harms Before Supreme Court](http://theintercept.com/2024/03/27/abortion-mifepristone-supreme-court/) | The Intercept | 2024-03-27 |
-| [After Nearly 20 Years, They Finally Freed the Frozen Cherry Pie](https://reason.com/2024/03/21/after-nearly-20-years-they-finally-freed-the-frozen-cherry-pie/) | Reason | 2024-03-21 |
 | [How the anti-abortion movement shaped the US fertility industry](https://www.vox.com/policy/2024/3/26/24104638/abortion-ivf-duckworth-regulation-reproductive-technology) | Vox | 2024-03-26 |
+| [After Nearly 20 Years, They Finally Freed the Frozen Cherry Pie](https://reason.com/2024/03/21/after-nearly-20-years-they-finally-freed-the-frozen-cherry-pie/) | Reason | 2024-03-21 |
 | [What The Abortion Pill Supreme Court Case Could Mean For Healthcare](https://www.forbes.com/sites/hollycorbett/2024/03/26/what-the-abortion-pill-supreme-court-case-could-mean-for-healthcare/) | Forbes | 2024-03-26 |
 | [Farm Bill Hemp: 21 AGs Refuse To Cite Source Material And Mischaracterize Facts And Data](https://www.forbes.com/sites/roberthoban/2024/04/08/farm-bill-hemp-21-ags-refuse-to-cite-source-material-and-mischaracterize-facts-and-data/) | Forbes | 2024-04-08 |
 | [Supreme Court To Weigh Doctors’ Challenge To Removal Of Abortion Pill Safety Regulations](https://dailycaller.com/2024/03/24/supreme-court-weigh-doctors-challenge-removal-abortion-pill-safety-regulations/) | The Daily Caller | 2024-03-24 |
@@ -178,5 +178,5 @@
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
 | [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
 | [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
-| [Legal Challenges To IRA Drug Price Negotiations Face Skeptical Judges](https://www.forbes.com/sites/joshuacohen/2024/03/09/legal-challenges-to-ira-drug-price-negotiations-face-skeptical-judges/) | Forbes | 2024-03-09 |
+| [The Forced-Birthers Finally Went Too Far Even for This Supreme Court](https://www.thenation.com/?post_type=article&#038;p=492807) | Thenation.com | 2024-03-27 |
 
