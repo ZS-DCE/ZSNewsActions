@@ -83,12 +83,12 @@
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [UK Pledges Action On 'Biased' Medical Devices](https://www.forbes.com/sites/emmawoollacott/2024/03/12/uk-pledges-action-on-biased-medical-devices/) | Forbes | 2024-03-12 |
+| [Here are 3 solutions to get blood to folks in 'blood deserts.' One is often illegal](https://www.npr.org/sections/goatsandsoda/2024/04/11/1242630805/blood-transfusions-donations-blood-bank-blood-desert) | NPR | 2024-04-11 |
 | [Vision Pro helps surgeons plan and visualize operations carried out with a surgical robot](https://9to5mac.com/2024/03/11/surgeons-plan-and-visualize-operations/) | 9to5Mac | 2024-03-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
 | [The 5 best meditation apps for 2024](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_34a382e2-745f-4234-b774-9bd1593e3138) | Yahoo Entertainment | 2024-03-22 |
 | [‘Immediate Action’ Needed On Racially Biased Medical Devices In U.K.](https://www.forbes.com/sites/katherinehignett/2024/03/11/immediate-action-needed-on-racially-biased-medical-devices-in-uk/) | Forbes | 2024-03-11 |
 | [Office 2024 for Mac will be available as a one-off purchase](https://9to5mac.com/2024/03/20/office-2024-for-mac/) | 9to5Mac | 2024-03-20 |
-| [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416) | Torringtontelegram.com | 2024-03-31 |
 
 ## News for Healthcare Sector
 
