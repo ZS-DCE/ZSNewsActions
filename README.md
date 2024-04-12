@@ -55,10 +55,10 @@
 | [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
 | [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
 | [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
+| [Genetic underpinnings of environmental stress identified in model plant](https://www.sciencedaily.com/releases/2024/04/240411130122.htm) | Science Daily | 2024-04-11 |
 | [Signs of life detectable in single ice grain emitted from extraterrestrial moons, experimental setup shows](https://phys.org/news/2024-03-life-ice-grain-emitted-extraterrestrial.html) | Phys.Org | 2024-03-22 |
 | [Between Psyche and Cyborg: Carl Jung’s Legacy and the Countercultural Courage to Reclaim the Deeply Human in a Posthuman Age](https://www.themarginalian.org/2024/03/29/jung-vs-borg/) | Themarginalian.org | 2024-03-30 |
 | [China's urban jungles: How city parks are winning the battle against concrete](https://phys.org/news/2024-03-china-urban-jungles-city-concrete.html) | Phys.Org | 2024-03-15 |
-| [F5: Larry Booth Shares the Places + Spaces That Captivate Him + More](https://design-milk.com/f5-larry-booth-shares-the-places-spaces-that-captivate-him-more/) | Design-milk.com | 2024-04-05 |
 
 ## News for Medical Devices
 
@@ -111,8 +111,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -175,8 +175,8 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Texas Appeals Court Rules That Dad Can Deny His Teen Contraceptives](https://www.thedailybeast.com/texas-appeals-court-rules-that-dad-can-deny-his-teen-contraceptives) | Daily Beast | 2024-03-12 |
 | [MDMA-Assisted Therapy For PTSD: The History And Science Behind The Hype](https://www.forbes.com/sites/sarahsinclair/2024/03/27/mdma-assisted-therapy-for-ptsd-the-history-and-science-behind-the-hype/) | Forbes | 2024-03-27 |
-| [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
+| [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
 | [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
 
