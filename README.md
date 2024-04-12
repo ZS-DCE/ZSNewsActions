@@ -11,6 +11,7 @@
 | [SCOTUS mifepristone case: Justices focus on anti-abortion groups’ legal standing](https://arstechnica.com/science/2024/03/abortion-pill-case-scotus-skeptical-of-anti-abortion-groups-legal-standing/) | Ars Technica | 2024-03-26 |
 | [State Of The Pharma Industry: Present And Future](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/08/state-of-the-pharma-industry-present-and-future/) | Forbes | 2024-04-08 |
 | [Are Direct-to-Consumer Drug Ads Becoming Fair and Balanced?](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202404/are-direct-to-consumer-drug-ads-becoming-fair-and-balanced) | Psychology Today | 2024-04-09 |
+| [EU to make pharmaceutical and cosmetic industries pay for treating water](https://phys.org/news/2024-04-eu-pharmaceutical-cosmetic-industries-pay.html) | Phys.Org | 2024-04-11 |
 | [UK Medicines Regulator MHRA’s Role As Pharma “Enabler” During Pandemic Comes Under Microscope](https://www.nakedcapitalism.com/2024/03/uk-medicines-regulator-mhra-comes-under-microscope-over-vaccine-safety-and-efficacy.html) | Nakedcapitalism.com | 2024-03-12 |
 | [The Global Pharmaceutical Industry Isn’t Investing in Products for the Greatest Burden of Human Disease – Are Non-Profits a Solution?](https://www.nakedcapitalism.com/2024/03/the-global-pharmaceutical-industry-isnt-investing-in-products-for-the-greatest-burden-of-human-disease-are-non-profits-a-solution.html) | Nakedcapitalism.com | 2024-03-30 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
@@ -28,7 +29,6 @@
 | [Pfizer accused of ‘bringing discredit’ on pharmaceutical industry after Covid social media posts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de71aa20-c6d5-4fb0-b6ea-891b2764246e) | Yahoo Entertainment | 2024-04-06 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 
 ## News for Life Sciences
 
@@ -53,8 +53,8 @@
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 | [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 | [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
-| [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
 | [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
+| [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
 | [Signs of life detectable in single ice grain emitted from extraterrestrial moons, experimental setup shows](https://phys.org/news/2024-03-life-ice-grain-emitted-extraterrestrial.html) | Phys.Org | 2024-03-22 |
 | [Between Psyche and Cyborg: Carl Jung’s Legacy and the Countercultural Courage to Reclaim the Deeply Human in a Posthuman Age](https://www.themarginalian.org/2024/03/29/jung-vs-borg/) | Themarginalian.org | 2024-03-30 |
 | [China's urban jungles: How city parks are winning the battle against concrete](https://phys.org/news/2024-03-china-urban-jungles-city-concrete.html) | Phys.Org | 2024-03-15 |
@@ -111,8 +111,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
-| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
+| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -166,6 +166,7 @@
 | [How the anti-abortion movement shaped the US fertility industry](https://www.vox.com/policy/2024/3/26/24104638/abortion-ivf-duckworth-regulation-reproductive-technology) | Vox | 2024-03-26 |
 | [What The Abortion Pill Supreme Court Case Could Mean For Healthcare](https://www.forbes.com/sites/hollycorbett/2024/03/26/what-the-abortion-pill-supreme-court-case-could-mean-for-healthcare/) | Forbes | 2024-03-26 |
 | [Farm Bill Hemp: 21 AGs Refuse To Cite Source Material And Mischaracterize Facts And Data](https://www.forbes.com/sites/roberthoban/2024/04/08/farm-bill-hemp-21-ags-refuse-to-cite-source-material-and-mischaracterize-facts-and-data/) | Forbes | 2024-04-08 |
+| [Dietary supplement industry shares urgency in seeing FDA crack down](https://www.bostonglobe.com/2024/04/11/opinion/letters-to-the-editor-dietary-supplement-regulation/) | The Boston Globe | 2024-04-11 |
 | [Supreme Court To Weigh Doctors’ Challenge To Removal Of Abortion Pill Safety Regulations](https://dailycaller.com/2024/03/24/supreme-court-weigh-doctors-challenge-removal-abortion-pill-safety-regulations/) | The Daily Caller | 2024-03-24 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/03/26/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-03-26 |
 | [U.S. Supreme Court takes up Texas case challenging abortion pill access](https://www.upi.com/Top_News/US/2024/03/26/SCOTUS-Texas-abortion-pill-access/6181711453952/) | UPI.com | 2024-03-26 |
@@ -178,5 +179,4 @@
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
 | [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
-| [FDA refuses to disclose how it spends industry “user fees” â are funds being secretly used on LOBBYING?](https://www.naturalnews.com/2024-03-20-fda-refuses-disclose-user-fees-secret-lobbying.html) | Naturalnews.com | 2024-03-20 |
 
