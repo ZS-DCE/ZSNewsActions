@@ -107,8 +107,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [MEPs approve world's first comprehensive AI law](https://www.bbc.co.uk/news/technology-68546450) | BBC News | 2024-03-13 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
