@@ -12,7 +12,6 @@
 | [State Of The Pharma Industry: Present And Future](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/08/state-of-the-pharma-industry-present-and-future/) | Forbes | 2024-04-08 |
 | [Are Direct-to-Consumer Drug Ads Becoming Fair and Balanced?](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202404/are-direct-to-consumer-drug-ads-becoming-fair-and-balanced) | Psychology Today | 2024-04-09 |
 | [EU to make pharmaceutical and cosmetic industries pay for treating water](https://phys.org/news/2024-04-eu-pharmaceutical-cosmetic-industries-pay.html) | Phys.Org | 2024-04-11 |
-| [UK Medicines Regulator MHRA’s Role As Pharma “Enabler” During Pandemic Comes Under Microscope](https://www.nakedcapitalism.com/2024/03/uk-medicines-regulator-mhra-comes-under-microscope-over-vaccine-safety-and-efficacy.html) | Nakedcapitalism.com | 2024-03-12 |
 | [The Global Pharmaceutical Industry Isn’t Investing in Products for the Greatest Burden of Human Disease – Are Non-Profits a Solution?](https://www.nakedcapitalism.com/2024/03/the-global-pharmaceutical-industry-isnt-investing-in-products-for-the-greatest-burden-of-human-disease-are-non-profits-a-solution.html) | Nakedcapitalism.com | 2024-03-30 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
 | [Ozempic And Wegovy Rivals: Here Are The Companies Working On Competitor Weight Loss Drugs](https://www.forbes.com/sites/roberthart/2024/03/13/ozempic-and-wegovy-rivals-here-are-the-companies-working-on-competitor-weight-loss-drugs/) | Forbes | 2024-03-13 |
@@ -23,12 +22,13 @@
 | [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
 | [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
 | [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
-| [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/) | Brownstone.org | 2024-04-11 |
 | [5 dead, over 100 hospitalised from recalled Japanese health supplements](https://indianexpress.com/article/world/5-dead-100-hospitalised-recalled-japanese-health-supplements-9240134/) | The Indian Express | 2024-03-29 |
 | [Pfizer accused of ‘bringing discredit’ on pharmaceutical industry after Covid social media posts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de71aa20-c6d5-4fb0-b6ea-891b2764246e) | Yahoo Entertainment | 2024-04-06 |
 | [Will Biopharma Companies Shun Vaccine R&D In A New Pandemic?](https://www.forbes.com/sites/johnlamattina/2024/04/11/will-biopharma-companies-shun-vaccine-rd-in-a-new-pandemic/) | Forbes | 2024-04-11 |
+| [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
+| [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
 
 ## News for Life Sciences
 
@@ -43,9 +43,7 @@
 | [Study assesses geographical patterns and determinants of insect biodiversity in China](https://phys.org/news/2024-03-geographical-patterns-insect-biodiversity-china.html) | Phys.Org | 2024-03-26 |
 | [New method reveals hidden activity of life below ground](https://phys.org/news/2024-04-method-reveals-hidden-life-ground.html) | Phys.Org | 2024-04-01 |
 | [Sense makers: How standards are enabling data reuse in the life sciences](https://phys.org/news/2024-03-makers-standards-enabling-reuse-life.html) | Phys.Org | 2024-03-20 |
-| [Q&A: Why researchers need accessible training to understand and leverage artificial intelligence in the life sciences](https://phys.org/news/2024-03-qa-accessible-leverage-artificial-intelligence.html) | Phys.Org | 2024-03-12 |
 | [Microba Life Sciences Ends Substantial Holding](https://biztoc.com/x/c435dbe432485167) | Biztoc.com | 2024-04-04 |
-| [Lie to Children](https://en.wikipedia.org/wiki/Lie-to-children) | Wikipedia.org | 2024-03-12 |
 | [Artemis Mission: Making NASA’s New Moon Suits](https://makezine.com/article/science/artemis-mission-making-nasas-new-moon-suits/) | Makezine.com | 2024-04-02 |
 | [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/) | Time | 2024-04-03 |
 | [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement) | Columbia.edu | 2024-03-26 |
@@ -54,11 +52,13 @@
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 | [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 | [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
-| [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-bloggers.com/2024/03/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences/) | R-bloggers.com | 2024-03-12 |
 | [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
 | [Genetic underpinnings of environmental stress identified in model plant](https://www.sciencedaily.com/releases/2024/04/240411130122.htm) | Science Daily | 2024-04-11 |
 | [Signs of life detectable in single ice grain emitted from extraterrestrial moons, experimental setup shows](https://phys.org/news/2024-03-life-ice-grain-emitted-extraterrestrial.html) | Phys.Org | 2024-03-22 |
 | [Between Psyche and Cyborg: Carl Jung’s Legacy and the Countercultural Courage to Reclaim the Deeply Human in a Posthuman Age](https://www.themarginalian.org/2024/03/29/jung-vs-borg/) | Themarginalian.org | 2024-03-30 |
+| [China's urban jungles: How city parks are winning the battle against concrete](https://phys.org/news/2024-03-china-urban-jungles-city-concrete.html) | Phys.Org | 2024-03-15 |
+| [F5: Larry Booth Shares the Places + Spaces That Captivate Him + More](https://design-milk.com/f5-larry-booth-shares-the-places-spaces-that-captivate-him-more/) | Design-milk.com | 2024-04-05 |
+| [Hypoxia is widespread and increasing in the ocean off the Pacific Northwest coast, study shows](https://phys.org/news/2024-03-hypoxia-widespread-ocean-pacific-northwest.html) | Phys.Org | 2024-03-20 |
 
 ## News for Medical Devices
 
@@ -72,7 +72,6 @@
 | [Elon Musk's Neuralink brain implant to ultimately help humans merge with AI is sparking debate over safety and ethics](https://www.businessinsider.com/neuralink) | Business Insider | 2024-03-27 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
 | [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
-| [Apple Watch Pulse Oximetry Can Be Reactivated Through Software in 2028 or With Successful Appeal](https://www.macrumors.com/2024/03/12/apple-watch-blood-oxygen-sensor-software/) | MacRumors | 2024-03-12 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [3 lies women have been told about their bodies, according to a female doctor](https://www.yahoo.com/news/3-lies-women-told-bodies-004231568.html) | Yahoo Entertainment | 2024-03-16 |
 | [Prince Andrew's infamous BBC interview... as dramatised by Netflix](https://www.bbc.co.uk/news/uk-68739026) | BBC News | 2024-04-05 |
@@ -81,7 +80,6 @@
 | [What is on-device AI processing, and why is it important?](https://www.androidcentral.com/apps-software/why-on-device-ai-processing-is-important) | Android Central | 2024-03-20 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
-| [UK Pledges Action On 'Biased' Medical Devices](https://www.forbes.com/sites/emmawoollacott/2024/03/12/uk-pledges-action-on-biased-medical-devices/) | Forbes | 2024-03-12 |
 | [Here are 3 solutions to get blood to folks in 'blood deserts.' One is often illegal](https://www.npr.org/sections/goatsandsoda/2024/04/11/1242630805/blood-transfusions-donations-blood-bank-blood-desert) | NPR | 2024-04-11 |
 | [New approach for combating 'resting' bacteria](https://www.sciencedaily.com/releases/2024/04/240411165856.htm) | Science Daily | 2024-04-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
@@ -89,6 +87,8 @@
 | [Office 2024 for Mac will be available as a one-off purchase](https://9to5mac.com/2024/03/20/office-2024-for-mac/) | 9to5Mac | 2024-03-20 |
 | [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416) | Torringtontelegram.com | 2024-03-31 |
 | [AI can now detect COVID-19 in lung ultrasound images](https://www.sciencedaily.com/releases/2024/03/240320160609.htm) | Science Daily | 2024-03-20 |
+| [X-Ray Inspection in the Semiconductor Industry](https://www.nordson.com/en/About-Us/Nordson-Blog/Test-and-Inspection-Blogs/X-ray-Inspection-in-Semiconductor-Industry#main-content) | Nordson.com | 2024-03-20 |
+| [Taxpayer-funded petrochemical plants are polluting communities, report finds](https://www.npr.org/2024/03/20/1239298836/taxpayer-funded-petrochemical-plants-polluting-shell-cracker) | NPR | 2024-03-20 |
 
 ## News for Healthcare Sector
 
@@ -102,7 +102,6 @@
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [9 AI jobs you can get without being an expert coder, from product designer to sales engineer](https://www.businessinsider.com/ai-jobs-without-coding-2024-4) | Business Insider | 2024-04-03 |
 | [It's time to stop downsizing health care, the Pentagon says. This couple can't wait](https://www.npr.org/2024/04/03/1240724195/pentagon-outsource-healthcare-tricare) | NPR | 2024-04-03 |
-| [Govt releases guidelines to curb unethical pharma sector practices](https://indianexpress.com/article/india/govt-releases-guidelines-to-curb-unethical-pharma-sector-practices-9210838/) | The Indian Express | 2024-03-12 |
 | [Turnover is killing healthcare from the inside](https://socialmediaexplorer.com/content-marketing-2/turnover-is-killing-healthcare-from-the-inside/) | Socialmediaexplorer.com | 2024-04-03 |
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
@@ -119,6 +118,7 @@
 | [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 | [International effort to disrupt cybercrime moves into operational phase](https://www.theregister.com/2024/03/14/wef_cybercrime_atlas/) | Theregister.com | 2024-03-14 |
 | [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
+| [Modernize To Thrive: Transitioning To The Cloud In The Public Sector](https://www.forbes.com/sites/insights-amazon-web-services-public-sector/2024/03/15/modernize-to-thrive-transitioning-to-the-cloud-in-the-public-sector/) | Forbes | 2024-03-15 |
 
 ## News for Pharma Market Trends
 
@@ -130,9 +130,7 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-268-12601291.html) | Moneycontrol | 2024-04-09 |
 | [Mid-day Mood | Sensex, Nifty down as investors cautious ahead of Fed outcome; all sectors in red](https://www.moneycontrol.com/news/business/markets/mid-day-mood-sensex-nifty-down-as-investors-cautious-ahead-of-fed-outcome-all-sectors-in-red-12491901.html) | Moneycontrol | 2024-03-20 |
 | [Expo West: The Ozempic Effect on Snacking, Clean Labels and More Trends](https://www.adweek.com/brand-marketing/national-product-expo-west-2024-food-trends-ozempic-snacking-clean-labels/) | Adweek | 2024-03-20 |
-| [Pay Attention to the Trend](https://gothamgal.com/2024/03/pay-attention-to-the-trend/) | Gothamgal.com | 2024-03-12 |
 | [How AI insights improve decision making](https://sproutsocial.com/insights/ai-insights/) | Sproutsocial.com | 2024-03-19 |
-| [Indian health tech seen growing to $20B by 2028: report](https://www.mobihealthnews.com/news/asia/indian-health-tech-seen-growing-20b-2028-report) | MobiHealthNews | 2024-03-13 |
 | [Forbes Daily: New DOJ Rules Aim To Close ‘Gun Show Loophole’](https://www.forbes.com/sites/daniellechemtob/2024/04/12/forbes-daily-new-doj-rules-aim-to-close-gun-show-loophole/) | Forbes | 2024-04-12 |
 | [A B2B marketplace from Science Exchange aims to make life easier for buyers](https://www.digitalcommerce360.com/2024/03/25/science-exchange-b2b-marketplace-aims-to-make-life-easier-for-buyers/) | DigitalCommerce360 | 2024-03-25 |
 | [Global Pseudomonas Aeruginosa Treatment Market Report 2024-2030: How Allergan, Teva Pharma, Pfizer, Lupin Pharma, Merck, BMS, and Janssen Pharma are Leading the Competition](https://www.globenewswire.com/news-release/2024/04/12/2862244/28124/en/Global-Pseudomonas-Aeruginosa-Treatment-Market-Report-2024-2030-How-Allergan-Teva-Pharma-Pfizer-Lupin-Pharma-Merck-BMS-and-Janssen-Pharma-are-Leading-the-Competition.html) | GlobeNewswire | 2024-04-12 |
@@ -149,6 +147,8 @@
 | [Global Aesthetic Injectables Market by Type (Anti-aging Injections, Dermal Fillers), Application (Acne Scar Treatment, Face Lift, Facial Line Correction), End User - Forecast 2024-2030](https://www.globenewswire.com/news-release/2024/03/15/2846899/28124/en/Global-Aesthetic-Injectables-Market-by-Type-Anti-aging-Injections-Dermal-Fillers-Application-Acne-Scar-Treatment-Face-Lift-Facial-Line-Correction-End-User-Forecast-2024-2030.html) | GlobeNewswire | 2024-03-15 |
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
 | [Lyophilization Services for Biopharmaceuticals Global Report 2024, Featuring Profiles of Strides Pharma Science, Baxter, Catalent Pharma Solutions, W. L. Gore & Associates and Emergent BioSolutions](https://www.globenewswire.com/news-release/2024/04/09/2860205/28124/en/Lyophilization-Services-for-Biopharmaceuticals-Global-Report-2024-Featuring-Profiles-of-Strides-Pharma-Science-Baxter-Catalent-Pharma-Solutions-W-L-Gore-Associates-and-Emergent-Bio.html) | GlobeNewswire | 2024-04-09 |
+| [Global Menopause Market Size, Share & Trends Analysis Report 2024 - A USD 24.4 Billion Market by 2030 with a Robust CAGR of 5.37%](https://www.globenewswire.com/news-release/2024/03/19/2848837/28124/en/Global-Menopause-Market-Size-Share-Trends-Analysis-Report-2024-A-USD-24-4-Billion-Market-by-2030-with-a-Robust-CAGR-of-5-37.html) | GlobeNewswire | 2024-03-19 |
+| [Successful 2024 Annual General Meeting of SCHOTT Pharma: Shareholders approve all items on the agenda](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Successful-2024-Annual-General-Meeting-of-SCHOTT-Pharma-Shareholders-approve-all-items-on-the-agend-46199615/) | Marketscreener.com | 2024-03-14 |
 
 ## News for FDA Regulations
 
@@ -174,9 +174,9 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Texas Appeals Court Rules That Dad Can Deny His Teen Contraceptives](https://www.thedailybeast.com/texas-appeals-court-rules-that-dad-can-deny-his-teen-contraceptives) | Daily Beast | 2024-03-12 |
 | [MDMA-Assisted Therapy For PTSD: The History And Science Behind The Hype](https://www.forbes.com/sites/sarahsinclair/2024/03/27/mdma-assisted-therapy-for-ptsd-the-history-and-science-behind-the-hype/) | Forbes | 2024-03-27 |
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
+| [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
 
