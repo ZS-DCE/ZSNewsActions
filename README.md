@@ -117,8 +117,8 @@
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
 | [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 | [International effort to disrupt cybercrime moves into operational phase](https://www.theregister.com/2024/03/14/wef_cybercrime_atlas/) | Theregister.com | 2024-03-14 |
-| [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
 | [Modernize To Thrive: Transitioning To The Cloud In The Public Sector](https://www.forbes.com/sites/insights-amazon-web-services-public-sector/2024/03/15/modernize-to-thrive-transitioning-to-the-cloud-in-the-public-sector/) | Forbes | 2024-03-15 |
+| [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
 
 ## News for Pharma Market Trends
 
