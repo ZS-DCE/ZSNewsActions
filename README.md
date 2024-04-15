@@ -17,8 +17,8 @@
 | [The weight loss drug shortage is hitting Eli Lily’s Zepbound](https://qz.com/eli-lilly-zepbound-shortage-amazon-riteaid-1851374847) | Quartz India | 2024-03-29 |
 | [GLP-1s Vs. Gene Therapy: The New Drugs Making Waves In Self-Insurance](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/02/glp-1s-vs-gene-therapy-the-new-drugs-making-waves-in-self-insurance/) | Forbes | 2024-04-02 |
 | [What's Driving Big Pharma's Recent Market Performance?](https://www.forbes.com/sites/forbesfinancecouncil/2024/03/25/whats-driving-big-pharmas-recent-market-performance/) | Forbes | 2024-03-25 |
-| [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
 | [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
+| [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
 | [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/) | Brownstone.org | 2024-04-11 |
@@ -106,8 +106,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [I visited the ExploreAI summit in Singapore. Here's how AI is helping businesses solve real-world problems.](https://www.businessinsider.com/sc/explore-ai-summit-singapore-unveils-groundbreaking-ai-innovations) | Business Insider | 2024-03-14 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -116,8 +116,8 @@
 | [When Private Equity Gets in to Health Care](https://slate.com/podcasts/what-next-tbd/2024/03/private-equity-looks-to-profit-from-your-healthcare) | Slate Magazine | 2024-03-17 |
 | [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 | [International effort to disrupt cybercrime moves into operational phase](https://www.theregister.com/2024/03/14/wef_cybercrime_atlas/) | Theregister.com | 2024-03-14 |
-| [Modernize To Thrive: Transitioning To The Cloud In The Public Sector](https://www.forbes.com/sites/insights-amazon-web-services-public-sector/2024/03/15/modernize-to-thrive-transitioning-to-the-cloud-in-the-public-sector/) | Forbes | 2024-03-15 |
 | [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
+| [Modernize To Thrive: Transitioning To The Cloud In The Public Sector](https://www.forbes.com/sites/insights-amazon-web-services-public-sector/2024/03/15/modernize-to-thrive-transitioning-to-the-cloud-in-the-public-sector/) | Forbes | 2024-03-15 |
 | [Alibaba’s Ex-CEO Joins Mystery Beijing Fund Months After Exit](https://finance.yahoo.com/news/alibaba-ex-ceo-joins-mystery-050744397.html) | Yahoo Entertainment | 2024-03-21 |
 
 ## News for Pharma Market Trends
@@ -170,6 +170,7 @@
 | [Dietary supplement industry shares urgency in seeing FDA crack down](https://www.bostonglobe.com/2024/04/11/opinion/letters-to-the-editor-dietary-supplement-regulation/) | The Boston Globe | 2024-04-11 |
 | [Supreme Court To Weigh Doctors’ Challenge To Removal Of Abortion Pill Safety Regulations](https://dailycaller.com/2024/03/24/supreme-court-weigh-doctors-challenge-removal-abortion-pill-safety-regulations/) | The Daily Caller | 2024-03-24 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/03/26/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-03-26 |
+| [Losing my phone while abroad nearly cost me my health](https://www.androidpolice.com/lost-phone-health-concerns/) | Android Police | 2024-04-14 |
 | [U.S. Supreme Court takes up Texas case challenging abortion pill access](https://www.upi.com/Top_News/US/2024/03/26/SCOTUS-Texas-abortion-pill-access/6181711453952/) | UPI.com | 2024-03-26 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
@@ -178,5 +179,4 @@
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
-| [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
 
