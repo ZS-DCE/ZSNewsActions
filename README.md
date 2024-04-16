@@ -5,10 +5,12 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [The Next Big Battle Over Abortion Has Begun](https://www.wired.com/story/abortion-pill-mifepristone-scotus-roe-v-wade/) | Wired | 2024-03-25 |
+| [Drugmakers' low U.S. taxes belie their high sales](https://www.npr.org/sections/health-shots/2024/04/15/1244876740/drugmakers-low-taxes-us) | NPR | 2024-04-15 |
 | [What's at stake in the Supreme Court mifepristone case](https://www.npr.org/sections/health-shots/2024/03/25/1240282129/mifepristone-supreme-court-fda-medication-abortion-explainer) | NPR | 2024-03-25 |
 | [The Key to Preserving a Long-Term Competitive Advantage](https://hbr.org/podcast/2024/03/the-key-to-preserving-a-long-term-competitive-advantage) | Harvard Business Review | 2024-03-27 |
 | [Pharma-Backed Democrats Are Fighting to Keep Drugs Expensive](https://jacobin.com/2024/03/pharma-drug-price-negotiations-democrats) | Jacobin.com | 2024-03-17 |
 | [SCOTUS mifepristone case: Justices focus on anti-abortion groups’ legal standing](https://arstechnica.com/science/2024/03/abortion-pill-case-scotus-skeptical-of-anti-abortion-groups-legal-standing/) | Ars Technica | 2024-03-26 |
+| [Sales Commission Rates by Industry](https://smallbiztrends.com/sales-commission-rates-by-industry/) | Small Business Trends | 2024-04-15 |
 | [State Of The Pharma Industry: Present And Future](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/08/state-of-the-pharma-industry-present-and-future/) | Forbes | 2024-04-08 |
 | [Are Direct-to-Consumer Drug Ads Becoming Fair and Balanced?](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202404/are-direct-to-consumer-drug-ads-becoming-fair-and-balanced) | Psychology Today | 2024-04-09 |
 | [EU to make pharmaceutical and cosmetic industries pay for treating water](https://phys.org/news/2024-04-eu-pharmaceutical-cosmetic-industries-pay.html) | Phys.Org | 2024-04-11 |
@@ -17,8 +19,8 @@
 | [The weight loss drug shortage is hitting Eli Lily’s Zepbound](https://qz.com/eli-lilly-zepbound-shortage-amazon-riteaid-1851374847) | Quartz India | 2024-03-29 |
 | [GLP-1s Vs. Gene Therapy: The New Drugs Making Waves In Self-Insurance](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/02/glp-1s-vs-gene-therapy-the-new-drugs-making-waves-in-self-insurance/) | Forbes | 2024-04-02 |
 | [What's Driving Big Pharma's Recent Market Performance?](https://www.forbes.com/sites/forbesfinancecouncil/2024/03/25/whats-driving-big-pharmas-recent-market-performance/) | Forbes | 2024-03-25 |
-| [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
 | [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
+| [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
 | [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/) | Brownstone.org | 2024-04-11 |
@@ -27,8 +29,6 @@
 | [Will Biopharma Companies Shun Vaccine R&D In A New Pandemic?](https://www.forbes.com/sites/johnlamattina/2024/04/11/will-biopharma-companies-shun-vaccine-rd-in-a-new-pandemic/) | Forbes | 2024-04-11 |
 | [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
 
 ## News for Life Sciences
 
@@ -51,6 +51,7 @@
 | [1 ice grain from Jupiter’s moon may be enough to find signs of life](https://www.futurity.org/moons-emits-ice-grain-signs-of-life-3204962/) | Futurity: Research News | 2024-04-10 |
 | [Lsd ed Ecstasy per scopi terapeutici, boom dei titoli di settore](https://www.ilsole24ore.com/art/lsd-ed-ecstasy-scopi-terapeutici-boom-titoli-settore-AFCe4SED) | Il Sole 24 Ore | 2024-03-28 |
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
+| [Palladium nanocluster catalyst supports highly efficient and regioselective hydrogenation of epoxides](https://phys.org/news/2024-04-palladium-nanocluster-catalyst-highly-efficient.html) | Phys.Org | 2024-04-15 |
 | [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 | [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
 | [Virtual rehabilitation provides benefits for stroke recovery](https://www.sciencedaily.com/releases/2024/03/240328162405.htm) | Science Daily | 2024-03-28 |
@@ -58,7 +59,6 @@
 | [Signs of life detectable in single ice grain emitted from extraterrestrial moons, experimental setup shows](https://phys.org/news/2024-03-life-ice-grain-emitted-extraterrestrial.html) | Phys.Org | 2024-03-22 |
 | [Between Psyche and Cyborg: Carl Jung’s Legacy and the Countercultural Courage to Reclaim the Deeply Human in a Posthuman Age](https://www.themarginalian.org/2024/03/29/jung-vs-borg/) | Themarginalian.org | 2024-03-30 |
 | [China's urban jungles: How city parks are winning the battle against concrete](https://phys.org/news/2024-03-china-urban-jungles-city-concrete.html) | Phys.Org | 2024-03-15 |
-| [F5: Larry Booth Shares the Places + Spaces That Captivate Him + More](https://design-milk.com/f5-larry-booth-shares-the-places-spaces-that-captivate-him-more/) | Design-milk.com | 2024-04-05 |
 
 ## News for Medical Devices
 
@@ -105,8 +105,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
+| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
