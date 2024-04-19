@@ -104,10 +104,12 @@
 | [Turnover is killing healthcare from the inside](https://socialmediaexplorer.com/content-marketing-2/turnover-is-killing-healthcare-from-the-inside/) | Socialmediaexplorer.com | 2024-04-03 |
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
+| [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
+| [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
 | [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
@@ -117,8 +119,6 @@
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
 | [How Tennr Plans To Ensure Patients Finally Get To See Their Doctors](https://www.forbes.com/sites/davidprosser/2024/03/26/how-tennr-plans-to-ensure-patients-finally-get-to-see-their-doctors/) | Forbes | 2024-03-26 |
 | [Better Dividend Stock to Buy Now: Medtronic vs. Walgreens Boots Alliance](https://biztoc.com/x/314dec9f716860f0) | Biztoc.com | 2024-03-31 |
-| [The Surge Of Healthcare Costs: Navigating The Call For Innovation](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/10/the-surge-of-healthcare-costs-navigating-the-call-for-innovation/) | Forbes | 2024-04-10 |
-| [Should You Pick UnitedHealth Stock After A 15% Fall This Year?](https://www.forbes.com/sites/greatspeculations/2024/04/04/should-you-pick-unitedhealth-stock-after-a-15-fall-this-year/) | Forbes | 2024-04-04 |
 
 ## News for Pharma Market Trends
 
@@ -132,6 +132,7 @@
 | [How To Bake Values Into Your Brand Voice](https://www.forbes.com/sites/forbesagencycouncil/2024/04/15/how-to-bake-values-into-your-brand-voice/) | Forbes | 2024-04-15 |
 | [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
 | [Expo West: The Ozempic Effect on Snacking, Clean Labels and More Trends](https://www.adweek.com/brand-marketing/national-product-expo-west-2024-food-trends-ozempic-snacking-clean-labels/) | Adweek | 2024-03-20 |
+| [Premiumisation, Indigenisation and Infrastructure â ITI AMC lists three themes to watch out for](https://www.moneycontrol.com/news/business/markets/premiumisation-indigenisation-and-infrastructure-iti-amc-lists-three-themes-to-watch-out-for-12662411.html) | Moneycontrol | 2024-04-18 |
 | [How AI insights improve decision making](https://sproutsocial.com/insights/ai-insights/) | Sproutsocial.com | 2024-03-19 |
 | [Sensex, Nifty open higher; Ramco Systems, Just Dial among stocks that hit 52-week high](https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-open-higher-ramco-systems-just-dial-among-stocks-that-hit-52-week-high/article68078525.ece) | BusinessLine | 2024-04-18 |
 | [Forbes Daily: New DOJ Rules Aim To Close ‘Gun Show Loophole’](https://www.forbes.com/sites/daniellechemtob/2024/04/12/forbes-daily-new-doj-rules-aim-to-close-gun-show-loophole/) | Forbes | 2024-04-12 |
@@ -148,7 +149,6 @@
 | [Global Pregabalin Market Size To Worth USD 2.18 Billion By 2033 | CAGR of 2.82%](https://www.globenewswire.com/news-release/2024/03/29/2854706/0/en/Global-Pregabalin-Market-Size-To-Worth-USD-2-18-Billion-By-2033-CAGR-of-2-82.html) | GlobeNewswire | 2024-03-29 |
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
-| [Share Market Highlights 15 April 2024: Sensex, Nifty slump over 1% on geopolitical tensions, weak global market trends; ONGC, Hindalco gain, Shriram Finance, Wipro drag](https://www.thehindubusinessline.com/markets/stock-market-highlights-15-april-2024/article68066831.ece) | BusinessLine | 2024-04-15 |
 
 ## News for FDA Regulations
 
