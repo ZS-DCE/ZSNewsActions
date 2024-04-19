@@ -105,8 +105,8 @@
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
+| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
@@ -133,6 +133,7 @@
 | [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
 | [Expo West: The Ozempic Effect on Snacking, Clean Labels and More Trends](https://www.adweek.com/brand-marketing/national-product-expo-west-2024-food-trends-ozempic-snacking-clean-labels/) | Adweek | 2024-03-20 |
 | [How AI insights improve decision making](https://sproutsocial.com/insights/ai-insights/) | Sproutsocial.com | 2024-03-19 |
+| [Sensex, Nifty open higher; Ramco Systems, Just Dial among stocks that hit 52-week high](https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-open-higher-ramco-systems-just-dial-among-stocks-that-hit-52-week-high/article68078525.ece) | BusinessLine | 2024-04-18 |
 | [Forbes Daily: New DOJ Rules Aim To Close ‘Gun Show Loophole’](https://www.forbes.com/sites/daniellechemtob/2024/04/12/forbes-daily-new-doj-rules-aim-to-close-gun-show-loophole/) | Forbes | 2024-04-12 |
 | [A B2B marketplace from Science Exchange aims to make life easier for buyers](https://www.digitalcommerce360.com/2024/03/25/science-exchange-b2b-marketplace-aims-to-make-life-easier-for-buyers/) | DigitalCommerce360 | 2024-03-25 |
 | [Global Pseudomonas Aeruginosa Treatment Market Report 2024-2030: How Allergan, Teva Pharma, Pfizer, Lupin Pharma, Merck, BMS, and Janssen Pharma are Leading the Competition](https://www.globenewswire.com/news-release/2024/04/12/2862244/28124/en/Global-Pseudomonas-Aeruginosa-Treatment-Market-Report-2024-2030-How-Allergan-Teva-Pharma-Pfizer-Lupin-Pharma-Merck-BMS-and-Janssen-Pharma-are-Leading-the-Competition.html) | GlobeNewswire | 2024-04-12 |
@@ -148,7 +149,6 @@
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
 | [Share Market Highlights 15 April 2024: Sensex, Nifty slump over 1% on geopolitical tensions, weak global market trends; ONGC, Hindalco gain, Shriram Finance, Wipro drag](https://www.thehindubusinessline.com/markets/stock-market-highlights-15-april-2024/article68066831.ece) | BusinessLine | 2024-04-15 |
-| [Lyophilization Services for Biopharmaceuticals Global Report 2024, Featuring Profiles of Strides Pharma Science, Baxter, Catalent Pharma Solutions, W. L. Gore & Associates and Emergent BioSolutions](https://www.globenewswire.com/news-release/2024/04/09/2860205/28124/en/Lyophilization-Services-for-Biopharmaceuticals-Global-Report-2024-Featuring-Profiles-of-Strides-Pharma-Science-Baxter-Catalent-Pharma-Solutions-W-L-Gore-Associates-and-Emergent-Bio.html) | GlobeNewswire | 2024-04-09 |
 
 ## News for FDA Regulations
 
