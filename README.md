@@ -81,6 +81,7 @@
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
+| [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Here are 3 solutions to get blood to folks in 'blood deserts.' One is often illegal](https://www.npr.org/sections/goatsandsoda/2024/04/11/1242630805/blood-transfusions-donations-blood-bank-blood-desert) | NPR | 2024-04-11 |
 | [New approach for combating 'resting' bacteria](https://www.sciencedaily.com/releases/2024/04/240411165856.htm) | Science Daily | 2024-04-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
@@ -88,26 +89,27 @@
 | [Office 2024 for Mac will be available as a one-off purchase](https://9to5mac.com/2024/03/20/office-2024-for-mac/) | 9to5Mac | 2024-03-20 |
 | [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416) | Torringtontelegram.com | 2024-03-31 |
 | [AI can now detect COVID-19 in lung ultrasound images](https://www.sciencedaily.com/releases/2024/03/240320160609.htm) | Science Daily | 2024-03-20 |
-| [X-Ray Inspection in the Semiconductor Industry](https://www.nordson.com/en/About-Us/Nordson-Blog/Test-and-Inspection-Blogs/X-ray-Inspection-in-Semiconductor-Industry#main-content) | Nordson.com | 2024-03-20 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | ['The NHS paid for my mum to go private. She died'](https://www.bbc.co.uk/news/uk-68717086) | BBC News | 2024-04-08 |
+| [Hospital wait times will still be bad this year, even with labor gains](https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4) | Business Insider | 2024-04-19 |
 | [Future-first thinking](https://www.businessinsider.com/sc/how-investment-is-unlocking-innovation-in-the-quantum-and-space-sectors) | Business Insider | 2024-03-21 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [The Papers: Major gender care review, and 'Mr Bates vs thugs in suits'](https://www.bbc.co.uk/news/blogs-the-papers-68775970) | BBC News | 2024-04-09 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [9 AI jobs you can get without being an expert coder, from product designer to sales engineer](https://www.businessinsider.com/ai-jobs-without-coding-2024-4) | Business Insider | 2024-04-03 |
 | [It's time to stop downsizing health care, the Pentagon says. This couple can't wait](https://www.npr.org/2024/04/03/1240724195/pentagon-outsource-healthcare-tricare) | NPR | 2024-04-03 |
+| [Welcome to 'peak boomer' era: A wave of retirees is about to blow through their savings and cling to Social Security to stay afloat](https://www.businessinsider.com/how-retirement-of-peak-boomers-could-affect-economy-social-security-2024-4) | Business Insider | 2024-04-19 |
 | [Turnover is killing healthcare from the inside](https://socialmediaexplorer.com/content-marketing-2/turnover-is-killing-healthcare-from-the-inside/) | Socialmediaexplorer.com | 2024-04-03 |
 | [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
+| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -117,8 +119,6 @@
 | [Alibaba’s Ex-CEO Joins Mystery Beijing Fund Months After Exit](https://finance.yahoo.com/news/alibaba-ex-ceo-joins-mystery-050744397.html) | Yahoo Entertainment | 2024-03-21 |
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
 | [How Tennr Plans To Ensure Patients Finally Get To See Their Doctors](https://www.forbes.com/sites/davidprosser/2024/03/26/how-tennr-plans-to-ensure-patients-finally-get-to-see-their-doctors/) | Forbes | 2024-03-26 |
-| [The Surge Of Healthcare Costs: Navigating The Call For Innovation](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/10/the-surge-of-healthcare-costs-navigating-the-call-for-innovation/) | Forbes | 2024-04-10 |
-| [Better Dividend Stock to Buy Now: Medtronic vs. Walgreens Boots Alliance](https://biztoc.com/x/314dec9f716860f0) | Biztoc.com | 2024-03-31 |
 
 ## News for Pharma Market Trends
 
@@ -173,8 +173,8 @@
 | [U.S. Supreme Court takes up Texas case challenging abortion pill access](https://www.upi.com/Top_News/US/2024/03/26/SCOTUS-Texas-abortion-pill-access/6181711453952/) | UPI.com | 2024-03-26 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
-| [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [MDMA-Assisted Therapy For PTSD: The History And Science Behind The Hype](https://www.forbes.com/sites/sarahsinclair/2024/03/27/mdma-assisted-therapy-for-ptsd-the-history-and-science-behind-the-hype/) | Forbes | 2024-03-27 |
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
