@@ -108,8 +108,8 @@
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
