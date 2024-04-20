@@ -57,8 +57,8 @@
 | [How Our Thoughts Shape the Way Spoken Words Evolve](https://www.scientificamerican.com/article/how-our-thoughts-shape-the-way-spoken-words-evolve/) | Scientific American | 2024-04-16 |
 | [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
-| [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 | [Palladium nanocluster catalyst supports highly efficient and regioselective hydrogenation of epoxides](https://phys.org/news/2024-04-palladium-nanocluster-catalyst-highly-efficient.html) | Phys.Org | 2024-04-15 |
+| [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 
 ## News for Medical Devices
 
