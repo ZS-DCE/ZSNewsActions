@@ -21,14 +21,14 @@
 | [What's Driving Big Pharma's Recent Market Performance?](https://www.forbes.com/sites/forbesfinancecouncil/2024/03/25/whats-driving-big-pharmas-recent-market-performance/) | Forbes | 2024-03-25 |
 | [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
 | [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
-| [Rise in global fungal drug-resistant infections](https://www.sciencedaily.com/releases/2024/03/240318142323.htm) | Science Daily | 2024-03-18 |
 | [A device helps to decarbonise medical waste disposal](https://www.springwise.com/innovation/health-wellbeing/a-device-for-sterilising-and-shredding-medical-waste/) | Springwise.com | 2024-03-20 |
 | [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/) | Brownstone.org | 2024-04-11 |
 | [5 dead, over 100 hospitalised from recalled Japanese health supplements](https://indianexpress.com/article/world/5-dead-100-hospitalised-recalled-japanese-health-supplements-9240134/) | The Indian Express | 2024-03-29 |
 | [Will Biopharma Companies Shun Vaccine R&D In A New Pandemic?](https://www.forbes.com/sites/johnlamattina/2024/04/11/will-biopharma-companies-shun-vaccine-rd-in-a-new-pandemic/) | Forbes | 2024-04-11 |
 | [Pfizer accused of ‘bringing discredit’ on pharmaceutical industry after Covid social media posts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de71aa20-c6d5-4fb0-b6ea-891b2764246e) | Yahoo Entertainment | 2024-04-06 |
-| [Experts: Negotiating Big Pharma’s Prices Won’t Stifle Innovation—They Don’t Use the Money to Innovate!](https://www.nakedcapitalism.com/2024/03/experts-negotiating-big-pharmas-prices-wont-stifle-innovation-they-dont-use-the-money-to-innovate.html) | Nakedcapitalism.com | 2024-03-18 |
 | [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
 
 ## News for Life Sciences
 
@@ -69,7 +69,6 @@
 | [Refurbished Apple Watch Ultra 2 Begins Rolling Out Outside U.S.](https://www.macrumors.com/2024/04/18/refurbished-apple-watch-ultra-2-begins-rolling-out/) | MacRumors | 2024-04-18 |
 | [Apple Preparing to Sell Refurbished Ultra 2 and Series 9 Watches in U.S.](https://www.macrumors.com/2024/03/19/refurbished-apple-watch-ultra-2-series-9-coming/) | MacRumors | 2024-03-19 |
 | [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
-| [Parakeet: A Tiny LLM](https://news.ycombinator.com/item?id=39745700) | Hacker News | 2024-03-18 |
 | [Elon Musk's Neuralink brain implant to ultimately help humans merge with AI is sparking debate over safety and ethics](https://www.businessinsider.com/neuralink) | Business Insider | 2024-03-27 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
 | [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
@@ -89,6 +88,7 @@
 | [Office 2024 for Mac will be available as a one-off purchase](https://9to5mac.com/2024/03/20/office-2024-for-mac/) | 9to5Mac | 2024-03-20 |
 | [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416) | Torringtontelegram.com | 2024-03-31 |
 | [AI can now detect COVID-19 in lung ultrasound images](https://www.sciencedaily.com/releases/2024/03/240320160609.htm) | Science Daily | 2024-03-20 |
+| [X-Ray Inspection in the Semiconductor Industry](https://www.nordson.com/en/About-Us/Nordson-Blog/Test-and-Inspection-Blogs/X-ray-Inspection-in-Semiconductor-Industry#main-content) | Nordson.com | 2024-03-20 |
 
 ## News for Healthcare Sector
 
@@ -106,19 +106,19 @@
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Google Cloud’s AI Innovations To Transform Healthcare](https://www.forbes.com/sites/stevemcdowell/2024/03/19/google-clouds-ai-innovations-to-transform-healthcare/) | Forbes | 2024-03-19 |
-| [World Bank President Calls on Govts to Launch Digital ID, Connect With Private Sector](https://biztoc.com/x/f283a7bf4fc9c6ab) | Biztoc.com | 2024-03-18 |
 | [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 | [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
 | [Alibaba’s Ex-CEO Joins Mystery Beijing Fund Months After Exit](https://finance.yahoo.com/news/alibaba-ex-ceo-joins-mystery-050744397.html) | Yahoo Entertainment | 2024-03-21 |
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
 | [How Tennr Plans To Ensure Patients Finally Get To See Their Doctors](https://www.forbes.com/sites/davidprosser/2024/03/26/how-tennr-plans-to-ensure-patients-finally-get-to-see-their-doctors/) | Forbes | 2024-03-26 |
 | [The Surge Of Healthcare Costs: Navigating The Call For Innovation](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/10/the-surge-of-healthcare-costs-navigating-the-call-for-innovation/) | Forbes | 2024-04-10 |
+| [Better Dividend Stock to Buy Now: Medtronic vs. Walgreens Boots Alliance](https://biztoc.com/x/314dec9f716860f0) | Biztoc.com | 2024-03-31 |
 
 ## News for Pharma Market Trends
 
