@@ -76,8 +76,8 @@
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/04/06/apple-watch-ban-news/) | 9to5Mac | 2024-04-06 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
-| [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
+| [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
 | [Here are 3 solutions to get blood to folks in 'blood deserts.' One is often illegal](https://www.npr.org/sections/goatsandsoda/2024/04/11/1242630805/blood-transfusions-donations-blood-bank-blood-desert) | NPR | 2024-04-11 |
 | [New approach for combating 'resting' bacteria](https://www.sciencedaily.com/releases/2024/04/240411165856.htm) | Science Daily | 2024-04-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
