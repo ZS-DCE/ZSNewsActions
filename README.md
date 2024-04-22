@@ -46,7 +46,6 @@
 | [Study assesses geographical patterns and determinants of insect biodiversity in China](https://phys.org/news/2024-03-geographical-patterns-insect-biodiversity-china.html) | Phys.Org | 2024-03-26 |
 | [Everyone Will Have Fewer Relatives in the Future](https://www.scientificamerican.com/article/everyone-will-have-fewer-relatives-in-the-future/) | Scientific American | 2024-04-16 |
 | [New method reveals hidden activity of life below ground](https://phys.org/news/2024-04-method-reveals-hidden-life-ground.html) | Phys.Org | 2024-04-01 |
-| [Sense makers: How standards are enabling data reuse in the life sciences](https://phys.org/news/2024-03-makers-standards-enabling-reuse-life.html) | Phys.Org | 2024-03-20 |
 | [Man granted parole for his role in the 2001 stabbing deaths of 2 Dartmouth College professors](https://www.yahoo.com/news/man-granted-parole-role-2001-144305997.html) | Yahoo Entertainment | 2024-04-18 |
 | [Microba Life Sciences Ends Substantial Holding](https://biztoc.com/x/c435dbe432485167) | Biztoc.com | 2024-04-04 |
 | [Artemis Mission: Making NASA’s New Moon Suits](https://makezine.com/article/science/artemis-mission-making-nasas-new-moon-suits/) | Makezine.com | 2024-04-02 |
@@ -59,6 +58,7 @@
 | [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 | [Palladium nanocluster catalyst supports highly efficient and regioselective hydrogenation of epoxides](https://phys.org/news/2024-04-palladium-nanocluster-catalyst-highly-efficient.html) | Phys.Org | 2024-04-15 |
+| [Research shows plant-based polymers can disappear within seven months](https://today.ucsd.edu/story/biodegradable-microplastics) | Ucsd.edu | 2024-03-21 |
 
 ## News for Medical Devices
 
@@ -69,13 +69,11 @@
 | [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
 | [Elon Musk's Neuralink brain implant to ultimately help humans merge with AI is sparking debate over safety and ethics](https://www.businessinsider.com/neuralink) | Business Insider | 2024-03-27 |
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
-| [Serial extortionist of medical facilities pleads guilty to cybercrime charges](https://www.theregister.com/2024/03/20/serial_extortionist_of_medical_facilities/) | Theregister.com | 2024-03-20 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [Unlocking health and life sciences' potential with cloud solutions](https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions) | Business Insider | 2024-04-16 |
 | [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice) | AppleInsider | 2024-04-16 |
 | [Prince Andrew's infamous BBC interview... as dramatised by Netflix](https://www.bbc.co.uk/news/uk-68739026) | BBC News | 2024-04-05 |
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/04/06/apple-watch-ban-news/) | 9to5Mac | 2024-04-06 |
-| [What is on-device AI processing, and why is it important?](https://www.androidcentral.com/apps-software/why-on-device-ai-processing-is-important) | Android Central | 2024-03-20 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
@@ -84,11 +82,13 @@
 | [New approach for combating 'resting' bacteria](https://www.sciencedaily.com/releases/2024/04/240411165856.htm) | Science Daily | 2024-04-11 |
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
 | [The 5 best meditation apps for 2024](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_34a382e2-745f-4234-b774-9bd1593e3138) | Yahoo Entertainment | 2024-03-22 |
-| [Office 2024 for Mac will be available as a one-off purchase](https://9to5mac.com/2024/03/20/office-2024-for-mac/) | 9to5Mac | 2024-03-20 |
 | [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416) | Torringtontelegram.com | 2024-03-31 |
-| [AI can now detect COVID-19 in lung ultrasound images](https://www.sciencedaily.com/releases/2024/03/240320160609.htm) | Science Daily | 2024-03-20 |
 | [Microplastics in blood vessels quadruple the risk of heart failure](https://www.statnews.com/2024/03/06/nejm-microplastics-blood-vessels-plaque-heart-attack-stroke-death/) | STAT | 2024-04-08 |
 | [FDA issues alert on heart pump linked to 49 deaths](https://www.bbc.co.uk/news/world-latin-america-68698626) | BBC News | 2024-03-30 |
+| [Ransomware can mean life or death at hospitals, but DEF CON hackers have a plan](https://www.theregister.com/2024/03/26/aixcc_healthcare/) | Theregister.com | 2024-03-26 |
+| [Identity theft scammers target innocent children](https://www.foxnews.com/tech/identity-theft-scammers-target-innocent-children) | Fox News | 2024-03-24 |
+| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/) | Spreadprivacy.com | 2024-04-12 |
 
 ## News for Healthcare Sector
 
@@ -108,17 +108,17 @@
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 | [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
-| [Alibaba’s Ex-CEO Joins Mystery Beijing Fund Months After Exit](https://finance.yahoo.com/news/alibaba-ex-ceo-joins-mystery-050744397.html) | Yahoo Entertainment | 2024-03-21 |
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
 | [How Tennr Plans To Ensure Patients Finally Get To See Their Doctors](https://www.forbes.com/sites/davidprosser/2024/03/26/how-tennr-plans-to-ensure-patients-finally-get-to-see-their-doctors/) | Forbes | 2024-03-26 |
 | [The Surge Of Healthcare Costs: Navigating The Call For Innovation](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/10/the-surge-of-healthcare-costs-navigating-the-call-for-innovation/) | Forbes | 2024-04-10 |
+| [Better Dividend Stock to Buy Now: Medtronic vs. Walgreens Boots Alliance](https://biztoc.com/x/314dec9f716860f0) | Biztoc.com | 2024-03-31 |
 
 ## News for Pharma Market Trends
 
@@ -129,7 +129,6 @@
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-268-12601291.html) | Moneycontrol | 2024-04-09 |
 | [How To Bake Values Into Your Brand Voice](https://www.forbes.com/sites/forbesagencycouncil/2024/04/15/how-to-bake-values-into-your-brand-voice/) | Forbes | 2024-04-15 |
 | [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
-| [Expo West: The Ozempic Effect on Snacking, Clean Labels and More Trends](https://www.adweek.com/brand-marketing/national-product-expo-west-2024-food-trends-ozempic-snacking-clean-labels/) | Adweek | 2024-03-20 |
 | [Premiumisation, Indigenisation and Infrastructure â ITI AMC lists three themes to watch out for](https://www.moneycontrol.com/news/business/markets/premiumisation-indigenisation-and-infrastructure-iti-amc-lists-three-themes-to-watch-out-for-12662411.html) | Moneycontrol | 2024-04-18 |
 | [Broader indices underperform, but 38 smallcap stocks deliver double digit returns](https://www.moneycontrol.com/news/business/stocks/broader-indices-underperform-but-38-smallcap-stocks-deliver-double-digit-returns-12680901.html) | Moneycontrol | 2024-04-20 |
 | [Sensex, Nifty open higher; Ramco Systems, Just Dial among stocks that hit 52-week high](https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-open-higher-ramco-systems-just-dial-among-stocks-that-hit-52-week-high/article68078525.ece) | BusinessLine | 2024-04-18 |
@@ -141,14 +140,15 @@
 | [Constructive on markets, 2 stocks to buy now: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/constructive-on-markets-2-stocks-to-buy-now-sudeep-shah/articleshow/109241627.cms) | The Times of India | 2024-04-12 |
 | [Myasthenia Gravis (MG) Treatment Industry Forecast to 2030: A $2.5 Billion Market Dominated by Alexion Pharma, Grifols, Avadel Pharma, Novartis, Pfizer, AbbVie, and Roche](https://www.globenewswire.com/news-release/2024/04/17/2864286/28124/en/Myasthenia-Gravis-MG-Treatment-Industry-Forecast-to-2030-A-2-5-Billion-Market-Dominated-by-Alexion-Pharma-Grifols-Avadel-Pharma-Novartis-Pfizer-AbbVie-and-Roche.html) | GlobeNewswire | 2024-04-17 |
 | [Belgian Deputy PM says a European Action Plan on Rare Diseases is ‘essential’](https://www.euractiv.com/section/health-consumers/news/belgian-deputy-pm-says-a-european-action-plan-on-rare-diseases-is-essential/) | EURACTIV | 2024-04-17 |
-| [German Cannabis Legalization Uncertainty Is Spooking Investors](https://www.insurancejournal.com/news/international/2024/03/21/765913.htm) | Insurance Journal | 2024-03-21 |
-| [Insights Into the Generic Drugs Market in Canada, 2024-2032, Featuring Apotex, Mylan Pharmaceuticals, Pharmascience, Sandoz, Sun Pharma Industries, and Teva Pharmaceutical Industries](https://www.globenewswire.com/news-release/2024/03/21/2850031/28124/en/Insights-Into-the-Generic-Drugs-Market-in-Canada-2024-2032-Featuring-Apotex-Mylan-Pharmaceuticals-Pharmascience-Sandoz-Sun-Pharma-Industries-and-Teva-Pharmaceutical-Industries.html) | GlobeNewswire | 2024-03-21 |
 | [Gear up for a muted Q4; IT, pharma, metal may disappoint: S Krishnakumar](https://economictimes.indiatimes.com/markets/expert-view/gear-up-for-a-muted-q4-it-pharma-metal-may-disappoint-s-krishnakumar/articleshow/109198097.cms) | The Times of India | 2024-04-11 |
 | [Global Pharma Handbook 2024: Expanded Coverage of Health Systems, Sales, Demand Profiles, Clinical Trials, Drug Approval Procedures, Regulatory Policies, IP, Pricing, Marketing, Generics](https://www.globenewswire.com/news-release/2024/04/15/2862840/28124/en/Global-Pharma-Handbook-2024-Expanded-Coverage-of-Health-Systems-Sales-Demand-Profiles-Clinical-Trials-Drug-Approval-Procedures-Regulatory-Policies-IP-Pricing-Marketing-Generics.html) | GlobeNewswire | 2024-04-15 |
 | [Global Pregabalin Market Size To Worth USD 2.18 Billion By 2033 | CAGR of 2.82%](https://www.globenewswire.com/news-release/2024/03/29/2854706/0/en/Global-Pregabalin-Market-Size-To-Worth-USD-2-18-Billion-By-2033-CAGR-of-2-82.html) | GlobeNewswire | 2024-03-29 |
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [Global Local Anesthesia Drugs Market Forecast Reveals High Demand and Expansion by 2029](https://www.globenewswire.com/news-release/2024/03/26/2852599/28124/en/Global-Local-Anesthesia-Drugs-Market-Forecast-Reveals-High-Demand-and-Expansion-by-2029.html) | GlobeNewswire | 2024-03-26 |
 | [Share Market Highlights 15 April 2024: Sensex, Nifty slump over 1% on geopolitical tensions, weak global market trends; ONGC, Hindalco gain, Shriram Finance, Wipro drag](https://www.thehindubusinessline.com/markets/stock-market-highlights-15-april-2024/article68066831.ece) | BusinessLine | 2024-04-15 |
+| [Lyophilization Services for Biopharmaceuticals Global Report 2024, Featuring Profiles of Strides Pharma Science, Baxter, Catalent Pharma Solutions, W. L. Gore & Associates and Emergent BioSolutions](https://www.globenewswire.com/news-release/2024/04/09/2860205/28124/en/Lyophilization-Services-for-Biopharmaceuticals-Global-Report-2024-Featuring-Profiles-of-Strides-Pharma-Science-Baxter-Catalent-Pharma-Solutions-W-L-Gore-Associates-and-Emergent-Bio.html) | GlobeNewswire | 2024-04-09 |
+| [Oil and gas sector witnesses 22% rise in job hiring in March this year: Report](https://www.livemint.com/industry/human-resource/oil-and-gas-sector-witnesses-22-rise-in-job-hiring-in-march-this-year-report-11713170799306.html) | Livemint | 2024-04-15 |
+| [Only 39 smallcap stocks rise in double-digits as geopolitical concerns, lofty valuations weigh](https://economictimes.indiatimes.com/markets/stocks/news/only-39-smallcap-stocks-rise-in-double-digits-as-geopolitical-concerns-lofty-valuations-weigh/articleshow/109449556.cms) | The Times of India | 2024-04-20 |
 
 ## News for FDA Regulations
 
