@@ -55,8 +55,8 @@
 | [1 ice grain from Jupiter’s moon may be enough to find signs of life](https://www.futurity.org/moons-emits-ice-grain-signs-of-life-3204962/) | Futurity: Research News | 2024-04-10 |
 | [Lsd ed Ecstasy per scopi terapeutici, boom dei titoli di settore](https://www.ilsole24ore.com/art/lsd-ed-ecstasy-scopi-terapeutici-boom-titoli-settore-AFCe4SED) | Il Sole 24 Ore | 2024-03-28 |
 | [How Our Thoughts Shape the Way Spoken Words Evolve](https://www.scientificamerican.com/article/how-our-thoughts-shape-the-way-spoken-words-evolve/) | Scientific American | 2024-04-16 |
-| [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
+| [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [Palladium nanocluster catalyst supports highly efficient and regioselective hydrogenation of epoxides](https://phys.org/news/2024-04-palladium-nanocluster-catalyst-highly-efficient.html) | Phys.Org | 2024-04-15 |
 | [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
 
@@ -73,6 +73,7 @@
 | [Unlocking health and life sciences' potential with cloud solutions](https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions) | Business Insider | 2024-04-16 |
 | [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice) | AppleInsider | 2024-04-16 |
 | [Prince Andrew's infamous BBC interview... as dramatised by Netflix](https://www.bbc.co.uk/news/uk-68739026) | BBC News | 2024-04-05 |
+| [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/04/06/apple-watch-ban-news/) | 9to5Mac | 2024-04-06 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
@@ -88,7 +89,6 @@
 | [Ransomware can mean life or death at hospitals, but DEF CON hackers have a plan](https://www.theregister.com/2024/03/26/aixcc_healthcare/) | Theregister.com | 2024-03-26 |
 | [Identity theft scammers target innocent children](https://www.foxnews.com/tech/identity-theft-scammers-target-innocent-children) | Fox News | 2024-03-24 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
-| [DuckDuckGo Privacy Pro](https://spreadprivacy.com/meetprivacypro/) | Spreadprivacy.com | 2024-04-12 |
 
 ## News for Healthcare Sector
 
