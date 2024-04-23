@@ -6,6 +6,7 @@
 | ----- | ------ | --------- |
 | [The Next Big Battle Over Abortion Has Begun](https://www.wired.com/story/abortion-pill-mifepristone-scotus-roe-v-wade/) | Wired | 2024-03-25 |
 | [Drugmakers' low U.S. taxes belie their high sales](https://www.npr.org/sections/health-shots/2024/04/15/1244876740/drugmakers-low-taxes-us) | NPR | 2024-04-15 |
+| [Oncologists' meetings with drug reps don't help cancer patients live longer](https://www.npr.org/sections/health-shots/2024/04/22/1246054537/doctor-meetings-drug-reps-pharma-cancer-patients-live-longer-survival) | NPR | 2024-04-22 |
 | [What's at stake in the Supreme Court mifepristone case](https://www.npr.org/sections/health-shots/2024/03/25/1240282129/mifepristone-supreme-court-fda-medication-abortion-explainer) | NPR | 2024-03-25 |
 | [The Key to Preserving a Long-Term Competitive Advantage](https://hbr.org/podcast/2024/03/the-key-to-preserving-a-long-term-competitive-advantage) | Harvard Business Review | 2024-03-27 |
 | [SCOTUS mifepristone case: Justices focus on anti-abortion groups’ legal standing](https://arstechnica.com/science/2024/03/abortion-pill-case-scotus-skeptical-of-anti-abortion-groups-legal-standing/) | Ars Technica | 2024-03-26 |
@@ -28,7 +29,6 @@
 | [Pfizer accused of ‘bringing discredit’ on pharmaceutical industry after Covid social media posts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de71aa20-c6d5-4fb0-b6ea-891b2764246e) | Yahoo Entertainment | 2024-04-06 |
 | [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Colonoscopy prep: Liquid-only diets unnecessary](https://www.statnews.com/2024/03/19/colonoscopy-preparation-liquid-only-diet-data-gastroenterologists/) | STAT | 2024-03-23 |
 
 ## News for Life Sciences
 
@@ -108,8 +108,8 @@
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -159,6 +159,7 @@
 | [Baltimore's Francis Scott Key Bridge collapses; SCOTUS takes on abortion pill case](https://www.npr.org/2024/03/26/1240866250/up-first-newsletter-baltimore-bridge-collapse-scotus-abortion-pill) | NPR | 2024-03-26 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Faye Webster, the War on Drugs, David Byrne and Devo Share Rarities for Abortion Access Fundraiser](http://www.rollingstone.com/music/music-news/faye-webster-the-war-on-drugs-abortion-rights-charity-album-1234994381/) | Rolling Stone | 2024-03-26 |
+| [Avian flu outbreak raises a disturbing question](https://phys.org/news/2024-04-avian-flu-outbreak-disturbing.html) | Phys.Org | 2024-04-22 |
 | [Anti-Abortion Doctors Struggle to Explain Mifepristone Harms Before Supreme Court](http://theintercept.com/2024/03/27/abortion-mifepristone-supreme-court/) | The Intercept | 2024-03-27 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [How the anti-abortion movement shaped the US fertility industry](https://www.vox.com/policy/2024/3/26/24104638/abortion-ivf-duckworth-regulation-reproductive-technology) | Vox | 2024-03-26 |
@@ -178,5 +179,4 @@
 | [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
-| [Highlights from SCOTUS Oral Arguments in High-Stakes Abortion Pill Case](https://www.breitbart.com/politics/2024/03/26/highlights-scotus-oral-arguments-high-stakes-abortion-pill-case/) | Breitbart News | 2024-03-26 |
 
