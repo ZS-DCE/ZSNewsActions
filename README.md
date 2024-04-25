@@ -64,6 +64,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/) | Wired | 2024-04-24 |
 | [FDA Recalls Heart Pumps Linked to Deaths and Injuries](https://www.scientificamerican.com/article/fda-recalls-heart-pumps-linked-to-deaths-and-injuries/) | Scientific American | 2024-04-18 |
 | [Refurbished Apple Watch Ultra 2 Begins Rolling Out Outside U.S.](https://www.macrumors.com/2024/04/18/refurbished-apple-watch-ultra-2-begins-rolling-out/) | MacRumors | 2024-04-18 |
 | [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
@@ -88,7 +89,6 @@
 | [FDA issues alert on heart pump linked to 49 deaths](https://www.bbc.co.uk/news/world-latin-america-68698626) | BBC News | 2024-03-30 |
 | [Ransomware can mean life or death at hospitals, but DEF CON hackers have a plan](https://www.theregister.com/2024/03/26/aixcc_healthcare/) | Theregister.com | 2024-03-26 |
 | [Identity theft scammers target innocent children](https://www.foxnews.com/tech/identity-theft-scammers-target-innocent-children) | Fox News | 2024-03-24 |
-| [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
 
 ## News for Healthcare Sector
 
@@ -109,8 +109,8 @@
 | [Four Lessons From Well Health’s CEO On How AI Can Deliver For Healthcare Retailers](https://www.forbes.com/sites/kevinrozario/2024/03/31/four-lessons-from-well-healths-ceo-on-how-ai-can-deliver-for-healthcare-retailers/) | Forbes | 2024-03-31 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
-| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Johnson & Johnson is reportedly considering its second big heart device company acquisition](https://qz.com/johnson-and-johnson-shockwave-medical-1851367580) | Quartz India | 2024-03-26 |
+| [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
@@ -154,6 +154,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Traces of H5N1 bird flu virus found in some milk, pasteurized dairy: FDA](https://abcnews.go.com/GMA/Food/traces-h5n1-bird-flu-virus-found-milk-pasteurized/story?id=109571684) | ABC News | 2024-04-24 |
 | [Trader Joe's recalls basil amid ongoing FDA salmonella investigation](https://abcnews.go.com/GMA/Food/trader-joes-recalls-basil-amid-salmonella-outbreak-investigation/story?id=109376201) | ABC News | 2024-04-18 |
 | [Key moments as Supreme Court questioned legality of abortion pill challenge](https://abcnews.go.com/Politics/live-updates/abortion-pill-supreme-court-hearing/?id=108467730) | ABC News | 2024-03-26 |
 | [Baltimore's Francis Scott Key Bridge collapses; SCOTUS takes on abortion pill case](https://www.npr.org/2024/03/26/1240866250/up-first-newsletter-baltimore-bridge-collapse-scotus-abortion-pill) | NPR | 2024-03-26 |
@@ -178,5 +179,4 @@
 | [Food Chains Cultivate Common Ground In Safety And Sustainability](https://www.forbes.com/sites/sap/2024/04/23/food-chains-cultivate-common-ground-in-safety-and-sustainability/) | Forbes | 2024-04-23 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
-| [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 
