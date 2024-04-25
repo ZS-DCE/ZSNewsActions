@@ -65,6 +65,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/) | Wired | 2024-04-24 |
+| [Now you can put your Botox on Affirm](https://www.businessinsider.com/affirm-bnpl-buy-now-pay-later-botox-fillers-cosmetic-procedures-2024-4) | Business Insider | 2024-04-24 |
 | [FDA Recalls Heart Pumps Linked to Deaths and Injuries](https://www.scientificamerican.com/article/fda-recalls-heart-pumps-linked-to-deaths-and-injuries/) | Scientific American | 2024-04-18 |
 | [Refurbished Apple Watch Ultra 2 Begins Rolling Out Outside U.S.](https://www.macrumors.com/2024/04/18/refurbished-apple-watch-ultra-2-begins-rolling-out/) | MacRumors | 2024-04-18 |
 | [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
@@ -88,7 +89,6 @@
 | [Microplastics in blood vessels quadruple the risk of heart failure](https://www.statnews.com/2024/03/06/nejm-microplastics-blood-vessels-plaque-heart-attack-stroke-death/) | STAT | 2024-04-08 |
 | [FDA issues alert on heart pump linked to 49 deaths](https://www.bbc.co.uk/news/world-latin-america-68698626) | BBC News | 2024-03-30 |
 | [Ransomware can mean life or death at hospitals, but DEF CON hackers have a plan](https://www.theregister.com/2024/03/26/aixcc_healthcare/) | Theregister.com | 2024-03-26 |
-| [Identity theft scammers target innocent children](https://www.foxnews.com/tech/identity-theft-scammers-target-innocent-children) | Fox News | 2024-03-24 |
 
 ## News for Healthcare Sector
 
