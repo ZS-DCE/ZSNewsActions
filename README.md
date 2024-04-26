@@ -169,7 +169,6 @@
 | [Farm Bill Hemp: 21 AGs Refuse To Cite Source Material And Mischaracterize Facts And Data](https://www.forbes.com/sites/roberthoban/2024/04/08/farm-bill-hemp-21-ags-refuse-to-cite-source-material-and-mischaracterize-facts-and-data/) | Forbes | 2024-04-08 |
 | [Dangers Of Humans Taking Animal Drugs And Vice Versa](https://www.forbes.com/sites/joshuacohen/2024/04/11/dangers-of-humans-taking-animal-drugs-and-vice-versa/) | Forbes | 2024-04-11 |
 | [Dietary supplement industry shares urgency in seeing FDA crack down](https://www.bostonglobe.com/2024/04/11/opinion/letters-to-the-editor-dietary-supplement-regulation/) | The Boston Globe | 2024-04-11 |
-| [Supreme Court To Weigh Doctors’ Challenge To Removal Of Abortion Pill Safety Regulations](https://dailycaller.com/2024/03/24/supreme-court-weigh-doctors-challenge-removal-abortion-pill-safety-regulations/) | The Daily Caller | 2024-03-24 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/03/26/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-03-26 |
 | [Losing my phone while abroad nearly cost me my health](https://www.androidpolice.com/lost-phone-health-concerns/) | Android Police | 2024-04-14 |
 | [U.S. Supreme Court takes up Texas case challenging abortion pill access](https://www.upi.com/Top_News/US/2024/03/26/SCOTUS-Texas-abortion-pill-access/6181711453952/) | UPI.com | 2024-03-26 |
@@ -179,4 +178,5 @@
 | [Food Chains Cultivate Common Ground In Safety And Sustainability](https://www.forbes.com/sites/sap/2024/04/23/food-chains-cultivate-common-ground-in-safety-and-sustainability/) | Forbes | 2024-04-23 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
+| [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 
