@@ -23,12 +23,12 @@
 | [How the Supreme Court’s Mifepristone Ruling Could Affect Abortion Access and Future Drug Approvals](https://www.scientificamerican.com/article/how-the-supreme-courts-mifepristone-ruling-could-affect-abortion-access-and/) | Scientific American | 2024-03-25 |
 | [The weight loss drug shortage is hitting Eli Lily’s Zepbound](https://qz.com/eli-lilly-zepbound-shortage-amazon-riteaid-1851374847) | Quartz India | 2024-03-29 |
 | [GLP-1s Vs. Gene Therapy: The New Drugs Making Waves In Self-Insurance](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/02/glp-1s-vs-gene-therapy-the-new-drugs-making-waves-in-self-insurance/) | Forbes | 2024-04-02 |
+| [Cost of developing new drugs may be far lower than industry claims, trial reveals](https://biztoc.com/x/a5491596ccdaf818) | Biztoc.com | 2024-04-25 |
 | [What's Driving Big Pharma's Recent Market Performance?](https://www.forbes.com/sites/forbesfinancecouncil/2024/03/25/whats-driving-big-pharmas-recent-market-performance/) | Forbes | 2024-03-25 |
 | [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
 | [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
 | [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/) | Brownstone.org | 2024-04-11 |
 | [5 dead, over 100 hospitalised from recalled Japanese health supplements](https://indianexpress.com/article/world/5-dead-100-hospitalised-recalled-japanese-health-supplements-9240134/) | The Indian Express | 2024-03-29 |
-| [Will Biopharma Companies Shun Vaccine R&D In A New Pandemic?](https://www.forbes.com/sites/johnlamattina/2024/04/11/will-biopharma-companies-shun-vaccine-rd-in-a-new-pandemic/) | Forbes | 2024-04-11 |
 
 ## News for Life Sciences
 
@@ -162,6 +162,7 @@
 | [Faye Webster, the War on Drugs, David Byrne and Devo Share Rarities for Abortion Access Fundraiser](http://www.rollingstone.com/music/music-news/faye-webster-the-war-on-drugs-abortion-rights-charity-album-1234994381/) | Rolling Stone | 2024-03-26 |
 | [Avian flu outbreak raises a disturbing question](https://phys.org/news/2024-04-avian-flu-outbreak-disturbing.html) | Phys.Org | 2024-04-22 |
 | [Anti-Abortion Doctors Struggle to Explain Mifepristone Harms Before Supreme Court](http://theintercept.com/2024/03/27/abortion-mifepristone-supreme-court/) | The Intercept | 2024-03-27 |
+| [Bird flu in milk is alarming — but not for the reason you think](https://www.vox.com/future-perfect/24140017/milk-bird-flu-safe-dairy-usda-fda) | Vox | 2024-04-25 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [How the anti-abortion movement shaped the US fertility industry](https://www.vox.com/policy/2024/3/26/24104638/abortion-ivf-duckworth-regulation-reproductive-technology) | Vox | 2024-03-26 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
@@ -178,5 +179,4 @@
 | [Food Chains Cultivate Common Ground In Safety And Sustainability](https://www.forbes.com/sites/sap/2024/04/23/food-chains-cultivate-common-ground-in-safety-and-sustainability/) | Forbes | 2024-04-23 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
-| [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 
