@@ -38,7 +38,6 @@
 | [Vital Science](https://www.businessinsider.com/sc/why-the-uk-is-betting-on-the-future-of-science) | Business Insider | 2024-04-17 |
 | [The Mysterious ‘Dark’ Energy That Permeates the Universe Is Slowly Eroding](https://www.wired.com/story/dark-energy-weakening-major-astrophysics-study-finds/) | Wired | 2024-04-28 |
 | [Harvard hopefuls are going to need to start cramming for the SAT again](https://www.businessinsider.com/harvard-sat-act-standardized-testing-back-ivy-league-2024-4) | Business Insider | 2024-04-11 |
-| [Best-selling psychologist of Thinking, Fast and Slow, dies at 90](https://www.npr.org/2024/03/27/1241206604/thinking-fast-slow-psychology-behavioral-economics-daniel-kahneman-obit-nobel) | NPR | 2024-03-27 |
 | [Swimming and spinning aquatic spiders use slick survival strategies](https://knowablemagazine.org/content/article/living-world/2024/meet-the-aquatic-spiders) | Knowablemagazine.org | 2024-04-28 |
 | [You Can't Blame Everything on Covid-19](https://gizmodo.com/covid19-measles-outbreaks-1851404770) | Gizmodo.com | 2024-04-13 |
 | [Francisco Varela](https://en.wikipedia.org/wiki/Francisco_Varela) | Wikipedia.org | 2024-04-19 |
@@ -54,11 +53,12 @@
 | [IRL Stories That Became ‘It’s Always Sunny in Philadelphia’ Plotlines](https://www.cracked.com/article_41859_irl-stories-that-became-its-always-sunny-in-philadelphia-plotlines.html) | Cracked.com | 2024-04-17 |
 | [Understanding Childhood Trauma Can Help Us Be More Resilient](https://time.com/6962700/childhood-trauma-resilience-essay/) | Time | 2024-04-03 |
 | [1 ice grain from Jupiter’s moon may be enough to find signs of life](https://www.futurity.org/moons-emits-ice-grain-signs-of-life-3204962/) | Futurity: Research News | 2024-04-10 |
-| [Lsd ed Ecstasy per scopi terapeutici, boom dei titoli di settore](https://www.ilsole24ore.com/art/lsd-ed-ecstasy-scopi-terapeutici-boom-titoli-settore-AFCe4SED) | Il Sole 24 Ore | 2024-03-28 |
 | [How Our Thoughts Shape the Way Spoken Words Evolve](https://www.scientificamerican.com/article/how-our-thoughts-shape-the-way-spoken-words-evolve/) | Scientific American | 2024-04-16 |
 | [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 | [Palladium nanocluster catalyst supports highly efficient and regioselective hydrogenation of epoxides](https://phys.org/news/2024-04-palladium-nanocluster-catalyst-highly-efficient.html) | Phys.Org | 2024-04-15 |
+| [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
+| [MiB: Angus Deaton on America’s Wealth & Inequality](https://ritholtz.com/2024/03/mib-angus-deaton/) | Ritholtz.com | 2024-03-29 |
 
 ## News for Medical Devices
 
@@ -70,7 +70,6 @@
 | [Refurbished Apple Watch Ultra 2 Begins Rolling Out Outside U.S.](https://www.macrumors.com/2024/04/18/refurbished-apple-watch-ultra-2-begins-rolling-out/) | MacRumors | 2024-04-18 |
 | [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
 | [Implantable Battery Charges Itself](https://hackaday.com/2024/04/25/implantable-battery-charges-itself/) | Hackaday | 2024-04-25 |
-| [Elon Musk's Neuralink brain implant to ultimately help humans merge with AI is sparking debate over safety and ethics](https://www.businessinsider.com/neuralink) | Business Insider | 2024-03-27 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
 | [Unlocking health and life sciences' potential with cloud solutions](https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions) | Business Insider | 2024-04-16 |
 | [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice) | AppleInsider | 2024-04-16 |
@@ -89,6 +88,7 @@
 | [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
 | [Pacemaker powered by light: new research](https://www.torringtontelegram.com/premium/stories/pacemaker-powered-by-light-eliminates-need-for-batteries-and-allows-the-heart-to-function-more,38416) | Torringtontelegram.com | 2024-03-31 |
 | [Microplastics in blood vessels quadruple the risk of heart failure](https://www.statnews.com/2024/03/06/nejm-microplastics-blood-vessels-plaque-heart-attack-stroke-death/) | STAT | 2024-04-08 |
+| [FDA issues alert on heart pump linked to 49 deaths](https://www.bbc.co.uk/news/world-latin-america-68698626) | BBC News | 2024-03-30 |
 
 ## News for Healthcare Sector
 
@@ -97,7 +97,6 @@
 | [Larry Ellison says Oracle's HQ is moving to Nashville — 4 years after relocating from California to Texas](https://www.businessinsider.com/oracle-planning-nashville-hq-move-larry-ellison-2024-4) | Business Insider | 2024-04-24 |
 | ['The NHS paid for my mum to go private. She died'](https://www.bbc.co.uk/news/uk-68717086) | BBC News | 2024-04-08 |
 | [Hospital wait times will still be bad this year, even with labor gains](https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4) | Business Insider | 2024-04-19 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [The Papers: Major gender care review, and 'Mr Bates vs thugs in suits'](https://www.bbc.co.uk/news/blogs-the-papers-68775970) | BBC News | 2024-04-09 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news) | The Next Web | 2024-04-26 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
@@ -119,6 +118,7 @@
 | [How Ogilvy’s Combatting Misinformation in the Heathcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-heathcare-sector/269537/) | ClickZ | 2024-04-24 |
 | [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
+| [Better Dividend Stock to Buy Now: Medtronic vs. Walgreens Boots Alliance](https://biztoc.com/x/314dec9f716860f0) | Biztoc.com | 2024-03-31 |
 
 ## News for Pharma Market Trends
 
@@ -158,7 +158,6 @@
 | [Trader Joe's recalls basil amid ongoing FDA salmonella investigation](https://abcnews.go.com/GMA/Food/trader-joes-recalls-basil-amid-salmonella-outbreak-investigation/story?id=109376201) | ABC News | 2024-04-18 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Avian flu outbreak raises a disturbing question](https://phys.org/news/2024-04-avian-flu-outbreak-disturbing.html) | Phys.Org | 2024-04-22 |
-| [Anti-Abortion Doctors Struggle to Explain Mifepristone Harms Before Supreme Court](http://theintercept.com/2024/03/27/abortion-mifepristone-supreme-court/) | The Intercept | 2024-03-27 |
 | [Bird flu in milk is alarming — but not for the reason you think](https://www.vox.com/future-perfect/24140017/milk-bird-flu-safe-dairy-usda-fda) | Vox | 2024-04-25 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
@@ -173,10 +172,11 @@
 | [10 doctors on FDA panel for Abbott heart device had financial ties to the company](https://www.nbcnews.com/health/health-news/10-doctors-fda-panel-abbott-heart-device-financial-ties-company-rcna146273) | NBC News | 2024-04-06 |
 | [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
-| [18 Ways AI Can Support Quality Assurance For Tech Companies](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/18-ways-ai-can-support-quality-assurance-for-tech-companies/) | Forbes | 2024-03-28 |
-| [Why Were Americans Not Informed of the Difference Between FDA-Approved and Emergency Use Authorization?](https://www.americanthinker.com/articles/2024/03/why_were_americans_not_informed_of_the_difference_between_fda_approved_and_emergency_use_authorization.html) | Americanthinker.com | 2024-03-28 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
 | [17 Iconic French Pharmacy Products I Picked Up During a Week in Paris](https://www.whowhatwear.com/beauty/skin/french-pharmacy-skincare-products) | Who What Wear | 2024-04-21 |
 | [Civil rights, medical groups sue FDA over ‘almost unconscionable’ delay in banning menthol tobacco products](https://www.advocate.com/menthol-cigarette-ban-fda-lawsuit) | Advocate.com | 2024-04-04 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Lawsuit seeks to force ban on menthol cigarettes after months of delays by Biden administration](https://finance.yahoo.com/news/lawsuit-seeks-force-ban-menthol-162816362.html) | Yahoo Entertainment | 2024-04-02 |
+| [An ‘utterly unregulated Wild West’: FDA needs more oversight of dietary supplements](https://www.bostonglobe.com/2024/04/05/opinion/diet-pill-weight-loss-dietary-supplement-ban-fda/) | The Boston Globe | 2024-04-05 |
+| [Lead pollution anywhere is a public health threat everywhere](https://www.vox.com/future-perfect/24115827/lead-poisoning-symptoms-exposure-children-cinnamon-paint-battery-pollution-global) | Vox | 2024-04-01 |
 
