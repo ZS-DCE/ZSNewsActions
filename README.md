@@ -7,6 +7,7 @@
 | [Drugmakers' low U.S. taxes belie their high sales](https://www.npr.org/sections/health-shots/2024/04/15/1244876740/drugmakers-low-taxes-us) | NPR | 2024-04-15 |
 | [Oncologists' meetings with drug reps don't help cancer patients live longer](https://www.npr.org/sections/health-shots/2024/04/22/1246054537/doctor-meetings-drug-reps-pharma-cancer-patients-live-longer-survival) | NPR | 2024-04-22 |
 | [Audacious Ukrainian drone attacks keep doing massive damage to Russia's oil industry](https://www.businessinsider.com/ukraine-drone-strikes-are-doing-massive-damage-to-russia-oil-sector-2024-4) | Business Insider | 2024-04-25 |
+| [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [Sales Commission Rates by Industry](https://smallbiztrends.com/sales-commission-rates-by-industry/) | Small Business Trends | 2024-04-15 |
 | [State Of The Pharma Industry: Present And Future](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/08/state-of-the-pharma-industry-present-and-future/) | Forbes | 2024-04-08 |
 | [After 26,000 public comments, FTC to vote on rule banning noncompete agreements](https://www.npr.org/2024/04/23/1246430110/noncompete-agreements-ftc-ban-lina-khan) | NPR | 2024-04-23 |
@@ -28,7 +29,6 @@
 | [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
-| [Pomegranate power: Unlocking sustainable antimicrobial solutions from peels](https://phys.org/news/2024-04-pomegranate-power-sustainable-antimicrobial-solutions.html) | Phys.Org | 2024-04-19 |
 
 ## News for Life Sciences
 
@@ -97,6 +97,7 @@
 | [Larry Ellison says Oracle's HQ is moving to Nashville — 4 years after relocating from California to Texas](https://www.businessinsider.com/oracle-planning-nashville-hq-move-larry-ellison-2024-4) | Business Insider | 2024-04-24 |
 | ['The NHS paid for my mum to go private. She died'](https://www.bbc.co.uk/news/uk-68717086) | BBC News | 2024-04-08 |
 | [Hospital wait times will still be bad this year, even with labor gains](https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4) | Business Insider | 2024-04-19 |
+| [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [The Papers: Major gender care review, and 'Mr Bates vs thugs in suits'](https://www.bbc.co.uk/news/blogs-the-papers-68775970) | BBC News | 2024-04-09 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news) | The Next Web | 2024-04-26 |
 | [This startup detects heart disease using motion sensors in your phone](https://thenextweb.com/news/startup-detects-heart-disease-motion-sensors-your-phone) | The Next Web | 2024-04-04 |
@@ -118,7 +119,6 @@
 | [How Ogilvy’s Combatting Misinformation in the Heathcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-heathcare-sector/269537/) | ClickZ | 2024-04-24 |
 | [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
-| [Better Dividend Stock to Buy Now: Medtronic vs. Walgreens Boots Alliance](https://biztoc.com/x/314dec9f716860f0) | Biztoc.com | 2024-03-31 |
 
 ## News for Pharma Market Trends
 
@@ -131,6 +131,7 @@
 | [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
 | [Premiumisation, Indigenisation and Infrastructure â ITI AMC lists three themes to watch out for](https://www.moneycontrol.com/news/business/markets/premiumisation-indigenisation-and-infrastructure-iti-amc-lists-three-themes-to-watch-out-for-12662411.html) | Moneycontrol | 2024-04-18 |
 | [Broader indices underperform, but 38 smallcap stocks deliver double digit returns](https://www.moneycontrol.com/news/business/stocks/broader-indices-underperform-but-38-smallcap-stocks-deliver-double-digit-returns-12680901.html) | Moneycontrol | 2024-04-20 |
+| [5 of the most effective creative ads in the health & pharma sector](https://www.thedrum.com/news/2024/04/29/5-the-most-effective-creative-ads-the-health-pharma-sector) | The Drum | 2024-04-29 |
 | [Sensex, Nifty open higher; Ramco Systems, Just Dial among stocks that hit 52-week high](https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-open-higher-ramco-systems-just-dial-among-stocks-that-hit-52-week-high/article68078525.ece) | BusinessLine | 2024-04-18 |
 | [Navigating R’s Impact in Vienna: Insights from the Finance and Pharmaceutical Sectors](https://www.r-bloggers.com/2024/04/navigating-rs-impact-in-vienna-insights-from-the-finance-and-pharmaceutical-sectors/) | R-bloggers.com | 2024-04-19 |
 | [Forbes Daily: New DOJ Rules Aim To Close ‘Gun Show Loophole’](https://www.forbes.com/sites/daniellechemtob/2024/04/12/forbes-daily-new-doj-rules-aim-to-close-gun-show-loophole/) | Forbes | 2024-04-12 |
@@ -148,7 +149,6 @@
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
 | [What to expect from the Indian stock market next week? Ashi Anand answers](https://economictimes.indiatimes.com/markets/expert-view/what-to-expect-from-the-indian-stock-market-next-week-ashi-anand-answers/articleshow/109643098.cms) | The Times of India | 2024-04-27 |
-| [Share Market Highlights 15 April 2024: Sensex, Nifty slump over 1% on geopolitical tensions, weak global market trends; ONGC, Hindalco gain, Shriram Finance, Wipro drag](https://www.thehindubusinessline.com/markets/stock-market-highlights-15-april-2024/article68066831.ece) | BusinessLine | 2024-04-15 |
 
 ## News for FDA Regulations
 
