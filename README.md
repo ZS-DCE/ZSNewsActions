@@ -177,6 +177,6 @@
 | [Civil rights, medical groups sue FDA over ‘almost unconscionable’ delay in banning menthol tobacco products](https://www.advocate.com/menthol-cigarette-ban-fda-lawsuit) | Advocate.com | 2024-04-04 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Lawsuit seeks to force ban on menthol cigarettes after months of delays by Biden administration](https://finance.yahoo.com/news/lawsuit-seeks-force-ban-menthol-162816362.html) | Yahoo Entertainment | 2024-04-02 |
-| [An ‘utterly unregulated Wild West’: FDA needs more oversight of dietary supplements](https://www.bostonglobe.com/2024/04/05/opinion/diet-pill-weight-loss-dietary-supplement-ban-fda/) | The Boston Globe | 2024-04-05 |
 | [Lead pollution anywhere is a public health threat everywhere](https://www.vox.com/future-perfect/24115827/lead-poisoning-symptoms-exposure-children-cinnamon-paint-battery-pollution-global) | Vox | 2024-04-01 |
+| [An ‘utterly unregulated Wild West’: FDA needs more oversight of dietary supplements](https://www.bostonglobe.com/2024/04/05/opinion/diet-pill-weight-loss-dietary-supplement-ban-fda/) | The Boston Globe | 2024-04-05 |
 
