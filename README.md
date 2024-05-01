@@ -20,6 +20,7 @@
 | [Cost of developing new drugs may be far lower than industry claims, trial reveals](https://biztoc.com/x/a5491596ccdaf818) | Biztoc.com | 2024-04-25 |
 | [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
 | [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
+| [Discovery of mechanism plants use to change seed oil could impact industrial, food oils](https://www.sciencedaily.com/releases/2024/04/240430105531.htm) | Science Daily | 2024-04-30 |
 | [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/) | Brownstone.org | 2024-04-11 |
 | [Will Biopharma Companies Shun Vaccine R&D In A New Pandemic?](https://www.forbes.com/sites/johnlamattina/2024/04/11/will-biopharma-companies-shun-vaccine-rd-in-a-new-pandemic/) | Forbes | 2024-04-11 |
 | [Pfizer accused of ‘bringing discredit’ on pharmaceutical industry after Covid social media posts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de71aa20-c6d5-4fb0-b6ea-891b2764246e) | Yahoo Entertainment | 2024-04-06 |
@@ -28,7 +29,6 @@
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
 | [Pomegranate power: Unlocking sustainable antimicrobial solutions from peels](https://phys.org/news/2024-04-pomegranate-power-sustainable-antimicrobial-solutions.html) | Phys.Org | 2024-04-19 |
 | [Pfizer issues apology after British regulator pushes back against their COVID-19 vaccine fraud](https://www.naturalnews.com/2024-04-11-pfizer-issues-apology-after-regulator-pushes-back.html) | Naturalnews.com | 2024-04-11 |
-| [Nurses, Feeling Burnt Out? Apply Your Skill Set To A New Career](https://www.forbes.com/sites/cherylrobinson/2024/04/02/nurses-feeling-burnt-out-apply-your-skill-set-to-a-new-career/) | Forbes | 2024-04-02 |
 
 ## News for Life Sciences
 
@@ -127,6 +127,7 @@
 | [Navigating The Cookieless Era: How Pharma Adapts To Continual Disruption](https://www.forbes.com/sites/forbestechcouncil/2024/04/10/navigating-the-cookieless-era-how-pharma-adapts-to-continual-disruption/) | Forbes | 2024-04-10 |
 | [Large caps gear up to drive market; capital goods, insurance, auto, pharma gain momentum](https://www.moneycontrol.com/news/business/large-caps-gear-up-to-drive-market-capital-goods-insurance-auto-pharma-gain-momentum-12567181.html) | Moneycontrol | 2024-04-03 |
 | [Stock Market Today: Top 10 things to know before the market opens](https://www.moneycontrol.com/news/business/markets/stock-market-today-top-10-things-to-know-before-the-market-opens-268-12601291.html) | Moneycontrol | 2024-04-09 |
+| [Bitcoin and Biodiversity in the Cannabis Industry](https://bitcoinmagazine.com/markets/bitcoin-and-biodiversity-in-the-cannabis-industry) | Bitcoin Magazine | 2024-04-30 |
 | [How To Bake Values Into Your Brand Voice](https://www.forbes.com/sites/forbesagencycouncil/2024/04/15/how-to-bake-values-into-your-brand-voice/) | Forbes | 2024-04-15 |
 | [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
 | [Premiumisation, Indigenisation and Infrastructure â ITI AMC lists three themes to watch out for](https://www.moneycontrol.com/news/business/markets/premiumisation-indigenisation-and-infrastructure-iti-amc-lists-three-themes-to-watch-out-for-12662411.html) | Moneycontrol | 2024-04-18 |
@@ -148,7 +149,6 @@
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [What to expect from the Indian stock market next week? Ashi Anand answers](https://economictimes.indiatimes.com/markets/expert-view/what-to-expect-from-the-indian-stock-market-next-week-ashi-anand-answers/articleshow/109643098.cms) | The Times of India | 2024-04-27 |
 | [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
-| [Share Market Highlights 15 April 2024: Sensex, Nifty slump over 1% on geopolitical tensions, weak global market trends; ONGC, Hindalco gain, Shriram Finance, Wipro drag](https://www.thehindubusinessline.com/markets/stock-market-highlights-15-april-2024/article68066831.ece) | BusinessLine | 2024-04-15 |
 
 ## News for FDA Regulations
 
