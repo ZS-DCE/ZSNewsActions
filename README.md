@@ -82,18 +82,19 @@
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
+| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
 | [Here are 3 solutions to get blood to folks in 'blood deserts.' One is often illegal](https://www.npr.org/sections/goatsandsoda/2024/04/11/1242630805/blood-transfusions-donations-blood-bank-blood-desert) | NPR | 2024-04-11 |
 | [New approach for combating 'resting' bacteria](https://www.sciencedaily.com/releases/2024/04/240411165856.htm) | Science Daily | 2024-04-11 |
-| [Shenzhen Issues Plan to Promote Development of HarmonyOS Operating System](http://chinascope.org/archives/34811) | Chinascope.org | 2024-04-05 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Preventing the Next Big Cyberattack on U.S. Health Care](https://hbr.org/2024/05/preventing-the-next-big-cyberattack-on-u-s-health-care) | Harvard Business Review | 2024-05-01 |
 | [Larry Ellison says Oracle's HQ is moving to Nashville — 4 years after relocating from California to Texas](https://www.businessinsider.com/oracle-planning-nashville-hq-move-larry-ellison-2024-4) | Business Insider | 2024-04-24 |
 | ['The NHS paid for my mum to go private. She died'](https://www.bbc.co.uk/news/uk-68717086) | BBC News | 2024-04-08 |
 | [Hospital wait times will still be bad this year, even with labor gains](https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4) | Business Insider | 2024-04-19 |
@@ -113,12 +114,11 @@
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
+| [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [IBM to invest $730 million in Canadian semiconductor sector: Report](https://www.tomshardware.com/tech-industry/ibm-to-invest-dollar730-million-in-canadian-semiconductor-sector-report) | Tom's Hardware UK | 2024-04-29 |
 | [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
-| [How Ogilvy’s Combatting Misinformation in the Heathcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-heathcare-sector/269537/) | ClickZ | 2024-04-24 |
-| [History Reveals How Donald Trump Captured the Industrial Heartland—And a Path Forward for Democrats](https://time.com/6958635/trump-biden-midwest-history/) | Time | 2024-04-02 |
 
 ## News for Pharma Market Trends
 
