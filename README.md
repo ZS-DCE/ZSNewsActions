@@ -140,6 +140,7 @@
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-26-12601751.html) | Moneycontrol | 2024-04-08 |
 | [Constructive on markets, 2 stocks to buy now: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/constructive-on-markets-2-stocks-to-buy-now-sudeep-shah/articleshow/109241627.cms) | The Times of India | 2024-04-12 |
 | [Myasthenia Gravis (MG) Treatment Industry Forecast to 2030: A $2.5 Billion Market Dominated by Alexion Pharma, Grifols, Avadel Pharma, Novartis, Pfizer, AbbVie, and Roche](https://www.globenewswire.com/news-release/2024/04/17/2864286/28124/en/Myasthenia-Gravis-MG-Treatment-Industry-Forecast-to-2030-A-2-5-Billion-Market-Dominated-by-Alexion-Pharma-Grifols-Avadel-Pharma-Novartis-Pfizer-AbbVie-and-Roche.html) | GlobeNewswire | 2024-04-17 |
+| [Stock Market Today: April Ends on Sour Note Ahead of Fed Decision](https://www.newsweek.com/stock-market-tuesday-eli-lilly-mcdonalds-pot-stocks-fed-decision-1895775) | Newsweek | 2024-04-30 |
 | [PE investments looking up, but tax uncertainty persists](https://www.thehindubusinessline.com/markets/pe-investments-looking-up-but-tax-uncertainty-persists/article68098631.ece) | BusinessLine | 2024-04-24 |
 | [Uveitis Market Insight, Epidemiology and Market Forecast to 2034: Assessment of Competitors, Market, Current Trends and Upcoming Treatments](https://www.globenewswire.com/news-release/2024/04/23/2867378/28124/en/Uveitis-Market-Insight-Epidemiology-and-Market-Forecast-to-2034-Assessment-of-Competitors-Market-Current-Trends-and-Upcoming-Treatments.html) | GlobeNewswire | 2024-04-23 |
 | [Belgian Deputy PM says a European Action Plan on Rare Diseases is ‘essential’](https://www.euractiv.com/section/health-consumers/news/belgian-deputy-pm-says-a-european-action-plan-on-rare-diseases-is-essential/) | EURACTIV | 2024-04-17 |
@@ -148,13 +149,13 @@
 | [Active Pharmaceutical Ingredient Market Trends Signal Growth Towards USD 446.6 Billion by 2032 With CAGR AT 6.4%](https://www.globenewswire.com/news-release/2024/04/23/2868000/0/en/Active-Pharmaceutical-Ingredient-Market-Trends-Signal-Growth-Towards-USD-446-6-Billion-by-2032-With-CAGR-AT-6-4.html) | GlobeNewswire | 2024-04-23 |
 | [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 | [What to expect from the Indian stock market next week? Ashi Anand answers](https://economictimes.indiatimes.com/markets/expert-view/what-to-expect-from-the-indian-stock-market-next-week-ashi-anand-answers/articleshow/109643098.cms) | The Times of India | 2024-04-27 |
-| [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
 
 ## News for FDA Regulations
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Traces of H5N1 bird flu virus found in some milk, pasteurized dairy: FDA](https://abcnews.go.com/GMA/Food/traces-h5n1-bird-flu-virus-found-milk-pasteurized/story?id=109571684) | ABC News | 2024-04-24 |
+| [DEA to reclassify marijuana as a lower-risk drug, reports say](https://arstechnica.com/science/2024/04/dea-to-reclassify-marijuana-as-a-lower-risk-drug-reports-say/) | Ars Technica | 2024-04-30 |
 | [Trader Joe's recalls basil amid ongoing FDA salmonella investigation](https://abcnews.go.com/GMA/Food/trader-joes-recalls-basil-amid-salmonella-outbreak-investigation/story?id=109376201) | ABC News | 2024-04-18 |
 | [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Avian flu outbreak raises a disturbing question](https://phys.org/news/2024-04-avian-flu-outbreak-disturbing.html) | Phys.Org | 2024-04-22 |
@@ -174,9 +175,8 @@
 | [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
+| [Is Chicken Feces Behind The Bird Flu Outbreaks In Cows? Here’s What To Know.](https://www.forbes.com/sites/ariannajohnson/2024/04/30/is-chicken-feces-behind-the-bird-flu-outbreaks-in-cows-heres-what-to-know/) | Forbes | 2024-04-30 |
 | [17 Iconic French Pharmacy Products I Picked Up During a Week in Paris](https://www.whowhatwear.com/beauty/skin/french-pharmacy-skincare-products) | Who What Wear | 2024-04-21 |
 | [Civil rights, medical groups sue FDA over ‘almost unconscionable’ delay in banning menthol tobacco products](https://www.advocate.com/menthol-cigarette-ban-fda-lawsuit) | Advocate.com | 2024-04-04 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Lawsuit seeks to force ban on menthol cigarettes after months of delays by Biden administration](https://finance.yahoo.com/news/lawsuit-seeks-force-ban-menthol-162816362.html) | Yahoo Entertainment | 2024-04-02 |
-| [Lead pollution anywhere is a public health threat everywhere](https://www.vox.com/future-perfect/24115827/lead-poisoning-symptoms-exposure-children-cinnamon-paint-battery-pollution-global) | Vox | 2024-04-01 |
 
