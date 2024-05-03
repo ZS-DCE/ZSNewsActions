@@ -8,6 +8,7 @@
 | [Oncologists' meetings with drug reps don't help cancer patients live longer](https://www.npr.org/sections/health-shots/2024/04/22/1246054537/doctor-meetings-drug-reps-pharma-cancer-patients-live-longer-survival) | NPR | 2024-04-22 |
 | [Audacious Ukrainian drone attacks keep doing massive damage to Russia's oil industry](https://www.businessinsider.com/ukraine-drone-strikes-are-doing-massive-damage-to-russia-oil-sector-2024-4) | Business Insider | 2024-04-25 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
+| [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
 | [Sales Commission Rates by Industry](https://smallbiztrends.com/sales-commission-rates-by-industry/) | Small Business Trends | 2024-04-15 |
 | [State Of The Pharma Industry: Present And Future](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/08/state-of-the-pharma-industry-present-and-future/) | Forbes | 2024-04-08 |
 | [After 26,000 public comments, FTC to vote on rule banning noncompete agreements](https://www.npr.org/2024/04/23/1246430110/noncompete-agreements-ftc-ban-lina-khan) | NPR | 2024-04-23 |
@@ -16,9 +17,7 @@
 | [FTC looking to accelerate inquiry into prescription-drug middlemen, chair says](https://www.marketwatch.com/story/ftc-looking-to-accelerate-inquiry-into-prescription-drug-middlemen-chair-says-c93f69e1) | MarketWatch | 2024-04-23 |
 | [Navigating R’s Impact in Vienna: Insights from the Finance and Pharmaceutical Sectors](https://www.r-bloggers.com/2024/04/navigating-rs-impact-in-vienna-insights-from-the-finance-and-pharmaceutical-sectors/) | R-bloggers.com | 2024-04-19 |
 | [Vital Science](https://www.businessinsider.com/sc/why-the-uk-is-betting-on-the-future-of-science) | Business Insider | 2024-04-17 |
-| [GLP-1s Vs. Gene Therapy: The New Drugs Making Waves In Self-Insurance](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/02/glp-1s-vs-gene-therapy-the-new-drugs-making-waves-in-self-insurance/) | Forbes | 2024-04-02 |
 | [Cost of developing new drugs may be far lower than industry claims, trial reveals](https://biztoc.com/x/a5491596ccdaf818) | Biztoc.com | 2024-04-25 |
-| [How Big Tech sabotages rival startups — from the inside](https://www.businessinsider.com/big-tech-sabotages-new-startups-businesses-coopting-disruption-2024-3) | Business Insider | 2024-04-01 |
 | [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
 | [Discovery of mechanism plants use to change seed oil could impact industrial, food oils](https://www.sciencedaily.com/releases/2024/04/240430105531.htm) | Science Daily | 2024-04-30 |
 | [How Did American Capitalism Mutate into American Corporatism?](https://brownstone.org/articles/how-did-american-capitalism-mutate-into-american-corporatism/) | Brownstone.org | 2024-04-11 |
@@ -29,6 +28,7 @@
 | [De-Mystifying R Programming in Clinical Trials](https://www.r-bloggers.com/2024/05/de-mystifying-r-programming-in-clinical-trials/) | R-bloggers.com | 2024-05-02 |
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
 | [Pomegranate power: Unlocking sustainable antimicrobial solutions from peels](https://phys.org/news/2024-04-pomegranate-power-sustainable-antimicrobial-solutions.html) | Phys.Org | 2024-04-19 |
+| [Pfizer issues apology after British regulator pushes back against their COVID-19 vaccine fraud](https://www.naturalnews.com/2024-04-11-pfizer-issues-apology-after-regulator-pushes-back.html) | Naturalnews.com | 2024-04-11 |
 
 ## News for Life Sciences
 
@@ -46,7 +46,6 @@
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [Researchers create artificial cells that act like living cells](https://www.sciencedaily.com/releases/2024/04/240423135213.htm) | Science Daily | 2024-04-23 |
 | [Everyone Will Have Fewer Relatives in the Future](https://www.scientificamerican.com/article/everyone-will-have-fewer-relatives-in-the-future/) | Scientific American | 2024-04-16 |
-| [New method reveals hidden activity of life below ground](https://phys.org/news/2024-04-method-reveals-hidden-life-ground.html) | Phys.Org | 2024-04-01 |
 | [Philosophy Is an Art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald) | Aeon.co | 2024-04-25 |
 | [Man granted parole for his role in the 2001 stabbing deaths of 2 Dartmouth College professors](https://www.yahoo.com/news/man-granted-parole-role-2001-144305997.html) | Yahoo Entertainment | 2024-04-18 |
 | [Microba Life Sciences Ends Substantial Holding](https://biztoc.com/x/c435dbe432485167) | Biztoc.com | 2024-04-04 |
@@ -59,11 +58,13 @@
 | [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
 | [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 | [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
+| [Palladium nanocluster catalyst supports highly efficient and regioselective hydrogenation of epoxides](https://phys.org/news/2024-04-palladium-nanocluster-catalyst-highly-efficient.html) | Phys.Org | 2024-04-15 |
 
 ## News for Medical Devices
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Apple Watch AFib History Feature Qualified by FDA to Evaluate Medical Devices](https://www.macrumors.com/2024/05/02/apple-watch-afib-history-evaluate-medical-devices/) | MacRumors | 2024-05-02 |
 | [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/) | Wired | 2024-04-24 |
 | [Razer made a million dollars selling a mask with RGB, and the FTC is not pleased](https://www.theverge.com/2024/4/29/24144425/razer-zephyr-face-mask-covid-n95-ftc-settlement) | The Verge | 2024-04-29 |
 | [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/) | Wired | 2024-05-01 |
@@ -77,6 +78,8 @@
 | [Unlocking health and life sciences' potential with cloud solutions](https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions) | Business Insider | 2024-04-16 |
 | [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice) | AppleInsider | 2024-04-16 |
 | [Prince Andrew's infamous BBC interview... as dramatised by Netflix](https://www.bbc.co.uk/news/uk-68739026) | BBC News | 2024-04-05 |
+| [Apple Watch is FDA's first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device) | AppleInsider | 2024-05-02 |
+| [Glucose monitor and insulin pump concept is a sustainable way to keep tabs on diabetes](https://www.yankodesign.com/2024/05/02/glucose-monitor-and-insulin-pump-concept-is-a-sustainable-way-to-keep-tabs-on-diabetes/) | Yanko Design | 2024-05-02 |
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Apple Watch ban news hub: Everything you need to know](https://9to5mac.com/2024/04/06/apple-watch-ban-news/) | 9to5Mac | 2024-04-06 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
@@ -84,11 +87,8 @@
 | [Johnson & Johnson just bought a second big heart device company](https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357) | Quartz India | 2024-04-05 |
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
-| [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
-| [Here are 3 solutions to get blood to folks in 'blood deserts.' One is often illegal](https://www.npr.org/sections/goatsandsoda/2024/04/11/1242630805/blood-transfusions-donations-blood-bank-blood-desert) | NPR | 2024-04-11 |
-| [New approach for combating 'resting' bacteria](https://www.sciencedaily.com/releases/2024/04/240411165856.htm) | Science Daily | 2024-04-11 |
 
 ## News for Healthcare Sector
 
@@ -115,10 +115,10 @@
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
+| [Nurses Say Hospital Adoption Of Half-Cooked ‘AI’ Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/) | Techdirt | 2024-05-02 |
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [IBM to invest $730 million in Canadian semiconductor sector: Report](https://www.tomshardware.com/tech-industry/ibm-to-invest-dollar730-million-in-canadian-semiconductor-sector-report) | Tom's Hardware UK | 2024-04-29 |
-| [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 
 ## News for Pharma Market Trends
 
@@ -139,6 +139,7 @@
 | [Global Pseudomonas Aeruginosa Treatment Market Report 2024-2030: How Allergan, Teva Pharma, Pfizer, Lupin Pharma, Merck, BMS, and Janssen Pharma are Leading the Competition](https://www.globenewswire.com/news-release/2024/04/12/2862244/28124/en/Global-Pseudomonas-Aeruginosa-Treatment-Market-Report-2024-2030-How-Allergan-Teva-Pharma-Pfizer-Lupin-Pharma-Merck-BMS-and-Janssen-Pharma-are-Leading-the-Competition.html) | GlobeNewswire | 2024-04-12 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-26-12601751.html) | Moneycontrol | 2024-04-08 |
 | [Constructive on markets, 2 stocks to buy now: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/constructive-on-markets-2-stocks-to-buy-now-sudeep-shah/articleshow/109241627.cms) | The Times of India | 2024-04-12 |
+| [Forbes Daily: Why ‘Bitcoin Jesus’ Could Be Extradited To The U.S.](https://www.forbes.com/sites/daniellechemtob/2024/05/02/forbes-daily-why-bitcoin-jesus-could-be-extradited-to-the-us/) | Forbes | 2024-05-02 |
 | [Myasthenia Gravis (MG) Treatment Industry Forecast to 2030: A $2.5 Billion Market Dominated by Alexion Pharma, Grifols, Avadel Pharma, Novartis, Pfizer, AbbVie, and Roche](https://www.globenewswire.com/news-release/2024/04/17/2864286/28124/en/Myasthenia-Gravis-MG-Treatment-Industry-Forecast-to-2030-A-2-5-Billion-Market-Dominated-by-Alexion-Pharma-Grifols-Avadel-Pharma-Novartis-Pfizer-AbbVie-and-Roche.html) | GlobeNewswire | 2024-04-17 |
 | [The top pharmaceutical companies by R&D expenditure](https://www.pharmaceutical-technology.com/features/the-top-pharmaceutical-companies-by-rd-expenditure/) | Pharmaceutical Technology | 2024-05-02 |
 | [Stock Market Today: April Ends on Sour Note Ahead of Fed Decision](https://www.newsweek.com/stock-market-tuesday-eli-lilly-mcdonalds-pot-stocks-fed-decision-1895775) | Newsweek | 2024-04-30 |
@@ -148,7 +149,6 @@
 | [Gear up for a muted Q4; IT, pharma, metal may disappoint: S Krishnakumar](https://economictimes.indiatimes.com/markets/expert-view/gear-up-for-a-muted-q4-it-pharma-metal-may-disappoint-s-krishnakumar/articleshow/109198097.cms) | The Times of India | 2024-04-11 |
 | [Global Pharma Handbook 2024: Expanded Coverage of Health Systems, Sales, Demand Profiles, Clinical Trials, Drug Approval Procedures, Regulatory Policies, IP, Pricing, Marketing, Generics](https://www.globenewswire.com/news-release/2024/04/15/2862840/28124/en/Global-Pharma-Handbook-2024-Expanded-Coverage-of-Health-Systems-Sales-Demand-Profiles-Clinical-Trials-Drug-Approval-Procedures-Regulatory-Policies-IP-Pricing-Marketing-Generics.html) | GlobeNewswire | 2024-04-15 |
 | [Active Pharmaceutical Ingredient Market Trends Signal Growth Towards USD 446.6 Billion by 2032 With CAGR AT 6.4%](https://www.globenewswire.com/news-release/2024/04/23/2868000/0/en/Active-Pharmaceutical-Ingredient-Market-Trends-Signal-Growth-Towards-USD-446-6-Billion-by-2032-With-CAGR-AT-6-4.html) | GlobeNewswire | 2024-04-23 |
-| [Global High Potency API Contract Manufacturing Market Expects Growth with a CAGR of 8.42% Through 2028](https://www.globenewswire.com/news-release/2024/04/02/2856356/28124/en/Global-High-Potency-API-Contract-Manufacturing-Market-Expects-Growth-with-a-CAGR-of-8-42-Through-2028.html) | GlobeNewswire | 2024-04-02 |
 
 ## News for FDA Regulations
 
@@ -157,7 +157,6 @@
 | [Traces of H5N1 bird flu virus found in some milk, pasteurized dairy: FDA](https://abcnews.go.com/GMA/Food/traces-h5n1-bird-flu-virus-found-milk-pasteurized/story?id=109571684) | ABC News | 2024-04-24 |
 | [DEA to reclassify marijuana as a lower-risk drug, reports say](https://arstechnica.com/science/2024/04/dea-to-reclassify-marijuana-as-a-lower-risk-drug-reports-say/) | Ars Technica | 2024-04-30 |
 | [Trader Joe's recalls basil amid ongoing FDA salmonella investigation](https://abcnews.go.com/GMA/Food/trader-joes-recalls-basil-amid-salmonella-outbreak-investigation/story?id=109376201) | ABC News | 2024-04-18 |
-| [Regulatory hurdles for updating breakpoints for antimicrobial susceptibility test devices: What to know](https://phys.org/news/2024-04-regulatory-hurdles-breakpoints-antimicrobial-susceptibility.html) | Phys.Org | 2024-04-01 |
 | [Avian flu outbreak raises a disturbing question](https://phys.org/news/2024-04-avian-flu-outbreak-disturbing.html) | Phys.Org | 2024-04-22 |
 | [Bird flu in milk is alarming — but not for the reason you think](https://www.vox.com/future-perfect/24140017/milk-bird-flu-safe-dairy-usda-fda) | Vox | 2024-04-25 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
@@ -179,4 +178,5 @@
 | [Is Chicken Feces Behind The Bird Flu Outbreaks In Cows? Here’s What To Know.](https://www.forbes.com/sites/ariannajohnson/2024/04/30/is-chicken-feces-behind-the-bird-flu-outbreaks-in-cows-heres-what-to-know/) | Forbes | 2024-04-30 |
 | [17 Iconic French Pharmacy Products I Picked Up During a Week in Paris](https://www.whowhatwear.com/beauty/skin/french-pharmacy-skincare-products) | Who What Wear | 2024-04-21 |
 | [Federal judge strikes down some of North Carolina’s abortion pill restrictions](https://www.voanews.com/a/federal-judge-strikes-down-some-of-north-carolina-s-abortion-pill-restrictions-/7594014.html) | VOA News | 2024-05-01 |
+| [Civil rights, medical groups sue FDA over ‘almost unconscionable’ delay in banning menthol tobacco products](https://www.advocate.com/menthol-cigarette-ban-fda-lawsuit) | Advocate.com | 2024-04-04 |
 
