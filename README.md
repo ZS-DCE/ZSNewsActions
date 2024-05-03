@@ -26,9 +26,9 @@
 | [Pfizer accused of ‘bringing discredit’ on pharmaceutical industry after Covid social media posts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de71aa20-c6d5-4fb0-b6ea-891b2764246e) | Yahoo Entertainment | 2024-04-06 |
 | [New statistical-modeling workflow may help advance drug discovery and synthetic chemistry](https://phys.org/news/2024-04-statistical-workflow-advance-drug-discovery.html) | Phys.Org | 2024-04-08 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [De-Mystifying R Programming in Clinical Trials](https://www.r-bloggers.com/2024/05/de-mystifying-r-programming-in-clinical-trials/) | R-bloggers.com | 2024-05-02 |
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
 | [Pomegranate power: Unlocking sustainable antimicrobial solutions from peels](https://phys.org/news/2024-04-pomegranate-power-sustainable-antimicrobial-solutions.html) | Phys.Org | 2024-04-19 |
-| [Pfizer issues apology after British regulator pushes back against their COVID-19 vaccine fraud](https://www.naturalnews.com/2024-04-11-pfizer-issues-apology-after-regulator-pushes-back.html) | Naturalnews.com | 2024-04-11 |
 
 ## News for Life Sciences
 
@@ -56,8 +56,8 @@
 | [1 ice grain from Jupiter’s moon may be enough to find signs of life](https://www.futurity.org/moons-emits-ice-grain-signs-of-life-3204962/) | Futurity: Research News | 2024-04-10 |
 | [How Our Thoughts Shape the Way Spoken Words Evolve](https://www.scientificamerican.com/article/how-our-thoughts-shape-the-way-spoken-words-evolve/) | Scientific American | 2024-04-16 |
 | [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
-| [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 | [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
+| [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 | [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
 
 ## News for Medical Devices
@@ -115,8 +115,8 @@
 | [CISA publishes 447 page draft of cyber incident reporting rule](https://therecord.media/cisa-publishes-circia-rule-cyber-incident-reporting) | Therecord.media | 2024-04-06 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
-| [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
+| [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [IBM to invest $730 million in Canadian semiconductor sector: Report](https://www.tomshardware.com/tech-industry/ibm-to-invest-dollar730-million-in-canadian-semiconductor-sector-report) | Tom's Hardware UK | 2024-04-29 |
 | [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 
