@@ -8,6 +8,7 @@
 | [Oncologists' meetings with drug reps don't help cancer patients live longer](https://www.npr.org/sections/health-shots/2024/04/22/1246054537/doctor-meetings-drug-reps-pharma-cancer-patients-live-longer-survival) | NPR | 2024-04-22 |
 | [Audacious Ukrainian drone attacks keep doing massive damage to Russia's oil industry](https://www.businessinsider.com/ukraine-drone-strikes-are-doing-massive-damage-to-russia-oil-sector-2024-4) | Business Insider | 2024-04-25 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
+| [Stardog’s Karaoke offers on-premises, zero hallucination LLM solution for enterprises](https://venturebeat.com/data-infrastructure/stardogs-karaoke-offers-on-premises-zero-hallucination-llm-solution-for-enterprises/) | VentureBeat | 2024-05-02 |
 | [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
 | [Sales Commission Rates by Industry](https://smallbiztrends.com/sales-commission-rates-by-industry/) | Small Business Trends | 2024-04-15 |
 | [State Of The Pharma Industry: Present And Future](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/08/state-of-the-pharma-industry-present-and-future/) | Forbes | 2024-04-08 |
@@ -28,7 +29,6 @@
 | [De-Mystifying R Programming in Clinical Trials](https://www.r-bloggers.com/2024/05/de-mystifying-r-programming-in-clinical-trials/) | R-bloggers.com | 2024-05-02 |
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
 | [Pomegranate power: Unlocking sustainable antimicrobial solutions from peels](https://phys.org/news/2024-04-pomegranate-power-sustainable-antimicrobial-solutions.html) | Phys.Org | 2024-04-19 |
-| [Pfizer issues apology after British regulator pushes back against their COVID-19 vaccine fraud](https://www.naturalnews.com/2024-04-11-pfizer-issues-apology-after-regulator-pushes-back.html) | Naturalnews.com | 2024-04-11 |
 
 ## News for Life Sciences
 
@@ -147,8 +147,8 @@
 | [Uveitis Market Insight, Epidemiology and Market Forecast to 2034: Assessment of Competitors, Market, Current Trends and Upcoming Treatments](https://www.globenewswire.com/news-release/2024/04/23/2867378/28124/en/Uveitis-Market-Insight-Epidemiology-and-Market-Forecast-to-2034-Assessment-of-Competitors-Market-Current-Trends-and-Upcoming-Treatments.html) | GlobeNewswire | 2024-04-23 |
 | [Belgian Deputy PM says a European Action Plan on Rare Diseases is ‘essential’](https://www.euractiv.com/section/health-consumers/news/belgian-deputy-pm-says-a-european-action-plan-on-rare-diseases-is-essential/) | EURACTIV | 2024-04-17 |
 | [Gear up for a muted Q4; IT, pharma, metal may disappoint: S Krishnakumar](https://economictimes.indiatimes.com/markets/expert-view/gear-up-for-a-muted-q4-it-pharma-metal-may-disappoint-s-krishnakumar/articleshow/109198097.cms) | The Times of India | 2024-04-11 |
+| [Molecular Biology Enzymes And Kits And Reagents Market Surges to USD 69.4 Billion by 2031, Propelled by 17.35% CAGR - Verified Market Research®](https://www.globenewswire.com/news-release/2024/05/02/2874373/0/en/Molecular-Biology-Enzymes-And-Kits-And-Reagents-Market-Surges-to-USD-69-4-Billion-by-2031-Propelled-by-17-35-CAGR-Verified-Market-Research.html) | GlobeNewswire | 2024-05-02 |
 | [Global Pharma Handbook 2024: Expanded Coverage of Health Systems, Sales, Demand Profiles, Clinical Trials, Drug Approval Procedures, Regulatory Policies, IP, Pricing, Marketing, Generics](https://www.globenewswire.com/news-release/2024/04/15/2862840/28124/en/Global-Pharma-Handbook-2024-Expanded-Coverage-of-Health-Systems-Sales-Demand-Profiles-Clinical-Trials-Drug-Approval-Procedures-Regulatory-Policies-IP-Pricing-Marketing-Generics.html) | GlobeNewswire | 2024-04-15 |
-| [Active Pharmaceutical Ingredient Market Trends Signal Growth Towards USD 446.6 Billion by 2032 With CAGR AT 6.4%](https://www.globenewswire.com/news-release/2024/04/23/2868000/0/en/Active-Pharmaceutical-Ingredient-Market-Trends-Signal-Growth-Towards-USD-446-6-Billion-by-2032-With-CAGR-AT-6-4.html) | GlobeNewswire | 2024-04-23 |
 
 ## News for FDA Regulations
 
@@ -157,6 +157,7 @@
 | [Traces of H5N1 bird flu virus found in some milk, pasteurized dairy: FDA](https://abcnews.go.com/GMA/Food/traces-h5n1-bird-flu-virus-found-milk-pasteurized/story?id=109571684) | ABC News | 2024-04-24 |
 | [DEA to reclassify marijuana as a lower-risk drug, reports say](https://arstechnica.com/science/2024/04/dea-to-reclassify-marijuana-as-a-lower-risk-drug-reports-say/) | Ars Technica | 2024-04-30 |
 | [Trader Joe's recalls basil amid ongoing FDA salmonella investigation](https://abcnews.go.com/GMA/Food/trader-joes-recalls-basil-amid-salmonella-outbreak-investigation/story?id=109376201) | ABC News | 2024-04-18 |
+| [Ozempic maker Novo Nordisk denies flooding market with 'junk' patents after FTC challenge](https://qz.com/ozempic-ftc-response-1851451265) | Quartz India | 2024-05-02 |
 | [Avian flu outbreak raises a disturbing question](https://phys.org/news/2024-04-avian-flu-outbreak-disturbing.html) | Phys.Org | 2024-04-22 |
 | [Bird flu in milk is alarming — but not for the reason you think](https://www.vox.com/future-perfect/24140017/milk-bird-flu-safe-dairy-usda-fda) | Vox | 2024-04-25 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
@@ -164,6 +165,7 @@
 | [Farm Bill Hemp: 21 AGs Refuse To Cite Source Material And Mischaracterize Facts And Data](https://www.forbes.com/sites/roberthoban/2024/04/08/farm-bill-hemp-21-ags-refuse-to-cite-source-material-and-mischaracterize-facts-and-data/) | Forbes | 2024-04-08 |
 | [Dangers Of Humans Taking Animal Drugs And Vice Versa](https://www.forbes.com/sites/joshuacohen/2024/04/11/dangers-of-humans-taking-animal-drugs-and-vice-versa/) | Forbes | 2024-04-11 |
 | [Dietary supplement industry shares urgency in seeing FDA crack down](https://www.bostonglobe.com/2024/04/11/opinion/letters-to-the-editor-dietary-supplement-regulation/) | The Boston Globe | 2024-04-11 |
+| [Rescheduling Marijuana Won’t Reduce Regulatory Confusion On Drug’s Use](https://www.forbes.com/sites/joshuacohen/2024/05/02/rescheduling-marijuana-wont-reduce-regulatory-confusion-on-drugs-use/) | Forbes | 2024-05-02 |
 | [FDA’s Biosimilars Action Plan](https://www.healthcare-economist.com/2024/04/30/fdas-biosimilars-action-plan/) | Healthcare-economist.com | 2024-05-01 |
 | [FDA Once Again Stands Athwart Biomedical Innovation, Yelling 'Stop!'](https://reason.com/2024/04/29/fda-once-again-stands-athwart-biomedical-innovation-yelling-stop/) | Reason | 2024-04-29 |
 | [Losing my phone while abroad nearly cost me my health](https://www.androidpolice.com/lost-phone-health-concerns/) | Android Police | 2024-04-14 |
@@ -177,6 +179,4 @@
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
 | [Is Chicken Feces Behind The Bird Flu Outbreaks In Cows? Here’s What To Know.](https://www.forbes.com/sites/ariannajohnson/2024/04/30/is-chicken-feces-behind-the-bird-flu-outbreaks-in-cows-heres-what-to-know/) | Forbes | 2024-04-30 |
 | [17 Iconic French Pharmacy Products I Picked Up During a Week in Paris](https://www.whowhatwear.com/beauty/skin/french-pharmacy-skincare-products) | Who What Wear | 2024-04-21 |
-| [Federal judge strikes down some of North Carolina’s abortion pill restrictions](https://www.voanews.com/a/federal-judge-strikes-down-some-of-north-carolina-s-abortion-pill-restrictions-/7594014.html) | VOA News | 2024-05-01 |
-| [Civil rights, medical groups sue FDA over ‘almost unconscionable’ delay in banning menthol tobacco products](https://www.advocate.com/menthol-cigarette-ban-fda-lawsuit) | Advocate.com | 2024-04-04 |
 
