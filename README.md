@@ -139,6 +139,7 @@
 | [Global Pseudomonas Aeruginosa Treatment Market Report 2024-2030: How Allergan, Teva Pharma, Pfizer, Lupin Pharma, Merck, BMS, and Janssen Pharma are Leading the Competition](https://www.globenewswire.com/news-release/2024/04/12/2862244/28124/en/Global-Pseudomonas-Aeruginosa-Treatment-Market-Report-2024-2030-How-Allergan-Teva-Pharma-Pfizer-Lupin-Pharma-Merck-BMS-and-Janssen-Pharma-are-Leading-the-Competition.html) | GlobeNewswire | 2024-04-12 |
 | [Trade setup for Tuesday: 15 things to know before opening bell](https://www.moneycontrol.com/news/business/markets/trade-setup-for-tuesday-15-things-to-know-before-opening-bell-26-12601751.html) | Moneycontrol | 2024-04-08 |
 | [Constructive on markets, 2 stocks to buy now: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/constructive-on-markets-2-stocks-to-buy-now-sudeep-shah/articleshow/109241627.cms) | The Times of India | 2024-04-12 |
+| [Bullish on 2 stocks; Kotak Bank could fall to Rs 1480, 1450 levels in the next few weeks: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/bullish-on-2-stocks-kotak-bank-could-fall-to-rs-1480-1450-levels-in-the-next-few-weeks-sudeep-shah/articleshow/109816512.cms) | The Times of India | 2024-05-03 |
 | [Forbes Daily: Why ‘Bitcoin Jesus’ Could Be Extradited To The U.S.](https://www.forbes.com/sites/daniellechemtob/2024/05/02/forbes-daily-why-bitcoin-jesus-could-be-extradited-to-the-us/) | Forbes | 2024-05-02 |
 | [Myasthenia Gravis (MG) Treatment Industry Forecast to 2030: A $2.5 Billion Market Dominated by Alexion Pharma, Grifols, Avadel Pharma, Novartis, Pfizer, AbbVie, and Roche](https://www.globenewswire.com/news-release/2024/04/17/2864286/28124/en/Myasthenia-Gravis-MG-Treatment-Industry-Forecast-to-2030-A-2-5-Billion-Market-Dominated-by-Alexion-Pharma-Grifols-Avadel-Pharma-Novartis-Pfizer-AbbVie-and-Roche.html) | GlobeNewswire | 2024-04-17 |
 | [The top pharmaceutical companies by R&D expenditure](https://www.pharmaceutical-technology.com/features/the-top-pharmaceutical-companies-by-rd-expenditure/) | Pharmaceutical Technology | 2024-05-02 |
@@ -148,7 +149,6 @@
 | [Belgian Deputy PM says a European Action Plan on Rare Diseases is ‘essential’](https://www.euractiv.com/section/health-consumers/news/belgian-deputy-pm-says-a-european-action-plan-on-rare-diseases-is-essential/) | EURACTIV | 2024-04-17 |
 | [Gear up for a muted Q4; IT, pharma, metal may disappoint: S Krishnakumar](https://economictimes.indiatimes.com/markets/expert-view/gear-up-for-a-muted-q4-it-pharma-metal-may-disappoint-s-krishnakumar/articleshow/109198097.cms) | The Times of India | 2024-04-11 |
 | [Molecular Biology Enzymes And Kits And Reagents Market Surges to USD 69.4 Billion by 2031, Propelled by 17.35% CAGR - Verified Market Research®](https://www.globenewswire.com/news-release/2024/05/02/2874373/0/en/Molecular-Biology-Enzymes-And-Kits-And-Reagents-Market-Surges-to-USD-69-4-Billion-by-2031-Propelled-by-17-35-CAGR-Verified-Market-Research.html) | GlobeNewswire | 2024-05-02 |
-| [Global Pharma Handbook 2024: Expanded Coverage of Health Systems, Sales, Demand Profiles, Clinical Trials, Drug Approval Procedures, Regulatory Policies, IP, Pricing, Marketing, Generics](https://www.globenewswire.com/news-release/2024/04/15/2862840/28124/en/Global-Pharma-Handbook-2024-Expanded-Coverage-of-Health-Systems-Sales-Demand-Profiles-Clinical-Trials-Drug-Approval-Procedures-Regulatory-Policies-IP-Pricing-Marketing-Generics.html) | GlobeNewswire | 2024-04-15 |
 
 ## News for FDA Regulations
 
@@ -170,6 +170,7 @@
 | [FDA Once Again Stands Athwart Biomedical Innovation, Yelling 'Stop!'](https://reason.com/2024/04/29/fda-once-again-stands-athwart-biomedical-innovation-yelling-stop/) | Reason | 2024-04-29 |
 | [Losing my phone while abroad nearly cost me my health](https://www.androidpolice.com/lost-phone-health-concerns/) | Android Police | 2024-04-14 |
 | [Will The White House’s Plan To Curb Drug Shortages Work?](https://www.forbes.com/sites/arthurkellermann/2024/04/24/will-the-white-houses-plan-to-curb-drug-shortages-work/) | Forbes | 2024-04-24 |
+| [Ground Crickets Commonly Added to Foods Under the Name 'Acheta Powder'?](https://www.snopes.com//fact-check/ground-crickets-food-acheta-powder/) | Snopes.com | 2024-05-03 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Food Chains Cultivate Common Ground In Safety And Sustainability](https://www.forbes.com/sites/sap/2024/04/23/food-chains-cultivate-common-ground-in-safety-and-sustainability/) | Forbes | 2024-04-23 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
@@ -178,5 +179,4 @@
 | [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
 | [How Ketamine May Be The Answer To Treatment-Resistant Depression](https://www.forbes.com/sites/traversmark/2024/04/09/how-ketamine-may-be-the-answer-to-treatment-resistant-depression/) | Forbes | 2024-04-09 |
-| [Is Chicken Feces Behind The Bird Flu Outbreaks In Cows? Here’s What To Know.](https://www.forbes.com/sites/ariannajohnson/2024/04/30/is-chicken-feces-behind-the-bird-flu-outbreaks-in-cows-heres-what-to-know/) | Forbes | 2024-04-30 |
 
