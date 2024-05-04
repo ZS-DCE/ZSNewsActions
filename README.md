@@ -98,6 +98,7 @@
 | [Larry Ellison says Oracle's HQ is moving to Nashville — 4 years after relocating from California to Texas](https://www.businessinsider.com/oracle-planning-nashville-hq-move-larry-ellison-2024-4) | Business Insider | 2024-04-24 |
 | ['The NHS paid for my mum to go private. She died'](https://www.bbc.co.uk/news/uk-68717086) | BBC News | 2024-04-08 |
 | [Hospital wait times will still be bad this year, even with labor gains](https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4) | Business Insider | 2024-04-19 |
+| [It's getting really hard to find a job that pays well](https://www.businessinsider.com/economy-adding-low-paying-healthcare-retail-jobs-high-wages-scarce-2024-5) | Business Insider | 2024-05-03 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [The Papers: Major gender care review, and 'Mr Bates vs thugs in suits'](https://www.bbc.co.uk/news/blogs-the-papers-68775970) | BBC News | 2024-04-09 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news) | The Next Web | 2024-04-26 |
@@ -118,7 +119,6 @@
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [How Companies Can Help Realize The Benefits Of Digital Public Infrastructure](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/04/how-companies-can-help-realize-the-benefits-of-digital-public-infrastructure/) | Forbes | 2024-04-04 |
 | [IBM to invest $730 million in Canadian semiconductor sector: Report](https://www.tomshardware.com/tech-industry/ibm-to-invest-dollar730-million-in-canadian-semiconductor-sector-report) | Tom's Hardware UK | 2024-04-29 |
-| [Healthcare Cybersecurity: A Global Imperative](https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/) | Forbes | 2024-04-05 |
 
 ## News for Pharma Market Trends
 
