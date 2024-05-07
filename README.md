@@ -167,6 +167,7 @@
 | [Dietary supplement industry shares urgency in seeing FDA crack down](https://www.bostonglobe.com/2024/04/11/opinion/letters-to-the-editor-dietary-supplement-regulation/) | The Boston Globe | 2024-04-11 |
 | [Rescheduling Marijuana Won’t Reduce Regulatory Confusion On Drug’s Use](https://www.forbes.com/sites/joshuacohen/2024/05/02/rescheduling-marijuana-wont-reduce-regulatory-confusion-on-drugs-use/) | Forbes | 2024-05-02 |
 | [FDA’s Biosimilars Action Plan](https://www.healthcare-economist.com/2024/04/30/fdas-biosimilars-action-plan/) | Healthcare-economist.com | 2024-05-01 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [FDA Once Again Stands Athwart Biomedical Innovation, Yelling 'Stop!'](https://reason.com/2024/04/29/fda-once-again-stands-athwart-biomedical-innovation-yelling-stop/) | Reason | 2024-04-29 |
 | [Losing my phone while abroad nearly cost me my health](https://www.androidpolice.com/lost-phone-health-concerns/) | Android Police | 2024-04-14 |
 | [Will The White House’s Plan To Curb Drug Shortages Work?](https://www.forbes.com/sites/arthurkellermann/2024/04/24/will-the-white-houses-plan-to-curb-drug-shortages-work/) | Forbes | 2024-04-24 |
@@ -178,5 +179,4 @@
 | [After years of caution, pharma advertisers are embracing influencer marketing](http://digiday.com/marketing/after-years-of-caution-pharma-advertisers-are-embracing-influencer-marketing/) | Digiday | 2024-05-03 |
 | [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
-| [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
 
