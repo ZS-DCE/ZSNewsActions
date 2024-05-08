@@ -148,7 +148,7 @@
 | [Belgian Deputy PM says a European Action Plan on Rare Diseases is ‘essential’](https://www.euractiv.com/section/health-consumers/news/belgian-deputy-pm-says-a-european-action-plan-on-rare-diseases-is-essential/) | EURACTIV | 2024-04-17 |
 | [Gear up for a muted Q4; IT, pharma, metal may disappoint: S Krishnakumar](https://economictimes.indiatimes.com/markets/expert-view/gear-up-for-a-muted-q4-it-pharma-metal-may-disappoint-s-krishnakumar/articleshow/109198097.cms) | The Times of India | 2024-04-11 |
 | [Molecular Biology Enzymes And Kits And Reagents Market Surges to USD 69.4 Billion by 2031, Propelled by 17.35% CAGR - Verified Market Research®](https://www.globenewswire.com/news-release/2024/05/02/2874373/0/en/Molecular-Biology-Enzymes-And-Kits-And-Reagents-Market-Surges-to-USD-69-4-Billion-by-2031-Propelled-by-17-35-CAGR-Verified-Market-Research.html) | GlobeNewswire | 2024-05-02 |
-| [Global Pharma Handbook 2024: Expanded Coverage of Health Systems, Sales, Demand Profiles, Clinical Trials, Drug Approval Procedures, Regulatory Policies, IP, Pricing, Marketing, Generics](https://www.globenewswire.com/news-release/2024/04/15/2862840/28124/en/Global-Pharma-Handbook-2024-Expanded-Coverage-of-Health-Systems-Sales-Demand-Profiles-Clinical-Trials-Drug-Approval-Procedures-Regulatory-Policies-IP-Pricing-Marketing-Generics.html) | GlobeNewswire | 2024-04-15 |
+| [Gynecology Collaboration, R&D, and Licensing Deals Trends Report 2024](https://www.globenewswire.com/news-release/2024/05/07/2876831/28124/en/Gynecology-Collaboration-R-D-and-Licensing-Deals-Trends-Report-2024.html) | GlobeNewswire | 2024-05-07 |
 
 ## News for FDA Regulations
 
