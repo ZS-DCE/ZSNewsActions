@@ -105,8 +105,9 @@
 | [Welcome to 'peak boomer' era: A wave of retirees is about to blow through their savings and cling to Social Security to stay afloat](https://www.businessinsider.com/how-retirement-of-peak-boomers-could-affect-economy-social-security-2024-4) | Business Insider | 2024-04-19 |
 | [How Ogilvy’s Combatting Misinformation in the Healthcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-healthcare-sector/269537/) | ClickZ | 2024-04-24 |
 | [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/) | Theregister.com | 2024-04-30 |
-| [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
+| [Leading Index for Commercial Real Estate Increased 6% in April](https://www.blogger.com/comment.g?blogID=10004977&postID=4866999012488337633&bpli=1) | Blogger.com | 2024-05-08 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
+| [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
 | [Nurses Say Hospital Adoption Of Half-Cooked ‘AI’ Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/) | Techdirt | 2024-05-02 |
@@ -118,7 +119,6 @@
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
 | [Smart Hospitals: Digitalizing Healthcare For A New Era](https://www.forbes.com/sites/siemens-smart-infrastructure/2024/04/30/smart-hospitals-digitalizing-healthcare-for-a-new-era/) | Forbes | 2024-04-30 |
 | [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html) | Answer.ai | 2024-04-29 |
-| [The Surge Of Healthcare Costs: Navigating The Call For Innovation](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/10/the-surge-of-healthcare-costs-navigating-the-call-for-innovation/) | Forbes | 2024-04-10 |
 
 ## News for Pharma Market Trends
 
@@ -174,9 +174,9 @@
 | [Ground Crickets Commonly Added to Foods Under the Name 'Acheta Powder'?](https://www.snopes.com//fact-check/ground-crickets-food-acheta-powder/) | Snopes.com | 2024-05-03 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Food Chains Cultivate Common Ground In Safety And Sustainability](https://www.forbes.com/sites/sap/2024/04/23/food-chains-cultivate-common-ground-in-safety-and-sustainability/) | Forbes | 2024-04-23 |
+| [EPA, FDA, and USDA Issue Joint Regulatory Plan for Biotechnology](https://www.fda.gov/news-events/press-announcements/epa-fda-and-usda-issue-joint-regulatory-plan-biotechnology) | FDA.gov | 2024-05-08 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [After years of caution, pharma advertisers are embracing influencer marketing](http://digiday.com/marketing/after-years-of-caution-pharma-advertisers-are-embracing-influencer-marketing/) | Digiday | 2024-05-03 |
 | [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
-| [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
 
