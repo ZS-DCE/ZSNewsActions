@@ -96,7 +96,6 @@
 | ----- | ------ | --------- |
 | [Preventing the Next Big Cyberattack on U.S. Health Care](https://hbr.org/2024/05/preventing-the-next-big-cyberattack-on-u-s-health-care) | Harvard Business Review | 2024-05-01 |
 | [Larry Ellison says Oracle's HQ is moving to Nashville — 4 years after relocating from California to Texas](https://www.businessinsider.com/oracle-planning-nashville-hq-move-larry-ellison-2024-4) | Business Insider | 2024-04-24 |
-| ['The NHS paid for my mum to go private. She died'](https://www.bbc.co.uk/news/uk-68717086) | BBC News | 2024-04-08 |
 | [Hospital wait times will still be bad this year, even with labor gains](https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4) | Business Insider | 2024-04-19 |
 | [It's getting really hard to find a job that pays well](https://www.businessinsider.com/economy-adding-low-paying-healthcare-retail-jobs-high-wages-scarce-2024-5) | Business Insider | 2024-05-03 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
@@ -106,7 +105,6 @@
 | [Welcome to 'peak boomer' era: A wave of retirees is about to blow through their savings and cling to Social Security to stay afloat](https://www.businessinsider.com/how-retirement-of-peak-boomers-could-affect-economy-social-security-2024-4) | Business Insider | 2024-04-19 |
 | [How Ogilvy’s Combatting Misinformation in the Healthcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-healthcare-sector/269537/) | ClickZ | 2024-04-24 |
 | [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/) | Theregister.com | 2024-04-30 |
-| [‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla](https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/) | The Indian Express | 2024-04-07 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
@@ -119,6 +117,8 @@
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
 | [Smart Hospitals: Digitalizing Healthcare For A New Era](https://www.forbes.com/sites/siemens-smart-infrastructure/2024/04/30/smart-hospitals-digitalizing-healthcare-for-a-new-era/) | Forbes | 2024-04-30 |
 | [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html) | Answer.ai | 2024-04-29 |
+| [The Surge Of Healthcare Costs: Navigating The Call For Innovation](https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/10/the-surge-of-healthcare-costs-navigating-the-call-for-innovation/) | Forbes | 2024-04-10 |
+| [LatAm Emerging: A Tech Sector On The Rise](https://www.forbes.com/sites/forbestechcouncil/2024/04/12/latam-emerging-a-tech-sector-on-the-rise/) | Forbes | 2024-04-12 |
 
 ## News for Pharma Market Trends
 
