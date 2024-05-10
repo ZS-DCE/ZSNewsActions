@@ -12,12 +12,12 @@
 | [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
 | [Sales Commission Rates by Industry](https://smallbiztrends.com/sales-commission-rates-by-industry/) | Small Business Trends | 2024-04-15 |
 | [After 26,000 public comments, FTC to vote on rule banning noncompete agreements](https://www.npr.org/2024/04/23/1246430110/noncompete-agreements-ftc-ban-lina-khan) | NPR | 2024-04-23 |
-| [Are Direct-to-Consumer Drug Ads Becoming Fair and Balanced?](https://www.psychologytoday.com/intl/blog/ask-an-epidemiologist/202404/are-direct-to-consumer-drug-ads-becoming-fair-and-balanced) | Psychology Today | 2024-04-09 |
 | [EU to make pharmaceutical and cosmetic industries pay for treating water](https://phys.org/news/2024-04-eu-pharmaceutical-cosmetic-industries-pay.html) | Phys.Org | 2024-04-11 |
 | [FTC looking to accelerate inquiry into prescription-drug middlemen, chair says](https://www.marketwatch.com/story/ftc-looking-to-accelerate-inquiry-into-prescription-drug-middlemen-chair-says-c93f69e1) | MarketWatch | 2024-04-23 |
 | [Navigating R’s Impact in Vienna: Insights from the Finance and Pharmaceutical Sectors](https://www.r-bloggers.com/2024/04/navigating-rs-impact-in-vienna-insights-from-the-finance-and-pharmaceutical-sectors/) | R-bloggers.com | 2024-04-19 |
 | [Vital Science](https://www.businessinsider.com/sc/why-the-uk-is-betting-on-the-future-of-science) | Business Insider | 2024-04-17 |
 | [Bernie Sanders, 82, Will Seek Another 6-Year Senate Term, Calling His Service 'the Honor of My Life'](https://people.com/bernie-sanders-announces-2024-reelection-bid-8644010) | PEOPLE | 2024-05-06 |
+| [Cuba may import sugar, rum industry pressed amid disastrous harvest](https://biztoc.com/x/483f81bc4dc0e9e2) | Biztoc.com | 2024-05-09 |
 | [Cost of developing new drugs may be far lower than industry claims, trial reveals](https://biztoc.com/x/a5491596ccdaf818) | Biztoc.com | 2024-04-25 |
 | [Merck and other pharma giants are bracing for competition to their blockbuster drugs. Here's how.](https://qz.com/merck-bristol-myers-abbvie-blockbuster-pharma-drugs-1851461432) | Quartz India | 2024-05-08 |
 | [The Pharmaceutical Industry Finds Itself At A Historical Crossroads](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0967c9b8-cfac-4363-9a88-d82be9f5095d) | Yahoo Entertainment | 2024-04-10 |
@@ -66,13 +66,13 @@
 | ----- | ------ | --------- |
 | [Apple Watch AFib History Feature Qualified by FDA to Evaluate Medical Devices](https://www.macrumors.com/2024/05/02/apple-watch-afib-history-evaluate-medical-devices/) | MacRumors | 2024-05-02 |
 | [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/) | Wired | 2024-04-24 |
+| [Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/) | Wired | 2024-05-09 |
 | [Razer made a million dollars selling a mask with RGB, and the FTC is not pleased](https://www.theverge.com/2024/4/29/24144425/razer-zephyr-face-mask-covid-n95-ftc-settlement) | The Verge | 2024-04-29 |
 | [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/) | Wired | 2024-05-01 |
 | [Now you can put your Botox on Affirm](https://www.businessinsider.com/affirm-bnpl-buy-now-pay-later-botox-fillers-cosmetic-procedures-2024-4) | Business Insider | 2024-04-24 |
 | [FDA Recalls Heart Pumps Linked to Deaths and Injuries](https://www.scientificamerican.com/article/fda-recalls-heart-pumps-linked-to-deaths-and-injuries/) | Scientific American | 2024-04-18 |
 | [Refurbished Apple Watch Ultra 2 Begins Rolling Out Outside U.S.](https://www.macrumors.com/2024/04/18/refurbished-apple-watch-ultra-2-begins-rolling-out/) | MacRumors | 2024-04-18 |
 | [Razer Made a Million Dollars Selling a Mask With RGB, And the FTC is Not Pleased](https://news.slashdot.org/story/24/04/29/1650210/razer-made-a-million-dollars-selling-a-mask-with-rgb-and-the-ftc-is-not-pleased) | Slashdot.org | 2024-04-29 |
-| [EPA Limits Pollution From Chemical Plants](https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants) | Slashdot.org | 2024-04-09 |
 | [Implantable Battery Charges Itself](https://hackaday.com/2024/04/25/implantable-battery-charges-itself/) | Hackaday | 2024-04-25 |
 | [Unlocking health and life sciences' potential with cloud solutions](https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions) | Business Insider | 2024-04-16 |
 | [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice) | AppleInsider | 2024-04-16 |
@@ -102,8 +102,10 @@
 | [The Papers: Major gender care review, and 'Mr Bates vs thugs in suits'](https://www.bbc.co.uk/news/blogs-the-papers-68775970) | BBC News | 2024-04-09 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news) | The Next Web | 2024-04-26 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
+| [US faith-based healthcare org Ascension says 'cybersecurity event' disrupted clinical ops](https://www.theregister.com/2024/05/09/us_faithbased_healthcare_org_ascension/) | Theregister.com | 2024-05-09 |
 | [Welcome to 'peak boomer' era: A wave of retirees is about to blow through their savings and cling to Social Security to stay afloat](https://www.businessinsider.com/how-retirement-of-peak-boomers-could-affect-economy-social-security-2024-4) | Business Insider | 2024-04-19 |
 | [How Ogilvy’s Combatting Misinformation in the Healthcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-healthcare-sector/269537/) | ClickZ | 2024-04-24 |
+| [Ascension Attack Intensifies Scrutiny Of Healthcare Cyber Defenses](https://www.forbes.com/sites/tonybradley/2024/05/09/ascension-attack-intensifies-scrutiny-of-healthcare-cyber-defenses/) | Forbes | 2024-05-09 |
 | [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/) | Theregister.com | 2024-04-30 |
 | [Leading Index for Commercial Real Estate Increased 6% in April](https://www.blogger.com/comment.g?blogID=10004977&postID=4866999012488337633&bpli=1) | Blogger.com | 2024-05-08 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
@@ -117,8 +119,6 @@
 | [How do you help patients who show up in the ER 100 times a year?](https://www.npr.org/sections/health-shots/2024/05/03/1248830931/how-do-you-help-patients-who-show-up-in-the-er-100-times-a-year) | NPR | 2024-05-03 |
 | [How Ogilvy’s Combatting Misinformation in the Heathcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-heathcare-sector/269537/) | ClickZ | 2024-04-24 |
 | [What Advances In Genomic Tech May Mean For Investors](https://www.forbes.com/sites/forbesfinancecouncil/2024/04/10/what-advances-in-genomic-tech-may-mean-for-investors/) | Forbes | 2024-04-10 |
-| [Smart Hospitals: Digitalizing Healthcare For A New Era](https://www.forbes.com/sites/siemens-smart-infrastructure/2024/04/30/smart-hospitals-digitalizing-healthcare-for-a-new-era/) | Forbes | 2024-04-30 |
-| [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html) | Answer.ai | 2024-04-29 |
 
 ## News for Pharma Market Trends
 
