@@ -81,8 +81,8 @@
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
+| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
@@ -125,6 +125,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Navigating The Cookieless Era: How Pharma Adapts To Continual Disruption](https://www.forbes.com/sites/forbestechcouncil/2024/04/10/navigating-the-cookieless-era-how-pharma-adapts-to-continual-disruption/) | Forbes | 2024-04-10 |
+| [5 Best Undervalued Stocks To Buy In May 2024](https://www.forbes.com/sites/investor-hub/article/best-undervalued-stocks-to-buy-may-2024/) | Forbes | 2024-05-09 |
 | [Bitcoin and Biodiversity in the Cannabis Industry](https://bitcoinmagazine.com/markets/bitcoin-and-biodiversity-in-the-cannabis-industry) | Bitcoin Magazine | 2024-04-30 |
 | [How To Bake Values Into Your Brand Voice](https://www.forbes.com/sites/forbesagencycouncil/2024/04/15/how-to-bake-values-into-your-brand-voice/) | Forbes | 2024-04-15 |
 | [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
@@ -148,7 +149,6 @@
 | [Molecular Biology Enzymes And Kits And Reagents Market Surges to USD 69.4 Billion by 2031, Propelled by 17.35% CAGR - Verified Market Research®](https://www.globenewswire.com/news-release/2024/05/02/2874373/0/en/Molecular-Biology-Enzymes-And-Kits-And-Reagents-Market-Surges-to-USD-69-4-Billion-by-2031-Propelled-by-17-35-CAGR-Verified-Market-Research.html) | GlobeNewswire | 2024-05-02 |
 | [Gynecology Collaboration, R&D, and Licensing Deals Trends Report 2024](https://www.globenewswire.com/news-release/2024/05/07/2876831/28124/en/Gynecology-Collaboration-R-D-and-Licensing-Deals-Trends-Report-2024.html) | GlobeNewswire | 2024-05-07 |
 | [Global Pharma Handbook 2024: Expanded Coverage of Health Systems, Sales, Demand Profiles, Clinical Trials, Drug Approval Procedures, Regulatory Policies, IP, Pricing, Marketing, Generics](https://www.globenewswire.com/news-release/2024/04/15/2862840/28124/en/Global-Pharma-Handbook-2024-Expanded-Coverage-of-Health-Systems-Sales-Demand-Profiles-Clinical-Trials-Drug-Approval-Procedures-Regulatory-Policies-IP-Pricing-Marketing-Generics.html) | GlobeNewswire | 2024-04-15 |
-| [Active Pharmaceutical Ingredient Market Trends Signal Growth Towards USD 446.6 Billion by 2032 With CAGR AT 6.4%](https://www.globenewswire.com/news-release/2024/04/23/2868000/0/en/Active-Pharmaceutical-Ingredient-Market-Trends-Signal-Growth-Towards-USD-446-6-Billion-by-2032-With-CAGR-AT-6-4.html) | GlobeNewswire | 2024-04-23 |
 
 ## News for FDA Regulations
 
