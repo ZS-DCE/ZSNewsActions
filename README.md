@@ -40,11 +40,13 @@
 | [Harvard hopefuls are going to need to start cramming for the SAT again](https://www.businessinsider.com/harvard-sat-act-standardized-testing-back-ivy-league-2024-4) | Business Insider | 2024-04-11 |
 | [Pssst… Wanna Buy An Old Supercomputer?](https://hackaday.com/2024/05/01/pssst-wanna-buy-an-old-supercomputer/) | Hackaday | 2024-05-01 |
 | [Swimming and spinning aquatic spiders use slick survival strategies](https://knowablemagazine.org/content/article/living-world/2024/meet-the-aquatic-spiders) | Knowablemagazine.org | 2024-04-28 |
+| [Video Games Hall of Fame members include Resident Evil and SimCity, pass on Metroid](https://readwrite.com/video-games-hall-of-fame-2024-members-resident-evil-ultima-simcity-myst/) | ReadWrite | 2024-05-10 |
 | [You Can't Blame Everything on Covid-19](https://gizmodo.com/covid19-measles-outbreaks-1851404770) | Gizmodo.com | 2024-04-13 |
 | [Francisco Varela](https://en.wikipedia.org/wiki/Francisco_Varela) | Wikipedia.org | 2024-04-19 |
 | [I went to school in Texas and Saudi Arabia. The differences between the 2 systems actually set me up better for the future.](https://www.businessinsider.com/differences-between-school-systems-us-saudi-arabia-2024-4) | Business Insider | 2024-04-15 |
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [Researchers create artificial cells that act like living cells](https://www.sciencedaily.com/releases/2024/04/240423135213.htm) | Science Daily | 2024-04-23 |
+| [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) | Simonsfoundation.org | 2024-05-10 |
 | [Everyone Will Have Fewer Relatives in the Future](https://www.scientificamerican.com/article/everyone-will-have-fewer-relatives-in-the-future/) | Scientific American | 2024-04-16 |
 | [Early adoption of generative AI in commercial life sciences](https://www.mckinsey.com/industries/life-sciences/our-insights/early-adoption-of-generative-ai-in-commercial-life-sciences) | Mckinsey.com | 2024-05-06 |
 | [Forskaren Innovation Hub / 3XN](https://www.archdaily.com/1016359/forskaren-innovation-hub-3xn) | ArchDaily | 2024-05-09 |
@@ -57,8 +59,6 @@
 | [Did a weak magnetic field lead to life on Earth?](https://www.futurity.org/weak-magnetic-field-life-on-earth-3217672/) | Futurity: Research News | 2024-05-09 |
 | [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
-| [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
-| [CG Life doubles in size by buying a digital shop to expand its health and sciences targeting](http://digiday.com/media-buying/cg-life-doubles-in-size-by-buying-a-digital-shop-to-expand-its-health-and-sciences-targeting/) | Digiday | 2024-04-11 |
 
 ## News for Medical Devices
 
@@ -108,8 +108,8 @@
 | [Ascension Attack Intensifies Scrutiny Of Healthcare Cyber Defenses](https://www.forbes.com/sites/tonybradley/2024/05/09/ascension-attack-intensifies-scrutiny-of-healthcare-cyber-defenses/) | Forbes | 2024-05-09 |
 | [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/) | Theregister.com | 2024-04-30 |
 | [Leading Index for Commercial Real Estate Increased 6% in April](https://www.blogger.com/comment.g?blogID=10004977&postID=4866999012488337633&bpli=1) | Blogger.com | 2024-05-08 |
-| [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/f792543fee4e67a7) | Biztoc.com | 2024-04-18 |
+| [Health Care Roundup: Market Talk](https://biztoc.com/x/0da3aa23ae8008c1) | Biztoc.com | 2024-04-12 |
 | [How is AI adoption transforming the healthcare industry?](https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html) | Noupe.com | 2024-04-18 |
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
 | [Nurses Say Hospital Adoption Of Half-Cooked ‘AI’ Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/) | Techdirt | 2024-05-02 |
@@ -175,8 +175,8 @@
 | [Food Chains Cultivate Common Ground In Safety And Sustainability](https://www.forbes.com/sites/sap/2024/04/23/food-chains-cultivate-common-ground-in-safety-and-sustainability/) | Forbes | 2024-04-23 |
 | [EPA, FDA, and USDA Issue Joint Regulatory Plan for Biotechnology](https://www.fda.gov/news-events/press-announcements/epa-fda-and-usda-issue-joint-regulatory-plan-biotechnology) | FDA.gov | 2024-05-08 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Weekend reading: pet food (oh why not)](https://www.foodpolitics.com/2024/05/weekend-reading-pet-food-oh-why-not/) | Foodpolitics.com | 2024-05-10 |
 | [After years of caution, pharma advertisers are embracing influencer marketing](http://digiday.com/marketing/after-years-of-caution-pharma-advertisers-are-embracing-influencer-marketing/) | Digiday | 2024-05-03 |
 | [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
-| [FDA Issues Final Guidance to Clarify “Remanufacturing” of Devices that Need Maintenance or Repair](https://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-clarify-remanufacturing-devices-need-maintenance-or-repair) | FDA.gov | 2024-05-09 |
 
