@@ -4,13 +4,11 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Drugmakers' low U.S. taxes belie their high sales](https://www.npr.org/sections/health-shots/2024/04/15/1244876740/drugmakers-low-taxes-us) | NPR | 2024-04-15 |
 | [Oncologists' meetings with drug reps don't help cancer patients live longer](https://www.npr.org/sections/health-shots/2024/04/22/1246054537/doctor-meetings-drug-reps-pharma-cancer-patients-live-longer-survival) | NPR | 2024-04-22 |
 | [Audacious Ukrainian drone attacks keep doing massive damage to Russia's oil industry](https://www.businessinsider.com/ukraine-drone-strikes-are-doing-massive-damage-to-russia-oil-sector-2024-4) | Business Insider | 2024-04-25 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [Stardog’s Karaoke offers on-premises, zero hallucination LLM solution for enterprises](https://venturebeat.com/data-infrastructure/stardogs-karaoke-offers-on-premises-zero-hallucination-llm-solution-for-enterprises/) | VentureBeat | 2024-05-02 |
 | [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
-| [Sales Commission Rates by Industry](https://smallbiztrends.com/sales-commission-rates-by-industry/) | Small Business Trends | 2024-04-15 |
 | [After 26,000 public comments, FTC to vote on rule banning noncompete agreements](https://www.npr.org/2024/04/23/1246430110/noncompete-agreements-ftc-ban-lina-khan) | NPR | 2024-04-23 |
 | [FTC looking to accelerate inquiry into prescription-drug middlemen, chair says](https://www.marketwatch.com/story/ftc-looking-to-accelerate-inquiry-into-prescription-drug-middlemen-chair-says-c93f69e1) | MarketWatch | 2024-04-23 |
 | [Navigating R’s Impact in Vienna: Insights from the Finance and Pharmaceutical Sectors](https://www.r-bloggers.com/2024/04/navigating-rs-impact-in-vienna-insights-from-the-finance-and-pharmaceutical-sectors/) | R-bloggers.com | 2024-04-19 |
@@ -29,6 +27,8 @@
 | [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
 | [De-Mystifying R Programming in Clinical Trials](https://www.r-bloggers.com/2024/05/de-mystifying-r-programming-in-clinical-trials/) | R-bloggers.com | 2024-05-02 |
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
+| [Pomegranate power: Unlocking sustainable antimicrobial solutions from peels](https://phys.org/news/2024-04-pomegranate-power-sustainable-antimicrobial-solutions.html) | Phys.Org | 2024-04-19 |
+| [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
 
 ## News for Life Sciences
 
@@ -57,8 +57,8 @@
 | [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
 | [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
-| [Palladium nanocluster catalyst supports highly efficient and regioselective hydrogenation of epoxides](https://phys.org/news/2024-04-palladium-nanocluster-catalyst-highly-efficient.html) | Phys.Org | 2024-04-15 |
 | [Coral reef microbes point to new way to assess ecosystem health](https://www.sciencedaily.com/releases/2024/04/240416214653.htm) | Science Daily | 2024-04-17 |
+| [New approach to tackle muscle loss in aging](https://www.sciencedaily.com/releases/2024/04/240422120709.htm) | Science Daily | 2024-04-22 |
 
 ## News for Medical Devices
 
@@ -82,8 +82,8 @@
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
+| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
