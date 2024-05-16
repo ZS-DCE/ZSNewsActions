@@ -82,8 +82,8 @@
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
+| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
@@ -167,8 +167,8 @@
 | [FDA Once Again Stands Athwart Biomedical Innovation, Yelling 'Stop!'](https://reason.com/2024/04/29/fda-once-again-stands-athwart-biomedical-innovation-yelling-stop/) | Reason | 2024-04-29 |
 | [Losing my phone while abroad nearly cost me my health](https://www.androidpolice.com/lost-phone-health-concerns/) | Android Police | 2024-04-14 |
 | [Will The White House’s Plan To Curb Drug Shortages Work?](https://www.forbes.com/sites/arthurkellermann/2024/04/24/will-the-white-houses-plan-to-curb-drug-shortages-work/) | Forbes | 2024-04-24 |
-| [Ground Crickets Commonly Added to Foods Under the Name 'Acheta Powder'?](https://www.snopes.com//fact-check/ground-crickets-food-acheta-powder/) | Snopes.com | 2024-05-03 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Ground Crickets Commonly Added to Foods Under the Name 'Acheta Powder'?](https://www.snopes.com//fact-check/ground-crickets-food-acheta-powder/) | Snopes.com | 2024-05-03 |
 | [Food Chains Cultivate Common Ground In Safety And Sustainability](https://www.forbes.com/sites/sap/2024/04/23/food-chains-cultivate-common-ground-in-safety-and-sustainability/) | Forbes | 2024-04-23 |
 | [EPA, FDA, and USDA Issue Joint Regulatory Plan for Biotechnology](https://www.fda.gov/news-events/press-announcements/epa-fda-and-usda-issue-joint-regulatory-plan-biotechnology) | FDA.gov | 2024-05-08 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
