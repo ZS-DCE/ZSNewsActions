@@ -34,7 +34,6 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Unlocking health and life sciences' potential with cloud solutions](https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions) | Business Insider | 2024-04-16 |
 | [Vital Science](https://www.businessinsider.com/sc/why-the-uk-is-betting-on-the-future-of-science) | Business Insider | 2024-04-17 |
 | [The Mysterious ‘Dark’ Energy That Permeates the Universe Is Slowly Eroding](https://www.wired.com/story/dark-energy-weakening-major-astrophysics-study-finds/) | Wired | 2024-04-28 |
 | [Pssst… Wanna Buy An Old Supercomputer?](https://hackaday.com/2024/05/01/pssst-wanna-buy-an-old-supercomputer/) | Hackaday | 2024-05-01 |
@@ -44,7 +43,6 @@
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [Researchers create artificial cells that act like living cells](https://www.sciencedaily.com/releases/2024/04/240423135213.htm) | Science Daily | 2024-04-23 |
 | [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) | Simonsfoundation.org | 2024-05-10 |
-| [Everyone Will Have Fewer Relatives in the Future](https://www.scientificamerican.com/article/everyone-will-have-fewer-relatives-in-the-future/) | Scientific American | 2024-04-16 |
 | [Early adoption of generative AI in commercial life sciences](https://www.mckinsey.com/industries/life-sciences/our-insights/early-adoption-of-generative-ai-in-commercial-life-sciences) | Mckinsey.com | 2024-05-06 |
 | [Forskaren Innovation Hub / 3XN](https://www.archdaily.com/1016359/forskaren-innovation-hub-3xn) | ArchDaily | 2024-05-09 |
 | [Philosophy Is an Art](https://aeon.co/essays/philosophical-theories-are-like-good-stories-margaret-macdonald) | Aeon.co | 2024-04-25 |
@@ -52,13 +50,15 @@
 | [Roger Corman, Beloved Filmmaker, Has Died at Age 98](https://gizmodo.com/obituary-roger-corman-age-58-filmmaker-1851471762) | Gizmodo.com | 2024-05-12 |
 | [How AI Could Transform Drug Development And The Life Sciences](https://www.forbes.com/video/c614ce8c-9afd-4d0e-a05d-5e1c4f6f1e91/how-ai-could-transform-drug-development-and-the-life-sciences/) | Forbes | 2024-05-02 |
 | [IRL Stories That Became ‘It’s Always Sunny in Philadelphia’ Plotlines](https://www.cracked.com/article_41859_irl-stories-that-became-its-always-sunny-in-philadelphia-plotlines.html) | Cracked.com | 2024-04-17 |
-| [How Our Thoughts Shape the Way Spoken Words Evolve](https://www.scientificamerican.com/article/how-our-thoughts-shape-the-way-spoken-words-evolve/) | Scientific American | 2024-04-16 |
 | [Did a weak magnetic field lead to life on Earth?](https://www.futurity.org/weak-magnetic-field-life-on-earth-3217672/) | Futurity: Research News | 2024-05-09 |
 | [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
 | [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
 | [Coral reef microbes point to new way to assess ecosystem health](https://www.sciencedaily.com/releases/2024/04/240416214653.htm) | Science Daily | 2024-04-17 |
 | [New approach to tackle muscle loss in aging](https://www.sciencedaily.com/releases/2024/04/240422120709.htm) | Science Daily | 2024-04-22 |
+| [What Should You Do With Danaher Stock At $250 After Q1 Beat?](https://www.forbes.com/sites/greatspeculations/2024/04/26/what-should-you-do-with-danaher-stock-at-250-after-q1-beat/) | Forbes | 2024-04-26 |
+| [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/) | Lbl.gov | 2024-04-20 |
+| [International team cracks genomic code for earliest forms of terrestrial plant life](https://phys.org/news/2024-05-international-team-genomic-code-earliest.html) | Phys.Org | 2024-05-02 |
 
 ## News for Medical Devices
 
@@ -74,21 +74,21 @@
 | [Refurbished Apple Watch Ultra 2 Begins Rolling Out Outside U.S.](https://www.macrumors.com/2024/04/18/refurbished-apple-watch-ultra-2-begins-rolling-out/) | MacRumors | 2024-04-18 |
 | [Razer Made a Million Dollars Selling a Mask With RGB, And the FTC is Not Pleased](https://news.slashdot.org/story/24/04/29/1650210/razer-made-a-million-dollars-selling-a-mask-with-rgb-and-the-ftc-is-not-pleased) | Slashdot.org | 2024-04-29 |
 | [Implantable Battery Charges Itself](https://hackaday.com/2024/04/25/implantable-battery-charges-itself/) | Hackaday | 2024-04-25 |
-| [Unlocking health and life sciences' potential with cloud solutions](https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions) | Business Insider | 2024-04-16 |
-| [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice) | AppleInsider | 2024-04-16 |
 | [What massive health care cyberattack at Ascension means for your privacy, security](https://www.foxnews.com/tech/what-massive-health-care-cyberattack-at-ascension-means-for-your-privacy-security) | Fox News | 2024-05-13 |
 | [Apple Watch is FDA's first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device) | AppleInsider | 2024-05-02 |
 | [Glucose monitor and insulin pump concept is a sustainable way to keep tabs on diabetes](https://www.yankodesign.com/2024/05/02/glucose-monitor-and-insulin-pump-concept-is-a-sustainable-way-to-keep-tabs-on-diabetes/) | Yanko Design | 2024-05-02 |
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
+| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
-| [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [Philips settled a recalled CPAP case and it sent stocks soaring](https://qz.com/philips-settlement-1851443126) | Quartz India | 2024-04-29 |
+| [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
+| [Apple Watch AFib feature gets new FDA seal of approval](https://9to5mac.com/2024/05/02/apple-watch-afib-feature-fda/) | 9to5Mac | 2024-05-02 |
+| [War Zone Surveillance Technology Is Hitting American Streets](https://www.notus.org/technology/war-zone-surveillance-border-us) | Notus.org | 2024-04-30 |
 
 ## News for Healthcare Sector
 
@@ -175,8 +175,8 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Weekend reading: pet food (oh why not)](https://www.foodpolitics.com/2024/05/weekend-reading-pet-food-oh-why-not/) | Foodpolitics.com | 2024-05-10 |
 | [After years of caution, pharma advertisers are embracing influencer marketing](http://digiday.com/marketing/after-years-of-caution-pharma-advertisers-are-embracing-influencer-marketing/) | Digiday | 2024-05-03 |
-| [What is the FDA’s food regulatory role anyway?](https://www.foodpolitics.com/2024/04/what-is-the-fdas-food-regulatory-role-anyway/) | Foodpolitics.com | 2024-04-16 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
 | [FDA Issues Final Guidance to Clarify “Remanufacturing” of Devices that Need Maintenance or Repair](https://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-clarify-remanufacturing-devices-need-maintenance-or-repair) | FDA.gov | 2024-05-09 |
 | [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
+| [Is Chicken Feces Behind The Bird Flu Outbreaks In Cows? Here’s What To Know.](https://www.forbes.com/sites/ariannajohnson/2024/04/30/is-chicken-feces-behind-the-bird-flu-outbreaks-in-cows-heres-what-to-know/) | Forbes | 2024-04-30 |
 
