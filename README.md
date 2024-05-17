@@ -82,8 +82,8 @@
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
+| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Johnson & Johnson's bet on heart devices boosted sales — but it still missed analysts' expectations](https://qz.com/johnson-and-johnson-first-quarter-1851413382) | Quartz India | 2024-04-16 |
@@ -125,6 +125,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [5 Best Undervalued Stocks To Buy In May 2024](https://www.forbes.com/sites/investor-hub/article/best-undervalued-stocks-to-buy-may-2024/) | Forbes | 2024-05-09 |
+| [Dipan Mehta gives a hard pass to specialty chemicals; will bet on agrochem stocks](https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-gives-a-hard-pass-to-specialty-chemicals-will-bet-on-agrochem-stocks/articleshow/110164349.cms) | The Times of India | 2024-05-16 |
 | [Bitcoin and Biodiversity in the Cannabis Industry](https://bitcoinmagazine.com/markets/bitcoin-and-biodiversity-in-the-cannabis-industry) | Bitcoin Magazine | 2024-04-30 |
 | [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
 | [Premiumisation, Indigenisation and Infrastructure â ITI AMC lists three themes to watch out for](https://www.moneycontrol.com/news/business/markets/premiumisation-indigenisation-and-infrastructure-iti-amc-lists-three-themes-to-watch-out-for-12662411.html) | Moneycontrol | 2024-04-18 |
@@ -148,7 +149,6 @@
 | [UAE MDO PET Films Market Balloons to $32.6 Million by 2027: E-commerce Boom and Pharma Industry Drive Growth: Ken Research](https://www.globenewswire.com/news-release/2024/05/14/2881142/0/en/UAE-MDO-PET-Films-Market-Balloons-to-32-6-Million-by-2027-E-commerce-Boom-and-Pharma-Industry-Drive-Growth-Ken-Research.html) | GlobeNewswire | 2024-05-14 |
 | [Active Pharmaceutical Ingredient Market Trends Signal Growth Towards USD 446.6 Billion by 2032 With CAGR AT 6.4%](https://www.globenewswire.com/news-release/2024/04/23/2868000/0/en/Active-Pharmaceutical-Ingredient-Market-Trends-Signal-Growth-Towards-USD-446-6-Billion-by-2032-With-CAGR-AT-6-4.html) | GlobeNewswire | 2024-04-23 |
 | [What to expect from the Indian stock market next week? Ashi Anand answers](https://economictimes.indiatimes.com/markets/expert-view/what-to-expect-from-the-indian-stock-market-next-week-ashi-anand-answers/articleshow/109643098.cms) | The Times of India | 2024-04-27 |
-| [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
 
 ## News for FDA Regulations
 
