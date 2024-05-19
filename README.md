@@ -85,10 +85,10 @@
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
+| [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [Philips settled a recalled CPAP case and it sent stocks soaring](https://qz.com/philips-settlement-1851443126) | Quartz India | 2024-04-29 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
-| [Apple Watch AFib feature gets new FDA seal of approval](https://9to5mac.com/2024/05/02/apple-watch-afib-feature-fda/) | 9to5Mac | 2024-05-02 |
 
 ## News for Healthcare Sector
 
