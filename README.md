@@ -12,7 +12,6 @@
 | [After 26,000 public comments, FTC to vote on rule banning noncompete agreements](https://www.npr.org/2024/04/23/1246430110/noncompete-agreements-ftc-ban-lina-khan) | NPR | 2024-04-23 |
 | [FTC looking to accelerate inquiry into prescription-drug middlemen, chair says](https://www.marketwatch.com/story/ftc-looking-to-accelerate-inquiry-into-prescription-drug-middlemen-chair-says-c93f69e1) | MarketWatch | 2024-04-23 |
 | [Navigating R’s Impact in Vienna: Insights from the Finance and Pharmaceutical Sectors](https://www.r-bloggers.com/2024/04/navigating-rs-impact-in-vienna-insights-from-the-finance-and-pharmaceutical-sectors/) | R-bloggers.com | 2024-04-19 |
-| [Vital Science](https://www.businessinsider.com/sc/why-the-uk-is-betting-on-the-future-of-science) | Business Insider | 2024-04-17 |
 | [Recursion Announces Completion of NVIDIA-Powered BioHive-2, the Largest Supercomputer in Pharmaceutical Industry](https://biztoc.com/x/62088de7317dd681) | Biztoc.com | 2024-05-13 |
 | [Bernie Sanders, 82, Will Seek Another 6-Year Senate Term, Calling His Service 'the Honor of My Life'](https://people.com/bernie-sanders-announces-2024-reelection-bid-8644010) | PEOPLE | 2024-05-06 |
 | [Cuba may import sugar, rum industry pressed amid disastrous harvest](https://biztoc.com/x/483f81bc4dc0e9e2) | Biztoc.com | 2024-05-09 |
@@ -29,12 +28,12 @@
 | [The FTC is challenging 'junk' drug patents. Here's what they are and why they matter](https://qz.com/what-are-junk-drug-patents-explainer-ftc-1851464935) | Quartz India | 2024-05-08 |
 | [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
 | [De-Mystifying R Programming in Clinical Trials](https://www.r-bloggers.com/2024/05/de-mystifying-r-programming-in-clinical-trials/) | R-bloggers.com | 2024-05-02 |
+| [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
 
 ## News for Life Sciences
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [Vital Science](https://www.businessinsider.com/sc/why-the-uk-is-betting-on-the-future-of-science) | Business Insider | 2024-04-17 |
 | [The Mysterious ‘Dark’ Energy That Permeates the Universe Is Slowly Eroding](https://www.wired.com/story/dark-energy-weakening-major-astrophysics-study-finds/) | Wired | 2024-04-28 |
 | [Pssst… Wanna Buy An Old Supercomputer?](https://hackaday.com/2024/05/01/pssst-wanna-buy-an-old-supercomputer/) | Hackaday | 2024-05-01 |
 | [Swimming and spinning aquatic spiders use slick survival strategies](https://knowablemagazine.org/content/article/living-world/2024/meet-the-aquatic-spiders) | Knowablemagazine.org | 2024-04-28 |
@@ -49,16 +48,17 @@
 | [Man granted parole for his role in the 2001 stabbing deaths of 2 Dartmouth College professors](https://www.yahoo.com/news/man-granted-parole-role-2001-144305997.html) | Yahoo Entertainment | 2024-04-18 |
 | [Roger Corman, Beloved Filmmaker, Has Died at Age 98](https://gizmodo.com/obituary-roger-corman-age-58-filmmaker-1851471762) | Gizmodo.com | 2024-05-12 |
 | [How AI Could Transform Drug Development And The Life Sciences](https://www.forbes.com/video/c614ce8c-9afd-4d0e-a05d-5e1c4f6f1e91/how-ai-could-transform-drug-development-and-the-life-sciences/) | Forbes | 2024-05-02 |
-| [IRL Stories That Became ‘It’s Always Sunny in Philadelphia’ Plotlines](https://www.cracked.com/article_41859_irl-stories-that-became-its-always-sunny-in-philadelphia-plotlines.html) | Cracked.com | 2024-04-17 |
 | [Did a weak magnetic field lead to life on Earth?](https://www.futurity.org/weak-magnetic-field-life-on-earth-3217672/) | Futurity: Research News | 2024-05-09 |
-| [In life cycle diagrams, small changes make a big difference](https://phys.org/news/2024-04-life-diagrams-small-big-difference.html) | Phys.Org | 2024-04-17 |
 | [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
 | [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
-| [Coral reef microbes point to new way to assess ecosystem health](https://www.sciencedaily.com/releases/2024/04/240416214653.htm) | Science Daily | 2024-04-17 |
 | [New approach to tackle muscle loss in aging](https://www.sciencedaily.com/releases/2024/04/240422120709.htm) | Science Daily | 2024-04-22 |
 | [What Should You Do With Danaher Stock At $250 After Q1 Beat?](https://www.forbes.com/sites/greatspeculations/2024/04/26/what-should-you-do-with-danaher-stock-at-250-after-q1-beat/) | Forbes | 2024-04-26 |
 | [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/) | Lbl.gov | 2024-04-20 |
 | [International team cracks genomic code for earliest forms of terrestrial plant life](https://phys.org/news/2024-05-international-team-genomic-code-earliest.html) | Phys.Org | 2024-05-02 |
+| [Comfort in the Heart of Valencia at Casa Clarita](http://coolhunting.com/travel/comfort-and-flexibility-in-the-heart-of-valencia-casa-clarita/) | Cool Hunting | 2024-05-13 |
+| [Tweaked science textbook diagrams boost student understanding](https://www.futurity.org/science-textbooks-biology-diagrams-education-3208652/) | Futurity: Research News | 2024-04-18 |
+| [Plants can communicate and respond to touch. Does that mean they're intelligent?](https://www.npr.org/2024/05/06/1249310672/plant-intelligence-the-light-eaters-zoe-schlanger) | NPR | 2024-05-06 |
+| [Early trauma cuts squirrel lifespans](https://www.futurity.org/yukon-red-squirrels-food-booms-early-life-trauma-3212042/) | Futurity: Research News | 2024-04-26 |
 
 ## News for Medical Devices
 
@@ -68,6 +68,7 @@
 | [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/) | Wired | 2024-04-24 |
 | [Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/) | Wired | 2024-05-09 |
 | [Razer made a million dollars selling a mask with RGB, and the FTC is not pleased](https://www.theverge.com/2024/4/29/24144425/razer-zephyr-face-mask-covid-n95-ftc-settlement) | The Verge | 2024-04-29 |
+| [A 16-year-old took home $75,000 for her award-winning discovery that could help revolutionize biomedical implants](https://www.businessinsider.com/teen-wins-isef-science-fair-grand-prize-discovery-biomedical-devices-2024-5) | Business Insider | 2024-05-17 |
 | [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/) | Wired | 2024-05-01 |
 | [Now you can put your Botox on Affirm](https://www.businessinsider.com/affirm-bnpl-buy-now-pay-later-botox-fillers-cosmetic-procedures-2024-4) | Business Insider | 2024-04-24 |
 | [FDA Recalls Heart Pumps Linked to Deaths and Injuries](https://www.scientificamerican.com/article/fda-recalls-heart-pumps-linked-to-deaths-and-injuries/) | Scientific American | 2024-04-18 |
@@ -80,15 +81,14 @@
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
+| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [Philips settled a recalled CPAP case and it sent stocks soaring](https://qz.com/philips-settlement-1851443126) | Quartz India | 2024-04-29 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [Apple Watch AFib feature gets new FDA seal of approval](https://9to5mac.com/2024/05/02/apple-watch-afib-feature-fda/) | 9to5Mac | 2024-05-02 |
-| [War Zone Surveillance Technology Is Hitting American Streets](https://www.notus.org/technology/war-zone-surveillance-border-us) | Notus.org | 2024-04-30 |
 
 ## News for Healthcare Sector
 
@@ -100,6 +100,7 @@
 | [It's getting really hard to find a job that pays well](https://www.businessinsider.com/economy-adding-low-paying-healthcare-retail-jobs-high-wages-scarce-2024-5) | Business Insider | 2024-05-03 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
+| [Aussie cops probe MediSecure's 'large-scale ransomware data breach'](https://www.theregister.com/2024/05/17/medisecure_ransomware_attack/) | Theregister.com | 2024-05-17 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news) | The Next Web | 2024-04-26 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [US faith-based healthcare org Ascension says 'cybersecurity event' disrupted clinical ops](https://www.theregister.com/2024/05/09/us_faithbased_healthcare_org_ascension/) | Theregister.com | 2024-05-09 |
@@ -118,7 +119,6 @@
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
 | [Nurses Say Hospital Adoption Of Half-Cooked ‘AI’ Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/) | Techdirt | 2024-05-02 |
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
-| [Caring For The Caregiver: A Guide For Home Care Providers](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/08/caring-for-the-caregiver-a-guide-for-home-care-providers/) | Forbes | 2024-05-08 |
 
 ## News for Pharma Market Trends
 
@@ -127,7 +127,6 @@
 | [5 Best Undervalued Stocks To Buy In May 2024](https://www.forbes.com/sites/investor-hub/article/best-undervalued-stocks-to-buy-may-2024/) | Forbes | 2024-05-09 |
 | [Dipan Mehta gives a hard pass to specialty chemicals; will bet on agrochem stocks](https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-gives-a-hard-pass-to-specialty-chemicals-will-bet-on-agrochem-stocks/articleshow/110164349.cms) | The Times of India | 2024-05-16 |
 | [Bitcoin and Biodiversity in the Cannabis Industry](https://bitcoinmagazine.com/markets/bitcoin-and-biodiversity-in-the-cannabis-industry) | Bitcoin Magazine | 2024-04-30 |
-| [Negotiating Stock Options And Restricted Stock Units: 7 Points To Consider Before You Try](https://www.forbes.com/sites/brucebrumberg/2024/04/17/negotiating-stock-options-and-restricted-stock-units-7-points-to-consider-before-you-try/) | Forbes | 2024-04-17 |
 | [Premiumisation, Indigenisation and Infrastructure â ITI AMC lists three themes to watch out for](https://www.moneycontrol.com/news/business/markets/premiumisation-indigenisation-and-infrastructure-iti-amc-lists-three-themes-to-watch-out-for-12662411.html) | Moneycontrol | 2024-04-18 |
 | [Broader indices underperform, but 38 smallcap stocks deliver double digit returns](https://www.moneycontrol.com/news/business/stocks/broader-indices-underperform-but-38-smallcap-stocks-deliver-double-digit-returns-12680901.html) | Moneycontrol | 2024-04-20 |
 | [5 of the most effective creative ads in the health & pharma sector](https://www.thedrum.com/news/2024/04/29/5-the-most-effective-creative-ads-the-health-pharma-sector) | The Drum | 2024-04-29 |
@@ -137,18 +136,19 @@
 | [Bullish on 2 stocks; Kotak Bank could fall to Rs 1480, 1450 levels in the next few weeks: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/bullish-on-2-stocks-kotak-bank-could-fall-to-rs-1480-1450-levels-in-the-next-few-weeks-sudeep-shah/articleshow/109816512.cms) | The Times of India | 2024-05-03 |
 | [Forbes Daily: Why ‘Bitcoin Jesus’ Could Be Extradited To The U.S.](https://www.forbes.com/sites/daniellechemtob/2024/05/02/forbes-daily-why-bitcoin-jesus-could-be-extradited-to-the-us/) | Forbes | 2024-05-02 |
 | [The top pharmaceutical companies by R&D expenditure](https://www.pharmaceutical-technology.com/features/the-top-pharmaceutical-companies-by-rd-expenditure/) | Pharmaceutical Technology | 2024-05-02 |
-| [Myasthenia Gravis (MG) Treatment Industry Forecast to 2030: A $2.5 Billion Market Dominated by Alexion Pharma, Grifols, Avadel Pharma, Novartis, Pfizer, AbbVie, and Roche](https://www.globenewswire.com/news-release/2024/04/17/2864286/28124/en/Myasthenia-Gravis-MG-Treatment-Industry-Forecast-to-2030-A-2-5-Billion-Market-Dominated-by-Alexion-Pharma-Grifols-Avadel-Pharma-Novartis-Pfizer-AbbVie-and-Roche.html) | GlobeNewswire | 2024-04-17 |
 | [Stock Market Today: April Ends on Sour Note Ahead of Fed Decision](https://www.newsweek.com/stock-market-tuesday-eli-lilly-mcdonalds-pot-stocks-fed-decision-1895775) | Newsweek | 2024-04-30 |
 | [Sensex, Nifty open higher; Shriram Finance, Hindalco, BPCL among top gainers](https://www.thehindubusinessline.com/markets/sensex-nifty-open-higher-shriram-finance-hindalco-bpcl-among-top-gainers/article68173614.ece) | BusinessLine | 2024-05-14 |
 | [PE investments looking up, but tax uncertainty persists](https://www.thehindubusinessline.com/markets/pe-investments-looking-up-but-tax-uncertainty-persists/article68098631.ece) | BusinessLine | 2024-04-24 |
 | [Uveitis Market Insight, Epidemiology and Market Forecast to 2034: Assessment of Competitors, Market, Current Trends and Upcoming Treatments](https://www.globenewswire.com/news-release/2024/04/23/2867378/28124/en/Uveitis-Market-Insight-Epidemiology-and-Market-Forecast-to-2034-Assessment-of-Competitors-Market-Current-Trends-and-Upcoming-Treatments.html) | GlobeNewswire | 2024-04-23 |
-| [Belgian Deputy PM says a European Action Plan on Rare Diseases is ‘essential’](https://www.euractiv.com/section/health-consumers/news/belgian-deputy-pm-says-a-european-action-plan-on-rare-diseases-is-essential/) | EURACTIV | 2024-04-17 |
 | [Charles River Laboratories International, Inc. (NYSE:CRL) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/charles-river-laboratories-international-inc-200621197.html) | Yahoo Entertainment | 2024-05-10 |
 | [Molecular Biology Enzymes And Kits And Reagents Market Surges to USD 69.4 Billion by 2031, Propelled by 17.35% CAGR - Verified Market Research®](https://www.globenewswire.com/news-release/2024/05/02/2874373/0/en/Molecular-Biology-Enzymes-And-Kits-And-Reagents-Market-Surges-to-USD-69-4-Billion-by-2031-Propelled-by-17-35-CAGR-Verified-Market-Research.html) | GlobeNewswire | 2024-05-02 |
 | [Gynecology Collaboration, R&D, and Licensing Deals Trends Report 2024](https://www.globenewswire.com/news-release/2024/05/07/2876831/28124/en/Gynecology-Collaboration-R-D-and-Licensing-Deals-Trends-Report-2024.html) | GlobeNewswire | 2024-05-07 |
 | [UAE MDO PET Films Market Balloons to $32.6 Million by 2027: E-commerce Boom and Pharma Industry Drive Growth: Ken Research](https://www.globenewswire.com/news-release/2024/05/14/2881142/0/en/UAE-MDO-PET-Films-Market-Balloons-to-32-6-Million-by-2027-E-commerce-Boom-and-Pharma-Industry-Drive-Growth-Ken-Research.html) | GlobeNewswire | 2024-05-14 |
 | [Active Pharmaceutical Ingredient Market Trends Signal Growth Towards USD 446.6 Billion by 2032 With CAGR AT 6.4%](https://www.globenewswire.com/news-release/2024/04/23/2868000/0/en/Active-Pharmaceutical-Ingredient-Market-Trends-Signal-Growth-Towards-USD-446-6-Billion-by-2032-With-CAGR-AT-6-4.html) | GlobeNewswire | 2024-04-23 |
 | [What to expect from the Indian stock market next week? Ashi Anand answers](https://economictimes.indiatimes.com/markets/expert-view/what-to-expect-from-the-indian-stock-market-next-week-ashi-anand-answers/articleshow/109643098.cms) | The Times of India | 2024-04-27 |
+| [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
+| [Pharma Wholesale and Distribution Market 10 Year Forecast Report 2024-2034: Global Market Set to Surpass the US$800 Billion Mark in 2024](https://www.globenewswire.com/news-release/2024/05/02/2874066/28124/en/Pharma-Wholesale-and-Distribution-Market-10-Year-Forecast-Report-2024-2034-Global-Market-Set-to-Surpass-the-US-800-Billion-Mark-in-2024.html) | GlobeNewswire | 2024-05-02 |
+| [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
 
 ## News for FDA Regulations
 
