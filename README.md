@@ -82,13 +82,13 @@
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
-| [Office LTSC 2024, which gets you Office without a subscription, is here in preview, but it's probably not for you](https://www.windowscentral.com/software-apps/office-ltsc-2024-which-gets-you-office-without-a-subscription-is-here-in-preview-but-its-probably-not-for-you) | Windows Central | 2024-04-19 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [Philips settled a recalled CPAP case and it sent stocks soaring](https://qz.com/philips-settlement-1851443126) | Quartz India | 2024-04-29 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [Apple Watch AFib feature gets new FDA seal of approval](https://9to5mac.com/2024/05/02/apple-watch-afib-feature-fda/) | 9to5Mac | 2024-05-02 |
 | [War Zone Surveillance Technology Is Hitting American Streets](https://www.notus.org/technology/war-zone-surveillance-border-us) | Notus.org | 2024-04-30 |
+| [What is a System-on-Chip (SoC)?](https://www.windowscentral.com/hardware/laptops/what-is-a-system-on-chip-soc) | Windows Central | 2024-05-01 |
 
 ## News for Healthcare Sector
 
@@ -96,7 +96,6 @@
 | ----- | ------ | --------- |
 | [Preventing the Next Big Cyberattack on U.S. Health Care](https://hbr.org/2024/05/preventing-the-next-big-cyberattack-on-u-s-health-care) | Harvard Business Review | 2024-05-01 |
 | [Larry Ellison says Oracle's HQ is moving to Nashville — 4 years after relocating from California to Texas](https://www.businessinsider.com/oracle-planning-nashville-hq-move-larry-ellison-2024-4) | Business Insider | 2024-04-24 |
-| [Hospital wait times will still be bad this year, even with labor gains](https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4) | Business Insider | 2024-04-19 |
 | [It's getting really hard to find a job that pays well](https://www.businessinsider.com/economy-adding-low-paying-healthcare-retail-jobs-high-wages-scarce-2024-5) | Business Insider | 2024-05-03 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
@@ -106,7 +105,6 @@
 | [US faith-based healthcare org Ascension says 'cybersecurity event' disrupted clinical ops](https://www.theregister.com/2024/05/09/us_faithbased_healthcare_org_ascension/) | Theregister.com | 2024-05-09 |
 | [Combating Threat Actors In The U.S. Healthcare Sector](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/combating-threat-actors-in-the-us-healthcare-sector/) | Forbes | 2024-05-17 |
 | [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
-| [Welcome to 'peak boomer' era: A wave of retirees is about to blow through their savings and cling to Social Security to stay afloat](https://www.businessinsider.com/how-retirement-of-peak-boomers-could-affect-economy-social-security-2024-4) | Business Insider | 2024-04-19 |
 | [These catalysts could push the S&P 500 to 5,600: BMO's Belski](https://finance.yahoo.com/video/catalysts-could-push-p-500-145656140.html) | Yahoo Entertainment | 2024-05-17 |
 | [How Ogilvy’s Combatting Misinformation in the Healthcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-healthcare-sector/269537/) | ClickZ | 2024-04-24 |
 | [Ascension Attack Intensifies Scrutiny Of Healthcare Cyber Defenses](https://www.forbes.com/sites/tonybradley/2024/05/09/ascension-attack-intensifies-scrutiny-of-healthcare-cyber-defenses/) | Forbes | 2024-05-09 |
@@ -119,6 +117,8 @@
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [Caring For The Caregiver: A Guide For Home Care Providers](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/08/caring-for-the-caregiver-a-guide-for-home-care-providers/) | Forbes | 2024-05-08 |
 | [IBM to invest $730 million in Canadian semiconductor sector: Report](https://www.tomshardware.com/tech-industry/ibm-to-invest-dollar730-million-in-canadian-semiconductor-sector-report) | Tom's Hardware UK | 2024-04-29 |
+| [How do you help patients who show up in the ER 100 times a year?](https://www.npr.org/sections/health-shots/2024/05/03/1248830931/how-do-you-help-patients-who-show-up-in-the-er-100-times-a-year) | NPR | 2024-05-03 |
+| [How Ogilvy’s Combatting Misinformation in the Heathcare Sector](https://www.clickz.com/how-ogilvys-combatting-misinformation-in-the-heathcare-sector/269537/) | ClickZ | 2024-04-24 |
 
 ## News for Pharma Market Trends
 
