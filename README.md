@@ -77,6 +77,7 @@
 | [Apple Watch is FDA's first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device) | AppleInsider | 2024-05-02 |
 | [Glucose monitor and insulin pump concept is a sustainable way to keep tabs on diabetes](https://www.yankodesign.com/2024/05/02/glucose-monitor-and-insulin-pump-concept-is-a-sustainable-way-to-keep-tabs-on-diabetes/) | Yanko Design | 2024-05-02 |
 | [Ukraine bans military from online gambling amid addiction concerns](https://readwrite.com/ukraine-bans-military-from-online-gambling-amid-addiction-concerns/) | ReadWrite | 2024-04-22 |
+| [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
@@ -88,7 +89,6 @@
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [Apple Watch AFib feature gets new FDA seal of approval](https://9to5mac.com/2024/05/02/apple-watch-afib-feature-fda/) | 9to5Mac | 2024-05-02 |
 | [War Zone Surveillance Technology Is Hitting American Streets](https://www.notus.org/technology/war-zone-surveillance-border-us) | Notus.org | 2024-04-30 |
-| [What is a System-on-Chip (SoC)?](https://www.windowscentral.com/hardware/laptops/what-is-a-system-on-chip-soc) | Windows Central | 2024-05-01 |
 
 ## News for Healthcare Sector
 
@@ -157,6 +157,7 @@
 | [Traces of H5N1 bird flu virus found in some milk, pasteurized dairy: FDA](https://abcnews.go.com/GMA/Food/traces-h5n1-bird-flu-virus-found-milk-pasteurized/story?id=109571684) | ABC News | 2024-04-24 |
 | [DEA to reclassify marijuana as a lower-risk drug, reports say](https://arstechnica.com/science/2024/04/dea-to-reclassify-marijuana-as-a-lower-risk-drug-reports-say/) | Ars Technica | 2024-04-30 |
 | [Ozempic maker Novo Nordisk denies flooding market with 'junk' patents after FTC challenge](https://qz.com/ozempic-ftc-response-1851451265) | Quartz India | 2024-05-02 |
+| [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about) | Substack.com | 2024-05-20 |
 | [Avian flu outbreak raises a disturbing question](https://phys.org/news/2024-04-avian-flu-outbreak-disturbing.html) | Phys.Org | 2024-04-22 |
 | [Bird flu in milk is alarming — but not for the reason you think](https://www.vox.com/future-perfect/24140017/milk-bird-flu-safe-dairy-usda-fda) | Vox | 2024-04-25 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
@@ -178,5 +179,4 @@
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
 | [FDA Issues Final Guidance to Clarify “Remanufacturing” of Devices that Need Maintenance or Repair](https://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-clarify-remanufacturing-devices-need-maintenance-or-repair) | FDA.gov | 2024-05-09 |
 | [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
-| [Is Chicken Feces Behind The Bird Flu Outbreaks In Cows? Here’s What To Know.](https://www.forbes.com/sites/ariannajohnson/2024/04/30/is-chicken-feces-behind-the-bird-flu-outbreaks-in-cows-heres-what-to-know/) | Forbes | 2024-04-30 |
 
