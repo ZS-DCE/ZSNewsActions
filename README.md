@@ -73,6 +73,7 @@
 | [Now you can put your Botox on Affirm](https://www.businessinsider.com/affirm-bnpl-buy-now-pay-later-botox-fillers-cosmetic-procedures-2024-4) | Business Insider | 2024-04-24 |
 | [Razer Made a Million Dollars Selling a Mask With RGB, And the FTC is Not Pleased](https://news.slashdot.org/story/24/04/29/1650210/razer-made-a-million-dollars-selling-a-mask-with-rgb-and-the-ftc-is-not-pleased) | Slashdot.org | 2024-04-29 |
 | [Implantable Battery Charges Itself](https://hackaday.com/2024/04/25/implantable-battery-charges-itself/) | Hackaday | 2024-04-25 |
+| [Emergent Ventures, 34th cohort](https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html) | Marginalrevolution.com | 2024-05-21 |
 | [What massive health care cyberattack at Ascension means for your privacy, security](https://www.foxnews.com/tech/what-massive-health-care-cyberattack-at-ascension-means-for-your-privacy-security) | Fox News | 2024-05-13 |
 | [Apple Watch is FDA's first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device) | AppleInsider | 2024-05-02 |
 | [Glucose monitor and insulin pump concept is a sustainable way to keep tabs on diabetes](https://www.yankodesign.com/2024/05/02/glucose-monitor-and-insulin-pump-concept-is-a-sustainable-way-to-keep-tabs-on-diabetes/) | Yanko Design | 2024-05-02 |
@@ -80,15 +81,14 @@
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
+| [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [Philips settled a recalled CPAP case and it sent stocks soaring](https://qz.com/philips-settlement-1851443126) | Quartz India | 2024-04-29 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [Apple Watch AFib feature gets new FDA seal of approval](https://9to5mac.com/2024/05/02/apple-watch-afib-feature-fda/) | 9to5Mac | 2024-05-02 |
-| [War Zone Surveillance Technology Is Hitting American Streets](https://www.notus.org/technology/war-zone-surveillance-border-us) | Notus.org | 2024-04-30 |
 
 ## News for Healthcare Sector
 
@@ -139,6 +139,7 @@
 | [PE investments looking up, but tax uncertainty persists](https://www.thehindubusinessline.com/markets/pe-investments-looking-up-but-tax-uncertainty-persists/article68098631.ece) | BusinessLine | 2024-04-24 |
 | [Uveitis Market Insight, Epidemiology and Market Forecast to 2034: Assessment of Competitors, Market, Current Trends and Upcoming Treatments](https://www.globenewswire.com/news-release/2024/04/23/2867378/28124/en/Uveitis-Market-Insight-Epidemiology-and-Market-Forecast-to-2034-Assessment-of-Competitors-Market-Current-Trends-and-Upcoming-Treatments.html) | GlobeNewswire | 2024-04-23 |
 | [Charles River Laboratories International, Inc. (NYSE:CRL) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/charles-river-laboratories-international-inc-200621197.html) | Yahoo Entertainment | 2024-05-10 |
+| [Antiandrogens Market Insights and Projections to 2030: An $8.7 Billion Landscape Dominated by Pfizer, Astellas Pharma, Roche, AstraZeneca, and Abbott Labs](https://www.globenewswire.com/news-release/2024/05/21/2885326/28124/en/Antiandrogens-Market-Insights-and-Projections-to-2030-An-8-7-Billion-Landscape-Dominated-by-Pfizer-Astellas-Pharma-Roche-AstraZeneca-and-Abbott-Labs.html) | GlobeNewswire | 2024-05-21 |
 | [Molecular Biology Enzymes And Kits And Reagents Market Surges to USD 69.4 Billion by 2031, Propelled by 17.35% CAGR - Verified Market Research®](https://www.globenewswire.com/news-release/2024/05/02/2874373/0/en/Molecular-Biology-Enzymes-And-Kits-And-Reagents-Market-Surges-to-USD-69-4-Billion-by-2031-Propelled-by-17-35-CAGR-Verified-Market-Research.html) | GlobeNewswire | 2024-05-02 |
 | [Gynecology Collaboration, R&D, and Licensing Deals Trends Report 2024](https://www.globenewswire.com/news-release/2024/05/07/2876831/28124/en/Gynecology-Collaboration-R-D-and-Licensing-Deals-Trends-Report-2024.html) | GlobeNewswire | 2024-05-07 |
 | [UAE MDO PET Films Market Balloons to $32.6 Million by 2027: E-commerce Boom and Pharma Industry Drive Growth: Ken Research](https://www.globenewswire.com/news-release/2024/05/14/2881142/0/en/UAE-MDO-PET-Films-Market-Balloons-to-32-6-Million-by-2027-E-commerce-Boom-and-Pharma-Industry-Drive-Growth-Ken-Research.html) | GlobeNewswire | 2024-05-14 |
@@ -148,7 +149,6 @@
 | [Pharma Wholesale and Distribution Market 10 Year Forecast Report 2024-2034: Global Market Set to Surpass the US$800 Billion Mark in 2024](https://www.globenewswire.com/news-release/2024/05/02/2874066/28124/en/Pharma-Wholesale-and-Distribution-Market-10-Year-Forecast-Report-2024-2034-Global-Market-Set-to-Surpass-the-US-800-Billion-Mark-in-2024.html) | GlobeNewswire | 2024-05-02 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
 | [Expedia Has Booked Its Trip To Ad Land](http://www.adexchanger.com/commerce/expedia-has-booked-its-trip-to-ad-land/) | AdExchanger | 2024-05-14 |
-| [BofA raises Tarsus Pharma shares target on strong sales](https://www.investing.com/news/company-news/bofa-raises-tarsus-pharma-shares-target-on-strong-sales-93CH-3433858) | Investing.com | 2024-05-10 |
 
 ## News for FDA Regulations
 
