@@ -148,7 +148,7 @@
 | [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
 | [Pharma Wholesale and Distribution Market 10 Year Forecast Report 2024-2034: Global Market Set to Surpass the US$800 Billion Mark in 2024](https://www.globenewswire.com/news-release/2024/05/02/2874066/28124/en/Pharma-Wholesale-and-Distribution-Market-10-Year-Forecast-Report-2024-2034-Global-Market-Set-to-Surpass-the-US-800-Billion-Mark-in-2024.html) | GlobeNewswire | 2024-05-02 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
-| [Expedia Has Booked Its Trip To Ad Land](http://www.adexchanger.com/commerce/expedia-has-booked-its-trip-to-ad-land/) | AdExchanger | 2024-05-14 |
+| [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
 
 ## News for FDA Regulations
 
