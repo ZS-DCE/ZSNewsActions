@@ -80,8 +80,8 @@
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
+| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
@@ -113,12 +113,12 @@
 | [Ascension Attack Intensifies Scrutiny Of Healthcare Cyber Defenses](https://www.forbes.com/sites/tonybradley/2024/05/09/ascension-attack-intensifies-scrutiny-of-healthcare-cyber-defenses/) | Forbes | 2024-05-09 |
 | [UnitedHealth CEO: 'Decision to pay ransom was mine'](https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/) | Theregister.com | 2024-04-30 |
 | [Leading Index for Commercial Real Estate Increased 6% in April](https://www.blogger.com/comment.g?blogID=10004977&postID=4866999012488337633&bpli=1) | Blogger.com | 2024-05-08 |
+| [Cyber Defense Tactics For The Healthcare Industry: Evolving Ahead Of The Threat](https://www.forbes.com/sites/emilsayegh/2024/05/23/cyber-defense-tactics-for-the-healthcare-industry-evolving-ahead-of-the-threat/) | Forbes | 2024-05-23 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/e3beb11b2b221ea6) | Biztoc.com | 2024-05-14 |
 | [I used a fake name on my résumé to land a job. It might have helped, but it felt like I lost a core part of myself.](https://www.businessinsider.com/fake-name-resume-hired-guilty-2024-5) | Business Insider | 2024-05-23 |
 | [Perelel’s $10M Donation Advances Maternal Health Research and Supports Prenatal Care](https://www.yankodesign.com/2024/05/11/perelels-10m-donation-advances-maternal-health-research-and-supports-prenatal-care/) | Yanko Design | 2024-05-11 |
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
 | [Nurses Say Hospital Adoption Of Half-Cooked ‘AI’ Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/) | Techdirt | 2024-05-02 |
-| [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 
 ## News for Pharma Market Trends
 
