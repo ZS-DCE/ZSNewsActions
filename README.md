@@ -5,6 +5,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Audacious Ukrainian drone attacks keep doing massive damage to Russia's oil industry](https://www.businessinsider.com/ukraine-drone-strikes-are-doing-massive-damage-to-russia-oil-sector-2024-4) | Business Insider | 2024-04-25 |
+| [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [Stardog’s Karaoke offers on-premises, zero hallucination LLM solution for enterprises](https://venturebeat.com/data-infrastructure/stardogs-karaoke-offers-on-premises-zero-hallucination-llm-solution-for-enterprises/) | VentureBeat | 2024-05-02 |
 | [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
@@ -28,7 +29,6 @@
 | [De-Mystifying R Programming in Clinical Trials](https://www.r-bloggers.com/2024/05/de-mystifying-r-programming-in-clinical-trials/) | R-bloggers.com | 2024-05-02 |
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
-| [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 
 ## News for Life Sciences
 
@@ -37,6 +37,7 @@
 | [The Mysterious ‘Dark’ Energy That Permeates the Universe Is Slowly Eroding](https://www.wired.com/story/dark-energy-weakening-major-astrophysics-study-finds/) | Wired | 2024-04-28 |
 | [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/) | Thecritic.co.uk | 2024-05-19 |
 | [McKesson, Merck back Atropos Health’s $33M round to accelerate drug development with AI](https://venturebeat.com/ai/atropos-health-33m-funding-round-signals-growing-interest-in-ai-driven-evidence-based-medicine/) | VentureBeat | 2024-05-23 |
+| [The Curious Life of a ‘Grotesque’ Singing Fish](https://www.biographic.com/the-curious-life-of-a-singing-fish/) | Biographic.com | 2024-05-24 |
 | [Pssst… Wanna Buy An Old Supercomputer?](https://hackaday.com/2024/05/01/pssst-wanna-buy-an-old-supercomputer/) | Hackaday | 2024-05-01 |
 | [Swimming and spinning aquatic spiders use slick survival strategies](https://knowablemagazine.org/content/article/living-world/2024/meet-the-aquatic-spiders) | Knowablemagazine.org | 2024-04-28 |
 | [Video Games Hall of Fame members include Resident Evil and SimCity, pass on Metroid](https://readwrite.com/video-games-hall-of-fame-2024-members-resident-evil-ultima-simcity-myst/) | ReadWrite | 2024-05-10 |
@@ -58,7 +59,6 @@
 | [Plants can communicate and respond to touch. Does that mean they're intelligent?](https://www.npr.org/2024/05/06/1249310672/plant-intelligence-the-light-eaters-zoe-schlanger) | NPR | 2024-05-06 |
 | [5 Ways to Plan Life Sciences Events For the Tech-Driven Age](http://skift.com/2024/05/21/5-ways-to-plan-life-sciences-events-for-the-tech-driven-age/) | Skift | 2024-05-21 |
 | [Early trauma cuts squirrel lifespans](https://www.futurity.org/yukon-red-squirrels-food-booms-early-life-trauma-3212042/) | Futurity: Research News | 2024-04-26 |
-| [Enzymes open new path to universal donor blood](https://www.dtu.dk/english/newsarchive/2024/04/enzymes-open-new-path-to-universal-donor-blood) | Www.dtu.dk | 2024-04-30 |
 
 ## News for Medical Devices
 
@@ -80,8 +80,8 @@
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [Galaxy Watch 7 rumor puts blood sugar monitoring back on the table](https://www.androidcentral.com/wearables/galaxy-watch-7-blood-sugar-monitoring-rumor) | Android Central | 2024-04-26 |
 | [Soviet-Era Pseudoscience Lurks behind ‘Havana Syndrome’ Worries](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/) | Scientific American | 2024-04-24 |
-| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
+| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [NFL to allow players to wear protective soft-shell helmet covers during games](https://abcnews.go.com/Sports/wireStory/nfl-players-wear-protective-soft-shell-helmet-covers-109709263) | ABC News | 2024-04-27 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
@@ -113,17 +113,18 @@
 | [Leading Index for Commercial Real Estate Increased 6% in April](https://www.blogger.com/comment.g?blogID=10004977&postID=4866999012488337633&bpli=1) | Blogger.com | 2024-05-08 |
 | [Cyber Defense Tactics For The Healthcare Industry: Evolving Ahead Of The Threat](https://www.forbes.com/sites/emilsayegh/2024/05/23/cyber-defense-tactics-for-the-healthcare-industry-evolving-ahead-of-the-threat/) | Forbes | 2024-05-23 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/e3beb11b2b221ea6) | Biztoc.com | 2024-05-14 |
+| [Healthcare in Syria is at risk of collapse](https://www.aljazeera.com/opinions/2024/5/24/healthcare-in-syria-is-at-risk-of-collapse) | Al Jazeera English | 2024-05-24 |
 | [I used a fake name on my résumé to land a job. It might have helped, but it felt like I lost a core part of myself.](https://www.businessinsider.com/fake-name-resume-hired-guilty-2024-5) | Business Insider | 2024-05-23 |
 | [Perelel’s $10M Donation Advances Maternal Health Research and Supports Prenatal Care](https://www.yankodesign.com/2024/05/11/perelels-10m-donation-advances-maternal-health-research-and-supports-prenatal-care/) | Yanko Design | 2024-05-11 |
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
 | [Nurses Say Hospital Adoption Of Half-Cooked ‘AI’ Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/) | Techdirt | 2024-05-02 |
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
-| [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
 
 ## News for Pharma Market Trends
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [5 Best Undervalued Stocks To Buy In May 2024](https://www.forbes.com/sites/investor-hub/article/best-undervalued-stocks-to-buy-may-2024/) | Forbes | 2024-05-09 |
 | [Dipan Mehta gives a hard pass to specialty chemicals; will bet on agrochem stocks](https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-gives-a-hard-pass-to-specialty-chemicals-will-bet-on-agrochem-stocks/articleshow/110164349.cms) | The Times of India | 2024-05-16 |
 | [Bitcoin and Biodiversity in the Cannabis Industry](https://bitcoinmagazine.com/markets/bitcoin-and-biodiversity-in-the-cannabis-industry) | Bitcoin Magazine | 2024-04-30 |
@@ -143,12 +144,11 @@
 | [Molecular Biology Enzymes And Kits And Reagents Market Surges to USD 69.4 Billion by 2031, Propelled by 17.35% CAGR - Verified Market Research®](https://www.globenewswire.com/news-release/2024/05/02/2874373/0/en/Molecular-Biology-Enzymes-And-Kits-And-Reagents-Market-Surges-to-USD-69-4-Billion-by-2031-Propelled-by-17-35-CAGR-Verified-Market-Research.html) | GlobeNewswire | 2024-05-02 |
 | [Gynecology Collaboration, R&D, and Licensing Deals Trends Report 2024](https://www.globenewswire.com/news-release/2024/05/07/2876831/28124/en/Gynecology-Collaboration-R-D-and-Licensing-Deals-Trends-Report-2024.html) | GlobeNewswire | 2024-05-07 |
 | [UAE MDO PET Films Market Balloons to $32.6 Million by 2027: E-commerce Boom and Pharma Industry Drive Growth: Ken Research](https://www.globenewswire.com/news-release/2024/05/14/2881142/0/en/UAE-MDO-PET-Films-Market-Balloons-to-32-6-Million-by-2027-E-commerce-Boom-and-Pharma-Industry-Drive-Growth-Ken-Research.html) | GlobeNewswire | 2024-05-14 |
+| [Cystic fibrosis: global clinical trials landscape and treatments](https://www.pharmaceutical-technology.com/sponsored/cystic-fibrosis-global-clinical-trials-landscape-and-treatments/) | Pharmaceutical Technology | 2024-05-24 |
 | [What to expect from the Indian stock market next week? Ashi Anand answers](https://economictimes.indiatimes.com/markets/expert-view/what-to-expect-from-the-indian-stock-market-next-week-ashi-anand-answers/articleshow/109643098.cms) | The Times of India | 2024-04-27 |
 | [Sun Pharmaceutical Industries Stocks Live Updates: Sun Pharma Closes at Rs 1495.1 with 3M Return of -4.24%](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-stocks-live-updates-24-may-2024/liveblog/110379417.cms) | The Times of India | 2024-05-24 |
 | [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
 | [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
-| [Pharma Wholesale and Distribution Market 10 Year Forecast Report 2024-2034: Global Market Set to Surpass the US$800 Billion Mark in 2024](https://www.globenewswire.com/news-release/2024/05/02/2874066/28124/en/Pharma-Wholesale-and-Distribution-Market-10-Year-Forecast-Report-2024-2034-Global-Market-Set-to-Surpass-the-US-800-Billion-Mark-in-2024.html) | GlobeNewswire | 2024-05-02 |
-| [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
 
 ## News for FDA Regulations
 
@@ -156,6 +156,7 @@
 | ----- | ------ | --------- |
 | [Traces of H5N1 bird flu virus found in some milk, pasteurized dairy: FDA](https://abcnews.go.com/GMA/Food/traces-h5n1-bird-flu-virus-found-milk-pasteurized/story?id=109571684) | ABC News | 2024-04-24 |
 | [DEA to reclassify marijuana as a lower-risk drug, reports say](https://arstechnica.com/science/2024/04/dea-to-reclassify-marijuana-as-a-lower-risk-drug-reports-say/) | Ars Technica | 2024-04-30 |
+| [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [New Amazon Rules Could Impact Independent Supplement Sellers](https://smallbiztrends.com/?p=1487531) | Small Business Trends | 2024-05-22 |
 | [The Sordid History of U.S. Food Safety Highlights the Importance of Regulation](https://www.scientificamerican.com/article/the-sordid-history-of-u-s-food-safety-highlights-the-importance-of/) | Scientific American | 2024-05-21 |
 | [Jamie Dimon might finally be ready to call it quits](https://www.businessinsider.com/jamie-dimon-retirement-jpmorgan-ceo-update-plan-successor-wall-street-2024-05) | Business Insider | 2024-05-21 |
@@ -170,6 +171,7 @@
 | [FDA Once Again Stands Athwart Biomedical Innovation, Yelling 'Stop!'](https://reason.com/2024/04/29/fda-once-again-stands-athwart-biomedical-innovation-yelling-stop/) | Reason | 2024-04-29 |
 | [Right-To-Repair Laws Could Threaten Healthcare Safety](https://medcitynews.com/2024/05/right-to-repair-laws-could-threaten-healthcare-safety/) | MedCity News | 2024-05-15 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
+| [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Will The White House’s Plan To Curb Drug Shortages Work?](https://www.forbes.com/sites/arthurkellermann/2024/04/24/will-the-white-houses-plan-to-curb-drug-shortages-work/) | Forbes | 2024-04-24 |
 | [Ground Crickets Commonly Added to Foods Under the Name 'Acheta Powder'?](https://www.snopes.com//fact-check/ground-crickets-food-acheta-powder/) | Snopes.com | 2024-05-03 |
 | [EPA, FDA, and USDA Issue Joint Regulatory Plan for Biotechnology](https://www.fda.gov/news-events/press-announcements/epa-fda-and-usda-issue-joint-regulatory-plan-biotechnology) | FDA.gov | 2024-05-08 |
@@ -177,6 +179,4 @@
 | [Weekend reading: pet food (oh why not)](https://www.foodpolitics.com/2024/05/weekend-reading-pet-food-oh-why-not/) | Foodpolitics.com | 2024-05-10 |
 | [After years of caution, pharma advertisers are embracing influencer marketing](http://digiday.com/marketing/after-years-of-caution-pharma-advertisers-are-embracing-influencer-marketing/) | Digiday | 2024-05-03 |
 | [5 Tricks That Finally Got the Authorities to Come Down and Fix Stuff](https://www.cracked.com/article_41888_5-tricks-that-finally-got-the-authorities-to-come-down-and-fix-stuff.html) | Cracked.com | 2024-04-24 |
-| [FDA Issues Final Guidance to Clarify “Remanufacturing” of Devices that Need Maintenance or Repair](https://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-clarify-remanufacturing-devices-need-maintenance-or-repair) | FDA.gov | 2024-05-09 |
-| [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
 
