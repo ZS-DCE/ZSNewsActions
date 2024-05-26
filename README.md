@@ -37,6 +37,7 @@
 | [The Mysterious ‘Dark’ Energy That Permeates the Universe Is Slowly Eroding](https://www.wired.com/story/dark-energy-weakening-major-astrophysics-study-finds/) | Wired | 2024-04-28 |
 | [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/) | Thecritic.co.uk | 2024-05-19 |
 | [McKesson, Merck back Atropos Health’s $33M round to accelerate drug development with AI](https://venturebeat.com/ai/atropos-health-33m-funding-round-signals-growing-interest-in-ai-driven-evidence-based-medicine/) | VentureBeat | 2024-05-23 |
+| [Eagles Changed Migration Route To Avoid Ukraine War](https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war) | Slashdot.org | 2024-05-25 |
 | [The Curious Life of a ‘Grotesque’ Singing Fish](https://www.biographic.com/the-curious-life-of-a-singing-fish/) | Biographic.com | 2024-05-24 |
 | [Pssst… Wanna Buy An Old Supercomputer?](https://hackaday.com/2024/05/01/pssst-wanna-buy-an-old-supercomputer/) | Hackaday | 2024-05-01 |
 | [Swimming and spinning aquatic spiders use slick survival strategies](https://knowablemagazine.org/content/article/living-world/2024/meet-the-aquatic-spiders) | Knowablemagazine.org | 2024-04-28 |
@@ -58,7 +59,6 @@
 | [What Should You Do With Danaher Stock At $250 After Q1 Beat?](https://www.forbes.com/sites/greatspeculations/2024/04/26/what-should-you-do-with-danaher-stock-at-250-after-q1-beat/) | Forbes | 2024-04-26 |
 | [International team cracks genomic code for earliest forms of terrestrial plant life](https://phys.org/news/2024-05-international-team-genomic-code-earliest.html) | Phys.Org | 2024-05-02 |
 | [Comfort in the Heart of Valencia at Casa Clarita](http://coolhunting.com/travel/comfort-and-flexibility-in-the-heart-of-valencia-casa-clarita/) | Cool Hunting | 2024-05-13 |
-| [Plants can communicate and respond to touch. Does that mean they're intelligent?](https://www.npr.org/2024/05/06/1249310672/plant-intelligence-the-light-eaters-zoe-schlanger) | NPR | 2024-05-06 |
 
 ## News for Medical Devices
 
