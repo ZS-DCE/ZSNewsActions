@@ -13,7 +13,6 @@
 | [Bernie Sanders, 82, Will Seek Another 6-Year Senate Term, Calling His Service 'the Honor of My Life'](https://people.com/bernie-sanders-announces-2024-reelection-bid-8644010) | PEOPLE | 2024-05-06 |
 | [Cuba may import sugar, rum industry pressed amid disastrous harvest](https://biztoc.com/x/483f81bc4dc0e9e2) | Biztoc.com | 2024-05-09 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
-| [Cost of developing new drugs may be far lower than industry claims, trial reveals](https://biztoc.com/x/a5491596ccdaf818) | Biztoc.com | 2024-04-25 |
 | [Inside the fight to ban — and destroy — PFAS ‘forever chemicals’](https://thenextweb.com/news/startups-fight-to-ban-destroy-pfas-forever-chemicals-with-tech) | The Next Web | 2024-05-13 |
 | [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
 | [New method for light-driven oxidation of aryl ethers to esters](https://phys.org/news/2024-05-method-driven-oxidation-aryl-ethers.html) | Phys.Org | 2024-05-23 |
@@ -29,6 +28,7 @@
 | [Why Conflicts Of Interest May Not Be As Bad As You Think (And Besides We All Have Them!)](https://www.forbes.com/sites/sachinjain/2024/04/27/why-conflicts-of-interest-may-not-be-as-bad-as-you-think-and-besides-we-all-have-them/) | Forbes | 2024-04-27 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
+| [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
 
 ## News for Life Sciences
 
@@ -45,6 +45,7 @@
 | [Why Lithuania is a hidden gem of Europe’s startup ecosystem](https://thenextweb.com/news/lithuania-hidden-gem-europes-startup-ecosystem) | The Next Web | 2024-04-26 |
 | [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) | Simonsfoundation.org | 2024-05-10 |
 | [Early adoption of generative AI in commercial life sciences](https://www.mckinsey.com/industries/life-sciences/our-insights/early-adoption-of-generative-ai-in-commercial-life-sciences) | Mckinsey.com | 2024-05-06 |
+| [Neighborhoods have really dumb names these days](https://www.businessinsider.com/insider-today-real-estate-neighborhood-names-scarlett-sam-openai-2024-5) | Business Insider | 2024-05-26 |
 | [Forskaren Innovation Hub / 3XN](https://www.archdaily.com/1016359/forskaren-innovation-hub-3xn) | ArchDaily | 2024-05-09 |
 | [Entomologist sheds light on 250-year-old mystery of the German cockroach](https://www.sciencedaily.com/releases/2024/05/240524171427.htm) | Science Daily | 2024-05-24 |
 | [Amazon taps Finland’s IQM for its first EU quantum computing service](https://thenextweb.com/news/amazon-iqm-first-eu-quantum-computer-cloud-service) | The Next Web | 2024-05-24 |
@@ -55,7 +56,6 @@
 | [Why You Endlessly Scroll Through Your Phone, and How to Stop - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/) | CNET | 2024-04-28 |
 | [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
 | [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
-| [What Should You Do With Danaher Stock At $250 After Q1 Beat?](https://www.forbes.com/sites/greatspeculations/2024/04/26/what-should-you-do-with-danaher-stock-at-250-after-q1-beat/) | Forbes | 2024-04-26 |
 | [International team cracks genomic code for earliest forms of terrestrial plant life](https://phys.org/news/2024-05-international-team-genomic-code-earliest.html) | Phys.Org | 2024-05-02 |
 | [Comfort in the Heart of Valencia at Casa Clarita](http://coolhunting.com/travel/comfort-and-flexibility-in-the-heart-of-valencia-casa-clarita/) | Cool Hunting | 2024-05-13 |
 | [Plants can communicate and respond to touch. Does that mean they're intelligent?](https://www.npr.org/2024/05/06/1249310672/plant-intelligence-the-light-eaters-zoe-schlanger) | NPR | 2024-05-06 |
@@ -147,8 +147,8 @@
 | [Cystic fibrosis: global clinical trials landscape and treatments](https://www.pharmaceutical-technology.com/sponsored/cystic-fibrosis-global-clinical-trials-landscape-and-treatments/) | Pharmaceutical Technology | 2024-05-24 |
 | [Sun Pharmaceutical Industries Stocks Live Updates: Sun Pharma Closes at Rs 1495.1 with 3M Return of -4.24%](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-stocks-live-updates-24-may-2024/liveblog/110379417.cms) | The Times of India | 2024-05-24 |
 | [What to expect from the Indian stock market next week? Ashi Anand answers](https://economictimes.indiatimes.com/markets/expert-view/what-to-expect-from-the-indian-stock-market-next-week-ashi-anand-answers/articleshow/109643098.cms) | The Times of India | 2024-04-27 |
-| [Global Penicillin Analysis Report 2024: Market to Grow by $2.82 Billion During 2023-2028, Driven by M&As, and Special Regulatory Designations Driving the Quality of Penicillin](https://www.globenewswire.com/news-release/2024/04/26/2870390/28124/en/Global-Penicillin-Analysis-Report-2024-Market-to-Grow-by-2-82-Billion-During-2023-2028-Driven-by-M-As-and-Special-Regulatory-Designations-Driving-the-Quality-of-Penicillin.html) | GlobeNewswire | 2024-04-26 |
 | [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
+| [Pharma Wholesale and Distribution Market 10 Year Forecast Report 2024-2034: Global Market Set to Surpass the US$800 Billion Mark in 2024](https://www.globenewswire.com/news-release/2024/05/02/2874066/28124/en/Pharma-Wholesale-and-Distribution-Market-10-Year-Forecast-Report-2024-2034-Global-Market-Set-to-Surpass-the-US-800-Billion-Mark-in-2024.html) | GlobeNewswire | 2024-05-02 |
 
 ## News for FDA Regulations
 
@@ -161,7 +161,6 @@
 | [Jamie Dimon might finally be ready to call it quits](https://www.businessinsider.com/jamie-dimon-retirement-jpmorgan-ceo-update-plan-successor-wall-street-2024-05) | Business Insider | 2024-05-21 |
 | [Ozempic maker Novo Nordisk denies flooding market with 'junk' patents after FTC challenge](https://qz.com/ozempic-ftc-response-1851451265) | Quartz India | 2024-05-02 |
 | [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about) | Substack.com | 2024-05-20 |
-| [Bird flu in milk is alarming — but not for the reason you think](https://www.vox.com/future-perfect/24140017/milk-bird-flu-safe-dairy-usda-fda) | Vox | 2024-04-25 |
 | [Trump’s War on Government Will Take Public Health Back a Century](https://newrepublic.com/article/180704/trump-war-government-administrative-state-public-health) | The New Republic | 2024-05-15 |
 | [Rescheduling Marijuana Won’t Reduce Regulatory Confusion On Drug’s Use](https://www.forbes.com/sites/joshuacohen/2024/05/02/rescheduling-marijuana-wont-reduce-regulatory-confusion-on-drugs-use/) | Forbes | 2024-05-02 |
 | [FDA’s Biosimilars Action Plan](https://www.healthcare-economist.com/2024/04/30/fdas-biosimilars-action-plan/) | Healthcare-economist.com | 2024-05-01 |
@@ -179,4 +178,5 @@
 | [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
 | [Is Chicken Feces Behind The Bird Flu Outbreaks In Cows? Here’s What To Know.](https://www.forbes.com/sites/ariannajohnson/2024/04/30/is-chicken-feces-behind-the-bird-flu-outbreaks-in-cows-heres-what-to-know/) | Forbes | 2024-04-30 |
 | [How Can Leaders Know When To Choose Human Skill Over AI](https://www.forbes.com/sites/jessicamendoza1/2024/05/19/how-can-leaders-know-when-to-choose-human-skill-over-ai/) | Forbes | 2024-05-20 |
+| [FDA issues warning letter to Philips regarding manufacturing facility](https://www.mobihealthnews.com/news/fda-issues-warning-letter-philips-regarding-manufacturing-facility) | MobiHealthNews | 2024-05-03 |
 
