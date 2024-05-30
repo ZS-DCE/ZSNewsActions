@@ -5,7 +5,6 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
-| [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [The Industry That Ate America](https://www.theatlantic.com/magazine/archive/2024/07/wolves-of-k-street-book-review-lobbying/678523/?utm_source=feed) | The Atlantic | 2024-05-29 |
 | [Stardog’s Karaoke offers on-premises, zero hallucination LLM solution for enterprises](https://venturebeat.com/data-infrastructure/stardogs-karaoke-offers-on-premises-zero-hallucination-llm-solution-for-enterprises/) | VentureBeat | 2024-05-02 |
 | [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
@@ -29,6 +28,7 @@
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
+| [Here's What Analysts Are Forecasting For Ultragenyx Pharmaceutical Inc. (NASDAQ:RARE) After Its First-Quarter Results](https://finance.yahoo.com/news/heres-analysts-forecasting-ultragenyx-pharmaceutical-140510916.html) | Yahoo Entertainment | 2024-05-04 |
 
 ## News for Life Sciences
 
@@ -97,7 +97,6 @@
 | [Preventing the Next Big Cyberattack on U.S. Health Care](https://hbr.org/2024/05/preventing-the-next-big-cyberattack-on-u-s-health-care) | Harvard Business Review | 2024-05-01 |
 | [It's getting really hard to find a job that pays well](https://www.businessinsider.com/economy-adding-low-paying-healthcare-retail-jobs-high-wages-scarce-2024-5) | Business Insider | 2024-05-03 |
 | [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
-| [China is gunning for the chief scientist of its COVID vaccine project, accusing him of 'serious discipline and law violations'](https://www.businessinsider.com/china-ousts-chief-scientist-yang-xiaoming-covid-vaccine-citing-corruption-2024-4) | Business Insider | 2024-04-29 |
 | [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
 | [Aussie cops probe MediSecure's 'large-scale ransomware data breach'](https://www.theregister.com/2024/05/17/medisecure_ransomware_attack/) | Theregister.com | 2024-05-17 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
@@ -119,6 +118,7 @@
 | [Perelel’s $10M Donation Advances Maternal Health Research and Supports Prenatal Care](https://www.yankodesign.com/2024/05/11/perelels-10m-donation-advances-maternal-health-research-and-supports-prenatal-care/) | Yanko Design | 2024-05-11 |
 | [Effective Packaging Design for Fitamin’s Health Products](https://abduzeedo.com/node/88438) | Abduzeedo.com | 2024-05-01 |
 | [Nurses Say Hospital Adoption Of Half-Cooked ‘AI’ Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/) | Techdirt | 2024-05-02 |
+| [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 
 ## News for Pharma Market Trends
 
@@ -130,7 +130,6 @@
 | [Merck introduces sterility testing solution for pharma quality control](https://www.pharmaceutical-technology.com/news/merck-sterility-testing-solution/) | Pharmaceutical Technology | 2024-05-29 |
 | [Bitcoin and Biodiversity in the Cannabis Industry](https://bitcoinmagazine.com/markets/bitcoin-and-biodiversity-in-the-cannabis-industry) | Bitcoin Magazine | 2024-04-30 |
 | [Charging GOP bull will quash Dem bear](https://www.americanthinker.com/articles/2024/05/charging_gop_bull_will_quash_dem_bear.html) | Americanthinker.com | 2024-05-21 |
-| [5 of the most effective creative ads in the health & pharma sector](https://www.thedrum.com/news/2024/04/29/5-the-most-effective-creative-ads-the-health-pharma-sector) | The Drum | 2024-04-29 |
 | [How patient advocacy can lead to more successful and meaningful clinical trials](https://www.clinicaltrialsarena.com/interviews/how-patient-advocacy-can-lead-to-more-successful-and-meaningful-clinical-trials/) | Clinical Trials Arena | 2024-05-20 |
 | [GoodRx Holdings, Inc. (NASDAQ:GDRX) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/goodrx-holdings-inc-nasdaq-gdrx-191654503.html) | Yahoo Entertainment | 2024-05-10 |
 | [Bullish on 2 stocks; Kotak Bank could fall to Rs 1480, 1450 levels in the next few weeks: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/bullish-on-2-stocks-kotak-bank-could-fall-to-rs-1480-1450-levels-in-the-next-few-weeks-sudeep-shah/articleshow/109816512.cms) | The Times of India | 2024-05-03 |
@@ -149,6 +148,7 @@
 | [Cystic fibrosis: global clinical trials landscape and treatments](https://www.pharmaceutical-technology.com/sponsored/cystic-fibrosis-global-clinical-trials-landscape-and-treatments/) | Pharmaceutical Technology | 2024-05-24 |
 | [Sun Pharmaceutical Industries Stocks Live Updates: Sun Pharma Closes at Rs 1495.1 with 3M Return of -4.24%](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-stocks-live-updates-24-may-2024/liveblog/110379417.cms) | The Times of India | 2024-05-24 |
 | [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
+| [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 
 ## News for FDA Regulations
 
