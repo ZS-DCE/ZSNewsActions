@@ -77,8 +77,8 @@
 | [Apple Watch is FDA's first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device) | AppleInsider | 2024-05-02 |
 | [Glucose monitor and insulin pump concept is a sustainable way to keep tabs on diabetes](https://www.yankodesign.com/2024/05/02/glucose-monitor-and-insulin-pump-concept-is-a-sustainable-way-to-keep-tabs-on-diabetes/) | Yanko Design | 2024-05-02 |
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
-| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
+| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
@@ -131,6 +131,7 @@
 | [Bitcoin and Biodiversity in the Cannabis Industry](https://bitcoinmagazine.com/markets/bitcoin-and-biodiversity-in-the-cannabis-industry) | Bitcoin Magazine | 2024-04-30 |
 | [Charging GOP bull will quash Dem bear](https://www.americanthinker.com/articles/2024/05/charging_gop_bull_will_quash_dem_bear.html) | Americanthinker.com | 2024-05-21 |
 | [How patient advocacy can lead to more successful and meaningful clinical trials](https://www.clinicaltrialsarena.com/interviews/how-patient-advocacy-can-lead-to-more-successful-and-meaningful-clinical-trials/) | Clinical Trials Arena | 2024-05-20 |
+| [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
 | [GoodRx Holdings, Inc. (NASDAQ:GDRX) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/goodrx-holdings-inc-nasdaq-gdrx-191654503.html) | Yahoo Entertainment | 2024-05-10 |
 | [Bullish on 2 stocks; Kotak Bank could fall to Rs 1480, 1450 levels in the next few weeks: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/bullish-on-2-stocks-kotak-bank-could-fall-to-rs-1480-1450-levels-in-the-next-few-weeks-sudeep-shah/articleshow/109816512.cms) | The Times of India | 2024-05-03 |
 | [Forbes Daily: Why ‘Bitcoin Jesus’ Could Be Extradited To The U.S.](https://www.forbes.com/sites/daniellechemtob/2024/05/02/forbes-daily-why-bitcoin-jesus-could-be-extradited-to-the-us/) | Forbes | 2024-05-02 |
@@ -148,7 +149,6 @@
 | [Cystic fibrosis: global clinical trials landscape and treatments](https://www.pharmaceutical-technology.com/sponsored/cystic-fibrosis-global-clinical-trials-landscape-and-treatments/) | Pharmaceutical Technology | 2024-05-24 |
 | [Sun Pharmaceutical Industries Stocks Live Updates: Sun Pharma Closes at Rs 1495.1 with 3M Return of -4.24%](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-stocks-live-updates-24-may-2024/liveblog/110379417.cms) | The Times of India | 2024-05-24 |
 | [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
-| [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 
 ## News for FDA Regulations
 
