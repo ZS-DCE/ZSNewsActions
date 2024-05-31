@@ -8,6 +8,7 @@
 | [The Industry That Ate America](https://www.theatlantic.com/magazine/archive/2024/07/wolves-of-k-street-book-review-lobbying/678523/?utm_source=feed) | The Atlantic | 2024-05-29 |
 | [Stardog’s Karaoke offers on-premises, zero hallucination LLM solution for enterprises](https://venturebeat.com/data-infrastructure/stardogs-karaoke-offers-on-premises-zero-hallucination-llm-solution-for-enterprises/) | VentureBeat | 2024-05-02 |
 | [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
+| [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
 | [Unlocking the secrets of supercritical fluids: Study offers insights into a hybrid state of matter](https://phys.org/news/2024-05-secrets-supercritical-fluids-insights-hybrid.html) | Phys.Org | 2024-05-22 |
 | [Recursion Announces Completion of NVIDIA-Powered BioHive-2, the Largest Supercomputer in Pharmaceutical Industry](https://biztoc.com/x/62088de7317dd681) | Biztoc.com | 2024-05-13 |
 | [Bernie Sanders, 82, Will Seek Another 6-Year Senate Term, Calling His Service 'the Honor of My Life'](https://people.com/bernie-sanders-announces-2024-reelection-bid-8644010) | PEOPLE | 2024-05-06 |
@@ -28,7 +29,6 @@
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
-| [Here's What Analysts Are Forecasting For Ultragenyx Pharmaceutical Inc. (NASDAQ:RARE) After Its First-Quarter Results](https://finance.yahoo.com/news/heres-analysts-forecasting-ultragenyx-pharmaceutical-140510916.html) | Yahoo Entertainment | 2024-05-04 |
 
 ## News for Life Sciences
 
