@@ -77,8 +77,8 @@
 | [Apple Watch is FDA's first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device) | AppleInsider | 2024-05-02 |
 | [Glucose monitor and insulin pump concept is a sustainable way to keep tabs on diabetes](https://www.yankodesign.com/2024/05/02/glucose-monitor-and-insulin-pump-concept-is-a-sustainable-way-to-keep-tabs-on-diabetes/) | Yanko Design | 2024-05-02 |
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
-| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [Dutch startup to bring robotic blood drawing to hospitals](https://thenextweb.com/news/dutch-startup-robotic-blood-drawing-hospitals) | The Next Web | 2024-05-01 |
+| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
