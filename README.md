@@ -10,13 +10,14 @@
 | [Alex Oshmyansky](https://time.com/6962877/alex-oshmyansky/) | Time | 2024-05-02 |
 | [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
 | [Unlocking the secrets of supercritical fluids: Study offers insights into a hybrid state of matter](https://phys.org/news/2024-05-secrets-supercritical-fluids-insights-hybrid.html) | Phys.Org | 2024-05-22 |
+| [Ozempic supply trackers, bird flu vaccines, and Merck's future: Pharma news roundup](https://qz.com/ozempic-weight-loss-drugs-bird-flu-vaccines-moderna-1851510378) | Quartz India | 2024-05-31 |
 | [Recursion Announces Completion of NVIDIA-Powered BioHive-2, the Largest Supercomputer in Pharmaceutical Industry](https://biztoc.com/x/62088de7317dd681) | Biztoc.com | 2024-05-13 |
 | [Bernie Sanders, 82, Will Seek Another 6-Year Senate Term, Calling His Service 'the Honor of My Life'](https://people.com/bernie-sanders-announces-2024-reelection-bid-8644010) | PEOPLE | 2024-05-06 |
 | [Cuba may import sugar, rum industry pressed amid disastrous harvest](https://biztoc.com/x/483f81bc4dc0e9e2) | Biztoc.com | 2024-05-09 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [Inside the fight to ban — and destroy — PFAS ‘forever chemicals’](https://thenextweb.com/news/startups-fight-to-ban-destroy-pfas-forever-chemicals-with-tech) | The Next Web | 2024-05-13 |
-| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
+| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [New method for light-driven oxidation of aryl ethers to esters](https://phys.org/news/2024-05-method-driven-oxidation-aryl-ethers.html) | Phys.Org | 2024-05-23 |
 | [Merck and other pharma giants are bracing for competition to their blockbuster drugs. Here's how.](https://qz.com/merck-bristol-myers-abbvie-blockbuster-pharma-drugs-1851461432) | Quartz India | 2024-05-08 |
 | [Early adoption of generative AI in commercial life sciences](https://www.mckinsey.com/industries/life-sciences/our-insights/early-adoption-of-generative-ai-in-commercial-life-sciences) | Mckinsey.com | 2024-05-06 |
@@ -28,7 +29,6 @@
 | [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
 | [De-Mystifying R Programming in Clinical Trials](https://www.r-bloggers.com/2024/05/de-mystifying-r-programming-in-clinical-trials/) | R-bloggers.com | 2024-05-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
-| [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 
 ## News for Life Sciences
 
@@ -66,10 +66,8 @@
 | ----- | ------ | --------- |
 | [Apple Watch AFib History Feature Qualified by FDA to Evaluate Medical Devices](https://www.macrumors.com/2024/05/02/apple-watch-afib-history-evaluate-medical-devices/) | MacRumors | 2024-05-02 |
 | [Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/) | Wired | 2024-05-09 |
-| [Razer made a million dollars selling a mask with RGB, and the FTC is not pleased](https://www.theverge.com/2024/4/29/24144425/razer-zephyr-face-mask-covid-n95-ftc-settlement) | The Verge | 2024-04-29 |
 | [A 16-year-old took home $75,000 for her award-winning discovery that could help revolutionize biomedical implants](https://www.businessinsider.com/teen-wins-isef-science-fair-grand-prize-discovery-biomedical-devices-2024-5) | Business Insider | 2024-05-17 |
 | [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/) | Wired | 2024-05-01 |
-| [Razer Made a Million Dollars Selling a Mask With RGB, And the FTC is Not Pleased](https://news.slashdot.org/story/24/04/29/1650210/razer-made-a-million-dollars-selling-a-mask-with-rgb-and-the-ftc-is-not-pleased) | Slashdot.org | 2024-04-29 |
 | [Emergent Ventures, 34th cohort](https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html) | Marginalrevolution.com | 2024-05-21 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
@@ -82,13 +80,15 @@
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
-| [Philips settled a recalled CPAP case and it sent stocks soaring](https://qz.com/philips-settlement-1851443126) | Quartz India | 2024-04-29 |
 | [Swiss startup creates modular device for on-demand cell therapy manufacturing](https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing) | The Next Web | 2024-05-21 |
 | [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [Apple Watch AFib feature gets new FDA seal of approval](https://9to5mac.com/2024/05/02/apple-watch-afib-feature-fda/) | 9to5Mac | 2024-05-02 |
 | [War Zone Surveillance Technology Is Hitting American Streets](https://www.notus.org/technology/war-zone-surveillance-border-us) | Notus.org | 2024-04-30 |
 | [What is a System-on-Chip (SoC)?](https://www.windowscentral.com/hardware/laptops/what-is-a-system-on-chip-soc) | Windows Central | 2024-05-01 |
 | [A young Duke professor won $250,000 for her algorithms that could find symptoms of heart disease when they start](https://www.businessinsider.com/amanda-randles-won-acm-prize-in-computing-blood-flow-2024-4) | Business Insider | 2024-05-01 |
+| [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
+| [Insider Today: Google's big shakeup](https://www.businessinsider.com/insider-today-sunday-google-executive-shakeup-ceo-sundar-pichai) | Business Insider | 2024-05-19 |
+| [Two years later, over-the-counter hearing aids are still finding their groove](https://www.digitaltrends.com/home-theater/otc-hearing-aids-confusion-concern-cautious-optimism/) | Digital Trends | 2024-05-02 |
 
 ## News for Healthcare Sector
 
@@ -166,7 +166,6 @@
 | [Rescheduling Marijuana Won’t Reduce Regulatory Confusion On Drug’s Use](https://www.forbes.com/sites/joshuacohen/2024/05/02/rescheduling-marijuana-wont-reduce-regulatory-confusion-on-drugs-use/) | Forbes | 2024-05-02 |
 | [FDA’s Biosimilars Action Plan](https://www.healthcare-economist.com/2024/04/30/fdas-biosimilars-action-plan/) | Healthcare-economist.com | 2024-05-01 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [FDA Once Again Stands Athwart Biomedical Innovation, Yelling 'Stop!'](https://reason.com/2024/04/29/fda-once-again-stands-athwart-biomedical-innovation-yelling-stop/) | Reason | 2024-04-29 |
 | [Right-To-Repair Laws Could Threaten Healthcare Safety](https://medcitynews.com/2024/05/right-to-repair-laws-could-threaten-healthcare-safety/) | MedCity News | 2024-05-15 |
 | [FDA Maintains Discriminatory Rules on Donated Tissue for Gay and Bisexual Men](https://truthout.org/articles/fda-maintains-discriminatory-rules-on-donated-tissue-for-gay-and-bisexual-men/) | Truthout | 2024-05-27 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
@@ -179,4 +178,5 @@
 | [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 | [FDA Issues Final Guidance to Clarify “Remanufacturing” of Devices that Need Maintenance or Repair](https://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-clarify-remanufacturing-devices-need-maintenance-or-repair) | FDA.gov | 2024-05-09 |
+| [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
 
