@@ -53,12 +53,12 @@
 | [Amazon taps Finland’s IQM for its first EU quantum computing service](https://thenextweb.com/news/amazon-iqm-first-eu-quantum-computer-cloud-service) | The Next Web | 2024-05-24 |
 | [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
 | [Roger Corman, Beloved Filmmaker, Has Died at Age 98](https://gizmodo.com/obituary-roger-corman-age-58-filmmaker-1851471762) | Gizmodo.com | 2024-05-12 |
+| [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [How AI Could Transform Drug Development And The Life Sciences](https://www.forbes.com/video/c614ce8c-9afd-4d0e-a05d-5e1c4f6f1e91/how-ai-could-transform-drug-development-and-the-life-sciences/) | Forbes | 2024-05-02 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [Did a weak magnetic field lead to life on Earth?](https://www.futurity.org/weak-magnetic-field-life-on-earth-3217672/) | Futurity: Research News | 2024-05-09 |
 | [Key functions of therapeutically promising jumbo viruses](https://www.sciencedaily.com/releases/2024/05/240501153018.htm) | Science Daily | 2024-05-01 |
 | [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
-| [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
 
 ## News for Medical Devices
 
@@ -68,6 +68,7 @@
 | [Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/) | Wired | 2024-05-09 |
 | [A 16-year-old took home $75,000 for her award-winning discovery that could help revolutionize biomedical implants](https://www.businessinsider.com/teen-wins-isef-science-fair-grand-prize-discovery-biomedical-devices-2024-5) | Business Insider | 2024-05-17 |
 | [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/) | Wired | 2024-05-01 |
+| [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/) | Wired | 2024-06-01 |
 | [Emergent Ventures, 34th cohort](https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html) | Marginalrevolution.com | 2024-05-21 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
@@ -88,7 +89,6 @@
 | [A young Duke professor won $250,000 for her algorithms that could find symptoms of heart disease when they start](https://www.businessinsider.com/amanda-randles-won-acm-prize-in-computing-blood-flow-2024-4) | Business Insider | 2024-05-01 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
 | [Insider Today: Google's big shakeup](https://www.businessinsider.com/insider-today-sunday-google-executive-shakeup-ceo-sundar-pichai) | Business Insider | 2024-05-19 |
-| [Two years later, over-the-counter hearing aids are still finding their groove](https://www.digitaltrends.com/home-theater/otc-hearing-aids-confusion-concern-cautious-optimism/) | Digital Trends | 2024-05-02 |
 
 ## News for Healthcare Sector
 
