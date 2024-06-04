@@ -21,7 +21,6 @@
 | [Early adoption of generative AI in commercial life sciences](https://www.mckinsey.com/industries/life-sciences/our-insights/early-adoption-of-generative-ai-in-commercial-life-sciences) | Mckinsey.com | 2024-05-06 |
 | [Appsilon Joins the Pharmaverse Council to Advance Open-Source Clinical Reporting](https://www.r-bloggers.com/2024/05/appsilon-joins-the-pharmaverse-council-to-advance-open-source-clinical-reporting/) | R-bloggers.com | 2024-05-09 |
 | [Chemists develop new method for introducing fluorinated components into molecules](https://phys.org/news/2024-05-chemists-method-fluorinated-components-molecules.html) | Phys.Org | 2024-05-17 |
-| [What is behind the insulin shortage in the US?](https://www.aljazeera.com/economy/2024/5/2/what-is-behind-the-insulin-shortage-in-the-us) | Al Jazeera English | 2024-05-02 |
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
 | [The FTC is challenging 'junk' drug patents. Here's what they are and why they matter](https://qz.com/what-are-junk-drug-patents-explainer-ftc-1851464935) | Quartz India | 2024-05-08 |
 | [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
@@ -29,6 +28,7 @@
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
 | [Here's What Analysts Are Forecasting For Ultragenyx Pharmaceutical Inc. (NASDAQ:RARE) After Its First-Quarter Results](https://finance.yahoo.com/news/heres-analysts-forecasting-ultragenyx-pharmaceutical-140510916.html) | Yahoo Entertainment | 2024-05-04 |
+| [Data breach at medical giant Cencora exposes info from multiple drug companies](https://www.techradar.com/pro/security/data-breach-at-medical-giant-cencora-exposes-info-from-multiple-drug-companies) | TechRadar | 2024-05-27 |
 
 ## News for Life Sciences
 
@@ -53,12 +53,12 @@
 | [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
 | [Roger Corman, Beloved Filmmaker, Has Died at Age 98](https://gizmodo.com/obituary-roger-corman-age-58-filmmaker-1851471762) | Gizmodo.com | 2024-05-12 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
-| [How AI Could Transform Drug Development And The Life Sciences](https://www.forbes.com/video/c614ce8c-9afd-4d0e-a05d-5e1c4f6f1e91/how-ai-could-transform-drug-development-and-the-life-sciences/) | Forbes | 2024-05-02 |
+| [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [Did a weak magnetic field lead to life on Earth?](https://www.futurity.org/weak-magnetic-field-life-on-earth-3217672/) | Futurity: Research News | 2024-05-09 |
 | [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
 | [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
-| [International team cracks genomic code for earliest forms of terrestrial plant life](https://phys.org/news/2024-05-international-team-genomic-code-earliest.html) | Phys.Org | 2024-05-02 |
+| [Comfort in the Heart of Valencia at Casa Clarita](http://coolhunting.com/travel/comfort-and-flexibility-in-the-heart-of-valencia-casa-clarita/) | Cool Hunting | 2024-05-13 |
 
 ## News for Medical Devices
 
