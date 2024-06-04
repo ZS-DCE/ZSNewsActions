@@ -28,7 +28,7 @@
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
 | [Here's What Analysts Are Forecasting For Ultragenyx Pharmaceutical Inc. (NASDAQ:RARE) After Its First-Quarter Results](https://finance.yahoo.com/news/heres-analysts-forecasting-ultragenyx-pharmaceutical-140510916.html) | Yahoo Entertainment | 2024-05-04 |
-| [Data breach at medical giant Cencora exposes info from multiple drug companies](https://www.techradar.com/pro/security/data-breach-at-medical-giant-cencora-exposes-info-from-multiple-drug-companies) | TechRadar | 2024-05-27 |
+| [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
 
 ## News for Life Sciences
 
