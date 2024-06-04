@@ -67,6 +67,7 @@
 | [Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/) | Wired | 2024-05-09 |
 | [A 16-year-old took home $75,000 for her award-winning discovery that could help revolutionize biomedical implants](https://www.businessinsider.com/teen-wins-isef-science-fair-grand-prize-discovery-biomedical-devices-2024-5) | Business Insider | 2024-05-17 |
 | [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/) | Wired | 2024-06-01 |
+| [Research team makes breakthrough in solar technology with shell-shaped cells: 'Will be found beneficial in various application areas'](https://www.yahoo.com/tech/research-team-makes-breakthrough-solar-040000674.html) | Yahoo Entertainment | 2024-06-03 |
 | [Emergent Ventures, 34th cohort](https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html) | Marginalrevolution.com | 2024-05-21 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
@@ -88,7 +89,6 @@
 | [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [FCC slaps AT&T, Verizon and T-Mobile with mega fines for data deceit](https://www.foxnews.com/tech/fcc-slaps-att-verizon-t-mobile-with-mega-fines-for-data-deceit) | Fox News | 2024-05-04 |
-| [The Hidden-Pregnancy Experiment](https://www.newyorker.com/culture/the-weekend-essay/the-hidden-pregnancy-experiment) | The New Yorker | 2024-05-04 |
 
 ## News for Healthcare Sector
 
