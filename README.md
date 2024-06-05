@@ -14,8 +14,8 @@
 | [Cuba may import sugar, rum industry pressed amid disastrous harvest](https://biztoc.com/x/483f81bc4dc0e9e2) | Biztoc.com | 2024-05-09 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [Inside the fight to ban — and destroy — PFAS ‘forever chemicals’](https://thenextweb.com/news/startups-fight-to-ban-destroy-pfas-forever-chemicals-with-tech) | The Next Web | 2024-05-13 |
-| [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
 | [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
+| [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
 | [New method for light-driven oxidation of aryl ethers to esters](https://phys.org/news/2024-05-method-driven-oxidation-aryl-ethers.html) | Phys.Org | 2024-05-23 |
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
 | [Merck and other pharma giants are bracing for competition to their blockbuster drugs. Here's how.](https://qz.com/merck-bristol-myers-abbvie-blockbuster-pharma-drugs-1851461432) | Quartz India | 2024-05-08 |
@@ -25,10 +25,10 @@
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
 | [The FTC is challenging 'junk' drug patents. Here's what they are and why they matter](https://qz.com/what-are-junk-drug-patents-explainer-ftc-1851464935) | Quartz India | 2024-05-08 |
 | [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
+| [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
-| [Here's What Analysts Are Forecasting For Ultragenyx Pharmaceutical Inc. (NASDAQ:RARE) After Its First-Quarter Results](https://finance.yahoo.com/news/heres-analysts-forecasting-ultragenyx-pharmaceutical-140510916.html) | Yahoo Entertainment | 2024-05-04 |
 
 ## News for Life Sciences
 
@@ -79,7 +79,6 @@
 | [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
 | [Swiss startup creates modular device for on-demand cell therapy manufacturing](https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing) | The Next Web | 2024-05-21 |
-| [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
 | [Insider Today: Google's big shakeup](https://www.businessinsider.com/insider-today-sunday-google-executive-shakeup-ceo-sundar-pichai) | Business Insider | 2024-05-19 |
 | [Google's medical AI destroys GPT's benchmark and outperforms doctors](https://newatlas.com/technology/google-med-gemini-ai/) | New Atlas | 2024-05-06 |
@@ -89,17 +88,16 @@
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
 | [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
+| [FCC slaps AT&T, Verizon and T-Mobile with mega fines for data deceit](https://www.foxnews.com/tech/fcc-slaps-att-verizon-t-mobile-with-mega-fines-for-data-deceit) | Fox News | 2024-05-04 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
-| [It's getting really hard to find a job that pays well](https://www.businessinsider.com/economy-adding-low-paying-healthcare-retail-jobs-high-wages-scarce-2024-5) | Business Insider | 2024-05-03 |
 | [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
 | [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
 | [Aussie cops probe MediSecure's 'large-scale ransomware data breach'](https://www.theregister.com/2024/05/17/medisecure_ransomware_attack/) | Theregister.com | 2024-05-17 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
-| [This week in Dutch tech](https://thenextweb.com/news/this-week-in-dutch-tech-news-2) | The Next Web | 2024-05-03 |
 | [US faith-based healthcare org Ascension says 'cybersecurity event' disrupted clinical ops](https://www.theregister.com/2024/05/09/us_faithbased_healthcare_org_ascension/) | Theregister.com | 2024-05-09 |
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
 | [Combating Threat Actors In The U.S. Healthcare Sector](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/combating-threat-actors-in-the-us-healthcare-sector/) | Forbes | 2024-05-17 |
@@ -119,6 +117,8 @@
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 | [Caring For The Caregiver: A Guide For Home Care Providers](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/08/caring-for-the-caregiver-a-guide-for-home-care-providers/) | Forbes | 2024-05-08 |
+| [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
+| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 
 ## News for Pharma Market Trends
 
@@ -133,7 +133,6 @@
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
 | [GoodRx Holdings, Inc. (NASDAQ:GDRX) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/goodrx-holdings-inc-nasdaq-gdrx-191654503.html) | Yahoo Entertainment | 2024-05-10 |
 | [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
-| [Bullish on 2 stocks; Kotak Bank could fall to Rs 1480, 1450 levels in the next few weeks: Sudeep Shah](https://economictimes.indiatimes.com/markets/expert-view/bullish-on-2-stocks-kotak-bank-could-fall-to-rs-1480-1450-levels-in-the-next-few-weeks-sudeep-shah/articleshow/109816512.cms) | The Times of India | 2024-05-03 |
 | [Sensex, Nifty open higher; Shriram Finance, Hindalco, BPCL among top gainers](https://www.thehindubusinessline.com/markets/sensex-nifty-open-higher-shriram-finance-hindalco-bpcl-among-top-gainers/article68173614.ece) | BusinessLine | 2024-05-14 |
 | [Omega 3 Market: Size, Share, Trends and Industry Growth Report](https://www.globenewswire.com/news-release/2024/05/31/2891562/0/en/Omega-3-Market-Size-Share-Trends-and-Industry-Growth-Report.html) | GlobeNewswire | 2024-05-31 |
 | [Amyotrophic Lateral Sclerosis Market On Track For USD 1,271.6 Mn Revenue By 2033, Growing At 6.5% CAGR | Dimension Market Research](https://www.globenewswire.com/news-release/2024/05/28/2889198/0/en/Amyotrophic-Lateral-Sclerosis-Market-On-Track-For-USD-1-271-6-Mn-Revenue-By-2033-Growing-At-6-5-CAGR-Dimension-Market-Research.html) | GlobeNewswire | 2024-05-28 |
@@ -149,6 +148,7 @@
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
 | [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
+| [Expedia Has Booked Its Trip To Ad Land](http://www.adexchanger.com/commerce/expedia-has-booked-its-trip-to-ad-land/) | AdExchanger | 2024-05-14 |
 
 ## News for FDA Regulations
 
@@ -167,16 +167,16 @@
 | [Health And Legal Ramifications Of Louisiana’s Severe Restrictions On Abortion Pills](https://www.forbes.com/sites/joshuacohen/2024/06/02/health-and-legal-ramifications-of-louisianas-severe-restrictions-on-abortion-pills/) | Forbes | 2024-06-02 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
-| [Ground Crickets Commonly Added to Foods Under the Name 'Acheta Powder'?](https://www.snopes.com//fact-check/ground-crickets-food-acheta-powder/) | Snopes.com | 2024-05-03 |
 | [EPA, FDA, and USDA Issue Joint Regulatory Plan for Biotechnology](https://www.fda.gov/news-events/press-announcements/epa-fda-and-usda-issue-joint-regulatory-plan-biotechnology) | FDA.gov | 2024-05-08 |
 | [Weekend reading: pet food (oh why not)](https://www.foodpolitics.com/2024/05/weekend-reading-pet-food-oh-why-not/) | Foodpolitics.com | 2024-05-10 |
-| [After years of caution, pharma advertisers are embracing influencer marketing](http://digiday.com/marketing/after-years-of-caution-pharma-advertisers-are-embracing-influencer-marketing/) | Digiday | 2024-05-03 |
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 | [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 | [FDA Issues Final Guidance to Clarify “Remanufacturing” of Devices that Need Maintenance or Repair](https://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-clarify-remanufacturing-devices-need-maintenance-or-repair) | FDA.gov | 2024-05-09 |
 | [Your Psychedelic Gummy Is Here. (Have A Nice Trip.)](https://www.forbes.com/sites/willyakowicz/2024/05/03/rise-of-psychedelic-mushroom-gummies-aminita-muscaria-polkadot/) | Forbes | 2024-05-05 |
 | [How Can Leaders Know When To Choose Human Skill Over AI](https://www.forbes.com/sites/jessicamendoza1/2024/05/19/how-can-leaders-know-when-to-choose-human-skill-over-ai/) | Forbes | 2024-05-20 |
-| [FDA issues warning letter to Philips regarding manufacturing facility](https://www.mobihealthnews.com/news/fda-issues-warning-letter-philips-regarding-manufacturing-facility) | MobiHealthNews | 2024-05-03 |
-| [Philips receives warning letter from FDA regarding manufacturing facility](https://www.mobihealthnews.com/news/philips-receives-warning-letter-fda-regarding-manufacturing-facility) | MobiHealthNews | 2024-05-03 |
+| [Baby formula maker recalls batch after failing to register formula with FDA](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_57c1e35e-80e8-484d-a929-5a0659f8662b) | Yahoo Entertainment | 2024-05-28 |
+| [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
+| [Johnson Celebrates AA and NHPI Heritage Month: Kimia Seyedmadani](https://www.nasa.gov/centers-and-facilities/johnson/johnson-celebrates-aa-and-nhpi-heritage-month-kimia-seyedmadani/) | NASA | 2024-05-08 |
+| [A Pragmatic Approach To Technology In Clinical Research](https://www.forbes.com/sites/forbestechcouncil/2024/05/14/a-pragmatic-approach-to-technology-in-clinical-research/) | Forbes | 2024-05-14 |
 
