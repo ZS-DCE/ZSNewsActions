@@ -20,6 +20,7 @@
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
 | [Merck and other pharma giants are bracing for competition to their blockbuster drugs. Here's how.](https://qz.com/merck-bristol-myers-abbvie-blockbuster-pharma-drugs-1851461432) | Quartz India | 2024-05-08 |
 | [Early adoption of generative AI in commercial life sciences](https://www.mckinsey.com/industries/life-sciences/our-insights/early-adoption-of-generative-ai-in-commercial-life-sciences) | Mckinsey.com | 2024-05-06 |
+| [Why Counterfeit Ozempic Is a Global-Growth Industry](https://www.vanityfair.com/news/story/counterfeit-ozempic-global-growth-industry) | Vanity Fair | 2024-06-04 |
 | [Appsilon Joins the Pharmaverse Council to Advance Open-Source Clinical Reporting](https://www.r-bloggers.com/2024/05/appsilon-joins-the-pharmaverse-council-to-advance-open-source-clinical-reporting/) | R-bloggers.com | 2024-05-09 |
 | [Chemists develop new method for introducing fluorinated components into molecules](https://phys.org/news/2024-05-chemists-method-fluorinated-components-molecules.html) | Phys.Org | 2024-05-17 |
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
@@ -28,7 +29,6 @@
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
-| [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
 
 ## News for Life Sciences
 
@@ -55,8 +55,8 @@
 | [Roger Corman, Beloved Filmmaker, Has Died at Age 98](https://gizmodo.com/obituary-roger-corman-age-58-filmmaker-1851471762) | Gizmodo.com | 2024-05-12 |
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
-| [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
+| [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [Did a weak magnetic field lead to life on Earth?](https://www.futurity.org/weak-magnetic-field-life-on-earth-3217672/) | Futurity: Research News | 2024-05-09 |
 | [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
 
@@ -102,6 +102,7 @@
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
 | [Combating Threat Actors In The U.S. Healthcare Sector](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/combating-threat-actors-in-the-us-healthcare-sector/) | Forbes | 2024-05-17 |
 | [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
+| [Health Care Roundup: Market Talk](https://biztoc.com/x/9dcde0d46e121c1c) | Biztoc.com | 2024-06-04 |
 | [Digital Transformation In Healthcare: Advice For Health Organizations](https://www.forbes.com/sites/forbestechcouncil/2024/05/22/digital-transformation-in-healthcare-advice-for-health-organizations/) | Forbes | 2024-05-22 |
 | [These catalysts could push the S&P 500 to 5,600: BMO's Belski](https://finance.yahoo.com/video/catalysts-could-push-p-500-145656140.html) | Yahoo Entertainment | 2024-05-17 |
 | [Ascension Attack Intensifies Scrutiny Of Healthcare Cyber Defenses](https://www.forbes.com/sites/tonybradley/2024/05/09/ascension-attack-intensifies-scrutiny-of-healthcare-cyber-defenses/) | Forbes | 2024-05-09 |
@@ -118,7 +119,6 @@
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 | [Caring For The Caregiver: A Guide For Home Care Providers](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/08/caring-for-the-caregiver-a-guide-for-home-care-providers/) | Forbes | 2024-05-08 |
 | [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
-| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 
 ## News for Pharma Market Trends
 
