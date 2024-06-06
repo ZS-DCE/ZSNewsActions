@@ -98,6 +98,7 @@
 | [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
 | [Aussie cops probe MediSecure's 'large-scale ransomware data breach'](https://www.theregister.com/2024/05/17/medisecure_ransomware_attack/) | Theregister.com | 2024-05-17 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
+| [ASML’s new lab opens up access to its most advanced chipmaking machine](https://thenextweb.com/news/asmls-new-lab-access-to-most-advanced-chipmaking-machine) | The Next Web | 2024-06-04 |
 | [US faith-based healthcare org Ascension says 'cybersecurity event' disrupted clinical ops](https://www.theregister.com/2024/05/09/us_faithbased_healthcare_org_ascension/) | Theregister.com | 2024-05-09 |
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
 | [Combating Threat Actors In The U.S. Healthcare Sector](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/combating-threat-actors-in-the-us-healthcare-sector/) | Forbes | 2024-05-17 |
@@ -118,7 +119,6 @@
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
-| [Caring For The Caregiver: A Guide For Home Care Providers](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/08/caring-for-the-caregiver-a-guide-for-home-care-providers/) | Forbes | 2024-05-08 |
 
 ## News for Pharma Market Trends
 
