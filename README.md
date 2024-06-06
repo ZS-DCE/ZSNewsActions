@@ -68,6 +68,7 @@
 | [A 16-year-old took home $75,000 for her award-winning discovery that could help revolutionize biomedical implants](https://www.businessinsider.com/teen-wins-isef-science-fair-grand-prize-discovery-biomedical-devices-2024-5) | Business Insider | 2024-05-17 |
 | [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/) | Wired | 2024-06-01 |
 | [Research team makes breakthrough in solar technology with shell-shaped cells: 'Will be found beneficial in various application areas'](https://www.yahoo.com/tech/research-team-makes-breakthrough-solar-040000674.html) | Yahoo Entertainment | 2024-06-03 |
+| [Mass graves and body bags: al-Shifa hospital after Israel withdrew its forces](https://www.bbc.com/news/articles/c511k1nqx81o) | BBC News | 2024-06-05 |
 | [Emergent Ventures, 34th cohort](https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html) | Marginalrevolution.com | 2024-05-21 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
@@ -86,7 +87,6 @@
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
 | [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again) | AppleInsider | 2024-05-17 |
-| [Brain implants are becoming obsolete, like old phones. What happens next?](https://newatlas.com/technology/brain-implant-obsolete/) | New Atlas | 2024-05-04 |
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
 | [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 
