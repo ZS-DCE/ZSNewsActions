@@ -7,6 +7,7 @@
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [The Industry That Ate America](https://www.theatlantic.com/magazine/archive/2024/07/wolves-of-k-street-book-review-lobbying/678523/?utm_source=feed) | The Atlantic | 2024-05-29 |
 | [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
+| [Scientists sound the alarm on pharmaceutical pollution crisis](https://phys.org/news/2024-06-scientists-alarm-pharmaceutical-pollution-crisis.html) | Phys.Org | 2024-06-05 |
 | [Unlocking the secrets of supercritical fluids: Study offers insights into a hybrid state of matter](https://phys.org/news/2024-05-secrets-supercritical-fluids-insights-hybrid.html) | Phys.Org | 2024-05-22 |
 | [Ozempic supply trackers, bird flu vaccines, and Merck's future: Pharma news roundup](https://qz.com/ozempic-weight-loss-drugs-bird-flu-vaccines-moderna-1851510378) | Quartz India | 2024-05-31 |
 | [Recursion Announces Completion of NVIDIA-Powered BioHive-2, the Largest Supercomputer in Pharmaceutical Industry](https://biztoc.com/x/62088de7317dd681) | Biztoc.com | 2024-05-13 |
@@ -28,7 +29,6 @@
 | [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
-| [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 
 ## News for Life Sciences
 
