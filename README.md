@@ -64,6 +64,7 @@
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Google Messages Will Finally Let You Text 911](https://gizmodo.com/google-messages-text-911-1851522390) | Gizmodo.com | 2024-06-06 |
 | [Elon Musk's Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/) | Wired | 2024-05-09 |
 | [A 16-year-old took home $75,000 for her award-winning discovery that could help revolutionize biomedical implants](https://www.businessinsider.com/teen-wins-isef-science-fair-grand-prize-discovery-biomedical-devices-2024-5) | Business Insider | 2024-05-17 |
 | [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/) | Wired | 2024-06-01 |
@@ -88,12 +89,12 @@
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
 | [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again) | AppleInsider | 2024-05-17 |
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
-| [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [Fed policy hasn't cooled the labor market and a 'serious consumer recession' could strike if services jobs tumble, real estate billionaire Barry Sternlicht says](https://www.businessinsider.com/recession-layoffs-job-market-fed-rate-cuts-economy-outlook-sternlicht-2024-6) | Business Insider | 2024-06-06 |
 | [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
 | [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
 | [Aussie cops probe MediSecure's 'large-scale ransomware data breach'](https://www.theregister.com/2024/05/17/medisecure_ransomware_attack/) | Theregister.com | 2024-05-17 |
@@ -118,7 +119,6 @@
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
-| [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 
 ## News for Pharma Market Trends
 
