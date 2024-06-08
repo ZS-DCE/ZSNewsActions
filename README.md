@@ -11,12 +11,12 @@
 | [Unlocking the secrets of supercritical fluids: Study offers insights into a hybrid state of matter](https://phys.org/news/2024-05-secrets-supercritical-fluids-insights-hybrid.html) | Phys.Org | 2024-05-22 |
 | [Ozempic supply trackers, bird flu vaccines, and Merck's future: Pharma news roundup](https://qz.com/ozempic-weight-loss-drugs-bird-flu-vaccines-moderna-1851510378) | Quartz India | 2024-05-31 |
 | [Recursion Announces Completion of NVIDIA-Powered BioHive-2, the Largest Supercomputer in Pharmaceutical Industry](https://biztoc.com/x/62088de7317dd681) | Biztoc.com | 2024-05-13 |
-| [Bernie Sanders, 82, Will Seek Another 6-Year Senate Term, Calling His Service 'the Honor of My Life'](https://people.com/bernie-sanders-announces-2024-reelection-bid-8644010) | PEOPLE | 2024-05-06 |
 | [Cuba may import sugar, rum industry pressed amid disastrous harvest](https://biztoc.com/x/483f81bc4dc0e9e2) | Biztoc.com | 2024-05-09 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [Inside the fight to ban — and destroy — PFAS ‘forever chemicals’](https://thenextweb.com/news/startups-fight-to-ban-destroy-pfas-forever-chemicals-with-tech) | The Next Web | 2024-05-13 |
 | [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
+| [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
 | [New method for light-driven oxidation of aryl ethers to esters](https://phys.org/news/2024-05-method-driven-oxidation-aryl-ethers.html) | Phys.Org | 2024-05-23 |
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
 | [Merck and other pharma giants are bracing for competition to their blockbuster drugs. Here's how.](https://qz.com/merck-bristol-myers-abbvie-blockbuster-pharma-drugs-1851461432) | Quartz India | 2024-05-08 |
@@ -42,6 +42,7 @@
 | [Eagles Changed Migration Route To Avoid Ukraine War](https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war) | Slashdot.org | 2024-05-25 |
 | [The Curious Life of a ‘Grotesque’ Singing Fish](https://www.biographic.com/the-curious-life-of-a-singing-fish/) | Biographic.com | 2024-05-24 |
 | [Video Games Hall of Fame members include Resident Evil and SimCity, pass on Metroid](https://readwrite.com/video-games-hall-of-fame-2024-members-resident-evil-ultima-simcity-myst/) | ReadWrite | 2024-05-10 |
+| [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
 | [Apple Announces New Tinnitus Research, Continues Dive Into Hearing Health - CNET](https://www.cnet.com/health/medical/apple-announces-new-tinnitus-research-continues-dive-into-hearing-health/) | CNET | 2024-05-28 |
 | [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) | Simonsfoundation.org | 2024-05-10 |
 | [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
@@ -58,7 +59,6 @@
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [Did a weak magnetic field lead to life on Earth?](https://www.futurity.org/weak-magnetic-field-life-on-earth-3217672/) | Futurity: Research News | 2024-05-09 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
-| [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
 
 ## News for Medical Devices
 
@@ -75,6 +75,7 @@
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
 | [What massive health care cyberattack at Ascension means for your privacy, security](https://www.foxnews.com/tech/what-massive-health-care-cyberattack-at-ascension-means-for-your-privacy-security) | Fox News | 2024-05-13 |
+| [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [PSA: Check on these 4 emergency iPhone and Apple Watch features before you need them](https://9to5mac.com/2024/06/03/check-emergency-iphone-and-apple-watch-features/) | 9to5Mac | 2024-06-03 |
 | [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
@@ -88,7 +89,6 @@
 | [Insider Today: Google's big shakeup](https://www.businessinsider.com/insider-today-sunday-google-executive-shakeup-ceo-sundar-pichai) | Business Insider | 2024-05-19 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
-| [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again) | AppleInsider | 2024-05-17 |
 
 ## News for Healthcare Sector
 
@@ -141,7 +141,6 @@
 | [Charles River Laboratories International, Inc. (NYSE:CRL) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/charles-river-laboratories-international-inc-200621197.html) | Yahoo Entertainment | 2024-05-10 |
 | [Antiandrogens Market Insights and Projections to 2030: An $8.7 Billion Landscape Dominated by Pfizer, Astellas Pharma, Roche, AstraZeneca, and Abbott Labs](https://www.globenewswire.com/news-release/2024/05/21/2885326/28124/en/Antiandrogens-Market-Insights-and-Projections-to-2030-An-8-7-Billion-Landscape-Dominated-by-Pfizer-Astellas-Pharma-Roche-AstraZeneca-and-Abbott-Labs.html) | GlobeNewswire | 2024-05-21 |
 | [Air cargo marketplace Freightos posts record Q1 volume](https://www.digitalcommerce360.com/2024/05/22/air-cargo-marketplace-freightos-posts-record-q1-volume/) | DigitalCommerce360 | 2024-05-22 |
-| [Gynecology Collaboration, R&D, and Licensing Deals Trends Report 2024](https://www.globenewswire.com/news-release/2024/05/07/2876831/28124/en/Gynecology-Collaboration-R-D-and-Licensing-Deals-Trends-Report-2024.html) | GlobeNewswire | 2024-05-07 |
 | [UAE MDO PET Films Market Balloons to $32.6 Million by 2027: E-commerce Boom and Pharma Industry Drive Growth: Ken Research](https://www.globenewswire.com/news-release/2024/05/14/2881142/0/en/UAE-MDO-PET-Films-Market-Balloons-to-32-6-Million-by-2027-E-commerce-Boom-and-Pharma-Industry-Drive-Growth-Ken-Research.html) | GlobeNewswire | 2024-05-14 |
 | [Cystic fibrosis: global clinical trials landscape and treatments](https://www.pharmaceutical-technology.com/sponsored/cystic-fibrosis-global-clinical-trials-landscape-and-treatments/) | Pharmaceutical Technology | 2024-05-24 |
 | [Informa PLC's Dividend Analysis](https://finance.yahoo.com/news/informa-plcs-dividend-analysis-110430813.html) | Yahoo Entertainment | 2024-06-07 |
@@ -149,6 +148,7 @@
 | [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
+| [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
 
 ## News for FDA Regulations
 
@@ -162,7 +162,7 @@
 | [Here's the One Chicken Label I Look For (Spoiler: It's Not "Organic") - CNET](https://www.cnet.com/health/heres-the-one-chicken-label-i-look-for-and-its-not-organic/) | CNET | 2024-06-07 |
 | [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about) | Substack.com | 2024-05-20 |
 | [Trump’s War on Government Will Take Public Health Back a Century](https://newrepublic.com/article/180704/trump-war-government-administrative-state-public-health) | The New Republic | 2024-05-15 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [Right-To-Repair Laws Could Threaten Healthcare Safety](https://medcitynews.com/2024/05/right-to-repair-laws-could-threaten-healthcare-safety/) | MedCity News | 2024-05-15 |
 | [FDA Maintains Discriminatory Rules on Donated Tissue for Gay and Bisexual Men](https://truthout.org/articles/fda-maintains-discriminatory-rules-on-donated-tissue-for-gay-and-bisexual-men/) | Truthout | 2024-05-27 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
