@@ -19,7 +19,6 @@
 | [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
 | [New method for light-driven oxidation of aryl ethers to esters](https://phys.org/news/2024-05-method-driven-oxidation-aryl-ethers.html) | Phys.Org | 2024-05-23 |
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
-| [Merck and other pharma giants are bracing for competition to their blockbuster drugs. Here's how.](https://qz.com/merck-bristol-myers-abbvie-blockbuster-pharma-drugs-1851461432) | Quartz India | 2024-05-08 |
 | [Why Counterfeit Ozempic Is a Global-Growth Industry](https://www.vanityfair.com/news/story/counterfeit-ozempic-global-growth-industry) | Vanity Fair | 2024-06-04 |
 | [Appsilon Joins the Pharmaverse Council to Advance Open-Source Clinical Reporting](https://www.r-bloggers.com/2024/05/appsilon-joins-the-pharmaverse-council-to-advance-open-source-clinical-reporting/) | R-bloggers.com | 2024-05-09 |
 | [Chemists develop new method for introducing fluorinated components into molecules](https://phys.org/news/2024-05-chemists-method-fluorinated-components-molecules.html) | Phys.Org | 2024-05-17 |
@@ -29,6 +28,7 @@
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Teva Pharmaceutical Industries First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags](https://finance.yahoo.com/news/teva-pharmaceutical-industries-first-quarter-122133315.html) | Yahoo Entertainment | 2024-05-09 |
+| [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 
 ## News for Life Sciences
 
@@ -78,9 +78,7 @@
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [PSA: Check on these 4 emergency iPhone and Apple Watch features before you need them](https://9to5mac.com/2024/06/03/check-emergency-iphone-and-apple-watch-features/) | 9to5Mac | 2024-06-03 |
-| [Neuron-sized brain implant could help blind people see again](https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see) | The Next Web | 2024-05-08 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
-| [Stilling the quantum dance of atoms](https://www.sciencedaily.com/releases/2024/05/240508112736.htm) | Science Daily | 2024-05-08 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
 | [Swiss startup creates modular device for on-demand cell therapy manufacturing](https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing) | The Next Web | 2024-05-21 |
 | [Can I use my FSA/HRA/HSA to pay for a fitness tracker or wearable?](https://www.androidpolice.com/are-fitness-trackers-hra-fsa-hsa-eligible/) | Android Police | 2024-06-04 |
@@ -89,6 +87,8 @@
 | [Insider Today: Google's big shakeup](https://www.businessinsider.com/insider-today-sunday-google-executive-shakeup-ceo-sundar-pichai) | Business Insider | 2024-05-19 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
+| [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again) | AppleInsider | 2024-05-17 |
+| [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
 
 ## News for Healthcare Sector
 
@@ -109,7 +109,6 @@
 | [Digital Transformation In Healthcare: Advice For Health Organizations](https://www.forbes.com/sites/forbestechcouncil/2024/05/22/digital-transformation-in-healthcare-advice-for-health-organizations/) | Forbes | 2024-05-22 |
 | [These catalysts could push the S&P 500 to 5,600: BMO's Belski](https://finance.yahoo.com/video/catalysts-could-push-p-500-145656140.html) | Yahoo Entertainment | 2024-05-17 |
 | [Ascension Attack Intensifies Scrutiny Of Healthcare Cyber Defenses](https://www.forbes.com/sites/tonybradley/2024/05/09/ascension-attack-intensifies-scrutiny-of-healthcare-cyber-defenses/) | Forbes | 2024-05-09 |
-| [Leading Index for Commercial Real Estate Increased 6% in April](https://www.blogger.com/comment.g?blogID=10004977&postID=4866999012488337633&bpli=1) | Blogger.com | 2024-05-08 |
 | [Cyber Defense Tactics For The Healthcare Industry: Evolving Ahead Of The Threat](https://www.forbes.com/sites/emilsayegh/2024/05/23/cyber-defense-tactics-for-the-healthcare-industry-evolving-ahead-of-the-threat/) | Forbes | 2024-05-23 |
 | [3 Sorry Healthcare Stocks to Sell in May While You Still Can](https://biztoc.com/x/9d7cabf863335ec6) | Biztoc.com | 2024-05-28 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/e3beb11b2b221ea6) | Biztoc.com | 2024-05-14 |
@@ -119,6 +118,7 @@
 | [How the Moves of One Company Are Revolutionizing the Healthcare Sector](https://biztoc.com/x/095e411b23c5dcd1) | Biztoc.com | 2024-05-29 |
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
+| [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
 
 ## News for Pharma Market Trends
 
@@ -169,7 +169,6 @@
 | [Health And Legal Ramifications Of Louisiana’s Severe Restrictions On Abortion Pills](https://www.forbes.com/sites/joshuacohen/2024/06/02/health-and-legal-ramifications-of-louisianas-severe-restrictions-on-abortion-pills/) | Forbes | 2024-06-02 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
-| [EPA, FDA, and USDA Issue Joint Regulatory Plan for Biotechnology](https://www.fda.gov/news-events/press-announcements/epa-fda-and-usda-issue-joint-regulatory-plan-biotechnology) | FDA.gov | 2024-05-08 |
 | [Weekend reading: pet food (oh why not)](https://www.foodpolitics.com/2024/05/weekend-reading-pet-food-oh-why-not/) | Foodpolitics.com | 2024-05-10 |
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 | [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
@@ -178,5 +177,6 @@
 | [How Can Leaders Know When To Choose Human Skill Over AI](https://www.forbes.com/sites/jessicamendoza1/2024/05/19/how-can-leaders-know-when-to-choose-human-skill-over-ai/) | Forbes | 2024-05-20 |
 | [Baby formula maker recalls batch after failing to register formula with FDA](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_57c1e35e-80e8-484d-a929-5a0659f8662b) | Yahoo Entertainment | 2024-05-28 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
-| [Johnson Celebrates AA and NHPI Heritage Month: Kimia Seyedmadani](https://www.nasa.gov/centers-and-facilities/johnson/johnson-celebrates-aa-and-nhpi-heritage-month-kimia-seyedmadani/) | NASA | 2024-05-08 |
+| [A Pragmatic Approach To Technology In Clinical Research](https://www.forbes.com/sites/forbestechcouncil/2024/05/14/a-pragmatic-approach-to-technology-in-clinical-research/) | Forbes | 2024-05-14 |
+| [New Zealand investigates Indian spices over contamination](https://www.rt.com/india/597702-new-zealand-investigates-indian-spices/) | RT | 2024-05-16 |
 
