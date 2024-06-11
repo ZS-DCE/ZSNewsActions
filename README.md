@@ -13,8 +13,8 @@
 | [Recursion Announces Completion of NVIDIA-Powered BioHive-2, the Largest Supercomputer in Pharmaceutical Industry](https://biztoc.com/x/62088de7317dd681) | Biztoc.com | 2024-05-13 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [Inside the fight to ban — and destroy — PFAS ‘forever chemicals’](https://thenextweb.com/news/startups-fight-to-ban-destroy-pfas-forever-chemicals-with-tech) | The Next Web | 2024-05-13 |
-| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
+| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
 | [New method for light-driven oxidation of aryl ethers to esters](https://phys.org/news/2024-05-method-driven-oxidation-aryl-ethers.html) | Phys.Org | 2024-05-23 |
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
