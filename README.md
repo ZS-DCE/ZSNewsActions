@@ -44,6 +44,7 @@
 | [Video Games Hall of Fame members include Resident Evil and SimCity, pass on Metroid](https://readwrite.com/video-games-hall-of-fame-2024-members-resident-evil-ultima-simcity-myst/) | ReadWrite | 2024-05-10 |
 | [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
 | [Apple Announces New Tinnitus Research, Continues Dive Into Hearing Health - CNET](https://www.cnet.com/health/medical/apple-announces-new-tinnitus-research-continues-dive-into-hearing-health/) | CNET | 2024-05-28 |
+| [Report: The Netherlands is the leading startup ecosystem in the EU](https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu) | The Next Web | 2024-06-10 |
 | [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) | Simonsfoundation.org | 2024-05-10 |
 | [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
 | [Neighborhoods have really dumb names these days](https://www.businessinsider.com/insider-today-real-estate-neighborhood-names-scarlett-sam-openai-2024-5) | Business Insider | 2024-05-26 |
@@ -58,7 +59,6 @@
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
-| [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
 
 ## News for Medical Devices
 
@@ -107,6 +107,7 @@
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/9dcde0d46e121c1c) | Biztoc.com | 2024-06-04 |
 | [Digital Transformation In Healthcare: Advice For Health Organizations](https://www.forbes.com/sites/forbestechcouncil/2024/05/22/digital-transformation-in-healthcare-advice-for-health-organizations/) | Forbes | 2024-05-22 |
 | [These catalysts could push the S&P 500 to 5,600: BMO's Belski](https://finance.yahoo.com/video/catalysts-could-push-p-500-145656140.html) | Yahoo Entertainment | 2024-05-17 |
+| [Quién es Midea, el gigante chino que ha comprado a la española Teka](https://www.xataka.com/empresas-y-economia/quien-midea-gigante-chino-que-ha-comprado-a-espanola-teka) | Xataka.com | 2024-06-10 |
 | [Cyber Defense Tactics For The Healthcare Industry: Evolving Ahead Of The Threat](https://www.forbes.com/sites/emilsayegh/2024/05/23/cyber-defense-tactics-for-the-healthcare-industry-evolving-ahead-of-the-threat/) | Forbes | 2024-05-23 |
 | [3 Sorry Healthcare Stocks to Sell in May While You Still Can](https://biztoc.com/x/9d7cabf863335ec6) | Biztoc.com | 2024-05-28 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/e3beb11b2b221ea6) | Biztoc.com | 2024-05-14 |
@@ -118,7 +119,6 @@
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
-| [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
 
 ## News for Pharma Market Trends
 
@@ -134,6 +134,7 @@
 | [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
 | [Sensex, Nifty open higher; Shriram Finance, Hindalco, BPCL among top gainers](https://www.thehindubusinessline.com/markets/sensex-nifty-open-higher-shriram-finance-hindalco-bpcl-among-top-gainers/article68173614.ece) | BusinessLine | 2024-05-14 |
 | [Omega 3 Market: Size, Share, Trends and Industry Growth Report](https://www.globenewswire.com/news-release/2024/05/31/2891562/0/en/Omega-3-Market-Size-Share-Trends-and-Industry-Growth-Report.html) | GlobeNewswire | 2024-05-31 |
+| [CDMO Market Forecast USD 530.3 Billion by 2033 at 7.7% CAGR Growth Rate | Dimension Market Research](https://www.globenewswire.com/news-release/2024/06/10/2896167/0/en/CDMO-Market-Forecast-USD-530-3-Billion-by-2033-at-7-7-CAGR-Growth-Rate-Dimension-Market-Research.html) | GlobeNewswire | 2024-06-10 |
 | [Amyotrophic Lateral Sclerosis Market On Track For USD 1,271.6 Mn Revenue By 2033, Growing At 6.5% CAGR | Dimension Market Research](https://www.globenewswire.com/news-release/2024/05/28/2889198/0/en/Amyotrophic-Lateral-Sclerosis-Market-On-Track-For-USD-1-271-6-Mn-Revenue-By-2033-Growing-At-6-5-CAGR-Dimension-Market-Research.html) | GlobeNewswire | 2024-05-28 |
 | [FMCG, healthcare stocks defy markets with spirited fight back, gain up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-stocks-defy-markets-with-spirited-fight-back-gain-up-to-4/articleshow/110692499.cms) | The Times of India | 2024-06-04 |
 | [Banking sector is the place to be, don’t be put off by FII selling: Andrew Holland](https://economictimes.indiatimes.com/markets/expert-view/banking-sector-is-the-place-to-be-dont-be-put-off-by-fii-selling-andrew-holland/articleshow/110348866.cms) | The Times of India | 2024-05-23 |
@@ -148,7 +149,6 @@
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
-| [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
 
 ## News for FDA Regulations
 
