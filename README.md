@@ -24,11 +24,11 @@
 | [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
+| [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
 | [Data breach at medical giant Cencora exposes info from multiple drug companies](https://www.techradar.com/pro/security/data-breach-at-medical-giant-cencora-exposes-info-from-multiple-drug-companies) | TechRadar | 2024-05-27 |
 | [Doctors routinely accept bribes from Big Pharma to write guidelines mandating pharmaceutical drug use](https://www.naturalnews.com/2024-06-07-doctors-bribes-big-pharma-mandating-pharmaceutical-use.html) | Naturalnews.com | 2024-06-07 |
-| [Big Tobacco and the Psychiatric Drug Industry](https://www.americanthinker.com/articles/2024/05/big_tobacco_and_the_psychiatric_drug_industry.html) | Americanthinker.com | 2024-05-25 |
 
 ## News for Life Sciences
 
