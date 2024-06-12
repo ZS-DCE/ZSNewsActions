@@ -137,6 +137,7 @@
 | [Amyotrophic Lateral Sclerosis Market On Track For USD 1,271.6 Mn Revenue By 2033, Growing At 6.5% CAGR | Dimension Market Research](https://www.globenewswire.com/news-release/2024/05/28/2889198/0/en/Amyotrophic-Lateral-Sclerosis-Market-On-Track-For-USD-1-271-6-Mn-Revenue-By-2033-Growing-At-6-5-CAGR-Dimension-Market-Research.html) | GlobeNewswire | 2024-05-28 |
 | [FMCG, healthcare stocks defy markets with spirited fight back, gain up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-stocks-defy-markets-with-spirited-fight-back-gain-up-to-4/articleshow/110692499.cms) | The Times of India | 2024-06-04 |
 | [Banking sector is the place to be, don’t be put off by FII selling: Andrew Holland](https://economictimes.indiatimes.com/markets/expert-view/banking-sector-is-the-place-to-be-dont-be-put-off-by-fii-selling-andrew-holland/articleshow/110348866.cms) | The Times of India | 2024-05-23 |
+| [The World Market for Oral Solid Dosage Forms (OSDF) and Pharma Excipients, 2024-2030](https://www.globenewswire.com/news-release/2024/06/11/2897027/28124/en/The-World-Market-for-Oral-Solid-Dosage-Forms-OSDF-and-Pharma-Excipients-2024-2030.html) | GlobeNewswire | 2024-06-11 |
 | [Antiandrogens Market Insights and Projections to 2030: An $8.7 Billion Landscape Dominated by Pfizer, Astellas Pharma, Roche, AstraZeneca, and Abbott Labs](https://www.globenewswire.com/news-release/2024/05/21/2885326/28124/en/Antiandrogens-Market-Insights-and-Projections-to-2030-An-8-7-Billion-Landscape-Dominated-by-Pfizer-Astellas-Pharma-Roche-AstraZeneca-and-Abbott-Labs.html) | GlobeNewswire | 2024-05-21 |
 | [Air cargo marketplace Freightos posts record Q1 volume](https://www.digitalcommerce360.com/2024/05/22/air-cargo-marketplace-freightos-posts-record-q1-volume/) | DigitalCommerce360 | 2024-05-22 |
 | [UAE MDO PET Films Market Balloons to $32.6 Million by 2027: E-commerce Boom and Pharma Industry Drive Growth: Ken Research](https://www.globenewswire.com/news-release/2024/05/14/2881142/0/en/UAE-MDO-PET-Films-Market-Balloons-to-32-6-Million-by-2027-E-commerce-Boom-and-Pharma-Industry-Drive-Growth-Ken-Research.html) | GlobeNewswire | 2024-05-14 |
@@ -148,7 +149,6 @@
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
 | [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
-| [Expedia Has Booked Its Trip To Ad Land](http://www.adexchanger.com/commerce/expedia-has-booked-its-trip-to-ad-land/) | AdExchanger | 2024-05-14 |
 
 ## News for FDA Regulations
 
@@ -161,6 +161,7 @@
 | [Deadly Precaution](https://marginalrevolution.com/marginalrevolution/2024/05/deadly-precaution.html) | Marginalrevolution.com | 2024-05-28 |
 | [Here's the One Chicken Label I Look For (Spoiler: It's Not "Organic") - CNET](https://www.cnet.com/health/heres-the-one-chicken-label-i-look-for-and-its-not-organic/) | CNET | 2024-06-07 |
 | [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about) | Substack.com | 2024-05-20 |
+| [Why A SCOTUS Ruling On Fishing Rules Could Change How FDA Regulates Drugs](https://medcitynews.com/2024/06/supreme-court-chevron-deference-fda-drug-regulation-mifepristone/) | MedCity News | 2024-06-11 |
 | [Trump’s War on Government Will Take Public Health Back a Century](https://newrepublic.com/article/180704/trump-war-government-administrative-state-public-health) | The New Republic | 2024-05-15 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [Right-To-Repair Laws Could Threaten Healthcare Safety](https://medcitynews.com/2024/05/right-to-repair-laws-could-threaten-healthcare-safety/) | MedCity News | 2024-05-15 |
@@ -178,5 +179,4 @@
 | [A Pragmatic Approach To Technology In Clinical Research](https://www.forbes.com/sites/forbestechcouncil/2024/05/14/a-pragmatic-approach-to-technology-in-clinical-research/) | Forbes | 2024-05-14 |
 | [New Zealand investigates Indian spices over contamination](https://www.rt.com/india/597702-new-zealand-investigates-indian-spices/) | RT | 2024-05-16 |
 | [Forbes Daily: Warren Buffett’s Fortune Drops As Berkshire Stock Slumps](https://www.forbes.com/sites/daniellechemtob/2024/06/05/forbes-daily-warren-buffetts-fortune-drops-as-berkshire-stock-slumps/) | Forbes | 2024-06-05 |
-| [FDA proposes ban of popular food additive linked to negative side effects](https://www.naturalnews.com/2024-06-10-fda-proposes-ban-popular-food-additive-bvo.html) | Naturalnews.com | 2024-06-10 |
 
