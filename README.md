@@ -21,10 +21,10 @@
 | [Why Counterfeit Ozempic Is a Global-Growth Industry](https://www.vanityfair.com/news/story/counterfeit-ozempic-global-growth-industry) | Vanity Fair | 2024-06-04 |
 | [Chemists develop new method for introducing fluorinated components into molecules](https://phys.org/news/2024-05-chemists-method-fluorinated-components-molecules.html) | Phys.Org | 2024-05-17 |
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
-| [From Hype To Reality, AI Reshapes Pharmaceutical Industry Across Drug Discovery To Marketing - Stocks To Watch](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d10c40cb-9892-4b69-a06e-7c8a48d95b70) | Yahoo Entertainment | 2024-05-10 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
+| [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
 | [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
@@ -41,11 +41,9 @@
 | [John Quincy Adams on Impostor Syndrome and the True Measure of Success](https://www.themarginalian.org/2024/06/03/john-quincy-adams-impostor-syndrome-success/) | Themarginalian.org | 2024-06-03 |
 | [Eagles Changed Migration Route To Avoid Ukraine War](https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war) | Slashdot.org | 2024-05-25 |
 | [The Curious Life of a ‘Grotesque’ Singing Fish](https://www.biographic.com/the-curious-life-of-a-singing-fish/) | Biographic.com | 2024-05-24 |
-| [Video Games Hall of Fame members include Resident Evil and SimCity, pass on Metroid](https://readwrite.com/video-games-hall-of-fame-2024-members-resident-evil-ultima-simcity-myst/) | ReadWrite | 2024-05-10 |
 | [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
 | [Apple Announces New Tinnitus Research, Continues Dive Into Hearing Health - CNET](https://www.cnet.com/health/medical/apple-announces-new-tinnitus-research-continues-dive-into-hearing-health/) | CNET | 2024-05-28 |
 | [Report: The Netherlands is the leading startup ecosystem in the EU](https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu) | The Next Web | 2024-06-10 |
-| [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) | Simonsfoundation.org | 2024-05-10 |
 | [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
 | [Neighborhoods have really dumb names these days](https://www.businessinsider.com/insider-today-real-estate-neighborhood-names-scarlett-sam-openai-2024-5) | Business Insider | 2024-05-26 |
 | [Entomologist sheds light on 250-year-old mystery of the German cockroach](https://www.sciencedaily.com/releases/2024/05/240524171427.htm) | Science Daily | 2024-05-24 |
@@ -59,6 +57,8 @@
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
+| [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
+| [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
 
 ## News for Medical Devices
 
@@ -130,7 +130,6 @@
 | [Charging GOP bull will quash Dem bear](https://www.americanthinker.com/articles/2024/05/charging_gop_bull_will_quash_dem_bear.html) | Americanthinker.com | 2024-05-21 |
 | [How patient advocacy can lead to more successful and meaningful clinical trials](https://www.clinicaltrialsarena.com/interviews/how-patient-advocacy-can-lead-to-more-successful-and-meaningful-clinical-trials/) | Clinical Trials Arena | 2024-05-20 |
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
-| [GoodRx Holdings, Inc. (NASDAQ:GDRX) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/goodrx-holdings-inc-nasdaq-gdrx-191654503.html) | Yahoo Entertainment | 2024-05-10 |
 | [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
 | [Sensex, Nifty open higher; Shriram Finance, Hindalco, BPCL among top gainers](https://www.thehindubusinessline.com/markets/sensex-nifty-open-higher-shriram-finance-hindalco-bpcl-among-top-gainers/article68173614.ece) | BusinessLine | 2024-05-14 |
 | [Omega 3 Market: Size, Share, Trends and Industry Growth Report](https://www.globenewswire.com/news-release/2024/05/31/2891562/0/en/Omega-3-Market-Size-Share-Trends-and-Industry-Growth-Report.html) | GlobeNewswire | 2024-05-31 |
@@ -138,7 +137,6 @@
 | [Amyotrophic Lateral Sclerosis Market On Track For USD 1,271.6 Mn Revenue By 2033, Growing At 6.5% CAGR | Dimension Market Research](https://www.globenewswire.com/news-release/2024/05/28/2889198/0/en/Amyotrophic-Lateral-Sclerosis-Market-On-Track-For-USD-1-271-6-Mn-Revenue-By-2033-Growing-At-6-5-CAGR-Dimension-Market-Research.html) | GlobeNewswire | 2024-05-28 |
 | [FMCG, healthcare stocks defy markets with spirited fight back, gain up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-stocks-defy-markets-with-spirited-fight-back-gain-up-to-4/articleshow/110692499.cms) | The Times of India | 2024-06-04 |
 | [Banking sector is the place to be, don’t be put off by FII selling: Andrew Holland](https://economictimes.indiatimes.com/markets/expert-view/banking-sector-is-the-place-to-be-dont-be-put-off-by-fii-selling-andrew-holland/articleshow/110348866.cms) | The Times of India | 2024-05-23 |
-| [Charles River Laboratories International, Inc. (NYSE:CRL) Q1 2024 Earnings Call Transcript](https://finance.yahoo.com/news/charles-river-laboratories-international-inc-200621197.html) | Yahoo Entertainment | 2024-05-10 |
 | [Antiandrogens Market Insights and Projections to 2030: An $8.7 Billion Landscape Dominated by Pfizer, Astellas Pharma, Roche, AstraZeneca, and Abbott Labs](https://www.globenewswire.com/news-release/2024/05/21/2885326/28124/en/Antiandrogens-Market-Insights-and-Projections-to-2030-An-8-7-Billion-Landscape-Dominated-by-Pfizer-Astellas-Pharma-Roche-AstraZeneca-and-Abbott-Labs.html) | GlobeNewswire | 2024-05-21 |
 | [Air cargo marketplace Freightos posts record Q1 volume](https://www.digitalcommerce360.com/2024/05/22/air-cargo-marketplace-freightos-posts-record-q1-volume/) | DigitalCommerce360 | 2024-05-22 |
 | [UAE MDO PET Films Market Balloons to $32.6 Million by 2027: E-commerce Boom and Pharma Industry Drive Growth: Ken Research](https://www.globenewswire.com/news-release/2024/05/14/2881142/0/en/UAE-MDO-PET-Films-Market-Balloons-to-32-6-Million-by-2027-E-commerce-Boom-and-Pharma-Industry-Drive-Growth-Ken-Research.html) | GlobeNewswire | 2024-05-14 |
@@ -149,6 +147,8 @@
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
+| [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
+| [Expedia Has Booked Its Trip To Ad Land](http://www.adexchanger.com/commerce/expedia-has-booked-its-trip-to-ad-land/) | AdExchanger | 2024-05-14 |
 
 ## News for FDA Regulations
 
@@ -169,7 +169,6 @@
 | [Health And Legal Ramifications Of Louisiana’s Severe Restrictions On Abortion Pills](https://www.forbes.com/sites/joshuacohen/2024/06/02/health-and-legal-ramifications-of-louisianas-severe-restrictions-on-abortion-pills/) | Forbes | 2024-06-02 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
-| [Weekend reading: pet food (oh why not)](https://www.foodpolitics.com/2024/05/weekend-reading-pet-food-oh-why-not/) | Foodpolitics.com | 2024-05-10 |
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 | [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
@@ -179,4 +178,5 @@
 | [A Pragmatic Approach To Technology In Clinical Research](https://www.forbes.com/sites/forbestechcouncil/2024/05/14/a-pragmatic-approach-to-technology-in-clinical-research/) | Forbes | 2024-05-14 |
 | [New Zealand investigates Indian spices over contamination](https://www.rt.com/india/597702-new-zealand-investigates-indian-spices/) | RT | 2024-05-16 |
 | [Forbes Daily: Warren Buffett’s Fortune Drops As Berkshire Stock Slumps](https://www.forbes.com/sites/daniellechemtob/2024/06/05/forbes-daily-warren-buffetts-fortune-drops-as-berkshire-stock-slumps/) | Forbes | 2024-06-05 |
+| [FDA proposes ban of popular food additive linked to negative side effects](https://www.naturalnews.com/2024-06-10-fda-proposes-ban-popular-food-additive-bvo.html) | Naturalnews.com | 2024-06-10 |
 
