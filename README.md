@@ -21,6 +21,7 @@
 | [Why Counterfeit Ozempic Is a Global-Growth Industry](https://www.vanityfair.com/news/story/counterfeit-ozempic-global-growth-industry) | Vanity Fair | 2024-06-04 |
 | [The Future Of Medicine: How AI Is Revolutionizing Pharma](https://www.forbes.com/sites/forbestechcouncil/2024/06/11/the-future-of-medicine-how-ai-is-revolutionizing-pharma/) | Forbes | 2024-06-11 |
 | [Chemists develop new method for introducing fluorinated components into molecules](https://phys.org/news/2024-05-chemists-method-fluorinated-components-molecules.html) | Phys.Org | 2024-05-17 |
+| [Ozempic maker Novo Nordisk could soon surpass Lego as Denmark's biggest brand](https://qz.com/ozempic-lego-novo-1851535015) | Quartz India | 2024-06-12 |
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
@@ -28,7 +29,6 @@
 | [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
-| [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
 
 ## News for Life Sciences
 
@@ -128,6 +128,7 @@
 | [Dipan Mehta gives a hard pass to specialty chemicals; will bet on agrochem stocks](https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-gives-a-hard-pass-to-specialty-chemicals-will-bet-on-agrochem-stocks/articleshow/110164349.cms) | The Times of India | 2024-05-16 |
 | [Merck introduces sterility testing solution for pharma quality control](https://www.pharmaceutical-technology.com/news/merck-sterility-testing-solution/) | Pharmaceutical Technology | 2024-05-29 |
 | [Charging GOP bull will quash Dem bear](https://www.americanthinker.com/articles/2024/05/charging_gop_bull_will_quash_dem_bear.html) | Americanthinker.com | 2024-05-21 |
+| [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
 | [How patient advocacy can lead to more successful and meaningful clinical trials](https://www.clinicaltrialsarena.com/interviews/how-patient-advocacy-can-lead-to-more-successful-and-meaningful-clinical-trials/) | Clinical Trials Arena | 2024-05-20 |
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
 | [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
@@ -148,7 +149,6 @@
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
-| [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
 
 ## News for FDA Regulations
 
