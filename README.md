@@ -96,6 +96,7 @@
 | ----- | ------ | --------- |
 | [Fed policy hasn't cooled the labor market and a 'serious consumer recession' could strike if services jobs tumble, real estate billionaire Barry Sternlicht says](https://www.businessinsider.com/recession-layoffs-job-market-fed-rate-cuts-economy-outlook-sternlicht-2024-6) | Business Insider | 2024-06-06 |
 | [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
+| [Migrant workers ‘desperately needed’ in care homes](https://www.bbc.com/news/articles/c044jenljeyo) | BBC News | 2024-06-11 |
 | [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
 | [Aussie cops probe MediSecure's 'large-scale ransomware data breach'](https://www.theregister.com/2024/05/17/medisecure_ransomware_attack/) | Theregister.com | 2024-05-17 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
@@ -118,7 +119,6 @@
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
-| [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 
 ## News for Pharma Market Trends
 
@@ -174,9 +174,9 @@
 | [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 | [How Can Leaders Know When To Choose Human Skill Over AI](https://www.forbes.com/sites/jessicamendoza1/2024/05/19/how-can-leaders-know-when-to-choose-human-skill-over-ai/) | Forbes | 2024-05-20 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Baby formula maker recalls batch after failing to register formula with FDA](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_57c1e35e-80e8-484d-a929-5a0659f8662b) | Yahoo Entertainment | 2024-05-28 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [A Pragmatic Approach To Technology In Clinical Research](https://www.forbes.com/sites/forbestechcouncil/2024/05/14/a-pragmatic-approach-to-technology-in-clinical-research/) | Forbes | 2024-05-14 |
 | [New Zealand investigates Indian spices over contamination](https://www.rt.com/india/597702-new-zealand-investigates-indian-spices/) | RT | 2024-05-16 |
-| [Forbes Daily: Warren Buffett’s Fortune Drops As Berkshire Stock Slumps](https://www.forbes.com/sites/daniellechemtob/2024/06/05/forbes-daily-warren-buffetts-fortune-drops-as-berkshire-stock-slumps/) | Forbes | 2024-06-05 |
 
