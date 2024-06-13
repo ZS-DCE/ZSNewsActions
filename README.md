@@ -51,7 +51,6 @@
 | [Man convicted for role in 2001 stabbing deaths of Dartmouth College professors released from prison](https://www.yahoo.com/news/man-convicted-role-2001-stabbing-134441729.html) | Yahoo Entertainment | 2024-06-08 |
 | [Amazon taps Finland’s IQM for its first EU quantum computing service](https://thenextweb.com/news/amazon-iqm-first-eu-quantum-computer-cloud-service) | The Next Web | 2024-05-24 |
 | [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
-| [Roger Corman, Beloved Filmmaker, Has Died at Age 98](https://gizmodo.com/obituary-roger-corman-age-58-filmmaker-1851471762) | Gizmodo.com | 2024-05-12 |
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
@@ -59,6 +58,7 @@
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
 | [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
 | [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
+| [Leading Healthcare Transformation: Strategic Growth Through Generative AI](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/06/05/leading-healthcare-transformation-strategic-growth-through-generative-ai/) | Forbes | 2024-06-05 |
 
 ## News for Medical Devices
 
@@ -77,6 +77,7 @@
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [PSA: Check on these 4 emergency iPhone and Apple Watch features before you need them](https://9to5mac.com/2024/06/03/check-emergency-iphone-and-apple-watch-features/) | 9to5Mac | 2024-06-03 |
+| [Airlines sometimes turn their planes around and fly thousands of miles home when they have problems. Here's why.](https://www.businessinsider.com/how-airlines-decide-where-to-divert-planes-flights-to-nowhere-2024-6) | Business Insider | 2024-06-12 |
 | [How to Convince Your Aging Parents to Use Home Security Devices - CNET](https://www.cnet.com/home/security/how-to-convince-your-aging-parents-to-use-home-security-devices/) | CNET | 2024-05-18 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
 | [Swiss startup creates modular device for on-demand cell therapy manufacturing](https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing) | The Next Web | 2024-05-21 |
@@ -88,16 +89,15 @@
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
 | [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again) | AppleInsider | 2024-05-17 |
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
-| [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Fed policy hasn't cooled the labor market and a 'serious consumer recession' could strike if services jobs tumble, real estate billionaire Barry Sternlicht says](https://www.businessinsider.com/recession-layoffs-job-market-fed-rate-cuts-economy-outlook-sternlicht-2024-6) | Business Insider | 2024-06-06 |
+| [Black Semiconductor raises €254.4M for graphene-based chips in boost for European sector](https://thenextweb.com/news/black-semiconductor-raises-e254-4m-graphene-based-chips-boost-european-sector) | The Next Web | 2024-06-12 |
 | [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
 | [Migrant workers ‘desperately needed’ in care homes](https://www.bbc.com/news/articles/c044jenljeyo) | BBC News | 2024-06-11 |
-| [Black Basta Ransomware Attack Brought Down Ascension IT Systems, Report Finds](https://it.slashdot.org/story/24/05/11/0111205/black-basta-ransomware-attack-brought-down-ascension-it-systems-report-finds) | Slashdot.org | 2024-05-11 |
 | [Aussie cops probe MediSecure's 'large-scale ransomware data breach'](https://www.theregister.com/2024/05/17/medisecure_ransomware_attack/) | Theregister.com | 2024-05-17 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
 | [ASML’s new lab opens up access to its most advanced chipmaking machine](https://thenextweb.com/news/asmls-new-lab-access-to-most-advanced-chipmaking-machine) | The Next Web | 2024-06-04 |
@@ -114,11 +114,11 @@
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/e3beb11b2b221ea6) | Biztoc.com | 2024-05-14 |
 | [Healthcare in Syria is at risk of collapse](https://www.aljazeera.com/opinions/2024/5/24/healthcare-in-syria-is-at-risk-of-collapse) | Al Jazeera English | 2024-05-24 |
 | [I used a fake name on my résumé to land a job. It might have helped, but it felt like I lost a core part of myself.](https://www.businessinsider.com/fake-name-resume-hired-guilty-2024-5) | Business Insider | 2024-05-23 |
-| [Perelel’s $10M Donation Advances Maternal Health Research and Supports Prenatal Care](https://www.yankodesign.com/2024/05/11/perelels-10m-donation-advances-maternal-health-research-and-supports-prenatal-care/) | Yanko Design | 2024-05-11 |
 | [How the Moves of One Company Are Revolutionizing the Healthcare Sector](https://biztoc.com/x/095e411b23c5dcd1) | Biztoc.com | 2024-05-29 |
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
+| [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 
 ## News for Pharma Market Trends
 
@@ -162,6 +162,7 @@
 | [Here's the One Chicken Label I Look For (Spoiler: It's Not "Organic") - CNET](https://www.cnet.com/health/heres-the-one-chicken-label-i-look-for-and-its-not-organic/) | CNET | 2024-06-07 |
 | [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about) | Substack.com | 2024-05-20 |
 | [Why A SCOTUS Ruling On Fishing Rules Could Change How FDA Regulates Drugs](https://medcitynews.com/2024/06/supreme-court-chevron-deference-fda-drug-regulation-mifepristone/) | MedCity News | 2024-06-11 |
+| [What’s Actually In Tattoo Ink? No One Really Knows](https://www.scientificamerican.com/podcast/episode/whats-actually-in-tattoo-ink-no-one-really-knows/) | Scientific American | 2024-06-12 |
 | [Trump’s War on Government Will Take Public Health Back a Century](https://newrepublic.com/article/180704/trump-war-government-administrative-state-public-health) | The New Republic | 2024-05-15 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [Right-To-Repair Laws Could Threaten Healthcare Safety](https://medcitynews.com/2024/05/right-to-repair-laws-could-threaten-healthcare-safety/) | MedCity News | 2024-05-15 |
@@ -178,5 +179,4 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Baby formula maker recalls batch after failing to register formula with FDA](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_57c1e35e-80e8-484d-a929-5a0659f8662b) | Yahoo Entertainment | 2024-05-28 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
-| [A Pragmatic Approach To Technology In Clinical Research](https://www.forbes.com/sites/forbestechcouncil/2024/05/14/a-pragmatic-approach-to-technology-in-clinical-research/) | Forbes | 2024-05-14 |
 
