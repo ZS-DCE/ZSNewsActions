@@ -56,9 +56,9 @@
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
+| [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
 | [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
 | [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
-| [Leading Healthcare Transformation: Strategic Growth Through Generative AI](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/06/05/leading-healthcare-transformation-strategic-growth-through-generative-ai/) | Forbes | 2024-06-05 |
 
 ## News for Medical Devices
 
