@@ -10,9 +10,7 @@
 | [Scientists sound the alarm on pharmaceutical pollution crisis](https://phys.org/news/2024-06-scientists-alarm-pharmaceutical-pollution-crisis.html) | Phys.Org | 2024-06-05 |
 | [Unlocking the secrets of supercritical fluids: Study offers insights into a hybrid state of matter](https://phys.org/news/2024-05-secrets-supercritical-fluids-insights-hybrid.html) | Phys.Org | 2024-05-22 |
 | [Ozempic supply trackers, bird flu vaccines, and Merck's future: Pharma news roundup](https://qz.com/ozempic-weight-loss-drugs-bird-flu-vaccines-moderna-1851510378) | Quartz India | 2024-05-31 |
-| [Recursion Announces Completion of NVIDIA-Powered BioHive-2, the Largest Supercomputer in Pharmaceutical Industry](https://biztoc.com/x/62088de7317dd681) | Biztoc.com | 2024-05-13 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
-| [Inside the fight to ban — and destroy — PFAS ‘forever chemicals’](https://thenextweb.com/news/startups-fight-to-ban-destroy-pfas-forever-chemicals-with-tech) | The Next Web | 2024-05-13 |
 | [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Here's what the economy could look like with a Biden or Trump presidency](https://www.businessinsider.com/what-us-economy-would-look-like-with-trump-biden-presidency-2024-5) | Business Insider | 2024-05-16 |
 | [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
@@ -29,6 +27,8 @@
 | [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
+| [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
+| [Data breach at medical giant Cencora exposes info from multiple drug companies](https://www.techradar.com/pro/security/data-breach-at-medical-giant-cencora-exposes-info-from-multiple-drug-companies) | TechRadar | 2024-05-27 |
 
 ## News for Life Sciences
 
@@ -73,7 +73,6 @@
 | [Emergent Ventures, 34th cohort](https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html) | Marginalrevolution.com | 2024-05-21 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
-| [What massive health care cyberattack at Ascension means for your privacy, security](https://www.foxnews.com/tech/what-massive-health-care-cyberattack-at-ascension-means-for-your-privacy-security) | Fox News | 2024-05-13 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [Quantum diamond sensor measured heart signals from a living rat](https://www.newscientist.com/article/2431913-quantum-diamond-sensor-measured-heart-signals-from-a-living-rat/) | New Scientist | 2024-05-20 |
 | [PSA: Check on these 4 emergency iPhone and Apple Watch features before you need them](https://9to5mac.com/2024/06/03/check-emergency-iphone-and-apple-watch-features/) | 9to5Mac | 2024-06-03 |
@@ -89,6 +88,7 @@
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
 | [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again) | AppleInsider | 2024-05-17 |
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
+| [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 
 ## News for Healthcare Sector
 
@@ -164,10 +164,14 @@
 | [Why A SCOTUS Ruling On Fishing Rules Could Change How FDA Regulates Drugs](https://medcitynews.com/2024/06/supreme-court-chevron-deference-fda-drug-regulation-mifepristone/) | MedCity News | 2024-06-11 |
 | [What’s Actually In Tattoo Ink? No One Really Knows](https://www.scientificamerican.com/podcast/episode/whats-actually-in-tattoo-ink-no-one-really-knows/) | Scientific American | 2024-06-12 |
 | [Trump’s War on Government Will Take Public Health Back a Century](https://newrepublic.com/article/180704/trump-war-government-administrative-state-public-health) | The New Republic | 2024-05-15 |
+| [Why FDA Panel Rejected MDMA Therapy—And What’s Next For Psychedelic Medicine](https://www.forbes.com/sites/sarahsinclair/2024/06/13/why-fda-panel-rejected-mdma-therapy-and-whats-next-for-psychedelic-medicine/) | Forbes | 2024-06-13 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [[Jonathan H. Adler] Unanimous Supreme Court Finds No Standing to Challenge FDA Regulation of Mifepristone (UPDATED)](https://reason.com/volokh/2024/06/13/unanimous-supreme-court-finds-no-standing-to-challenge-fda-regulation-of-mifepristone/) | Reason | 2024-06-13 |
 | [Right-To-Repair Laws Could Threaten Healthcare Safety](https://medcitynews.com/2024/05/right-to-repair-laws-could-threaten-healthcare-safety/) | MedCity News | 2024-05-15 |
 | [FDA Maintains Discriminatory Rules on Donated Tissue for Gay and Bisexual Men](https://truthout.org/articles/fda-maintains-discriminatory-rules-on-donated-tissue-for-gay-and-bisexual-men/) | Truthout | 2024-05-27 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-06-13 |
 | [Health And Legal Ramifications Of Louisiana’s Severe Restrictions On Abortion Pills](https://www.forbes.com/sites/joshuacohen/2024/06/02/health-and-legal-ramifications-of-louisianas-severe-restrictions-on-abortion-pills/) | Forbes | 2024-06-02 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
@@ -175,8 +179,4 @@
 | [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 | [How Can Leaders Know When To Choose Human Skill Over AI](https://www.forbes.com/sites/jessicamendoza1/2024/05/19/how-can-leaders-know-when-to-choose-human-skill-over-ai/) | Forbes | 2024-05-20 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Baby formula maker recalls batch after failing to register formula with FDA](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_57c1e35e-80e8-484d-a929-5a0659f8662b) | Yahoo Entertainment | 2024-05-28 |
-| [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 
