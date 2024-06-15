@@ -176,7 +176,7 @@
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Upholds Drug](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-upholds-drug/) | Forbes | 2024-06-13 |
 | [Health And Legal Ramifications Of Louisiana’s Severe Restrictions On Abortion Pills](https://www.forbes.com/sites/joshuacohen/2024/06/02/health-and-legal-ramifications-of-louisianas-severe-restrictions-on-abortion-pills/) | Forbes | 2024-06-02 |
 | [Compliant Marketing In The Pharmaceutical Industry's Regulatory Maze](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/compliant-marketing-in-the-pharmaceutical-industrys-regulatory-maze/) | Forbes | 2024-05-17 |
+| [Republicans Can—and Will—Keep Trying to Ban Mifepristone](https://newrepublic.com/article/182683/republicans-canand-willkeep-trying-ban-mifepristone) | The New Republic | 2024-06-14 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
-| [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 
