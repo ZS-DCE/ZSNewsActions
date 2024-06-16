@@ -5,6 +5,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
+| [Top doctor warns against taking weight loss drugs such as Ozempic to get 'beach body ready' for summer](https://www.businessinsider.com/top-doctor-warns-against-taking-ozempic-get-beach-body-ready-2024-6) | Business Insider | 2024-06-15 |
 | [The Industry That Ate America](https://www.theatlantic.com/magazine/archive/2024/07/wolves-of-k-street-book-review-lobbying/678523/?utm_source=feed) | The Atlantic | 2024-05-29 |
 | [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
 | [Scientists sound the alarm on pharmaceutical pollution crisis](https://phys.org/news/2024-06-scientists-alarm-pharmaceutical-pollution-crisis.html) | Phys.Org | 2024-06-05 |
@@ -28,7 +29,6 @@
 | [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
-| [Data breach at medical giant Cencora exposes info from multiple drug companies](https://www.techradar.com/pro/security/data-breach-at-medical-giant-cencora-exposes-info-from-multiple-drug-companies) | TechRadar | 2024-05-27 |
 
 ## News for Life Sciences
 
