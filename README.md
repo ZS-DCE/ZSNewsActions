@@ -26,8 +26,8 @@
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
 | [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
-| [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
+| [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
 | [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
 
 ## News for Life Sciences
@@ -35,6 +35,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Apple wants to know if you’re hearing things because of tinnitus](https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data) | The Verge | 2024-05-28 |
+| [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/) | Thoughtforms.life | 2024-06-15 |
 | [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/) | Thecritic.co.uk | 2024-05-19 |
 | [From financial crime fighters to net-zero defenders: 4 Oslo startups to watch](https://thenextweb.com/news/4-oslo-startups-to-watch) | The Next Web | 2024-05-29 |
 | [McKesson, Merck back Atropos Health’s $33M round to accelerate drug development with AI](https://venturebeat.com/ai/atropos-health-33m-funding-round-signals-growing-interest-in-ai-driven-evidence-based-medicine/) | VentureBeat | 2024-05-23 |
@@ -58,7 +59,6 @@
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
-| [Study finds widespread 'cell cannibalism,' related phenomena across tree of life](https://www.sciencedaily.com/releases/2024/05/240521204333.htm) | Science Daily | 2024-05-22 |
 
 ## News for Medical Devices
 
@@ -136,8 +136,8 @@
 | [Omega 3 Market: Size, Share, Trends and Industry Growth Report](https://www.globenewswire.com/news-release/2024/05/31/2891562/0/en/Omega-3-Market-Size-Share-Trends-and-Industry-Growth-Report.html) | GlobeNewswire | 2024-05-31 |
 | [CDMO Market Forecast USD 530.3 Billion by 2033 at 7.7% CAGR Growth Rate | Dimension Market Research](https://www.globenewswire.com/news-release/2024/06/10/2896167/0/en/CDMO-Market-Forecast-USD-530-3-Billion-by-2033-at-7-7-CAGR-Growth-Rate-Dimension-Market-Research.html) | GlobeNewswire | 2024-06-10 |
 | [Amyotrophic Lateral Sclerosis Market On Track For USD 1,271.6 Mn Revenue By 2033, Growing At 6.5% CAGR | Dimension Market Research](https://www.globenewswire.com/news-release/2024/05/28/2889198/0/en/Amyotrophic-Lateral-Sclerosis-Market-On-Track-For-USD-1-271-6-Mn-Revenue-By-2033-Growing-At-6-5-CAGR-Dimension-Market-Research.html) | GlobeNewswire | 2024-05-28 |
-| [FMCG, healthcare stocks defy markets with spirited fight back, gain up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-stocks-defy-markets-with-spirited-fight-back-gain-up-to-4/articleshow/110692499.cms) | The Times of India | 2024-06-04 |
 | [Banking sector is the place to be, don’t be put off by FII selling: Andrew Holland](https://economictimes.indiatimes.com/markets/expert-view/banking-sector-is-the-place-to-be-dont-be-put-off-by-fii-selling-andrew-holland/articleshow/110348866.cms) | The Times of India | 2024-05-23 |
+| [FMCG, healthcare stocks defy markets with spirited fight back, gain up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-stocks-defy-markets-with-spirited-fight-back-gain-up-to-4/articleshow/110692499.cms) | The Times of India | 2024-06-04 |
 | [The World Market for Oral Solid Dosage Forms (OSDF) and Pharma Excipients, 2024-2030](https://www.globenewswire.com/news-release/2024/06/11/2897027/28124/en/The-World-Market-for-Oral-Solid-Dosage-Forms-OSDF-and-Pharma-Excipients-2024-2030.html) | GlobeNewswire | 2024-06-11 |
 | [Antiandrogens Market Insights and Projections to 2030: An $8.7 Billion Landscape Dominated by Pfizer, Astellas Pharma, Roche, AstraZeneca, and Abbott Labs](https://www.globenewswire.com/news-release/2024/05/21/2885326/28124/en/Antiandrogens-Market-Insights-and-Projections-to-2030-An-8-7-Billion-Landscape-Dominated-by-Pfizer-Astellas-Pharma-Roche-AstraZeneca-and-Abbott-Labs.html) | GlobeNewswire | 2024-05-21 |
 | [Air cargo marketplace Freightos posts record Q1 volume](https://www.digitalcommerce360.com/2024/05/22/air-cargo-marketplace-freightos-posts-record-q1-volume/) | DigitalCommerce360 | 2024-05-22 |
