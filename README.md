@@ -26,8 +26,8 @@
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
 | [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
-| [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
+| [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
 | [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
 
 ## News for Life Sciences
@@ -125,7 +125,6 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
-| [Dipan Mehta gives a hard pass to specialty chemicals; will bet on agrochem stocks](https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-gives-a-hard-pass-to-specialty-chemicals-will-bet-on-agrochem-stocks/articleshow/110164349.cms) | The Times of India | 2024-05-16 |
 | [Merck introduces sterility testing solution for pharma quality control](https://www.pharmaceutical-technology.com/news/merck-sterility-testing-solution/) | Pharmaceutical Technology | 2024-05-29 |
 | [Charging GOP bull will quash Dem bear](https://www.americanthinker.com/articles/2024/05/charging_gop_bull_will_quash_dem_bear.html) | Americanthinker.com | 2024-05-21 |
 | [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
@@ -149,6 +148,7 @@
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Hypoparathyroidism Market Insight, Epidemiology And Market Forecast to 2032](https://www.globenewswire.com/news-release/2024/05/17/2884043/28124/en/Hypoparathyroidism-Market-Insight-Epidemiology-And-Market-Forecast-to-2032.html) | GlobeNewswire | 2024-05-17 |
 | [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
+| [Dabur India, PI Industries could rally 19-26% return on above normal monsoon: Siddhartha Khemka](https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-pi-industries-could-rally-19-26-return-on-above-normal-monsoon-siddhartha-khemka/articleshow/110655845.cms) | The Times of India | 2024-06-03 |
 
 ## News for FDA Regulations
 
@@ -163,12 +163,10 @@
 | [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about) | Substack.com | 2024-05-20 |
 | [Why A SCOTUS Ruling On Fishing Rules Could Change How FDA Regulates Drugs](https://medcitynews.com/2024/06/supreme-court-chevron-deference-fda-drug-regulation-mifepristone/) | MedCity News | 2024-06-11 |
 | [What’s Actually In Tattoo Ink? No One Really Knows](https://www.scientificamerican.com/podcast/episode/whats-actually-in-tattoo-ink-no-one-really-knows/) | Scientific American | 2024-06-12 |
-| [Trump’s War on Government Will Take Public Health Back a Century](https://newrepublic.com/article/180704/trump-war-government-administrative-state-public-health) | The New Republic | 2024-05-15 |
 | [Why FDA Panel Rejected MDMA Therapy—And What’s Next For Psychedelic Medicine](https://www.forbes.com/sites/sarahsinclair/2024/06/13/why-fda-panel-rejected-mdma-therapy-and-whats-next-for-psychedelic-medicine/) | Forbes | 2024-06-13 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [[Jonathan H. Adler] Unanimous Supreme Court Finds No Standing to Challenge FDA Regulation of Mifepristone (UPDATED)](https://reason.com/volokh/2024/06/13/unanimous-supreme-court-finds-no-standing-to-challenge-fda-regulation-of-mifepristone/) | Reason | 2024-06-13 |
-| [Right-To-Repair Laws Could Threaten Healthcare Safety](https://medcitynews.com/2024/05/right-to-repair-laws-could-threaten-healthcare-safety/) | MedCity News | 2024-05-15 |
 | [SCOTUS Ruling On Abortion Pill Case Has No Bearing On Access Restrictions In Certain States](https://www.forbes.com/sites/joshuacohen/2024/06/13/scotus-ruling-on-abortion-pill-case-has-no-bearing-on-access-restrictions-in-certain-states/) | Forbes | 2024-06-13 |
 | [FDA Maintains Discriminatory Rules on Donated Tissue for Gay and Bisexual Men](https://truthout.org/articles/fda-maintains-discriminatory-rules-on-donated-tissue-for-gay-and-bisexual-men/) | Truthout | 2024-05-27 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
@@ -179,4 +177,6 @@
 | [Republicans Can—and Will—Keep Trying to Ban Mifepristone](https://newrepublic.com/article/182683/republicans-canand-willkeep-trying-ban-mifepristone) | The New Republic | 2024-06-14 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
+| [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
+| [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 
