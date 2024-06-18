@@ -103,7 +103,6 @@
 | [ASML’s new lab opens up access to its most advanced chipmaking machine](https://thenextweb.com/news/asmls-new-lab-access-to-most-advanced-chipmaking-machine) | The Next Web | 2024-06-04 |
 | [Smart contact lens battery powered by your tears was inspired by Mission Impossible](https://readwrite.com/smart-contact-lenses-battery-tears-mission-impossible/) | ReadWrite | 2024-06-06 |
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
-| [Combating Threat Actors In The U.S. Healthcare Sector](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/combating-threat-actors-in-the-us-healthcare-sector/) | Forbes | 2024-05-17 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/9dcde0d46e121c1c) | Biztoc.com | 2024-06-04 |
 | [Digital Transformation In Healthcare: Advice For Health Organizations](https://www.forbes.com/sites/forbestechcouncil/2024/05/22/digital-transformation-in-healthcare-advice-for-health-organizations/) | Forbes | 2024-05-22 |
 | [These catalysts could push the S&P 500 to 5,600: BMO's Belski](https://finance.yahoo.com/video/catalysts-could-push-p-500-145656140.html) | Yahoo Entertainment | 2024-05-17 |
@@ -119,6 +118,7 @@
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 | [Larry Ellison's net worth soared $17 billion on Oracle's rally](https://qz.com/larry-ellison-net-worth-oracle-stock-q4-2023-1851535881) | Quartz India | 2024-06-12 |
 | [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
+| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 
 ## News for Pharma Market Trends
 
@@ -131,6 +131,7 @@
 | [How patient advocacy can lead to more successful and meaningful clinical trials](https://www.clinicaltrialsarena.com/interviews/how-patient-advocacy-can-lead-to-more-successful-and-meaningful-clinical-trials/) | Clinical Trials Arena | 2024-05-20 |
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
 | [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
+| [Forbes Daily: Record-Breaking Heat Coming For Northeast, Midwest This Week](https://www.forbes.com/sites/daniellechemtob/2024/06/17/forbes-daily-record-breaking-heat-coming-for-northeast-midwest-this-week/) | Forbes | 2024-06-17 |
 | [DanCann Pharma: DanCann Pharma A/S: Germany trends – prescriptions for medicinal cannabis positively influenced by new legalization](https://www.marketscreener.com/quote/stock/DANCANN-PHARMA-A-S-120976681/news/DanCann-Pharma-DanCann-Pharma-A-S-Germany-trends-prescriptions-for-medicinal-cannabis-positive-46973451/) | Marketscreener.com | 2024-06-14 |
 | [Omega 3 Market: Size, Share, Trends and Industry Growth Report](https://www.globenewswire.com/news-release/2024/05/31/2891562/0/en/Omega-3-Market-Size-Share-Trends-and-Industry-Growth-Report.html) | GlobeNewswire | 2024-05-31 |
 | [CDMO Market Forecast USD 530.3 Billion by 2033 at 7.7% CAGR Growth Rate | Dimension Market Research](https://www.globenewswire.com/news-release/2024/06/10/2896167/0/en/CDMO-Market-Forecast-USD-530-3-Billion-by-2033-at-7-7-CAGR-Growth-Rate-Dimension-Market-Research.html) | GlobeNewswire | 2024-06-10 |
@@ -148,7 +149,6 @@
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
 | [Dabur India, PI Industries could rally 19-26% return on above normal monsoon: Siddhartha Khemka](https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-pi-industries-could-rally-19-26-return-on-above-normal-monsoon-siddhartha-khemka/articleshow/110655845.cms) | The Times of India | 2024-06-03 |
-| [Expanding prefillable glass syringe output: SCHOTT Pharma opens state-of-the-art production facility in Lukácsháza, Hungary](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Expanding-prefillable-glass-syringe-output-SCHOTT-Pharma-opens-state-of-the-art-production-facility-46974993/) | Marketscreener.com | 2024-06-14 |
 
 ## News for FDA Regulations
 
