@@ -11,6 +11,7 @@
 | [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
 | [Scientists sound the alarm on pharmaceutical pollution crisis](https://phys.org/news/2024-06-scientists-alarm-pharmaceutical-pollution-crisis.html) | Phys.Org | 2024-06-05 |
 | [Unlocking the secrets of supercritical fluids: Study offers insights into a hybrid state of matter](https://phys.org/news/2024-05-secrets-supercritical-fluids-insights-hybrid.html) | Phys.Org | 2024-05-22 |
+| [2024 Core77 Design Awards Keyshot Rendering Prize - CAPSULE: Sustainable bio-pharma manufacturing](https://www.core77.com/posts/132676/2024-Core77-Design-Awards-Keyshot-Rendering-Prize-CAPSULE-Sustainable-bio-pharma-manufacturing) | Core77.com | 2024-06-18 |
 | [Ozempic supply trackers, bird flu vaccines, and Merck's future: Pharma news roundup](https://qz.com/ozempic-weight-loss-drugs-bird-flu-vaccines-moderna-1851510378) | Quartz India | 2024-05-31 |
 | [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
@@ -20,6 +21,7 @@
 | [The Future Of Medicine: How AI Is Revolutionizing Pharma](https://www.forbes.com/sites/forbestechcouncil/2024/06/11/the-future-of-medicine-how-ai-is-revolutionizing-pharma/) | Forbes | 2024-06-11 |
 | [Ozempic maker Novo Nordisk could soon surpass Lego as Denmark's biggest brand](https://qz.com/ozempic-lego-novo-1851535015) | Quartz India | 2024-06-12 |
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
+| [Sustainable Manufacturing And Zero Carbon Ambition](https://www.forbes.com/sites/forbestechcouncil/2024/06/18/sustainable-manufacturing-and-zero-carbon-ambition/) | Forbes | 2024-06-18 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [Scientists modify function of common enzymes by hacking genetics, could improve cancer treatments](https://phys.org/news/2024-06-scientists-function-common-enzymes-hacking.html) | Phys.Org | 2024-06-17 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
@@ -27,8 +29,6 @@
 | [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
 | [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
 | [Is CBD Safe for Cats and Dogs?](https://knowablemagazine.org/content/article/health-disease/2024/cbd-for-dogs-and-cats-the-science) | Knowablemagazine.org | 2024-05-20 |
-| [Blackstone Is Considering the Sale of Alinamin Pharmaceutical, Sources Say](https://finance.yahoo.com/news/blackstone-considering-sale-alinamin-pharmaceutical-063044562.html) | Yahoo Entertainment | 2024-06-03 |
-| [Doctors routinely accept bribes from Big Pharma to write guidelines mandating pharmaceutical drug use](https://www.naturalnews.com/2024-06-07-doctors-bribes-big-pharma-mandating-pharmaceutical-use.html) | Naturalnews.com | 2024-06-07 |
 
 ## News for Life Sciences
 
@@ -56,8 +56,8 @@
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [Wide-field, high-resolution and broadband mesoscopic objective lens](https://phys.org/news/2024-06-wide-field-high-resolution-broadband.html) | Phys.Org | 2024-06-14 |
-| [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
+| [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
 
 ## News for Medical Devices
@@ -102,6 +102,7 @@
 | [ASML’s new lab opens up access to its most advanced chipmaking machine](https://thenextweb.com/news/asmls-new-lab-access-to-most-advanced-chipmaking-machine) | The Next Web | 2024-06-04 |
 | [Smart contact lens battery powered by your tears was inspired by Mission Impossible](https://readwrite.com/smart-contact-lenses-battery-tears-mission-impossible/) | ReadWrite | 2024-06-06 |
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
+| [Color Health's copilot app will leverage OpenAI GPT-4o's reasoning capabilities to improve and accelerate cancer treatment](https://www.windowscentral.com/software-apps/color-healths-copilot-app-will-leverage-openai-gpt-4os-reasoning-capabilities-to-improve-and-accelerate-cancer-treatment) | Windows Central | 2024-06-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/9dcde0d46e121c1c) | Biztoc.com | 2024-06-04 |
 | [Digital Transformation In Healthcare: Advice For Health Organizations](https://www.forbes.com/sites/forbestechcouncil/2024/05/22/digital-transformation-in-healthcare-advice-for-health-organizations/) | Forbes | 2024-05-22 |
 | [Quién es Midea, el gigante chino que ha comprado a la española Teka](https://www.xataka.com/empresas-y-economia/quien-midea-gigante-chino-que-ha-comprado-a-espanola-teka) | Xataka.com | 2024-06-10 |
@@ -118,7 +119,6 @@
 | [Larry Ellison's net worth soared $17 billion on Oracle's rally](https://qz.com/larry-ellison-net-worth-oracle-stock-q4-2023-1851535881) | Quartz India | 2024-06-12 |
 | [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
 | [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
-| [The U.S. is fighting high drug prices. Big Pharma isn't sweating — yet](https://qz.com/drug-prices-biden-big-pharma-companies-1851524996) | Quartz India | 2024-06-10 |
 
 ## News for Pharma Market Trends
 
@@ -131,6 +131,7 @@
 | [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
 | [How patient advocacy can lead to more successful and meaningful clinical trials](https://www.clinicaltrialsarena.com/interviews/how-patient-advocacy-can-lead-to-more-successful-and-meaningful-clinical-trials/) | Clinical Trials Arena | 2024-05-20 |
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
+| [Drug Names: The machinations behind the monikers](https://qz.com/emails/quartz-obsession/1851543645/drug-names-process-fda-usan) | Quartz India | 2024-06-18 |
 | [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
 | [Forbes Daily: Record-Breaking Heat Coming For Northeast, Midwest This Week](https://www.forbes.com/sites/daniellechemtob/2024/06/17/forbes-daily-record-breaking-heat-coming-for-northeast-midwest-this-week/) | Forbes | 2024-06-17 |
 | [DanCann Pharma: DanCann Pharma A/S: Germany trends – prescriptions for medicinal cannabis positively influenced by new legalization](https://www.marketscreener.com/quote/stock/DANCANN-PHARMA-A-S-120976681/news/DanCann-Pharma-DanCann-Pharma-A-S-Germany-trends-prescriptions-for-medicinal-cannabis-positive-46973451/) | Marketscreener.com | 2024-06-14 |
@@ -148,12 +149,12 @@
 | [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
-| [Deep Frozen Packaging Logistics Market Report 2024-2030: Rising Demand for Complex Biological Drugs, Globalization of Pharma/Biopharmaceutical Trade Bolsters Growth](https://www.globenewswire.com/news-release/2024/05/21/2885331/28124/en/Deep-Frozen-Packaging-Logistics-Market-Report-2024-2030-Rising-Demand-for-Complex-Biological-Drugs-Globalization-of-Pharma-Biopharmaceutical-Trade-Bolsters-Growth.html) | GlobeNewswire | 2024-05-21 |
 
 ## News for FDA Regulations
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
+| [FDA rule change allowed gay, bisexual men to donate blood. Did it make a difference?](https://abcnews.go.com/Health/fda-rule-change-allowing-gay-bisexual-men-donate/story?id=111125850) | ABC News | 2024-06-18 |
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [New Amazon Rules Could Impact Independent Supplement Sellers](https://smallbiztrends.com/?p=1487531) | Small Business Trends | 2024-05-22 |
 | [The Sordid History of U.S. Food Safety Highlights the Importance of Regulation](https://www.scientificamerican.com/article/the-sordid-history-of-u-s-food-safety-highlights-the-importance-of/) | Scientific American | 2024-05-21 |
@@ -170,13 +171,12 @@
 | [SCOTUS Ruling On Abortion Pill Case Has No Bearing On Access Restrictions In Certain States](https://www.forbes.com/sites/joshuacohen/2024/06/13/scotus-ruling-on-abortion-pill-case-has-no-bearing-on-access-restrictions-in-certain-states/) | Forbes | 2024-06-13 |
 | [FDA Maintains Discriminatory Rules on Donated Tissue for Gay and Bisexual Men](https://truthout.org/articles/fda-maintains-discriminatory-rules-on-donated-tissue-for-gay-and-bisexual-men/) | Truthout | 2024-05-27 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-06-13 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Upholds Drug](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-upholds-drug/) | Forbes | 2024-06-13 |
+| [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-06-13 |
 | [Health And Legal Ramifications Of Louisiana’s Severe Restrictions On Abortion Pills](https://www.forbes.com/sites/joshuacohen/2024/06/02/health-and-legal-ramifications-of-louisianas-severe-restrictions-on-abortion-pills/) | Forbes | 2024-06-02 |
 | [Republicans Can—and Will—Keep Trying to Ban Mifepristone](https://newrepublic.com/article/182683/republicans-canand-willkeep-trying-ban-mifepristone) | The New Republic | 2024-06-14 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 | [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
-| [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 
