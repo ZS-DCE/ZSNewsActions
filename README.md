@@ -37,7 +37,6 @@
 | [Light-Based Chips Could Help Slake AI's Ever-Growing Thirst for Energy](https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/) | Wired | 2024-06-16 |
 | [Apple wants to know if you’re hearing things because of tinnitus](https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data) | The Verge | 2024-05-28 |
 | [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/) | Thoughtforms.life | 2024-06-15 |
-| [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/) | Thecritic.co.uk | 2024-05-19 |
 | [From financial crime fighters to net-zero defenders: 4 Oslo startups to watch](https://thenextweb.com/news/4-oslo-startups-to-watch) | The Next Web | 2024-05-29 |
 | [McKesson, Merck back Atropos Health’s $33M round to accelerate drug development with AI](https://venturebeat.com/ai/atropos-health-33m-funding-round-signals-growing-interest-in-ai-driven-evidence-based-medicine/) | VentureBeat | 2024-05-23 |
 | [John Quincy Adams on Impostor Syndrome and the True Measure of Success](https://www.themarginalian.org/2024/06/03/john-quincy-adams-impostor-syndrome-success/) | Themarginalian.org | 2024-06-03 |
@@ -59,6 +58,7 @@
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
+| [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
 
 ## News for Medical Devices
 
@@ -85,10 +85,10 @@
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
-| [Insider Today: Google's big shakeup](https://www.businessinsider.com/insider-today-sunday-google-executive-shakeup-ceo-sundar-pichai) | Business Insider | 2024-05-19 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
+| [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 
 ## News for Healthcare Sector
 
@@ -99,6 +99,7 @@
 | [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
 | [Migrant workers ‘desperately needed’ in care homes](https://www.bbc.com/news/articles/c044jenljeyo) | BBC News | 2024-06-11 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
+| [A 43-page IMF report on AI warns of 'profound concerns' about massive labor disruptions and inequality. We asked GPT-4 to summarize it.](https://www.businessinsider.com/we-asked-gpt4-summarize-imf-profound-concerns-about-gen-ai-2024-6) | Business Insider | 2024-06-19 |
 | [ASML’s new lab opens up access to its most advanced chipmaking machine](https://thenextweb.com/news/asmls-new-lab-access-to-most-advanced-chipmaking-machine) | The Next Web | 2024-06-04 |
 | [Cyberattack led to harrowing lapses at Ascension hospitals, clinicians say](https://www.npr.org/2024/06/19/nx-s1-5010219/ascension-hospital-ransomware-attack-care-lapses) | NPR | 2024-06-19 |
 | [Smart contact lens battery powered by your tears was inspired by Mission Impossible](https://readwrite.com/smart-contact-lenses-battery-tears-mission-impossible/) | ReadWrite | 2024-06-06 |
@@ -118,7 +119,6 @@
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 | [Larry Ellison's net worth soared $17 billion on Oracle's rally](https://qz.com/larry-ellison-net-worth-oracle-stock-q4-2023-1851535881) | Quartz India | 2024-06-12 |
-| [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
 
 ## News for Pharma Market Trends
 
