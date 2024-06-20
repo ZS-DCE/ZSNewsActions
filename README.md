@@ -100,6 +100,7 @@
 | [Migrant workers ‘desperately needed’ in care homes](https://www.bbc.com/news/articles/c044jenljeyo) | BBC News | 2024-06-11 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
 | [ASML’s new lab opens up access to its most advanced chipmaking machine](https://thenextweb.com/news/asmls-new-lab-access-to-most-advanced-chipmaking-machine) | The Next Web | 2024-06-04 |
+| [Cyberattack led to harrowing lapses at Ascension hospitals, clinicians say](https://www.npr.org/2024/06/19/nx-s1-5010219/ascension-hospital-ransomware-attack-care-lapses) | NPR | 2024-06-19 |
 | [Smart contact lens battery powered by your tears was inspired by Mission Impossible](https://readwrite.com/smart-contact-lenses-battery-tears-mission-impossible/) | ReadWrite | 2024-06-06 |
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
 | [Color Health's copilot app will leverage OpenAI GPT-4o's reasoning capabilities to improve and accelerate cancer treatment](https://www.windowscentral.com/software-apps/color-healths-copilot-app-will-leverage-openai-gpt-4os-reasoning-capabilities-to-improve-and-accelerate-cancer-treatment) | Windows Central | 2024-06-18 |
@@ -118,7 +119,6 @@
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 | [Larry Ellison's net worth soared $17 billion on Oracle's rally](https://qz.com/larry-ellison-net-worth-oracle-stock-q4-2023-1851535881) | Quartz India | 2024-06-12 |
 | [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
-| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 
 ## News for Pharma Market Trends
 
