@@ -7,6 +7,7 @@
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [Top doctor warns against taking weight loss drugs such as Ozempic to get 'beach body ready' for summer](https://www.businessinsider.com/top-doctor-warns-against-taking-ozempic-get-beach-body-ready-2024-6) | Business Insider | 2024-06-15 |
 | [Pharma giant's data breach exposes patients' sensitive information](https://www.foxnews.com/tech/pharma-giants-data-breach-exposes-patients-sensitive-information) | Fox News | 2024-06-17 |
+| [‘Pharma Bro’ Martin Shkreli says he created Trumpcoin with Trump’s son](https://readwrite.com/trumpcoin-martin-shkreli-djt-barron-trump-crypto-cryptocurrency/) | ReadWrite | 2024-06-19 |
 | [The Industry That Ate America](https://www.theatlantic.com/magazine/archive/2024/07/wolves-of-k-street-book-review-lobbying/678523/?utm_source=feed) | The Atlantic | 2024-05-29 |
 | [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
 | [Scientists sound the alarm on pharmaceutical pollution crisis](https://phys.org/news/2024-06-scientists-alarm-pharmaceutical-pollution-crisis.html) | Phys.Org | 2024-06-05 |
@@ -28,7 +29,6 @@
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
 | [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
-| [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
 
 ## News for Life Sciences
 
@@ -55,8 +55,8 @@
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [Wide-field, high-resolution and broadband mesoscopic objective lens](https://phys.org/news/2024-06-wide-field-high-resolution-broadband.html) | Phys.Org | 2024-06-14 |
-| [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
+| [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
 
@@ -169,6 +169,7 @@
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [[Jonathan H. Adler] Unanimous Supreme Court Finds No Standing to Challenge FDA Regulation of Mifepristone (UPDATED)](https://reason.com/volokh/2024/06/13/unanimous-supreme-court-finds-no-standing-to-challenge-fda-regulation-of-mifepristone/) | Reason | 2024-06-13 |
 | [SCOTUS Ruling On Abortion Pill Case Has No Bearing On Access Restrictions In Certain States](https://www.forbes.com/sites/joshuacohen/2024/06/13/scotus-ruling-on-abortion-pill-case-has-no-bearing-on-access-restrictions-in-certain-states/) | Forbes | 2024-06-13 |
+| [Blaze News investigates: BPA is no longer the stuff of baby bottles, but it still might be a big problem](https://www.theblaze.com/news/bpa-is-no-longer-the-stuff-of-baby-bottles-but-it-still-might-be-a-big-problem) | TheBlaze | 2024-06-19 |
 | [FDA Maintains Discriminatory Rules on Donated Tissue for Gay and Bisexual Men](https://truthout.org/articles/fda-maintains-discriminatory-rules-on-donated-tissue-for-gay-and-bisexual-men/) | Truthout | 2024-05-27 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Upholds Drug](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-upholds-drug/) | Forbes | 2024-06-13 |
@@ -178,5 +179,4 @@
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
-| [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 
