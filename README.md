@@ -53,12 +53,12 @@
 | [Amazon taps Finland’s IQM for its first EU quantum computing service](https://thenextweb.com/news/amazon-iqm-first-eu-quantum-computer-cloud-service) | The Next Web | 2024-05-24 |
 | [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
+| [Family stress can lead to guilt about work for military members](https://www.futurity.org/military-family-stress-work-guilt-3232122/) | Futurity: Research News | 2024-06-20 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [Wide-field, high-resolution and broadband mesoscopic objective lens](https://phys.org/news/2024-06-wide-field-high-resolution-broadband.html) | Phys.Org | 2024-06-14 |
 | [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
-| [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
 
 ## News for Medical Devices
 
@@ -78,6 +78,7 @@
 | [PSA: Check on these 4 emergency iPhone and Apple Watch features before you need them](https://9to5mac.com/2024/06/03/check-emergency-iphone-and-apple-watch-features/) | 9to5Mac | 2024-06-03 |
 | [Airlines sometimes turn their planes around and fly thousands of miles home when they have problems. Here's why.](https://www.businessinsider.com/how-airlines-decide-where-to-divert-planes-flights-to-nowhere-2024-6) | Business Insider | 2024-06-12 |
 | [43% of US households are not storing guns securely, study says](https://abcnews.go.com/Health/new-study-shows-43-us-households-storing-guns/story?id=111100488) | ABC News | 2024-06-13 |
+| [What Are Bunion Correctors, and Can They Cure Bunions? - CNET](https://www.cnet.com/health/what-are-bunion-correctors-do-they-work/) | CNET | 2024-06-20 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
 | [Swiss startup creates modular device for on-demand cell therapy manufacturing](https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing) | The Next Web | 2024-05-21 |
 | [Firefighter credits Apple Watch for live-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention) | AppleInsider | 2024-06-16 |
@@ -88,7 +89,6 @@
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 | [Blueprints of self-assembly](https://www.sciencedaily.com/releases/2024/05/240520122835.htm) | Science Daily | 2024-05-20 |
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
-| [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 
 ## News for Healthcare Sector
 
@@ -103,6 +103,7 @@
 | [A 43-page IMF report on AI warns of 'profound concerns' about massive labor disruptions and inequality. We asked GPT-4 to summarize it.](https://www.businessinsider.com/we-asked-gpt4-summarize-imf-profound-concerns-about-gen-ai-2024-6) | Business Insider | 2024-06-19 |
 | [ASML’s new lab opens up access to its most advanced chipmaking machine](https://thenextweb.com/news/asmls-new-lab-access-to-most-advanced-chipmaking-machine) | The Next Web | 2024-06-04 |
 | [Cyberattack led to harrowing lapses at Ascension hospitals, clinicians say](https://www.npr.org/2024/06/19/nx-s1-5010219/ascension-hospital-ransomware-attack-care-lapses) | NPR | 2024-06-19 |
+| [Is Abbott Laboratories (ABT) a Strong Buy Right Now?](https://finance.yahoo.com/news/abbott-laboratories-abt-strong-buy-150221973.html) | Yahoo Entertainment | 2024-06-20 |
 | [Smart contact lens battery powered by your tears was inspired by Mission Impossible](https://readwrite.com/smart-contact-lenses-battery-tears-mission-impossible/) | ReadWrite | 2024-06-06 |
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
 | [Color Health's copilot app will leverage OpenAI GPT-4o's reasoning capabilities to improve and accelerate cancer treatment](https://www.windowscentral.com/software-apps/color-healths-copilot-app-will-leverage-openai-gpt-4os-reasoning-capabilities-to-improve-and-accelerate-cancer-treatment) | Windows Central | 2024-06-18 |
@@ -118,7 +119,6 @@
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [You’ll Be Surprised To Know The Biggest Job Growth Is Happening In This Sector, According To Indeed](https://www.forbes.com/sites/jackkelly/2024/05/20/biggest-job-growth-happening-in-healthcare/) | Forbes | 2024-05-20 |
-| [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 
 ## News for Pharma Market Trends
 
@@ -165,6 +165,7 @@
 | [Why A SCOTUS Ruling On Fishing Rules Could Change How FDA Regulates Drugs](https://medcitynews.com/2024/06/supreme-court-chevron-deference-fda-drug-regulation-mifepristone/) | MedCity News | 2024-06-11 |
 | [What’s Actually In Tattoo Ink? No One Really Knows](https://www.scientificamerican.com/podcast/episode/whats-actually-in-tattoo-ink-no-one-really-knows/) | Scientific American | 2024-06-12 |
 | [Why FDA Panel Rejected MDMA Therapy—And What’s Next For Psychedelic Medicine](https://www.forbes.com/sites/sarahsinclair/2024/06/13/why-fda-panel-rejected-mdma-therapy-and-whats-next-for-psychedelic-medicine/) | Forbes | 2024-06-13 |
+| [Amazon goes where the FDA does not](https://sciencebasedmedicine.org/amazon-goes-where-the-fda-does-not/) | Sciencebasedmedicine.org | 2024-06-20 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 | [[Jonathan H. Adler] Unanimous Supreme Court Finds No Standing to Challenge FDA Regulation of Mifepristone (UPDATED)](https://reason.com/volokh/2024/06/13/unanimous-supreme-court-finds-no-standing-to-challenge-fda-regulation-of-mifepristone/) | Reason | 2024-06-13 |
@@ -178,5 +179,4 @@
 | [Republicans Can—and Will—Keep Trying to Ban Mifepristone](https://newrepublic.com/article/182683/republicans-canand-willkeep-trying-ban-mifepristone) | The New Republic | 2024-06-14 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
-| [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 
