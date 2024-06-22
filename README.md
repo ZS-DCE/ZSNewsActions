@@ -25,10 +25,10 @@
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
 | [Sustainable Manufacturing And Zero Carbon Ambition](https://www.forbes.com/sites/forbestechcouncil/2024/06/18/sustainable-manufacturing-and-zero-carbon-ambition/) | Forbes | 2024-06-18 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
+| [New insights into methyl jasmonate-induced saponin biosynthesis in the balloon flower](https://phys.org/news/2024-06-insights-methyl-jasmonate-saponin-biosynthesis.html) | Phys.Org | 2024-06-21 |
 | [Scientists modify function of common enzymes by hacking genetics, could improve cancer treatments](https://phys.org/news/2024-06-scientists-function-common-enzymes-hacking.html) | Phys.Org | 2024-06-17 |
 | [Gross Ways Companies Are Cashing in on the Ozempic Craze](https://www.cracked.com/article_42290_gross-ways-companies-are-cashing-in-on-the-ozempic-craze.html) | Cracked.com | 2024-05-23 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
-| [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
 
 ## News for Life Sciences
 
@@ -85,10 +85,10 @@
 | [Swiss startup creates modular device for on-demand cell therapy manufacturing](https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing) | The Next Web | 2024-05-21 |
 | [Firefighter credits Apple Watch for live-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention) | AppleInsider | 2024-06-16 |
 | [Can I use my FSA/HRA/HSA to pay for a fitness tracker or wearable?](https://www.androidpolice.com/are-fitness-trackers-hra-fsa-hsa-eligible/) | Android Police | 2024-06-04 |
+| [More than half a million portable device chargers sold at Costco recalled after two homes catch fire](https://www.yahoo.com/news/more-half-million-portable-device-190358182.html) | Yahoo Entertainment | 2024-06-21 |
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
-| [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 
 ## News for Healthcare Sector
 
