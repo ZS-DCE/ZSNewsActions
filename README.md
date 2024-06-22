@@ -66,6 +66,7 @@
 | ----- | ------ | --------- |
 | [Google Messages Will Finally Let You Text 911](https://gizmodo.com/google-messages-text-911-1851522390) | Gizmodo.com | 2024-06-06 |
 | [An ingestible device to record gastric electrophysiological activity](https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html) | Medical Xpress | 2024-06-18 |
+| [10 Best Groundbreaking Medical Devices And Technologies Of 2024](https://www.yankodesign.com/2024/06/21/10-best-groundbreaking-medical-devices-and-technologies-of-2024/) | Yanko Design | 2024-06-21 |
 | [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/) | Wired | 2024-06-01 |
 | [Research team makes breakthrough in solar technology with shell-shaped cells: 'Will be found beneficial in various application areas'](https://www.yahoo.com/tech/research-team-makes-breakthrough-solar-040000674.html) | Yahoo Entertainment | 2024-06-03 |
 | [My husband and I used a 'Cinderella' rule to limit our kids' screen time. We don't regret it.](https://www.businessinsider.com/reduce-kids-screen-time-internet-ends-midnight-cinderella-rule-2024-6) | Business Insider | 2024-06-20 |
@@ -88,7 +89,6 @@
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
-| [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
 
 ## News for Healthcare Sector
 
