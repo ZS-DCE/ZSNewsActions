@@ -41,6 +41,7 @@
 | [McKesson, Merck back Atropos Health’s $33M round to accelerate drug development with AI](https://venturebeat.com/ai/atropos-health-33m-funding-round-signals-growing-interest-in-ai-driven-evidence-based-medicine/) | VentureBeat | 2024-05-23 |
 | [John Quincy Adams on Impostor Syndrome and the True Measure of Success](https://www.themarginalian.org/2024/06/03/john-quincy-adams-impostor-syndrome-success/) | Themarginalian.org | 2024-06-03 |
 | [Eagles Changed Migration Route To Avoid Ukraine War](https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war) | Slashdot.org | 2024-05-25 |
+| [Brain health is rooted in state of mind, finds study](https://medicalxpress.com/news/2024-06-brain-health-rooted-state-mind.html) | Medical Xpress | 2024-06-21 |
 | [The Curious Life of a ‘Grotesque’ Singing Fish](https://www.biographic.com/the-curious-life-of-a-singing-fish/) | Biographic.com | 2024-05-24 |
 | [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
 | [Apple Announces New Tinnitus Research, Continues Dive Into Hearing Health - CNET](https://www.cnet.com/health/medical/apple-announces-new-tinnitus-research-continues-dive-into-hearing-health/) | CNET | 2024-05-28 |
@@ -52,13 +53,12 @@
 | [Man convicted for role in 2001 stabbing deaths of Dartmouth College professors released from prison](https://www.yahoo.com/news/man-convicted-role-2001-stabbing-134441729.html) | Yahoo Entertainment | 2024-06-08 |
 | [Amazon taps Finland’s IQM for its first EU quantum computing service](https://thenextweb.com/news/amazon-iqm-first-eu-quantum-computer-cloud-service) | The Next Web | 2024-05-24 |
 | [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
+| [Investigating DNA flexibility for the creation of new biomaterials](https://phys.org/news/2024-06-dna-flexibility-creation-biomaterials.html) | Phys.Org | 2024-06-21 |
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
 | [Family stress can lead to guilt about work for military members](https://www.futurity.org/military-family-stress-work-guilt-3232122/) | Futurity: Research News | 2024-06-20 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [Wide-field, high-resolution and broadband mesoscopic objective lens](https://phys.org/news/2024-06-wide-field-high-resolution-broadband.html) | Phys.Org | 2024-06-14 |
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
-| [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
-| [Small planets may be best targets in hunt for ‘second Earth’](https://www.futurity.org/small-planets-second-earth-3232732/) | Futurity: Research News | 2024-06-20 |
 
 ## News for Medical Devices
 
@@ -98,6 +98,7 @@
 | [Black Semiconductor raises €254.4M for graphene-based chips in boost for European sector](https://thenextweb.com/news/black-semiconductor-raises-e254-4m-graphene-based-chips-boost-european-sector) | The Next Web | 2024-06-12 |
 | [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
 | [Migrant workers ‘desperately needed’ in care homes](https://www.bbc.com/news/articles/c044jenljeyo) | BBC News | 2024-06-11 |
+| [Change Healthcare confirms hackers stole medical records of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/) | TechCrunch | 2024-06-21 |
 | [SNP manifesto: Key policies analysed](https://www.bbc.com/news/articles/c3ggl375nn7o) | BBC News | 2024-06-19 |
 | [Baby boomers have been America's secret weapon for fending off recession](https://www.businessinsider.com/us-recession-baby-boomer-consumer-spending-downturn-retirement-hard-landing-2024-5) | Business Insider | 2024-05-22 |
 | [A 43-page IMF report on AI warns of 'profound concerns' about massive labor disruptions and inequality. We asked GPT-4 to summarize it.](https://www.businessinsider.com/we-asked-gpt4-summarize-imf-profound-concerns-about-gen-ai-2024-6) | Business Insider | 2024-06-19 |
@@ -118,7 +119,6 @@
 | [How the Moves of One Company Are Revolutionizing the Healthcare Sector](https://biztoc.com/x/095e411b23c5dcd1) | Biztoc.com | 2024-05-29 |
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
-| [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 
 ## News for Pharma Market Trends
 
