@@ -56,8 +56,8 @@
 | [Family stress can lead to guilt about work for military members](https://www.futurity.org/military-family-stress-work-guilt-3232122/) | Futurity: Research News | 2024-06-20 |
 | [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [Wide-field, high-resolution and broadband mesoscopic objective lens](https://phys.org/news/2024-06-wide-field-high-resolution-broadband.html) | Phys.Org | 2024-06-14 |
-| [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
+| [2 teens won $50,000 for inventing a device that can filter toxic microplastics from water](https://www.businessinsider.com/teens-win-fifty-thousand-for-ultrasound-microplastic-filtration-device-2024-5) | Business Insider | 2024-05-23 |
 | [Small planets may be best targets in hunt for ‘second Earth’](https://www.futurity.org/small-planets-second-earth-3232732/) | Futurity: Research News | 2024-06-20 |
 
 ## News for Medical Devices
@@ -65,6 +65,7 @@
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Google Messages Will Finally Let You Text 911](https://gizmodo.com/google-messages-text-911-1851522390) | Gizmodo.com | 2024-06-06 |
+| [An ingestible device to record gastric electrophysiological activity](https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html) | Medical Xpress | 2024-06-18 |
 | [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/) | Wired | 2024-06-01 |
 | [Research team makes breakthrough in solar technology with shell-shaped cells: 'Will be found beneficial in various application areas'](https://www.yahoo.com/tech/research-team-makes-breakthrough-solar-040000674.html) | Yahoo Entertainment | 2024-06-03 |
 | [My husband and I used a 'Cinderella' rule to limit our kids' screen time. We don't regret it.](https://www.businessinsider.com/reduce-kids-screen-time-internet-ends-midnight-cinderella-rule-2024-6) | Business Insider | 2024-06-20 |
@@ -88,7 +89,6 @@
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 | [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
-| [Save over $1,250 and power up your summer adventures with the Goal Zero Yeti 6000X Portable Power Station](https://www.autoblog.com/article/save-over-1250-and-power-up-your-summer-adventures-with-the-goal-zero-yeti-6000x-portable-power-station/) | Autoblog | 2024-05-23 |
 
 ## News for Healthcare Sector
 
@@ -161,6 +161,7 @@
 | [Jamie Dimon might finally be ready to call it quits](https://www.businessinsider.com/jamie-dimon-retirement-jpmorgan-ceo-update-plan-successor-wall-street-2024-05) | Business Insider | 2024-05-21 |
 | [Deadly Precaution](https://marginalrevolution.com/marginalrevolution/2024/05/deadly-precaution.html) | Marginalrevolution.com | 2024-05-28 |
 | [Here's the One Chicken Label I Look For (Spoiler: It's Not "Organic") - CNET](https://www.cnet.com/health/heres-the-one-chicken-label-i-look-for-and-its-not-organic/) | CNET | 2024-06-07 |
+| [If Opiates Are Killing Americans, Why Won't the FDA Let Us Try an Alternative?](https://reason.com/2024/06/20/if-opiates-are-killing-americans-why-wont-the-fda-let-us-try-an-alternative/) | Reason | 2024-06-20 |
 | [Why A SCOTUS Ruling On Fishing Rules Could Change How FDA Regulates Drugs](https://medcitynews.com/2024/06/supreme-court-chevron-deference-fda-drug-regulation-mifepristone/) | MedCity News | 2024-06-11 |
 | [What’s Actually In Tattoo Ink? No One Really Knows](https://www.scientificamerican.com/podcast/episode/whats-actually-in-tattoo-ink-no-one-really-knows/) | Scientific American | 2024-06-12 |
 | [Why FDA Panel Rejected MDMA Therapy—And What’s Next For Psychedelic Medicine](https://www.forbes.com/sites/sarahsinclair/2024/06/13/why-fda-panel-rejected-mdma-therapy-and-whats-next-for-psychedelic-medicine/) | Forbes | 2024-06-13 |
@@ -178,5 +179,4 @@
 | [Republicans Can—and Will—Keep Trying to Ban Mifepristone](https://newrepublic.com/article/182683/republicans-canand-willkeep-trying-ban-mifepristone) | The New Republic | 2024-06-14 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
-| [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 
