@@ -144,11 +144,11 @@
 | [Cystic fibrosis: global clinical trials landscape and treatments](https://www.pharmaceutical-technology.com/sponsored/cystic-fibrosis-global-clinical-trials-landscape-and-treatments/) | Pharmaceutical Technology | 2024-05-24 |
 | [Informa PLC's Dividend Analysis](https://finance.yahoo.com/news/informa-plcs-dividend-analysis-110430813.html) | Yahoo Entertainment | 2024-06-07 |
 | [Sun Pharmaceutical Industries Stocks Live Updates: Sun Pharma Closes at Rs 1495.1 with 3M Return of -4.24%](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-stocks-live-updates-24-may-2024/liveblog/110379417.cms) | The Times of India | 2024-05-24 |
-| [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Dabur India, PI Industries could rally 19-26% return on above normal monsoon: Siddhartha Khemka](https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-pi-industries-could-rally-19-26-return-on-above-normal-monsoon-siddhartha-khemka/articleshow/110655845.cms) | The Times of India | 2024-06-03 |
 | [Expanding prefillable glass syringe output: SCHOTT Pharma opens state-of-the-art production facility in Lukácsháza, Hungary](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Expanding-prefillable-glass-syringe-output-SCHOTT-Pharma-opens-state-of-the-art-production-facility-46974993/) | Marketscreener.com | 2024-06-14 |
+| [Global Lenalidomide Drug Market Size To Worth USD 21.47 Billion By 2033 | CAGR Of 5.69%](https://www.globenewswire.com/news-release/2024/06/20/2901340/0/en/Global-Lenalidomide-Drug-Market-Size-To-Worth-USD-21-47-Billion-By-2033-CAGR-Of-5-69.html) | GlobeNewswire | 2024-06-20 |
 
 ## News for FDA Regulations
 
