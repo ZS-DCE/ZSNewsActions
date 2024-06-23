@@ -88,7 +88,7 @@
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
-| [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
+| [Massive data breach exposes over 3 million Americans' personal information to cybercriminals](https://www.foxnews.com/tech/massive-data-breach-exposes-over-3-million-americans-personal-information-cybercriminals) | Fox News | 2024-06-22 |
 
 ## News for Healthcare Sector
 
