@@ -73,7 +73,6 @@
 | [Google Adds RCS Feature for Texting 911](https://www.macrumors.com/2024/06/06/google-rcs-text-911/) | MacRumors | 2024-06-06 |
 | [Pharma giant's data breach exposes patients' sensitive information](https://www.foxnews.com/tech/pharma-giants-data-breach-exposes-patients-sensitive-information) | Fox News | 2024-06-17 |
 | [Mass graves and body bags: al-Shifa hospital after Israel withdrew its forces](https://www.bbc.com/news/articles/c511k1nqx81o) | BBC News | 2024-06-05 |
-| [Emergent Ventures, 34th cohort](https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html) | Marginalrevolution.com | 2024-05-21 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
@@ -82,21 +81,22 @@
 | [43% of US households are not storing guns securely, study says](https://abcnews.go.com/Health/new-study-shows-43-us-households-storing-guns/story?id=111100488) | ABC News | 2024-06-13 |
 | [What Are Bunion Correctors, and Can They Cure Bunions? - CNET](https://www.cnet.com/health/what-are-bunion-correctors-do-they-work/) | CNET | 2024-06-20 |
 | [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn) | Space.com | 2024-05-22 |
-| [Swiss startup creates modular device for on-demand cell therapy manufacturing](https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing) | The Next Web | 2024-05-21 |
 | [Firefighter credits Apple Watch for live-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention) | AppleInsider | 2024-06-16 |
 | [Can I use my FSA/HRA/HSA to pay for a fitness tracker or wearable?](https://www.androidpolice.com/are-fitness-trackers-hra-fsa-hsa-eligible/) | Android Police | 2024-06-04 |
 | [More than half a million portable device chargers sold at Costco recalled after two homes catch fire](https://www.yahoo.com/news/more-half-million-portable-device-190358182.html) | Yahoo Entertainment | 2024-06-21 |
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
+| [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
+| [The real reason Americans can't get enough sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5) | Business Insider | 2024-05-30 |
 
 ## News for Healthcare Sector
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Fed policy hasn't cooled the labor market and a 'serious consumer recession' could strike if services jobs tumble, real estate billionaire Barry Sternlicht says](https://www.businessinsider.com/recession-layoffs-job-market-fed-rate-cuts-economy-outlook-sternlicht-2024-6) | Business Insider | 2024-06-06 |
+| [Would Labour’s private school tax plan work?](https://www.bbc.com/news/articles/c1ddvv7vnygo) | BBC News | 2024-06-22 |
 | [Black Semiconductor raises €254.4M for graphene-based chips in boost for European sector](https://thenextweb.com/news/black-semiconductor-raises-e254-4m-graphene-based-chips-boost-european-sector) | The Next Web | 2024-06-12 |
-| [As UK launches semiconductor institute, EU chips get €2.5B boost](https://thenextweb.com/news/as-uk-launches-semiconductor-institute-eu-chips-get-e2-5b-boost) | The Next Web | 2024-05-21 |
 | [Migrant workers ‘desperately needed’ in care homes](https://www.bbc.com/news/articles/c044jenljeyo) | BBC News | 2024-06-11 |
 | [Change Healthcare confirms hackers stole medical records of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/) | TechCrunch | 2024-06-21 |
 | [SNP manifesto: Key policies analysed](https://www.bbc.com/news/articles/c3ggl375nn7o) | BBC News | 2024-06-19 |
@@ -127,7 +127,6 @@
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [Ozempic is now boosting sales for smaller-sized clothes, fashion executives say](https://qz.com/ozempic-clothes-sales-1851544423) | Quartz India | 2024-06-17 |
 | [Merck introduces sterility testing solution for pharma quality control](https://www.pharmaceutical-technology.com/news/merck-sterility-testing-solution/) | Pharmaceutical Technology | 2024-05-29 |
-| [Charging GOP bull will quash Dem bear](https://www.americanthinker.com/articles/2024/05/charging_gop_bull_will_quash_dem_bear.html) | Americanthinker.com | 2024-05-21 |
 | [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
 | [Drug Names: The machinations behind the monikers](https://qz.com/emails/quartz-obsession/1851543645/drug-names-process-fda-usan) | Quartz India | 2024-06-18 |
@@ -141,7 +140,6 @@
 | [FMCG, healthcare stocks defy markets with spirited fight back, gain up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-stocks-defy-markets-with-spirited-fight-back-gain-up-to-4/articleshow/110692499.cms) | The Times of India | 2024-06-04 |
 | [ADC Contract Manufacturing Market, 2035 - Surging Demand for Antibody Drug Conjugates Driving Growth](https://www.globenewswire.com/news-release/2024/06/20/2901422/28124/en/ADC-Contract-Manufacturing-Market-2035-Surging-Demand-for-Antibody-Drug-Conjugates-Driving-Growth.html) | GlobeNewswire | 2024-06-20 |
 | [The World Market for Oral Solid Dosage Forms (OSDF) and Pharma Excipients, 2024-2030](https://www.globenewswire.com/news-release/2024/06/11/2897027/28124/en/The-World-Market-for-Oral-Solid-Dosage-Forms-OSDF-and-Pharma-Excipients-2024-2030.html) | GlobeNewswire | 2024-06-11 |
-| [Antiandrogens Market Insights and Projections to 2030: An $8.7 Billion Landscape Dominated by Pfizer, Astellas Pharma, Roche, AstraZeneca, and Abbott Labs](https://www.globenewswire.com/news-release/2024/05/21/2885326/28124/en/Antiandrogens-Market-Insights-and-Projections-to-2030-An-8-7-Billion-Landscape-Dominated-by-Pfizer-Astellas-Pharma-Roche-AstraZeneca-and-Abbott-Labs.html) | GlobeNewswire | 2024-05-21 |
 | [Air cargo marketplace Freightos posts record Q1 volume](https://www.digitalcommerce360.com/2024/05/22/air-cargo-marketplace-freightos-posts-record-q1-volume/) | DigitalCommerce360 | 2024-05-22 |
 | [Cystic fibrosis: global clinical trials landscape and treatments](https://www.pharmaceutical-technology.com/sponsored/cystic-fibrosis-global-clinical-trials-landscape-and-treatments/) | Pharmaceutical Technology | 2024-05-24 |
 | [Informa PLC's Dividend Analysis](https://finance.yahoo.com/news/informa-plcs-dividend-analysis-110430813.html) | Yahoo Entertainment | 2024-06-07 |
@@ -149,6 +147,8 @@
 | [Sun Pharmaceutical Industries Share Price Live Updates: Sun Pharma Closes at Rs 1540.95 with 0.89% Weekly Return](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-live-updates-22-may-2024/liveblog/110318266.cms) | The Times of India | 2024-05-22 |
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
+| [Dabur India, PI Industries could rally 19-26% return on above normal monsoon: Siddhartha Khemka](https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-pi-industries-could-rally-19-26-return-on-above-normal-monsoon-siddhartha-khemka/articleshow/110655845.cms) | The Times of India | 2024-06-03 |
+| [Expanding prefillable glass syringe output: SCHOTT Pharma opens state-of-the-art production facility in Lukácsháza, Hungary](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Expanding-prefillable-glass-syringe-output-SCHOTT-Pharma-opens-state-of-the-art-production-facility-46974993/) | Marketscreener.com | 2024-06-14 |
 
 ## News for FDA Regulations
 
@@ -157,8 +157,6 @@
 | [FDA rule change allowed gay, bisexual men to donate blood. Did it make a difference?](https://abcnews.go.com/Health/fda-rule-change-allowing-gay-bisexual-men-donate/story?id=111125850) | ABC News | 2024-06-18 |
 | [Pharmaceutical Advertising: What It Is & Trends To Look Out For in 2024](https://blog.hubspot.com/marketing/pharmaceutical-marketing-history#article) | Hubspot.com | 2024-05-24 |
 | [New Amazon Rules Could Impact Independent Supplement Sellers](https://smallbiztrends.com/?p=1487531) | Small Business Trends | 2024-05-22 |
-| [The Sordid History of U.S. Food Safety Highlights the Importance of Regulation](https://www.scientificamerican.com/article/the-sordid-history-of-u-s-food-safety-highlights-the-importance-of/) | Scientific American | 2024-05-21 |
-| [Jamie Dimon might finally be ready to call it quits](https://www.businessinsider.com/jamie-dimon-retirement-jpmorgan-ceo-update-plan-successor-wall-street-2024-05) | Business Insider | 2024-05-21 |
 | [Deadly Precaution](https://marginalrevolution.com/marginalrevolution/2024/05/deadly-precaution.html) | Marginalrevolution.com | 2024-05-28 |
 | [Here's the One Chicken Label I Look For (Spoiler: It's Not "Organic") - CNET](https://www.cnet.com/health/heres-the-one-chicken-label-i-look-for-and-its-not-organic/) | CNET | 2024-06-07 |
 | [If Opiates Are Killing Americans, Why Won't the FDA Let Us Try an Alternative?](https://reason.com/2024/06/20/if-opiates-are-killing-americans-why-wont-the-fda-let-us-try-an-alternative/) | Reason | 2024-06-20 |
@@ -179,4 +177,6 @@
 | [Republicans Can—and Will—Keep Trying to Ban Mifepristone](https://newrepublic.com/article/182683/republicans-canand-willkeep-trying-ban-mifepristone) | The New Republic | 2024-06-14 |
 | [FDA Urged To Relax Decades-Old Tissue Donation Restrictions for Gay and Bisexual Men](https://kffhealthnews.org/news/article/tissue-donation-rules-fda-gay-bisexual-men-cornea-transplant/) | Kffhealthnews.org | 2024-05-24 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
+| [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
+| [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 
