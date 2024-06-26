@@ -17,6 +17,7 @@
 | [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
+| [Superlab Suisse Thinks Scientists Are Ready For Shared Work Spaces](https://www.forbes.com/sites/davidprosser/2024/06/25/superlab-suisse-thinks-scientists-are-ready-for-shared-work-spaces/) | Forbes | 2024-06-25 |
 | [Why Counterfeit Ozempic Is a Global-Growth Industry](https://www.vanityfair.com/news/story/counterfeit-ozempic-global-growth-industry) | Vanity Fair | 2024-06-04 |
 | [The Future Of Medicine: How AI Is Revolutionizing Pharma](https://www.forbes.com/sites/forbestechcouncil/2024/06/11/the-future-of-medicine-how-ai-is-revolutionizing-pharma/) | Forbes | 2024-06-11 |
 | [Ozempic maker Novo Nordisk could soon surpass Lego as Denmark's biggest brand](https://qz.com/ozempic-lego-novo-1851535015) | Quartz India | 2024-06-12 |
@@ -28,7 +29,6 @@
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
 | [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
 | [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
-| [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
 
 ## News for Life Sciences
 
