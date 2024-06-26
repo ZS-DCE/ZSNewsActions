@@ -116,9 +116,9 @@
 | [The retirement Catch-22](https://www.businessinsider.com/retirement-crisis-blackrock-letter-boomers-work-longer-employer-age-discrimination-2024-6) | Business Insider | 2024-06-18 |
 | [3 Sorry Healthcare Stocks to Sell in May While You Still Can](https://biztoc.com/x/9d7cabf863335ec6) | Biztoc.com | 2024-05-28 |
 | [How the Moves of One Company Are Revolutionizing the Healthcare Sector](https://biztoc.com/x/095e411b23c5dcd1) | Biztoc.com | 2024-05-29 |
+| [This city is worried about immigration, but who has the solution?](https://www.bbc.com/news/articles/cw00yg9z0dgo) | BBC News | 2024-06-25 |
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
-| [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 
 ## News for Pharma Market Trends
 
@@ -156,6 +156,7 @@
 | ----- | ------ | --------- |
 | [FDA rule change allowed gay, bisexual men to donate blood. Did it make a difference?](https://abcnews.go.com/Health/fda-rule-change-allowing-gay-bisexual-men-donate/story?id=111125850) | ABC News | 2024-06-18 |
 | [Deadly Precaution](https://marginalrevolution.com/marginalrevolution/2024/05/deadly-precaution.html) | Marginalrevolution.com | 2024-05-28 |
+| [Supreme Court’s ‘Chevron Deference’ Decision Could Make Science-Based Regulation Harder](https://www.scientificamerican.com/article/supreme-courts-chevron-deference-decision-could-make-science-based/) | Scientific American | 2024-06-25 |
 | [Here's the One Chicken Label I Look For (Spoiler: It's Not "Organic") - CNET](https://www.cnet.com/health/heres-the-one-chicken-label-i-look-for-and-its-not-organic/) | CNET | 2024-06-07 |
 | [If Opiates Are Killing Americans, Why Won't the FDA Let Us Try an Alternative?](https://reason.com/2024/06/20/if-opiates-are-killing-americans-why-wont-the-fda-let-us-try-an-alternative/) | Reason | 2024-06-20 |
 | [Why A SCOTUS Ruling On Fishing Rules Could Change How FDA Regulates Drugs](https://medcitynews.com/2024/06/supreme-court-chevron-deference-fda-drug-regulation-mifepristone/) | MedCity News | 2024-06-11 |
@@ -178,5 +179,4 @@
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 | [FDA must fix “inadequate” inspection and recall policies, report says](https://www.just-food.com/news/fda-must-fix-inadequate-inspection-and-recall-policies-report-says/) | Just-food.com | 2024-06-13 |
-| [Justices Rule Plaintiffs Lack Standing to Challenge FDA’s Promotion of Dangerous Abortion Drug](https://www.dailysignal.com/2024/06/14/justices-rule-plaintiffs-lack-standing-challenge-fdas-promotion-dangerous-abortion-drug/) | Daily Signal | 2024-06-14 |
 
