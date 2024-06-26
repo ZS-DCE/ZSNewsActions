@@ -13,6 +13,7 @@
 | [2024 Core77 Design Awards Keyshot Rendering Prize - CAPSULE: Sustainable bio-pharma manufacturing](https://www.core77.com/posts/132676/2024-Core77-Design-Awards-Keyshot-Rendering-Prize-CAPSULE-Sustainable-bio-pharma-manufacturing) | Core77.com | 2024-06-18 |
 | [Ozempic supply trackers, bird flu vaccines, and Merck's future: Pharma news roundup](https://qz.com/ozempic-weight-loss-drugs-bird-flu-vaccines-moderna-1851510378) | Quartz India | 2024-05-31 |
 | [Companies can capitalize on crises to thrive in their industry, study finds](https://phys.org/news/2024-06-companies-capitalize-crises-industry.html) | Phys.Org | 2024-06-18 |
+| [The Importance Of Early Commercialization Planning For Pharmaceutical Startups](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/25/the-importance-of-early-commercialization-planning-for-pharmaceutical-startups/) | Forbes | 2024-06-25 |
 | [New approach sets stage to explore the mirror-image world of century-old naturally-occurring cyclodextrins](https://phys.org/news/2024-06-approach-stage-explore-mirror-image.html) | Phys.Org | 2024-06-24 |
 | [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
@@ -28,7 +29,6 @@
 | [Scientists modify function of common enzymes by hacking genetics, could improve cancer treatments](https://phys.org/news/2024-06-scientists-function-common-enzymes-hacking.html) | Phys.Org | 2024-06-17 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
 | [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
-| [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
 
 ## News for Life Sciences
 
@@ -38,16 +38,15 @@
 | [Apple wants to know if you’re hearing things because of tinnitus](https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data) | The Verge | 2024-05-28 |
 | [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/) | Thoughtforms.life | 2024-06-15 |
 | [From financial crime fighters to net-zero defenders: 4 Oslo startups to watch](https://thenextweb.com/news/4-oslo-startups-to-watch) | The Next Web | 2024-05-29 |
+| [Lab-as-a-service for biotech startups opens in Basel, Switzerland](https://thenextweb.com/news/lab-as-a-service-biotech-startups-basel-switzerland) | The Next Web | 2024-06-25 |
 | [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/) | Curtin.edu.au | 2024-06-23 |
 | [John Quincy Adams on Impostor Syndrome and the True Measure of Success](https://www.themarginalian.org/2024/06/03/john-quincy-adams-impostor-syndrome-success/) | Themarginalian.org | 2024-06-03 |
-| [Eagles Changed Migration Route To Avoid Ukraine War](https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war) | Slashdot.org | 2024-05-25 |
 | [Brain health is rooted in state of mind, finds study](https://medicalxpress.com/news/2024-06-brain-health-rooted-state-mind.html) | Medical Xpress | 2024-06-21 |
 | [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
 | [Apple Announces New Tinnitus Research, Continues Dive Into Hearing Health - CNET](https://www.cnet.com/health/medical/apple-announces-new-tinnitus-research-continues-dive-into-hearing-health/) | CNET | 2024-05-28 |
 | [Report: The Netherlands is the leading startup ecosystem in the EU](https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu) | The Next Web | 2024-06-10 |
 | [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
 | [Neighborhoods have really dumb names these days](https://www.businessinsider.com/insider-today-real-estate-neighborhood-names-scarlett-sam-openai-2024-5) | Business Insider | 2024-05-26 |
-| [Entomologist sheds light on 250-year-old mystery of the German cockroach](https://www.sciencedaily.com/releases/2024/05/240524171427.htm) | Science Daily | 2024-05-24 |
 | [Researchers expose new symbiosis origin theories, identify experimental systems for plant life](https://www.sciencedaily.com/releases/2024/05/240529183852.htm) | Science Daily | 2024-05-29 |
 | [Man convicted for role in 2001 stabbing deaths of Dartmouth College professors released from prison](https://www.yahoo.com/news/man-convicted-role-2001-stabbing-134441729.html) | Yahoo Entertainment | 2024-06-08 |
 | [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
@@ -59,6 +58,7 @@
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [Small planets may be best targets in hunt for ‘second Earth’](https://www.futurity.org/small-planets-second-earth-3232732/) | Futurity: Research News | 2024-06-20 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
+| [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
 
 ## News for Medical Devices
 
@@ -87,8 +87,8 @@
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
 | [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
-| [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
+| [Massive data breach exposes over 3 million Americans' personal information to cybercriminals](https://www.foxnews.com/tech/massive-data-breach-exposes-over-3-million-americans-personal-information-cybercriminals) | Fox News | 2024-06-22 |
 
 ## News for Healthcare Sector
 
@@ -176,7 +176,7 @@
 | [Republicans Can—and Will—Keep Trying to Ban Mifepristone](https://newrepublic.com/article/182683/republicans-canand-willkeep-trying-ban-mifepristone) | The New Republic | 2024-06-14 |
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
-| [Breyer's Ice Cream Is Now Called 'Frozen Dessert' Because It's 50% Air?](https://www.snopes.com//fact-check/breyers-ice-cream-frozen-dessert/) | Snopes.com | 2024-05-25 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 | [FDA must fix “inadequate” inspection and recall policies, report says](https://www.just-food.com/news/fda-must-fix-inadequate-inspection-and-recall-policies-report-says/) | Just-food.com | 2024-06-13 |
+| [Justices Rule Plaintiffs Lack Standing to Challenge FDA’s Promotion of Dangerous Abortion Drug](https://www.dailysignal.com/2024/06/14/justices-rule-plaintiffs-lack-standing-challenge-fdas-promotion-dangerous-abortion-drug/) | Daily Signal | 2024-06-14 |
 
