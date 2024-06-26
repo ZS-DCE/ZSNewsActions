@@ -85,10 +85,10 @@
 | [Can I use my FSA/HRA/HSA to pay for a fitness tracker or wearable?](https://www.androidpolice.com/are-fitness-trackers-hra-fsa-hsa-eligible/) | Android Police | 2024-06-04 |
 | [More than half a million portable device chargers sold at Costco recalled after two homes catch fire](https://www.yahoo.com/news/more-half-million-portable-device-190358182.html) | Yahoo Entertainment | 2024-06-21 |
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
+| [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 | [Taylor Swift's posture-correcting bra costs $185. A posture historian shares why she's skeptical of 'one-size-fits-all' solutions.](https://www.businessinsider.com/taylor-swift-posture-correcting-bra-not-worth-splurge-expert-says-2024-5) | Business Insider | 2024-05-24 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
-| [Massive data breach exposes over 3 million Americans' personal information to cybercriminals](https://www.foxnews.com/tech/massive-data-breach-exposes-over-3-million-americans-personal-information-cybercriminals) | Fox News | 2024-06-22 |
 
 ## News for Healthcare Sector
 
@@ -107,6 +107,8 @@
 | [Cyberattack led to harrowing lapses at Ascension hospitals, clinicians say](https://www.npr.org/2024/06/19/nx-s1-5010219/ascension-hospital-ransomware-attack-care-lapses) | NPR | 2024-06-19 |
 | [Is Abbott Laboratories (ABT) a Strong Buy Right Now?](https://finance.yahoo.com/news/abbott-laboratories-abt-strong-buy-150221973.html) | Yahoo Entertainment | 2024-06-20 |
 | [Smart contact lens battery powered by your tears was inspired by Mission Impossible](https://readwrite.com/smart-contact-lenses-battery-tears-mission-impossible/) | ReadWrite | 2024-06-06 |
+| [UK and US cops band together to tackle Qilin's ransomware shakedowns](https://www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/) | Theregister.com | 2024-06-25 |
+| [An Unseen State Of Emergency In Healthcare: Lessons From The Change Healthcare Cyber Breach](https://www.forbes.com/sites/forbestechcouncil/2024/06/25/an-unseen-state-of-emergency-in-healthcare-lessons-from-the-change-healthcare-cyber-breach/) | Forbes | 2024-06-25 |
 | [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
 | [Color Health's copilot app will leverage OpenAI GPT-4o's reasoning capabilities to improve and accelerate cancer treatment](https://www.windowscentral.com/software-apps/color-healths-copilot-app-will-leverage-openai-gpt-4os-reasoning-capabilities-to-improve-and-accelerate-cancer-treatment) | Windows Central | 2024-06-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/9dcde0d46e121c1c) | Biztoc.com | 2024-06-04 |
@@ -117,8 +119,6 @@
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
-| [Rebuilding Trust In Healthcare: A Critical Path For Disabled People](https://www.forbes.com/sites/carolinecasey/2024/05/30/rebuilding-trust-in-healthcare-a-critical-path-for-disabled-people/) | Forbes | 2024-05-30 |
-| [Larry Ellison's net worth soared $17 billion on Oracle's rally](https://qz.com/larry-ellison-net-worth-oracle-stock-q4-2023-1851535881) | Quartz India | 2024-06-12 |
 
 ## News for Pharma Market Trends
 
