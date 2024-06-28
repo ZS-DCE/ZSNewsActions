@@ -57,8 +57,8 @@
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [Small planets may be best targets in hunt for ‘second Earth’](https://www.futurity.org/small-planets-second-earth-3232732/) | Futurity: Research News | 2024-06-20 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
+| [The Remarkable Life of Chemistry Professor and Crime Buster Mary Louisa Willard](https://www.scientificamerican.com/article/the-remarkable-life-of-chemistry-professor-and-crime-buster-mary-louisa/) | Scientific American | 2024-06-27 |
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
-| [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
 
 ## News for Medical Devices
 
