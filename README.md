@@ -22,13 +22,13 @@
 | [Why Counterfeit Ozempic Is a Global-Growth Industry](https://www.vanityfair.com/news/story/counterfeit-ozempic-global-growth-industry) | Vanity Fair | 2024-06-04 |
 | [The Future Of Medicine: How AI Is Revolutionizing Pharma](https://www.forbes.com/sites/forbestechcouncil/2024/06/11/the-future-of-medicine-how-ai-is-revolutionizing-pharma/) | Forbes | 2024-06-11 |
 | [Ozempic maker Novo Nordisk could soon surpass Lego as Denmark's biggest brand](https://qz.com/ozempic-lego-novo-1851535015) | Quartz India | 2024-06-12 |
+| [6 Top Weight Loss Stocks To Buy Now](https://www.forbes.com/sites/investor-hub/article/6-best-weight-loss-stocks-to-buy-now/) | Forbes | 2024-06-27 |
 | [10 Sunday Reads](https://ritholtz.com/2024/06/10-sunday-reads-168/) | Ritholtz.com | 2024-06-02 |
 | [Sustainable Manufacturing And Zero Carbon Ambition](https://www.forbes.com/sites/forbestechcouncil/2024/06/18/sustainable-manufacturing-and-zero-carbon-ambition/) | Forbes | 2024-06-18 |
 | [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/) | Lizzybanks.co.uk | 2024-06-02 |
 | [New insights into methyl jasmonate-induced saponin biosynthesis in the balloon flower](https://phys.org/news/2024-06-insights-methyl-jasmonate-saponin-biosynthesis.html) | Phys.Org | 2024-06-21 |
 | [Scientists modify function of common enzymes by hacking genetics, could improve cancer treatments](https://phys.org/news/2024-06-scientists-function-common-enzymes-hacking.html) | Phys.Org | 2024-06-17 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
-| [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
 
 ## News for Life Sciences
 
