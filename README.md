@@ -46,7 +46,6 @@
 | [Apple Announces New Tinnitus Research, Continues Dive Into Hearing Health - CNET](https://www.cnet.com/health/medical/apple-announces-new-tinnitus-research-continues-dive-into-hearing-health/) | CNET | 2024-05-28 |
 | [Report: The Netherlands is the leading startup ecosystem in the EU](https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu) | The Next Web | 2024-06-10 |
 | [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
-| [Neighborhoods have really dumb names these days](https://www.businessinsider.com/insider-today-real-estate-neighborhood-names-scarlett-sam-openai-2024-5) | Business Insider | 2024-05-26 |
 | [Researchers expose new symbiosis origin theories, identify experimental systems for plant life](https://www.sciencedaily.com/releases/2024/05/240529183852.htm) | Science Daily | 2024-05-29 |
 | [Man convicted for role in 2001 stabbing deaths of Dartmouth College professors released from prison](https://www.yahoo.com/news/man-convicted-role-2001-stabbing-134441729.html) | Yahoo Entertainment | 2024-06-08 |
 | [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
@@ -59,6 +58,7 @@
 | [Small planets may be best targets in hunt for ‘second Earth’](https://www.futurity.org/small-planets-second-earth-3232732/) | Futurity: Research News | 2024-06-20 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
+| [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
 
 ## News for Medical Devices
 
@@ -86,9 +86,9 @@
 | [More than half a million portable device chargers sold at Costco recalled after two homes catch fire](https://www.yahoo.com/news/more-half-million-portable-device-190358182.html) | Yahoo Entertainment | 2024-06-21 |
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
 | [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
+| [Meet ASUS’ Newest Wearable, the VivoWatch 6](https://phandroid.com/2024/06/26/meet-asus-newest-wearable-the-vivowatch-6/) | Phandroid - News for Android | 2024-06-26 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 | [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
-| [Massive data breach exposes over 3 million Americans' personal information to cybercriminals](https://www.foxnews.com/tech/massive-data-breach-exposes-over-3-million-americans-personal-information-cybercriminals) | Fox News | 2024-06-22 |
 
 ## News for Healthcare Sector
 
