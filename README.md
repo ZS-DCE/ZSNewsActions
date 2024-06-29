@@ -48,7 +48,6 @@
 | [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
 | [Researchers expose new symbiosis origin theories, identify experimental systems for plant life](https://www.sciencedaily.com/releases/2024/05/240529183852.htm) | Science Daily | 2024-05-29 |
 | [Man convicted for role in 2001 stabbing deaths of Dartmouth College professors released from prison](https://www.yahoo.com/news/man-convicted-role-2001-stabbing-134441729.html) | Yahoo Entertainment | 2024-06-08 |
-| [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/) | Popular Mechanics | 2024-05-27 |
 | [Investigating DNA flexibility for the creation of new biomaterials](https://phys.org/news/2024-06-dna-flexibility-creation-biomaterials.html) | Phys.Org | 2024-06-21 |
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
 | [Family stress can lead to guilt about work for military members](https://www.futurity.org/military-family-stress-work-guilt-3232122/) | Futurity: Research News | 2024-06-20 |
@@ -59,6 +58,7 @@
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
 | [The Remarkable Life of Chemistry Professor and Crime Buster Mary Louisa Willard](https://www.scientificamerican.com/article/the-remarkable-life-of-chemistry-professor-and-crime-buster-mary-louisa/) | Scientific American | 2024-06-27 |
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
+| [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus) | AppleInsider | 2024-05-28 |
 
 ## News for Medical Devices
 
@@ -75,7 +75,6 @@
 | [Mass graves and body bags: al-Shifa hospital after Israel withdrew its forces](https://www.bbc.com/news/articles/c511k1nqx81o) | BBC News | 2024-06-05 |
 | [It's Getting Harder to Die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die) | Plough.com | 2024-06-25 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
-| [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [PSA: Check on these 4 emergency iPhone and Apple Watch features before you need them](https://9to5mac.com/2024/06/03/check-emergency-iphone-and-apple-watch-features/) | 9to5Mac | 2024-06-03 |
 | [Airlines sometimes turn their planes around and fly thousands of miles home when they have problems. Here's why.](https://www.businessinsider.com/how-airlines-decide-where-to-divert-planes-flights-to-nowhere-2024-6) | Business Insider | 2024-06-12 |
@@ -89,6 +88,7 @@
 | [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
 | [Meet ASUS’ Newest Wearable, the VivoWatch 6](https://phandroid.com/2024/06/26/meet-asus-newest-wearable-the-vivowatch-6/) | Phandroid - News for Android | 2024-06-26 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
+| [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 
 ## News for Healthcare Sector
 
@@ -142,13 +142,13 @@
 | [The World Market for Oral Solid Dosage Forms (OSDF) and Pharma Excipients, 2024-2030](https://www.globenewswire.com/news-release/2024/06/11/2897027/28124/en/The-World-Market-for-Oral-Solid-Dosage-Forms-OSDF-and-Pharma-Excipients-2024-2030.html) | GlobeNewswire | 2024-06-11 |
 | [Informa PLC's Dividend Analysis](https://finance.yahoo.com/news/informa-plcs-dividend-analysis-110430813.html) | Yahoo Entertainment | 2024-06-07 |
 | [Global Microcrystalline Cellulose (MCC) Industry Research 2024: Size, Share, Applications, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forecasts 2021-2031](https://www.globenewswire.com/news-release/2024/06/27/2905038/28124/en/Global-Microcrystalline-Cellulose-MCC-Industry-Research-2024-Size-Share-Applications-Regional-Outlook-Growth-Trends-Key-Players-Competitive-Strategies-and-Forecasts-2021-2031.html) | GlobeNewswire | 2024-06-27 |
+| [Sun Pharmaceutical Industries Share Price Today Live Updates: Sun Pharma Closes at Rs 1516.25 with 3.34% Weekly Gain](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharmaceutical-industries-share-price-today-live-updates-28-jun-2024/liveblog/111328834.cms) | The Times of India | 2024-06-28 |
 | [Nifty may see a 400 pt correction before June 4 but banks will outperform: Sanjiv Bhasin](https://economictimes.indiatimes.com/markets/expert-view/nifty-may-see-a-400-pt-correction-before-june-4-but-banks-will-outperform-sanjiv-bhasin/articleshow/110483972.cms) | The Times of India | 2024-05-28 |
 | [SBI, GAIL, HAL among 43 stock ideas as BJP’s bear case scenario plays out](https://economictimes.indiatimes.com/markets/stocks/news/sbi-gail-hal-among-43-stock-ideas-as-bjps-bear-case-scenario-plays-out/articleshow/110730312.cms) | The Times of India | 2024-06-05 |
 | [Global Digital Twins in Healthcare Research 2024-2035 - Pharma Investments Surge as Technology Enhances Clinical Trials and Predictive Maintenance](https://www.globenewswire.com/news-release/2024/06/24/2902834/28124/en/Global-Digital-Twins-in-Healthcare-Research-2024-2035-Pharma-Investments-Surge-as-Technology-Enhances-Clinical-Trials-and-Predictive-Maintenance.html) | GlobeNewswire | 2024-06-24 |
 | [Dabur India, PI Industries could rally 19-26% return on above normal monsoon: Siddhartha Khemka](https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-pi-industries-could-rally-19-26-return-on-above-normal-monsoon-siddhartha-khemka/articleshow/110655845.cms) | The Times of India | 2024-06-03 |
 | [Expanding prefillable glass syringe output: SCHOTT Pharma opens state-of-the-art production facility in Lukácsháza, Hungary](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Expanding-prefillable-glass-syringe-output-SCHOTT-Pharma-opens-state-of-the-art-production-facility-46974993/) | Marketscreener.com | 2024-06-14 |
 | [Global Lenalidomide Drug Market Size To Worth USD 21.47 Billion By 2033 | CAGR Of 5.69%](https://www.globenewswire.com/news-release/2024/06/20/2901340/0/en/Global-Lenalidomide-Drug-Market-Size-To-Worth-USD-21-47-Billion-By-2033-CAGR-Of-5-69.html) | GlobeNewswire | 2024-06-20 |
-| [mRNA Synthesis and Manufacturing Market, 2035](https://www.globenewswire.com/news-release/2024/06/27/2904970/28124/en/mRNA-Synthesis-and-Manufacturing-Market-2035.html) | GlobeNewswire | 2024-06-27 |
 
 ## News for FDA Regulations
 
@@ -170,7 +170,6 @@
 | [SCOTUS Ruling On Abortion Pill Case Has No Bearing On Access Restrictions In Certain States](https://www.forbes.com/sites/joshuacohen/2024/06/13/scotus-ruling-on-abortion-pill-case-has-no-bearing-on-access-restrictions-in-certain-states/) | Forbes | 2024-06-13 |
 | [Blaze News investigates: BPA is no longer the stuff of baby bottles, but it still might be a big problem](https://www.theblaze.com/news/bpa-is-no-longer-the-stuff-of-baby-bottles-but-it-still-might-be-a-big-problem) | TheBlaze | 2024-06-19 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
-| [FDA Maintains Discriminatory Rules on Donated Tissue for Gay and Bisexual Men](https://truthout.org/articles/fda-maintains-discriminatory-rules-on-donated-tissue-for-gay-and-bisexual-men/) | Truthout | 2024-05-27 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Upholds Drug](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-upholds-drug/) | Forbes | 2024-06-13 |
 | [Abortion Pills: What To Know About Mifepristone As Supreme Court Hears Challenge](https://www.forbes.com/sites/alisondurkee/2024/06/13/abortion-pills-what-to-know-about-mifepristone-as-supreme-court-hears-challenge/) | Forbes | 2024-06-13 |
 | [Health And Legal Ramifications Of Louisiana’s Severe Restrictions On Abortion Pills](https://www.forbes.com/sites/joshuacohen/2024/06/02/health-and-legal-ramifications-of-louisianas-severe-restrictions-on-abortion-pills/) | Forbes | 2024-06-02 |
@@ -179,4 +178,5 @@
 | [Why Things Can’t Go Back To Normal After The Change Healthcare Attack](https://www.forbes.com/sites/forbestechcouncil/2024/06/26/why-things-cant-go-back-to-normal-after-the-change-healthcare-attack/) | Forbes | 2024-06-26 |
 | [FDA warns maker of Sara Lee and Entenmann's not to claim foods contain allergens when they don't](https://www.yahoo.com/news/fda-warns-maker-sara-lee-221237049.html) | Yahoo Entertainment | 2024-06-25 |
 | [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
+| [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 
