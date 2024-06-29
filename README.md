@@ -118,7 +118,7 @@
 | [How the Moves of One Company Are Revolutionizing the Healthcare Sector](https://biztoc.com/x/095e411b23c5dcd1) | Biztoc.com | 2024-05-29 |
 | [This city is worried about immigration, but who has the solution?](https://www.bbc.com/news/articles/cw00yg9z0dgo) | BBC News | 2024-06-25 |
 | [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
-| [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
+| [Healthcare Breaches Are More Costly Than Financial Breaches: Here's Why](https://www.forbes.com/sites/chrissamcfarlane/2024/06/28/healthcare-breaches-are-more-costly-than-financial-breaches-heres-why/) | Forbes | 2024-06-28 |
 
 ## News for Pharma Market Trends
 
