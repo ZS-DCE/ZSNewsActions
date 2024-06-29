@@ -73,6 +73,7 @@
 | [Google Adds RCS Feature for Texting 911](https://www.macrumors.com/2024/06/06/google-rcs-text-911/) | MacRumors | 2024-06-06 |
 | [Pharma giant's data breach exposes patients' sensitive information](https://www.foxnews.com/tech/pharma-giants-data-breach-exposes-patients-sensitive-information) | Fox News | 2024-06-17 |
 | [Mass graves and body bags: al-Shifa hospital after Israel withdrew its forces](https://www.bbc.com/news/articles/c511k1nqx81o) | BBC News | 2024-06-05 |
+| [It's Getting Harder to Die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die) | Plough.com | 2024-06-25 |
 | [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Hackers attack banks’ computers with a spoofed version of Minesweeper game](https://readwrite.com/minsweeper-hack-spoof-hackers-ukraine-europe-us-russia/) | ReadWrite | 2024-05-27 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
@@ -88,7 +89,6 @@
 | [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
 | [Meet ASUS’ Newest Wearable, the VivoWatch 6](https://phandroid.com/2024/06/26/meet-asus-newest-wearable-the-vivowatch-6/) | Phandroid - News for Android | 2024-06-26 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
-| [Smart thermostats provide sleep insights at home](https://www.sciencedaily.com/releases/2024/06/240604132210.htm) | Science Daily | 2024-06-04 |
 
 ## News for Healthcare Sector
 
@@ -129,6 +129,7 @@
 | [From Exit To Expansion: Strategies For Asset-Light Businesses In Nigeria](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/24/from-exit-to-expansion-strategies-for-asset-light-businesses-in-nigeria/) | Forbes | 2024-06-24 |
 | [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
+| [Divided Over Purdue Pharma Deal, SCOTUS Unites in Accepting a Dubious OxyContin Narrative](https://reason.com/2024/06/27/divided-over-purdue-pharma-deal-scotus-unites-in-accepting-a-dubious-oxycontin-narrative/) | Reason | 2024-06-27 |
 | [Drug Names: The machinations behind the monikers](https://qz.com/emails/quartz-obsession/1851543645/drug-names-process-fda-usan) | Quartz India | 2024-06-18 |
 | [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
 | [Forbes Daily: Record-Breaking Heat Coming For Northeast, Midwest This Week](https://www.forbes.com/sites/daniellechemtob/2024/06/17/forbes-daily-record-breaking-heat-coming-for-northeast-midwest-this-week/) | Forbes | 2024-06-17 |
@@ -148,7 +149,6 @@
 | [Expanding prefillable glass syringe output: SCHOTT Pharma opens state-of-the-art production facility in Lukácsháza, Hungary](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Expanding-prefillable-glass-syringe-output-SCHOTT-Pharma-opens-state-of-the-art-production-facility-46974993/) | Marketscreener.com | 2024-06-14 |
 | [Global Lenalidomide Drug Market Size To Worth USD 21.47 Billion By 2033 | CAGR Of 5.69%](https://www.globenewswire.com/news-release/2024/06/20/2901340/0/en/Global-Lenalidomide-Drug-Market-Size-To-Worth-USD-21-47-Billion-By-2033-CAGR-Of-5-69.html) | GlobeNewswire | 2024-06-20 |
 | [mRNA Synthesis and Manufacturing Market, 2035](https://www.globenewswire.com/news-release/2024/06/27/2904970/28124/en/mRNA-Synthesis-and-Manufacturing-Market-2035.html) | GlobeNewswire | 2024-06-27 |
-| [Global CAR-T Cell Therapy Market Report 2024: Detailed Coverage of the Approved CAR-T Products, including Regulatory Approvals, Pricing, Reimbursement and Degree of Market Penetration](https://www.globenewswire.com/news-release/2024/06/24/2903096/28124/en/Global-CAR-T-Cell-Therapy-Market-Report-2024-Detailed-Coverage-of-the-Approved-CAR-T-Products-including-Regulatory-Approvals-Pricing-Reimbursement-and-Degree-of-Market-Penetration.html) | GlobeNewswire | 2024-06-24 |
 
 ## News for FDA Regulations
 
