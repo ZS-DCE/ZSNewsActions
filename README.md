@@ -7,7 +7,6 @@
 | [Top doctor warns against taking weight loss drugs such as Ozempic to get 'beach body ready' for summer](https://www.businessinsider.com/top-doctor-warns-against-taking-ozempic-get-beach-body-ready-2024-6) | Business Insider | 2024-06-15 |
 | [Pharma giant's data breach exposes patients' sensitive information](https://www.foxnews.com/tech/pharma-giants-data-breach-exposes-patients-sensitive-information) | Fox News | 2024-06-17 |
 | [‘Pharma Bro’ Martin Shkreli says he created Trumpcoin with Trump’s son](https://readwrite.com/trumpcoin-martin-shkreli-djt-barron-trump-crypto-cryptocurrency/) | ReadWrite | 2024-06-19 |
-| [The Industry That Ate America](https://www.theatlantic.com/magazine/archive/2024/07/wolves-of-k-street-book-review-lobbying/678523/?utm_source=feed) | The Atlantic | 2024-05-29 |
 | [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
 | [Scientists sound the alarm on pharmaceutical pollution crisis](https://phys.org/news/2024-06-scientists-alarm-pharmaceutical-pollution-crisis.html) | Phys.Org | 2024-06-05 |
 | [2024 Core77 Design Awards Keyshot Rendering Prize - CAPSULE: Sustainable bio-pharma manufacturing](https://www.core77.com/posts/132676/2024-Core77-Design-Awards-Keyshot-Rendering-Prize-CAPSULE-Sustainable-bio-pharma-manufacturing) | Core77.com | 2024-06-18 |
@@ -29,21 +28,19 @@
 | [New insights into methyl jasmonate-induced saponin biosynthesis in the balloon flower](https://phys.org/news/2024-06-insights-methyl-jasmonate-saponin-biosynthesis.html) | Phys.Org | 2024-06-21 |
 | [Scientists modify function of common enzymes by hacking genetics, could improve cancer treatments](https://phys.org/news/2024-06-scientists-function-common-enzymes-hacking.html) | Phys.Org | 2024-06-17 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
+| [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
 
 ## News for Life Sciences
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Light-Based Chips Could Help Slake AI's Ever-Growing Thirst for Energy](https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/) | Wired | 2024-06-16 |
-| [Apple wants to know if you’re hearing things because of tinnitus](https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data) | The Verge | 2024-05-28 |
 | [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/) | Thoughtforms.life | 2024-06-15 |
-| [From financial crime fighters to net-zero defenders: 4 Oslo startups to watch](https://thenextweb.com/news/4-oslo-startups-to-watch) | The Next Web | 2024-05-29 |
 | [Lab-as-a-service for biotech startups opens in Basel, Switzerland](https://thenextweb.com/news/lab-as-a-service-biotech-startups-basel-switzerland) | The Next Web | 2024-06-25 |
 | [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/) | Curtin.edu.au | 2024-06-23 |
 | [John Quincy Adams on Impostor Syndrome and the True Measure of Success](https://www.themarginalian.org/2024/06/03/john-quincy-adams-impostor-syndrome-success/) | Themarginalian.org | 2024-06-03 |
 | [Brain health is rooted in state of mind, finds study](https://medicalxpress.com/news/2024-06-brain-health-rooted-state-mind.html) | Medical Xpress | 2024-06-21 |
 | [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
-| [Apple Announces New Tinnitus Research, Continues Dive Into Hearing Health - CNET](https://www.cnet.com/health/medical/apple-announces-new-tinnitus-research-continues-dive-into-hearing-health/) | CNET | 2024-05-28 |
 | [Report: The Netherlands is the leading startup ecosystem in the EU](https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu) | The Next Web | 2024-06-10 |
 | [Life Experiences May Shape the Activity of the Brain’s Cellular Powerhouses](https://www.scientificamerican.com/article/life-experiences-may-shape-the-activity-of-the-brains-cellular-powerhouses/) | Scientific American | 2024-06-28 |
 | [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
@@ -59,6 +56,9 @@
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
 | [The Remarkable Life of Chemistry Professor and Crime Buster Mary Louisa Willard](https://www.scientificamerican.com/article/the-remarkable-life-of-chemistry-professor-and-crime-buster-mary-louisa/) | Scientific American | 2024-06-27 |
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
+| [SpaceX will help to crash the International Space Station](https://www.digitaltrends.com/space/spacex-will-help-to-crash-the-international-space-station/) | Digital Trends | 2024-06-27 |
+| [Leading Healthcare Transformation: Strategic Growth Through Generative AI](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/06/05/leading-healthcare-transformation-strategic-growth-through-generative-ai/) | Forbes | 2024-06-05 |
+| [Optimism wards off procrastination](https://www.sciencedaily.com/releases/2024/06/240610140256.htm) | Science Daily | 2024-06-10 |
 
 ## News for Medical Devices
 
@@ -109,23 +109,22 @@
 | [Smart contact lens battery powered by your tears was inspired by Mission Impossible](https://readwrite.com/smart-contact-lenses-battery-tears-mission-impossible/) | ReadWrite | 2024-06-06 |
 | [UK and US cops band together to tackle Qilin's ransomware shakedowns](https://www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/) | Theregister.com | 2024-06-25 |
 | [An Unseen State Of Emergency In Healthcare: Lessons From The Change Healthcare Cyber Breach](https://www.forbes.com/sites/forbestechcouncil/2024/06/25/an-unseen-state-of-emergency-in-healthcare-lessons-from-the-change-healthcare-cyber-breach/) | Forbes | 2024-06-25 |
-| [Take two APIs and call me in the morning: How healthcare research can cure cyber crime](https://www.theregister.com/2024/05/28/take_two_apis_and_call/) | Theregister.com | 2024-05-28 |
 | [Color Health's copilot app will leverage OpenAI GPT-4o's reasoning capabilities to improve and accelerate cancer treatment](https://www.windowscentral.com/software-apps/color-healths-copilot-app-will-leverage-openai-gpt-4os-reasoning-capabilities-to-improve-and-accelerate-cancer-treatment) | Windows Central | 2024-06-18 |
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/9dcde0d46e121c1c) | Biztoc.com | 2024-06-04 |
 | [Quién es Midea, el gigante chino que ha comprado a la española Teka](https://www.xataka.com/empresas-y-economia/quien-midea-gigante-chino-que-ha-comprado-a-espanola-teka) | Xataka.com | 2024-06-10 |
 | [The retirement Catch-22](https://www.businessinsider.com/retirement-crisis-blackrock-letter-boomers-work-longer-employer-age-discrimination-2024-6) | Business Insider | 2024-06-18 |
-| [3 Sorry Healthcare Stocks to Sell in May While You Still Can](https://biztoc.com/x/9d7cabf863335ec6) | Biztoc.com | 2024-05-28 |
 | [How the Moves of One Company Are Revolutionizing the Healthcare Sector](https://biztoc.com/x/095e411b23c5dcd1) | Biztoc.com | 2024-05-29 |
 | [This city is worried about immigration, but who has the solution?](https://www.bbc.com/news/articles/cw00yg9z0dgo) | BBC News | 2024-06-25 |
-| [The Future Of MedTech: How Cross-Sector Collaboration Will Drive Exponential Growth](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/05/29/the-future-of-medtech-how-cross-sector-collaboration-will-drive-exponential-growth/) | Forbes | 2024-05-29 |
 | [Healthcare Breaches Are More Costly Than Financial Breaches: Here's Why](https://www.forbes.com/sites/chrissamcfarlane/2024/06/28/healthcare-breaches-are-more-costly-than-financial-breaches-heres-why/) | Forbes | 2024-06-28 |
+| [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
+| [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
+| [Web3 Billion Dollar Adoption In Healthcare: The Cyberattack Wake-Up Call](https://www.forbes.com/sites/chrissamcfarlane/2024/06/25/web3-billion-dollar-adoption-in-healthcare-the-cyberattack-wake-up-call/) | Forbes | 2024-06-25 |
 
 ## News for Pharma Market Trends
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [Ozempic is now boosting sales for smaller-sized clothes, fashion executives say](https://qz.com/ozempic-clothes-sales-1851544423) | Quartz India | 2024-06-17 |
-| [Merck introduces sterility testing solution for pharma quality control](https://www.pharmaceutical-technology.com/news/merck-sterility-testing-solution/) | Pharmaceutical Technology | 2024-05-29 |
 | [From Exit To Expansion: Strategies For Asset-Light Businesses In Nigeria](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/24/from-exit-to-expansion-strategies-for-asset-light-businesses-in-nigeria/) | Forbes | 2024-06-24 |
 | [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
 | [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
@@ -137,7 +136,6 @@
 | [Forbes Daily: Walgreens Feels The Pain As Retail Pharmacies Struggle](https://www.forbes.com/sites/daniellechemtob/2024/06/28/forbes-daily-walgreens-feels-the-pain-as-retail-pharmacies-struggle/) | Forbes | 2024-06-28 |
 | [Omega 3 Market: Size, Share, Trends and Industry Growth Report](https://www.globenewswire.com/news-release/2024/05/31/2891562/0/en/Omega-3-Market-Size-Share-Trends-and-Industry-Growth-Report.html) | GlobeNewswire | 2024-05-31 |
 | [CDMO Market Forecast USD 530.3 Billion by 2033 at 7.7% CAGR Growth Rate | Dimension Market Research](https://www.globenewswire.com/news-release/2024/06/10/2896167/0/en/CDMO-Market-Forecast-USD-530-3-Billion-by-2033-at-7-7-CAGR-Growth-Rate-Dimension-Market-Research.html) | GlobeNewswire | 2024-06-10 |
-| [Amyotrophic Lateral Sclerosis Market On Track For USD 1,271.6 Mn Revenue By 2033, Growing At 6.5% CAGR | Dimension Market Research](https://www.globenewswire.com/news-release/2024/05/28/2889198/0/en/Amyotrophic-Lateral-Sclerosis-Market-On-Track-For-USD-1-271-6-Mn-Revenue-By-2033-Growing-At-6-5-CAGR-Dimension-Market-Research.html) | GlobeNewswire | 2024-05-28 |
 | [FMCG, healthcare stocks defy markets with spirited fight back, gain up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-stocks-defy-markets-with-spirited-fight-back-gain-up-to-4/articleshow/110692499.cms) | The Times of India | 2024-06-04 |
 | [ADC Contract Manufacturing Market, 2035 - Surging Demand for Antibody Drug Conjugates Driving Growth](https://www.globenewswire.com/news-release/2024/06/20/2901422/28124/en/ADC-Contract-Manufacturing-Market-2035-Surging-Demand-for-Antibody-Drug-Conjugates-Driving-Growth.html) | GlobeNewswire | 2024-06-20 |
 | [The World Market for Oral Solid Dosage Forms (OSDF) and Pharma Excipients, 2024-2030](https://www.globenewswire.com/news-release/2024/06/11/2897027/28124/en/The-World-Market-for-Oral-Solid-Dosage-Forms-OSDF-and-Pharma-Excipients-2024-2030.html) | GlobeNewswire | 2024-06-11 |
@@ -149,13 +147,14 @@
 | [Global Digital Twins in Healthcare Research 2024-2035 - Pharma Investments Surge as Technology Enhances Clinical Trials and Predictive Maintenance](https://www.globenewswire.com/news-release/2024/06/24/2902834/28124/en/Global-Digital-Twins-in-Healthcare-Research-2024-2035-Pharma-Investments-Surge-as-Technology-Enhances-Clinical-Trials-and-Predictive-Maintenance.html) | GlobeNewswire | 2024-06-24 |
 | [Dabur India, PI Industries could rally 19-26% return on above normal monsoon: Siddhartha Khemka](https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-pi-industries-could-rally-19-26-return-on-above-normal-monsoon-siddhartha-khemka/articleshow/110655845.cms) | The Times of India | 2024-06-03 |
 | [Expanding prefillable glass syringe output: SCHOTT Pharma opens state-of-the-art production facility in Lukácsháza, Hungary](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Expanding-prefillable-glass-syringe-output-SCHOTT-Pharma-opens-state-of-the-art-production-facility-46974993/) | Marketscreener.com | 2024-06-14 |
+| [Global Lenalidomide Drug Market Size To Worth USD 21.47 Billion By 2033 | CAGR Of 5.69%](https://www.globenewswire.com/news-release/2024/06/20/2901340/0/en/Global-Lenalidomide-Drug-Market-Size-To-Worth-USD-21-47-Billion-By-2033-CAGR-Of-5-69.html) | GlobeNewswire | 2024-06-20 |
+| [mRNA Synthesis and Manufacturing Market, 2035](https://www.globenewswire.com/news-release/2024/06/27/2904970/28124/en/mRNA-Synthesis-and-Manufacturing-Market-2035.html) | GlobeNewswire | 2024-06-27 |
 
 ## News for FDA Regulations
 
 | Title | Source | Published |
 | ----- | ------ | --------- |
 | [FDA rule change allowed gay, bisexual men to donate blood. Did it make a difference?](https://abcnews.go.com/Health/fda-rule-change-allowing-gay-bisexual-men-donate/story?id=111125850) | ABC News | 2024-06-18 |
-| [Deadly Precaution](https://marginalrevolution.com/marginalrevolution/2024/05/deadly-precaution.html) | Marginalrevolution.com | 2024-05-28 |
 | [Supreme Court’s ‘Chevron Deference’ Decision Could Make Science-Based Regulation Harder](https://www.scientificamerican.com/article/supreme-courts-chevron-deference-decision-could-make-science-based/) | Scientific American | 2024-06-25 |
 | [Here's the One Chicken Label I Look For (Spoiler: It's Not "Organic") - CNET](https://www.cnet.com/health/heres-the-one-chicken-label-i-look-for-and-its-not-organic/) | CNET | 2024-06-07 |
 | [If Opiates Are Killing Americans, Why Won't the FDA Let Us Try an Alternative?](https://reason.com/2024/06/20/if-opiates-are-killing-americans-why-wont-the-fda-let-us-try-an-alternative/) | Reason | 2024-06-20 |
@@ -177,6 +176,7 @@
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
 | [Why Things Can’t Go Back To Normal After The Change Healthcare Attack](https://www.forbes.com/sites/forbestechcouncil/2024/06/26/why-things-cant-go-back-to-normal-after-the-change-healthcare-attack/) | Forbes | 2024-06-26 |
 | [FDA warns maker of Sara Lee and Entenmann's not to claim foods contain allergens when they don't](https://www.yahoo.com/news/fda-warns-maker-sara-lee-221237049.html) | Yahoo Entertainment | 2024-06-25 |
-| [Is compounded Ozempic safe for weight loss? What you need to know](https://www.forbes.com/sites/christopherthompson/2024/05/28/is-compounded-ozempic-safe-for-weight-loss-what-you-need-to-know/) | Forbes | 2024-05-28 |
 | [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
+| [FDA must fix “inadequate” inspection and recall policies, report says](https://www.just-food.com/news/fda-must-fix-inadequate-inspection-and-recall-policies-report-says/) | Just-food.com | 2024-06-13 |
+| [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
 
