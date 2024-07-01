@@ -39,6 +39,7 @@
 | [Lab-as-a-service for biotech startups opens in Basel, Switzerland](https://thenextweb.com/news/lab-as-a-service-biotech-startups-basel-switzerland) | The Next Web | 2024-06-25 |
 | [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/) | Curtin.edu.au | 2024-06-23 |
 | [John Quincy Adams on Impostor Syndrome and the True Measure of Success](https://www.themarginalian.org/2024/06/03/john-quincy-adams-impostor-syndrome-success/) | Themarginalian.org | 2024-06-03 |
+| [UFOs: From psychology to air traffic, are we closer than ever to an answer?](https://www.bbc.com/news/articles/cn09l9w08pgo) | BBC News | 2024-06-30 |
 | [Brain health is rooted in state of mind, finds study](https://medicalxpress.com/news/2024-06-brain-health-rooted-state-mind.html) | Medical Xpress | 2024-06-21 |
 | [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
 | [Report: The Netherlands is the leading startup ecosystem in the EU](https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu) | The Next Web | 2024-06-10 |
@@ -58,7 +59,6 @@
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
 | [SpaceX will help to crash the International Space Station](https://www.digitaltrends.com/space/spacex-will-help-to-crash-the-international-space-station/) | Digital Trends | 2024-06-27 |
 | [Leading Healthcare Transformation: Strategic Growth Through Generative AI](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/06/05/leading-healthcare-transformation-strategic-growth-through-generative-ai/) | Forbes | 2024-06-05 |
-| [Optimism wards off procrastination](https://www.sciencedaily.com/releases/2024/06/240610140256.htm) | Science Daily | 2024-06-10 |
 
 ## News for Medical Devices
 
@@ -82,13 +82,13 @@
 | [43% of US households are not storing guns securely, study says](https://abcnews.go.com/Health/new-study-shows-43-us-households-storing-guns/story?id=111100488) | ABC News | 2024-06-13 |
 | [What Are Bunion Correctors, and Can They Cure Bunions? - CNET](https://www.cnet.com/health/what-are-bunion-correctors-do-they-work/) | CNET | 2024-06-20 |
 | [Are Smartwatches Becoming Obsolete? A Look at AI and Smart Rings](https://www.yankodesign.com/2024/06/22/are-smartwatches-becoming-obsolete-a-look-at-ai-and-smart-rings/) | Yanko Design | 2024-06-22 |
+| [Study reveals why AI models that analyze medical images can be biased](https://www.sciencedaily.com/releases/2024/06/240628125210.htm) | Science Daily | 2024-06-28 |
 | [Firefighter credits Apple Watch for live-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention) | AppleInsider | 2024-06-16 |
 | [Can I use my FSA/HRA/HSA to pay for a fitness tracker or wearable?](https://www.androidpolice.com/are-fitness-trackers-hra-fsa-hsa-eligible/) | Android Police | 2024-06-04 |
 | [More than half a million portable device chargers sold at Costco recalled after two homes catch fire](https://www.yahoo.com/news/more-half-million-portable-device-190358182.html) | Yahoo Entertainment | 2024-06-21 |
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
 | [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
 | [Meet ASUS’ Newest Wearable, the VivoWatch 6](https://phandroid.com/2024/06/26/meet-asus-newest-wearable-the-vivowatch-6/) | Phandroid - News for Android | 2024-06-26 |
-| [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 
 ## News for Healthcare Sector
 
