@@ -7,14 +7,11 @@
 | [Top doctor warns against taking weight loss drugs such as Ozempic to get 'beach body ready' for summer](https://www.businessinsider.com/top-doctor-warns-against-taking-ozempic-get-beach-body-ready-2024-6) | Business Insider | 2024-06-15 |
 | [Pharma giant's data breach exposes patients' sensitive information](https://www.foxnews.com/tech/pharma-giants-data-breach-exposes-patients-sensitive-information) | Fox News | 2024-06-17 |
 | [‘Pharma Bro’ Martin Shkreli says he created Trumpcoin with Trump’s son](https://readwrite.com/trumpcoin-martin-shkreli-djt-barron-trump-crypto-cryptocurrency/) | ReadWrite | 2024-06-19 |
-| [Ozempic, Humira, and more: The 10 most lucrative drugs of 2023](https://qz.com/top-selling-drugs-revenue-ozempic-humira-eliquis-1851506489) | Quartz India | 2024-05-30 |
 | [Scientists sound the alarm on pharmaceutical pollution crisis](https://phys.org/news/2024-06-scientists-alarm-pharmaceutical-pollution-crisis.html) | Phys.Org | 2024-06-05 |
 | [2024 Core77 Design Awards Keyshot Rendering Prize - CAPSULE: Sustainable bio-pharma manufacturing](https://www.core77.com/posts/132676/2024-Core77-Design-Awards-Keyshot-Rendering-Prize-CAPSULE-Sustainable-bio-pharma-manufacturing) | Core77.com | 2024-06-18 |
-| [Ozempic supply trackers, bird flu vaccines, and Merck's future: Pharma news roundup](https://qz.com/ozempic-weight-loss-drugs-bird-flu-vaccines-moderna-1851510378) | Quartz India | 2024-05-31 |
 | [Companies can capitalize on crises to thrive in their industry, study finds](https://phys.org/news/2024-06-companies-capitalize-crises-industry.html) | Phys.Org | 2024-06-18 |
 | [The Importance Of Early Commercialization Planning For Pharmaceutical Startups](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/25/the-importance-of-early-commercialization-planning-for-pharmaceutical-startups/) | Forbes | 2024-06-25 |
 | [New approach sets stage to explore the mirror-image world of century-old naturally-occurring cyclodextrins](https://phys.org/news/2024-06-approach-stage-explore-mirror-image.html) | Phys.Org | 2024-06-24 |
-| [There's a way to see what Big Pharma is paying your doctor](https://qz.com/how-money-doctor-big-pharma-payment-medicare-healthcare-1851510929) | Quartz India | 2024-05-30 |
 | [Understanding Investment Opportunities In The Mining Industry](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/understanding-investment-opportunities-in-the-mining-industry/) | Forbes | 2024-06-07 |
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
 | [Superlab Suisse Thinks Scientists Are Ready For Shared Work Spaces](https://www.forbes.com/sites/davidprosser/2024/06/25/superlab-suisse-thinks-scientists-are-ready-for-shared-work-spaces/) | Forbes | 2024-06-25 |
@@ -29,6 +26,9 @@
 | [Scientists modify function of common enzymes by hacking genetics, could improve cancer treatments](https://phys.org/news/2024-06-scientists-function-common-enzymes-hacking.html) | Phys.Org | 2024-06-17 |
 | [Sticky Werewolf targets the aviation industry in Russia and Belarus](https://securityaffairs.com/164345/hacking/sticky-werewolf-targets-aviation-industry.html) | Securityaffairs.com | 2024-06-10 |
 | [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
+| [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
+| [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
+| [What It Will Take To End The Battle Over 340B](https://www.forbes.com/sites/ritanumerof/2024/06/25/what-it-will-take-to-end-the-battle-over-340b/) | Forbes | 2024-06-25 |
 
 ## News for Life Sciences
 
@@ -44,8 +44,6 @@
 | [Seven courses on sustainability listed on Dezeen Courses](https://www.dezeen.com/2024/06/07/seven-courses-sustainability-dezeen-courses/) | Dezeen | 2024-06-07 |
 | [Report: The Netherlands is the leading startup ecosystem in the EU](https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu) | The Next Web | 2024-06-10 |
 | [Life Experiences May Shape the Activity of the Brain’s Cellular Powerhouses](https://www.scientificamerican.com/article/life-experiences-may-shape-the-activity-of-the-brains-cellular-powerhouses/) | Scientific American | 2024-06-28 |
-| [New method could significantly reduce agricultural greenhouse gas emissions](https://phys.org/news/2024-05-method-significantly-agricultural-greenhouse-gas.html) | Phys.Org | 2024-05-30 |
-| [Researchers expose new symbiosis origin theories, identify experimental systems for plant life](https://www.sciencedaily.com/releases/2024/05/240529183852.htm) | Science Daily | 2024-05-29 |
 | [Man convicted for role in 2001 stabbing deaths of Dartmouth College professors released from prison](https://www.yahoo.com/news/man-convicted-role-2001-stabbing-134441729.html) | Yahoo Entertainment | 2024-06-08 |
 | [Investigating DNA flexibility for the creation of new biomaterials](https://phys.org/news/2024-06-dna-flexibility-creation-biomaterials.html) | Phys.Org | 2024-06-21 |
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
@@ -59,6 +57,8 @@
 | [Scientists adapt astronomy method to unblur microscopy images](https://phys.org/news/2024-06-scientists-astronomy-method-unblur-microscopy.html) | Phys.Org | 2024-06-12 |
 | [SpaceX will help to crash the International Space Station](https://www.digitaltrends.com/space/spacex-will-help-to-crash-the-international-space-station/) | Digital Trends | 2024-06-27 |
 | [Leading Healthcare Transformation: Strategic Growth Through Generative AI](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/06/05/leading-healthcare-transformation-strategic-growth-through-generative-ai/) | Forbes | 2024-06-05 |
+| [Optimism wards off procrastination](https://www.sciencedaily.com/releases/2024/06/240610140256.htm) | Science Daily | 2024-06-10 |
+| [Scientists propose zero-shot universal microscopic image AI processing method](https://phys.org/news/2024-06-scientists-shot-universal-microscopic-image.html) | Phys.Org | 2024-06-03 |
 
 ## News for Medical Devices
 
@@ -74,7 +74,6 @@
 | [Pharma giant's data breach exposes patients' sensitive information](https://www.foxnews.com/tech/pharma-giants-data-breach-exposes-patients-sensitive-information) | Fox News | 2024-06-17 |
 | [Mass graves and body bags: al-Shifa hospital after Israel withdrew its forces](https://www.bbc.com/news/articles/c511k1nqx81o) | BBC News | 2024-06-05 |
 | [It's Getting Harder to Die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die) | Plough.com | 2024-06-25 |
-| [We had cellphones, then feature phones, then smartphones. Now, 'IntelliPhones' are coming.](https://www.businessinsider.com/intelliphones-ai-apple-iphone-android-google-2024-5) | Business Insider | 2024-05-29 |
 | [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use? - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/) | CNET | 2024-06-07 |
 | [PSA: Check on these 4 emergency iPhone and Apple Watch features before you need them](https://9to5mac.com/2024/06/03/check-emergency-iphone-and-apple-watch-features/) | 9to5Mac | 2024-06-03 |
 | [Airlines sometimes turn their planes around and fly thousands of miles home when they have problems. Here's why.](https://www.businessinsider.com/how-airlines-decide-where-to-divert-planes-flights-to-nowhere-2024-6) | Business Insider | 2024-06-12 |
@@ -89,6 +88,7 @@
 | [The 2024 Core77 Design Awards Winners In The Commercial Equipment Category](https://www.core77.com/posts/132586/The-2024-Core77-Design-Awards-Winners-In-The-Commercial-Equipment-Category) | Core77.com | 2024-06-18 |
 | [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
 | [Meet ASUS’ Newest Wearable, the VivoWatch 6](https://phandroid.com/2024/06/26/meet-asus-newest-wearable-the-vivowatch-6/) | Phandroid - News for Android | 2024-06-26 |
+| [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
 
 ## News for Healthcare Sector
 
@@ -113,12 +113,12 @@
 | [Health Care Roundup: Market Talk](https://biztoc.com/x/9dcde0d46e121c1c) | Biztoc.com | 2024-06-04 |
 | [Quién es Midea, el gigante chino que ha comprado a la española Teka](https://www.xataka.com/empresas-y-economia/quien-midea-gigante-chino-que-ha-comprado-a-espanola-teka) | Xataka.com | 2024-06-10 |
 | [The retirement Catch-22](https://www.businessinsider.com/retirement-crisis-blackrock-letter-boomers-work-longer-employer-age-discrimination-2024-6) | Business Insider | 2024-06-18 |
-| [How the Moves of One Company Are Revolutionizing the Healthcare Sector](https://biztoc.com/x/095e411b23c5dcd1) | Biztoc.com | 2024-05-29 |
 | [This city is worried about immigration, but who has the solution?](https://www.bbc.com/news/articles/cw00yg9z0dgo) | BBC News | 2024-06-25 |
 | [Healthcare Breaches Are More Costly Than Financial Breaches: Here's Why](https://www.forbes.com/sites/chrissamcfarlane/2024/06/28/healthcare-breaches-are-more-costly-than-financial-breaches-heres-why/) | Forbes | 2024-06-28 |
 | [London hospitals declare critical incident after service partner ransomware attack](https://www.theregister.com/2024/06/04/suspected_cyberattack_hits_major_london/) | Theregister.com | 2024-06-04 |
 | [US Healthcare Is Not A System: It’s A Market, And It’s Broken](https://www.forbes.com/sites/forbestechcouncil/2024/06/03/us-healthcare-is-not-a-system-its-a-market-and-its-broken/) | Forbes | 2024-06-03 |
 | [Web3 Billion Dollar Adoption In Healthcare: The Cyberattack Wake-Up Call](https://www.forbes.com/sites/chrissamcfarlane/2024/06/25/web3-billion-dollar-adoption-in-healthcare-the-cyberattack-wake-up-call/) | Forbes | 2024-06-25 |
+| [Prediction: These Could Be the Best-Performing Healthcare Stocks Through 2030](https://biztoc.com/x/9464f77c7d79976e) | Biztoc.com | 2024-06-28 |
 
 ## News for Pharma Market Trends
 
@@ -127,10 +127,8 @@
 | [Ozempic is now boosting sales for smaller-sized clothes, fashion executives say](https://qz.com/ozempic-clothes-sales-1851544423) | Quartz India | 2024-06-17 |
 | [From Exit To Expansion: Strategies For Asset-Light Businesses In Nigeria](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/24/from-exit-to-expansion-strategies-for-asset-light-businesses-in-nigeria/) | Forbes | 2024-06-24 |
 | [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
-| [Media Briefing: Publishers’ H1 pulse check on ad spend in digital media](http://digiday.com/media/media-briefing-publishers-h1-pulse-check-on-ad-spend-in-digital-media/) | Digiday | 2024-05-30 |
 | [Divided Over Purdue Pharma Deal, SCOTUS Unites in Accepting a Dubious OxyContin Narrative](https://reason.com/2024/06/27/divided-over-purdue-pharma-deal-scotus-unites-in-accepting-a-dubious-oxycontin-narrative/) | Reason | 2024-06-27 |
 | [Drug Names: The machinations behind the monikers](https://qz.com/emails/quartz-obsession/1851543645/drug-names-process-fda-usan) | Quartz India | 2024-06-18 |
-| [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/) | Vickiboykis.com | 2024-05-31 |
 | [Forbes Daily: Record-Breaking Heat Coming For Northeast, Midwest This Week](https://www.forbes.com/sites/daniellechemtob/2024/06/17/forbes-daily-record-breaking-heat-coming-for-northeast-midwest-this-week/) | Forbes | 2024-06-17 |
 | [DanCann Pharma: DanCann Pharma A/S: Germany trends – prescriptions for medicinal cannabis positively influenced by new legalization](https://www.marketscreener.com/quote/stock/DANCANN-PHARMA-A-S-120976681/news/DanCann-Pharma-DanCann-Pharma-A-S-Germany-trends-prescriptions-for-medicinal-cannabis-positive-46973451/) | Marketscreener.com | 2024-06-14 |
 | [Forbes Daily: Walgreens Feels The Pain As Retail Pharmacies Struggle](https://www.forbes.com/sites/daniellechemtob/2024/06/28/forbes-daily-walgreens-feels-the-pain-as-retail-pharmacies-struggle/) | Forbes | 2024-06-28 |
@@ -149,6 +147,8 @@
 | [Expanding prefillable glass syringe output: SCHOTT Pharma opens state-of-the-art production facility in Lukácsháza, Hungary](https://www.marketscreener.com/quote/stock/SCHOTT-PHARMA-AG-CO-KGAA-159798690/news/Expanding-prefillable-glass-syringe-output-SCHOTT-Pharma-opens-state-of-the-art-production-facility-46974993/) | Marketscreener.com | 2024-06-14 |
 | [Global Lenalidomide Drug Market Size To Worth USD 21.47 Billion By 2033 | CAGR Of 5.69%](https://www.globenewswire.com/news-release/2024/06/20/2901340/0/en/Global-Lenalidomide-Drug-Market-Size-To-Worth-USD-21-47-Billion-By-2033-CAGR-Of-5-69.html) | GlobeNewswire | 2024-06-20 |
 | [mRNA Synthesis and Manufacturing Market, 2035](https://www.globenewswire.com/news-release/2024/06/27/2904970/28124/en/mRNA-Synthesis-and-Manufacturing-Market-2035.html) | GlobeNewswire | 2024-06-27 |
+| [Global CAR-T Cell Therapy Market Report 2024: Detailed Coverage of the Approved CAR-T Products, including Regulatory Approvals, Pricing, Reimbursement and Degree of Market Penetration](https://www.globenewswire.com/news-release/2024/06/24/2903096/28124/en/Global-CAR-T-Cell-Therapy-Market-Report-2024-Detailed-Coverage-of-the-Approved-CAR-T-Products-including-Regulatory-Approvals-Pricing-Reimbursement-and-Degree-of-Market-Penetration.html) | GlobeNewswire | 2024-06-24 |
+| [CAR T Cell Therapy Market Industry Trends and Global Forecasts to 2035: Rising Leukemia and Lymphoma Cases Boost CAR T Cell Therapy Market, with Positive Phase III Trials Expanding Treatment Potential](https://www.globenewswire.com/news-release/2024/06/05/2893832/28124/en/CAR-T-Cell-Therapy-Market-Industry-Trends-and-Global-Forecasts-to-2035-Rising-Leukemia-and-Lymphoma-Cases-Boost-CAR-T-Cell-Therapy-Market-with-Positive-Phase-III-Trials-Expanding-T.html) | GlobeNewswire | 2024-06-05 |
 
 ## News for FDA Regulations
 
@@ -176,7 +176,7 @@
 | [Supreme Court Rules In Favor of the FDA in Mifepristone Case](https://www.theamericanconservative.com/supreme-court-rules-in-favor-of-the-fda-in-mifepristone-case/) | The American Conservative | 2024-06-13 |
 | [Why Things Can’t Go Back To Normal After The Change Healthcare Attack](https://www.forbes.com/sites/forbestechcouncil/2024/06/26/why-things-cant-go-back-to-normal-after-the-change-healthcare-attack/) | Forbes | 2024-06-26 |
 | [FDA warns maker of Sara Lee and Entenmann's not to claim foods contain allergens when they don't](https://www.yahoo.com/news/fda-warns-maker-sara-lee-221237049.html) | Yahoo Entertainment | 2024-06-25 |
-| [Cannabis Rescheduling Vs. Descheduling: The Supply Chain Edition](https://www.forbes.com/sites/andrewdeangelo/2024/05/29/cannabis-rescheduling-vs-descheduling-the-supply-chain-edition/) | Forbes | 2024-05-29 |
 | [FDA must fix “inadequate” inspection and recall policies, report says](https://www.just-food.com/news/fda-must-fix-inadequate-inspection-and-recall-policies-report-says/) | Just-food.com | 2024-06-13 |
 | [[Removed]](https://removed.com) | [Removed] | 1970-01-01 |
+| [Justices Rule Plaintiffs Lack Standing to Challenge FDA’s Promotion of Dangerous Abortion Drug](https://www.dailysignal.com/2024/06/14/justices-rule-plaintiffs-lack-standing-challenge-fdas-promotion-dangerous-abortion-drug/) | Daily Signal | 2024-06-14 |
 
