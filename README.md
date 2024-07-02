@@ -127,6 +127,7 @@
 | [Ozempic is now boosting sales for smaller-sized clothes, fashion executives say](https://qz.com/ozempic-clothes-sales-1851544423) | Quartz India | 2024-06-17 |
 | [From Exit To Expansion: Strategies For Asset-Light Businesses In Nigeria](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/24/from-exit-to-expansion-strategies-for-asset-light-businesses-in-nigeria/) | Forbes | 2024-06-24 |
 | [Anti-obesity drugs will be 2024’s defining trend](https://www.clinicaltrialsarena.com/news/anti-obesity-drugs-will-be-2024s-defining-trend/) | Clinical Trials Arena | 2024-06-12 |
+| [Forbes Daily: ‘No Quick Rebound’ For Nike Amid Athletic Wear Decline](https://www.forbes.com/sites/daniellechemtob/2024/07/01/forbes-daily-no-quick-rebound-for-nike-amid-athletic-wear-decline/) | Forbes | 2024-07-01 |
 | [Divided Over Purdue Pharma Deal, SCOTUS Unites in Accepting a Dubious OxyContin Narrative](https://reason.com/2024/06/27/divided-over-purdue-pharma-deal-scotus-unites-in-accepting-a-dubious-oxycontin-narrative/) | Reason | 2024-06-27 |
 | [Drug Names: The machinations behind the monikers](https://qz.com/emails/quartz-obsession/1851543645/drug-names-process-fda-usan) | Quartz India | 2024-06-18 |
 | [Forbes Daily: Record-Breaking Heat Coming For Northeast, Midwest This Week](https://www.forbes.com/sites/daniellechemtob/2024/06/17/forbes-daily-record-breaking-heat-coming-for-northeast-midwest-this-week/) | Forbes | 2024-06-17 |
@@ -148,7 +149,6 @@
 | [mRNA Synthesis and Manufacturing Market, 2035](https://www.globenewswire.com/news-release/2024/06/27/2904970/28124/en/mRNA-Synthesis-and-Manufacturing-Market-2035.html) | GlobeNewswire | 2024-06-27 |
 | [Global CAR-T Cell Therapy Market Report 2024: Detailed Coverage of the Approved CAR-T Products, including Regulatory Approvals, Pricing, Reimbursement and Degree of Market Penetration](https://www.globenewswire.com/news-release/2024/06/24/2903096/28124/en/Global-CAR-T-Cell-Therapy-Market-Report-2024-Detailed-Coverage-of-the-Approved-CAR-T-Products-including-Regulatory-Approvals-Pricing-Reimbursement-and-Degree-of-Market-Penetration.html) | GlobeNewswire | 2024-06-24 |
 | [CAR T Cell Therapy Market Industry Trends and Global Forecasts to 2035: Rising Leukemia and Lymphoma Cases Boost CAR T Cell Therapy Market, with Positive Phase III Trials Expanding Treatment Potential](https://www.globenewswire.com/news-release/2024/06/05/2893832/28124/en/CAR-T-Cell-Therapy-Market-Industry-Trends-and-Global-Forecasts-to-2035-Rising-Leukemia-and-Lymphoma-Cases-Boost-CAR-T-Cell-Therapy-Market-with-Positive-Phase-III-Trials-Expanding-T.html) | GlobeNewswire | 2024-06-05 |
-| [Alvotech and Advanz Pharma Sign Commercialization Agreement for Proposed Biosimilar to Eylea® LD/HD in Europe](https://www.marketscreener.com/quote/stock/ALVOTECH-139628530/news/Alvotech-and-Advanz-Pharma-Sign-Commercialization-Agreement-for-Proposed-Biosimilar-to-Eylea-LD-HD-46991416/) | Marketscreener.com | 2024-06-18 |
 
 ## News for FDA Regulations
 
