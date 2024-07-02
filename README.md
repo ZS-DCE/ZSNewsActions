@@ -16,6 +16,7 @@
 | [Bipartisan Efforts To Legislate Pharmaceutical Patent Reform Heat Up](https://www.forbes.com/sites/joshuacohen/2024/06/03/bipartisan-efforts-to-legislate-pharmaceutical-patent-reform-heat-up/) | Forbes | 2024-06-03 |
 | [Superlab Suisse Thinks Scientists Are Ready For Shared Work Spaces](https://www.forbes.com/sites/davidprosser/2024/06/25/superlab-suisse-thinks-scientists-are-ready-for-shared-work-spaces/) | Forbes | 2024-06-25 |
 | [Why Counterfeit Ozempic Is a Global-Growth Industry](https://www.vanityfair.com/news/story/counterfeit-ozempic-global-growth-industry) | Vanity Fair | 2024-06-04 |
+| [Can Government Or Industry Make Drug Discovery More Efficient?](https://www.forbes.com/sites/stanfleming/2024/07/01/can-government-or-industry-make-drug-discovery-more-efficient/) | Forbes | 2024-07-01 |
 | [The Future Of Medicine: How AI Is Revolutionizing Pharma](https://www.forbes.com/sites/forbestechcouncil/2024/06/11/the-future-of-medicine-how-ai-is-revolutionizing-pharma/) | Forbes | 2024-06-11 |
 | [Ozempic maker Novo Nordisk could soon surpass Lego as Denmark's biggest brand](https://qz.com/ozempic-lego-novo-1851535015) | Quartz India | 2024-06-12 |
 | [6 Top Weight Loss Stocks To Buy Now](https://www.forbes.com/sites/investor-hub/article/6-best-weight-loss-stocks-to-buy-now/) | Forbes | 2024-06-27 |
@@ -28,7 +29,6 @@
 | [Queen Latifah Says Body Image Fears Made Her Doubt Hollywood Career; Credits Oprah Winfrey For Changing Conversation On Obesity — Cannes Lions](http://deadline.com/2024/06/queen-latifah-credits-oprah-winfrey-changing-conversation-on-obesity-cannes-lions-1235977178/) | Deadline | 2024-06-18 |
 | [Business Transformation: 4 Industry-Leading Companies Doing It Right](https://www.forbes.com/sites/sap/2024/06/11/business-transformation-4-industry-leading-companies-doing-it-right/) | Forbes | 2024-06-11 |
 | [Discovery and development of tyrosine-click reaction for the site-selective labelling of proteins.](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc01997k) | Royal Society of Chemistry | 2024-06-10 |
-| [What It Will Take To End The Battle Over 340B](https://www.forbes.com/sites/ritanumerof/2024/06/25/what-it-will-take-to-end-the-battle-over-340b/) | Forbes | 2024-06-25 |
 
 ## News for Life Sciences
 
@@ -48,8 +48,8 @@
 | [Investigating DNA flexibility for the creation of new biomaterials](https://phys.org/news/2024-06-dna-flexibility-creation-biomaterials.html) | Phys.Org | 2024-06-21 |
 | [Fresh findings: Earliest evidence of life-bringing freshwater on Earth](https://phys.org/news/2024-06-fresh-earliest-evidence-life-freshwater.html) | Phys.Org | 2024-06-03 |
 | [Family stress can lead to guilt about work for military members](https://www.futurity.org/military-family-stress-work-guilt-3232122/) | Futurity: Research News | 2024-06-20 |
-| [Some Gen Z and baby boomers are facing a strange predicament: feeling happy and lonely at the same time](https://www.businessinsider.com/boomers-gen-z-experiencing-happiness-loneliness-at-the-same-time-2024-6) | Business Insider | 2024-06-01 |
 | [Wide-field, high-resolution and broadband mesoscopic objective lens](https://phys.org/news/2024-06-wide-field-high-resolution-broadband.html) | Phys.Org | 2024-06-14 |
+| [Why scientists who study noise pollution are calling for more regulation](https://www.npr.org/sections/shots-health-news/2024/07/01/nx-s1-5021792/noise-pollution-law-enforcement-epa-public-health) | NPR | 2024-07-01 |
 | [Chinese companies are setting up shop anywhere but China — and the US](https://www.businessinsider.com/china-economy-gdp-growth-slow-chinese-companies-invest-overseas-odi-2024-5) | Business Insider | 2024-06-03 |
 | [Small planets may be best targets in hunt for ‘second Earth’](https://www.futurity.org/small-planets-second-earth-3232732/) | Futurity: Research News | 2024-06-20 |
 | [The Promise and Potential of AI in Life Sciences](https://biztoc.com/x/d6124d3872c46860) | Biztoc.com | 2024-06-05 |
@@ -67,7 +67,6 @@
 | [Google Messages Will Finally Let You Text 911](https://gizmodo.com/google-messages-text-911-1851522390) | Gizmodo.com | 2024-06-06 |
 | [An ingestible device to record gastric electrophysiological activity](https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html) | Medical Xpress | 2024-06-18 |
 | [10 Best Groundbreaking Medical Devices And Technologies Of 2024](https://www.yankodesign.com/2024/06/21/10-best-groundbreaking-medical-devices-and-technologies-of-2024/) | Yanko Design | 2024-06-21 |
-| [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/) | Wired | 2024-06-01 |
 | [Research team makes breakthrough in solar technology with shell-shaped cells: 'Will be found beneficial in various application areas'](https://www.yahoo.com/tech/research-team-makes-breakthrough-solar-040000674.html) | Yahoo Entertainment | 2024-06-03 |
 | [My husband and I used a 'Cinderella' rule to limit our kids' screen time. We don't regret it.](https://www.businessinsider.com/reduce-kids-screen-time-internet-ends-midnight-cinderella-rule-2024-6) | Business Insider | 2024-06-20 |
 | [Google Adds RCS Feature for Texting 911](https://www.macrumors.com/2024/06/06/google-rcs-text-911/) | MacRumors | 2024-06-06 |
@@ -89,6 +88,7 @@
 | [If Apple's research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab) | AppleInsider | 2024-06-25 |
 | [Meet ASUS’ Newest Wearable, the VivoWatch 6](https://phandroid.com/2024/06/26/meet-asus-newest-wearable-the-vivowatch-6/) | Phandroid - News for Android | 2024-06-26 |
 | [Give yourself and your kids a break — from screen time and from guilt](https://www.npr.org/sections/shots-health-news/2024/06/06/nx-s1-4993778/give-yourself-your-kids-break-from-screen-time-guilt) | NPR | 2024-06-06 |
+| [Soft, stretchy electrode simulates touch sensations using electrical signals](https://www.sciencedaily.com/releases/2024/06/240628125235.htm) | Science Daily | 2024-06-28 |
 
 ## News for Healthcare Sector
 
